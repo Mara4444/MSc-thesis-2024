@@ -12,6 +12,6 @@ module purge
 module load 2022
 module load Anaconda3/2022.05
 
-cd $HOME/Machine-Translation
-source activate mt
-srun python -u machine-translate.py
+cd $HOME/machine-translation
+source activate llama
+srun python -u machine-translation.py

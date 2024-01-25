@@ -3,43 +3,43 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, AutoModelForSeq2Se
 from transformers import LlamaTokenizer, LlamaForCausalLM
 
 
-########### monolingual models ################
+# ########### monolingual models ################
 
-# BLOOM-7b1 
-tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-7b1")
-model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-7b1")
+# # BLOOM-7b1 
+# tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-7b1")
+# model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-7b1")
 
-# BLOOMZ-7b1 (BLOOM finetuned on xP3 dataset)
-tokenizer = AutoTokenizer.from_pretrained("bigscience/bloomz-7b1")
-model = AutoModelForCausalLM.from_pretrained("bigscience/bloomz-7b1")
+# # BLOOMZ-7b1 (BLOOM finetuned on xP3 dataset)
+# tokenizer = AutoTokenizer.from_pretrained("bigscience/bloomz-7b1")
+# model = AutoModelForCausalLM.from_pretrained("bigscience/bloomz-7b1")
 
-# mT0-xxl (mT5 finetuned on xP3 dataset)
-tokenizer = AutoTokenizer.from_pretrained("bigscience/mt0-xxl")
-model = AutoModelForSeq2SeqLM.from_pretrained("bigscience/mt0-xxl")
-
-
-########### multilingual models ################
+# # mT0-xxl (mT5 finetuned on xP3 dataset)
+# tokenizer = AutoTokenizer.from_pretrained("bigscience/mt0-xxl")
+# model = AutoModelForSeq2SeqLM.from_pretrained("bigscience/mt0-xxl")
 
 
-# Llama-2-7b-chat
-tokenizer = LlamaTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
-model = LlamaForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+# ########### multilingual models ################
 
-# BLOOMZ-7b1-mt (BLOOM finetuned on xP3mt dataset)
-tokenizer = AutoTokenizer.from_pretrained("bigscience/bloomz-7b1-mt")
-model = AutoModelForCausalLM.from_pretrained("bigscience/bloomz-7b1-mt")
 
-# mT5-xxl 
-tokenizer = AutoTokenizer.from_pretrained("google/mt5-xxl")
-model = AutoModelForSeq2SeqLM.from_pretrained("google/mt5-xxl")
+# # Llama-2-7b-chat
+# tokenizer = LlamaTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+# model = LlamaForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
 
-# mT0-xxl-mt (mT5 finetuned on xP3mt dataset)
-tokenizer = AutoTokenizer.from_pretrained("bigscience/mt0-xxl-mt")
-model = AutoModelForSeq2SeqLM.from_pretrained("bigscience/mt0-xxl-mt")
+# # BLOOMZ-7b1-mt (BLOOM finetuned on xP3mt dataset)
+# tokenizer = AutoTokenizer.from_pretrained("bigscience/bloomz-7b1-mt")
+# model = AutoModelForCausalLM.from_pretrained("bigscience/bloomz-7b1-mt")
 
-# XGLM-4.5b
-tokenizer = AutoTokenizer.from_pretrained("facebook/xglm-4.5B")
-model = AutoModelForCausalLM.from_pretrained("facebook/xglm-4.5B")
+# # mT5-xxl 
+# tokenizer = AutoTokenizer.from_pretrained("google/mt5-xxl")
+# model = AutoModelForSeq2SeqLM.from_pretrained("google/mt5-xxl")
+
+# # mT0-xxl-mt (mT5 finetuned on xP3mt dataset)
+# tokenizer = AutoTokenizer.from_pretrained("bigscience/mt0-xxl-mt")
+# model = AutoModelForSeq2SeqLM.from_pretrained("bigscience/mt0-xxl-mt")
+
+# # XGLM-4.5b
+# tokenizer = AutoTokenizer.from_pretrained("facebook/xglm-4.5B")
+# model = AutoModelForCausalLM.from_pretrained("facebook/xglm-4.5B")
 
 
 ########### machine translation ################
