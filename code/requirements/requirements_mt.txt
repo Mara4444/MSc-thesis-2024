@@ -4,3 +4,5 @@ transformers
 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 datasets
 sentencepiece
+pandas
+nltk
