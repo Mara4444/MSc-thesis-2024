@@ -1,13 +1,10 @@
 # Thesis title
-\hline
 
 ## Abstract
-\hline
 
 blablabla
 
 ## Experiments
-\hline
 
 ### Datasets
 
@@ -18,6 +15,5 @@ blablabla
 ### Results
 
 ## File structure
-\hline
 
 
