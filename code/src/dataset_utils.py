@@ -8,6 +8,34 @@ import pandas as pd
 ####                datasets                ####
 ################################################
 
+language_codes = {'Bulgarian': 'bul_Cyrl',
+                  'Catalan': 'cat_Latn',
+                  'Chinese' : 'zho_Hant',
+                  'Croatian': 'hrv_Latn',
+                  'Czech': 'ces_Latn',
+                  'Danish': 'dan_Latn',
+                  'Dutch': 'nld_Latn',
+                  'English': 'eng_Latn',
+                  'Finnish': 'fin_Latn',
+                  'French' : 'fre_Latn',
+                  'German' : 'deu_Latn',
+                  'Hungarian': 'hun_Latn',
+                  'Indonesian': 'ind_Latn',
+                  'Italian': 'ita_Latn',
+                  'Japanese' : 'Jpan',
+                  'Korean': 'kor_Hang',
+                  'Norwegian': 'nno_Latn',
+                  'Polish': 'pol_Latn',
+                  'Portuguese': 'por_Latn',
+                  'Romanian': 'ron_Latn',
+                  'Russian' : 'rus_Cyrl',
+                  'Slovenian': 'slv_Latn',
+                  'Spanish' : 'spa_Latn',
+                  'Serbian': 'srp_Cyrl',
+                  'Swedish': 'swe_Latn',
+                  'Ukrainian': 'ukr_Cyrl',
+                  'Vietnamese': 'vie_Latn'}
+
 def get_dataset(name,lang):
     """
     Loads a dataset from huggingface in the requested language.
@@ -75,6 +103,27 @@ def get_dataset(name,lang):
     
     else:
         print("Dataset name is not correctly specified. Please input 'mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")
+
+def get_translated_dataset_df(name,lang):
+    """
+    Loads a translated dataset from the directory in the requested language.
+    
+    Parameters:
+    name: name of the dataset ['mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum']
+    lang: language of the dataset to load.
+    
+    Returns:
+    Dataset in the specified language as dataframe
+    """
+    lang = language_codes[lang]
+
+    if name == "mgsm":
+        df = pd.read_csv('./datasets/mgsm/mgsm_' + lang + '.csv',sep=';') 
+        
+        return df
+    
+    else:
+        print("Dataset name is not correctly specified. Please input 'mgsm'.")
 
 def get_dataset_df(name,lang):
     """

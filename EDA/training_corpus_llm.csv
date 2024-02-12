@@ -1,0 +1,55 @@
+﻿Language;% in Bloomz-7b;% in Llama-2-7b;Available in  nllb;code in nllb
+Chi Tumbuka;0.00002;;Yes;tum
+Kikuyu;0.00004;;Yes;
+Bambara;0.00004;;Yes;
+Akan;0.00007;;Yes;
+Xitsonga;0.00007;;Yes;tso
+Sesotho;0.00007;;Yes;sot
+Chi Chewa;0.0001;;No;
+Setswana;0.0002;;Yes;tsn
+Northern Sotho;0.0002;;Yes;
+Fon;0.0002;;Yes;
+Kirundi;0.0003;;Yes;run
+Wolof;0.0004;;Yes;
+Kuganda;0.0004;;Yes;lug
+Assamese;0.01;;Yes;
+Odia;0.04;;Yes;
+Gujarati;0.04;;Yes;
+Marathi;0.05;;Yes;
+Punjabi;0.05;;Yes;pan
+Kannada;0.06;;Yes;
+Nepali;0.07;;Yes;
+Telugu;0.09;;Yes;
+Malayalam;0.10;;Yes;
+Urdu;0.10;;Yes;
+Tamil;0.20;;Yes;
+Bengali;0.50;;Yes;
+Hindi;0.70;;Yes;
+Vietnamese;2.6;0.08;Yes;
+Spanish;11.1;0.13;Yes;
+Portuguese;5.2;0.09;Yes;
+Indonesian;1.1;0.03;Yes;
+French;13.5;0.16;Yes;
+Catalan;1.1;0.04;Yes;
+Chinese;18.3;0.13;Yes;
+English;31.3;89.7;Yes;
+Programming code;13.4;8.38;Yes;
+German;;0.17;Yes;
+Swedish;;0.15;Yes;
+Russian;;0.13;Yes;
+Dutch;;0.12;Yes;
+Italian;;0.11;Yes;
+Japanese;;0.1;Yes;
+Polish;;0.09;Yes;
+Ukrainian;;0.07;Yes;
+Korean;;0.04;Yes;
+Serbian;;0.04;Yes;
+Czech;;0.03;Yes;
+Finnish;;0.03;Yes;
+Hungarian;;0.03;Yes;
+Norwegian;;0.03;Yes;
+Romanian;;0.03;Yes;
+Bulgarian;;0.02;Yes;
+Danish;;0.02;Yes;
+Slovenian;;0.01;Yes;
+Croatian;;0.01;Yes;

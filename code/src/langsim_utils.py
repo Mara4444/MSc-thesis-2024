@@ -6,9 +6,6 @@ import math
 ####            language similarity         ####
 ################################################
 
-# load the script dataset
-scriptdata = pd.read_csv('../datasets/wals/script.csv', sep=';')
-
 # load the WALS dataset
 walsdata = pd.read_csv('../datasets/wals/language.csv', sep=',')
 

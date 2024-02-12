@@ -10,7 +10,7 @@ from src.dataset_utils import *
 # xnli
 # xlsum
 
-##### available languages #####
+##### available languages ####
 #   ace_Arab, ace_Latn, acm_Arab, acq_Arab, aeb_Arab, afr_Latn, ajp_Arab,
 #   aka_Latn, amh_Ethi, apc_Arab, arb_Arab, ars_Arab, ary_Arab, arz_Arab,
 #   asm_Beng, ast_Latn, awa_Deva, ayr_Latn, azb_Arab, azj_Latn, bak_Cyrl,
@@ -39,7 +39,22 @@ from src.dataset_utils import *
 #   taq_Latn, taq_Tfng, tpi_Latn, tsn_Latn, tso_Latn, tuk_Latn, tum_Latn,
 #   tur_Latn, twi_Latn, tzm_Tfng, uig_Arab, ukr_Cyrl, umb_Latn, urd_Arab,
 #   uzn_Latn, vec_Latn, vie_Latn, war_Latn, wol_Latn, xho_Latn, ydd_Hebr,
-#   yor_Latn, yue_Hant, zho_Hans, zho_Hant, zul_Latn
+#   yor_Latn, yue_Hant, zho_Hans, zho_Hant, zul_Latn 
 
-translate_dataset(get_dataset("mgsm","en"),"mgsm","eng_Latn","vie_Latn")
-   
+#### initial language selection ####
+#  ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","ben_Beng","bod_Tibt", "bos_Latn","bul_Cyrl",
+# "ces_Latn", "cat_Latn","dan_Latn", "deu_Latn,"ell_Grek","eng_Latn","est_Latn", 
+# "fin_Latn", "fra_Latn","hat_Latn", "heb_Hebr","hin_Deva","hun_Latn", "hye_Armn", 
+# "ind_Latn", "ita_Latn","jav_Latn", "jpn_Jpan","khm_Khmr","kor_Hang", 
+# "lao_Laoo","mai_Deva", "mar_Deva", "mni_Beng","mya_Mymr", "nno_Latn",
+# "nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","quy_Latn","ron_Latn", "rus_Cyrl", 
+# "slv_Latn", "spa_Latn", "srp_Cyrl", "swe_Latn", "swh_Latn", "tam_Taml", "tel_Telu", 
+# "tgl_Latn", 'tha_Thai',"tur_Latn","vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
+
+# download model
+model_name = "facebook/nllb-200-3.3B"
+tokenizer = AutoTokenizer.from_pretrained(model_name,token=True,src_lang="eng_Latn")
+model = AutoModelForSeq2SeqLM.from_pretrained(model_name,token=True)
+
+for lang in ["hrv_Latn","ukr_Cyrl"]:
+    translate_dataset(get_dataset("mgsm","en"),"mgsm",lang,model,tokenizer)

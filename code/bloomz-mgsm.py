@@ -1,12 +1,10 @@
 from src.cot_utils import *
 from src.dataset_utils import *
 
-# Llama-2 model
-# model_name = "/gpfs/home1/msmeets/.cache/huggingface/hub/models--meta-llama--Llama-2-7b-chat-hf/snapshots/c1b0db933684edbfe29a06fa47eb19cc48025e93/" # chat model
-model_name = "meta-llama/Llama-2-7b-chat-hf"
-tokenizer = LlamaTokenizer.from_pretrained(model_name)
-model = LlamaForCausalLM.from_pretrained(model_name)
-
+# Bloomz model
+model_name = "bigscience/bloomz-7b1-mt"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
 
 ###### hf dataset ####### en,fr,es,zh
 df = get_dataset_df("mgsm","en")
@@ -17,9 +15,9 @@ df = get_dataset_df("mgsm","en")
 mgsm_generate_response(df=df,
                         task_lang="English",        # source language 
                         prompt_setting="basic",     # 'basic' or 'cot'
-                        nr_shots=4,                 # 0-8 shots
+                        nr_shots=2,                 # 0-8 shots
                         shots_lang="English",       # select exemplars in this language (relevant when nr_shots > 0)
                         cot_lang="",                # reasoning language (relevant when prompsetting = 'cot')
                         model=model,                
                         tokenizer=tokenizer,
-                        name="llama2")              # model name for saving to .csv
+                        name="bloomz")              # model name for saving to .csv
