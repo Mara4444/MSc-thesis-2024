@@ -6,18 +6,21 @@ model_name = "bigscience/bloomz-7b1-mt"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
-###### hf dataset ####### en,fr,es,zh
-df = get_dataset_df("mgsm","en")
+# inputstring = "Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?"
 
-###### translated dataset ####### Portuguese, Catalan, Vietnamese, Indonesian
-# dataset = get_translated_dataset_df("mgsm","Portuguese")
+# inputs = tokenizer.encode(inputstring, return_tensors="pt")
+# outputs = model.generate(inputs)
 
-mgsm_generate_response(df=df,
-                        task_lang="English",        # source language 
-                        prompt_setting="basic",     # 'basic' or 'cot'
-                        nr_shots=2,                 # 0-8 shots
-                        shots_lang="English",       # select exemplars in this language (relevant when nr_shots > 0)
-                        cot_lang="",                # reasoning language (relevant when prompsetting = 'cot')
-                        model=model,                
-                        tokenizer=tokenizer,
-                        name="bloomz")              # model name for saving to .csv
+# print(tokenizer.decode(outputs[0]))
+
+# Create a text generation pipeline
+text_generator = pipeline("text-generation", model=model_name)
+
+# Define the input string
+input_string = "Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?"
+
+# Generate output using the pipeline
+outputs = text_generator(input_string)
+
+# Print the generated text
+print(outputs[0]['generated_text'])

@@ -12,13 +12,43 @@ nltk.download('punkt')
 ####            machine translation         ####
 ################################################
 
+language_codes = {'Bulgarian': 'bul_Cyrl',
+                  'Catalan': 'cat_Latn',
+                  'Chinese' : 'zho_Hant',
+                  'Croatian': 'hrv_Latn',
+                  'Czech': 'ces_Latn',
+                  'Danish': 'dan_Latn',
+                  'Dutch': 'nld_Latn',
+                  'English': 'eng_Latn',
+                  'Finnish': 'fin_Latn',
+                  'French' : 'fre_Latn',
+                  'German' : 'deu_Latn',
+                  'Hungarian': 'hun_Latn',
+                  'Indonesian': 'ind_Latn',
+                  'Italian': 'ita_Latn',
+                  'Japanese' : 'Jpan',
+                  'Korean': 'kor_Hang',
+                  'Norwegian': 'nno_Latn',
+                  'Polish': 'pol_Latn',
+                  'Portuguese': 'por_Latn',
+                  'Romanian': 'ron_Latn',
+                  'Russian' : 'rus_Cyrl',
+                  'Slovenian': 'slv_Latn',
+                  'Serbian': 'srp_Cyrl',
+                  'Spanish' : 'spa_Latn',
+                  'Swedish': 'swe_Latn',
+                  'Ukrainian': 'ukr_Cyrl',
+                  'Vietnamese': 'vie_Latn'}
+
+language_codes_inv = {v: k for k, v in language_codes.items()}
+
 def translate_list(input_list,trg_lang,model,tokenizer):
     """
     Translate a list from English to the target language.
     
     Parameters:
     input_list: input list of strings to translate.
-    trg_lang: target language given in iso2-code.
+    trg_lang: target language given in nllb-200 code.
     
     Returns:
     Translated list of strings.
@@ -50,6 +80,40 @@ def translate_list(input_list,trg_lang,model,tokenizer):
         translated_list.append(translated_string)
 
     return translated_list
+
+# def translate_string(inputstring,trg_lang,model,tokenizer):
+#     """
+#     Translate a string from English to the target language.
+    
+#     Parameters:
+#     inputstringt: input string to translate.
+#     trg_lang: target language given in nllb-200 code.
+    
+#     Returns:
+#     Translated string.
+#     """
+    
+#     translated_string = ""
+        
+#     sentences = sent_tokenize(inputstring)
+
+#     for sentence in sentences:
+#         inputs = tokenizer(
+#             sentence, 
+#             return_tensors="pt"
+#             )
+        
+#         translated_tokens = model.generate(
+#             **inputs, 
+#             forced_bos_token_id=tokenizer.lang_code_to_id[trg_lang], 
+#             max_length=100 # set to longer than max length of a sentence in dataset?
+#             )
+            
+#         translated_sentence = tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
+#         print(sentence, translated_sentence)
+#         translated_string = translated_string + translated_sentence + ' '
+
+#     return translated_string
 
 def translate_dataset(dataset,name,trg_lang,model,tokenizer): 
     """
@@ -206,3 +270,33 @@ def translate_exemplars(dataset,languages,model,tokenizer):
     merged_df.to_csv('mgsm_exemplars_llama.csv', sep=';', index=False, header=True)
 
     return translated_exemplars 
+
+# def translate_cot_prompt(inputstring,languages,model,tokenizer):
+#     """
+#     Translate the "Let's think step by step in <cot_lang>." statement to the target language.
+    
+#     Parameters:
+#     inputstring: string to translate.
+#     languages: list of languages available in the nllb model to translate to.
+    
+#     Returns:
+#     Translated dataset with cot statement and returns as DataFrame. 
+#     """
+#     translated_list = []
+
+#     for lang in languages:
+
+#         cot_statement = inputstring + language_codes_inv[lang] + '.'
+
+#         translated_list.append(translate_string(inputstring=cot_statement,
+#                                                 lang=lang,
+#                                                 model=model,
+#                                                 tokenizer=tokenizer))
+
+#     translated_cot = pd.DataFrame({'language' : languages,
+#                                    'cot statement' : translated_list
+#                                    })
+
+#     translated_cot.to_csv('mgsm_translated_cot_llama.csv', sep=';', index=False, header=True)
+
+#     return translated_cot

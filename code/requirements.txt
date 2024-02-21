@@ -11,3 +11,5 @@ nltk
 random
 re
 numpy
+matplotlib
+seaborn

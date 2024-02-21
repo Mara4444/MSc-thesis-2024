@@ -41,7 +41,7 @@ def get_dataset(name,lang):
     Loads a dataset from huggingface in the requested language.
     
     Parameters:
-    name: name of the dataset ['mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum']
+    name: name of the dataset ['mgsm', 'msvamp', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum']
     lang: language of the dataset to load.
     
     Returns:
@@ -52,57 +52,62 @@ def get_dataset(name,lang):
         
         return dataset
     
-    elif name == "xcopa" and lang == "en":
-        dataset = load_dataset("pkavumba/balanced-copa")
-        
+    elif name == "msvamp":
+        dataset = load_dataset("Mathoctopus/MSVAMP",lang)
+
         return dataset
     
-    elif name == "xcopa":
-        dataset = load_dataset("xcopa",lang) 
+    # elif name == "xcopa" and lang == "en":
+    #     dataset = load_dataset("pkavumba/balanced-copa")
         
-        return dataset 
+    #     return dataset
     
-    elif name == "xstorycloze":
-        dataset = load_dataset("juletxara/xstory_cloze",lang)   
+    # elif name == "xcopa":
+    #     dataset = load_dataset("xcopa",lang) 
         
-        return dataset
+    #     return dataset 
     
-    elif name == "mkqa":
-        dataset = load_dataset("mkqa")
+    # elif name == "xstorycloze":
+    #     dataset = load_dataset("juletxara/xstory_cloze",lang)   
         
-        if lang in dataset["train"]["queries"][0].keys():
-            questionlist = [language[lang] for language in dataset["train"]["queries"]]
-            answerlist = [language[lang] for language in dataset["train"]["answers"]]
+    #     return dataset
+    
+    # elif name == "mkqa":
+    #     dataset = load_dataset("mkqa")
+        
+    #     if lang in dataset["train"]["queries"][0].keys():
+    #         questionlist = [language[lang] for language in dataset["train"]["queries"]]
+    #         answerlist = [language[lang] for language in dataset["train"]["answers"]]
             
-            dataset = {
-                "train": {
-                    "queries": questionlist,
-                    "answers": answerlist,
-                }
-            }
+    #         dataset = {
+    #             "train": {
+    #                 "queries": questionlist,
+    #                 "answers": answerlist,
+    #             }
+    #         }
 
-            return dataset
+    #         return dataset
         
-        else:
-            print("Language not found. Specify one of the following languages: ['ar', 'da', 'de', 'en', 'es', 'fi', 'fr', 'he', 'hu', 'it','ja', 'km', 'ko', 'ms', 'nl', 'no', 'pl', 'pt', 'ru', 'sv', 'th', 'tr', 'vi', 'zh'")
+        # else:
+        #     print("Language not found.")
     
-    elif name == "pawsx":
-        dataset = load_dataset("paws-x",lang)    
+    # elif name == "pawsx":
+    #     dataset = load_dataset("paws-x",lang)    
 
-        return dataset
+    #     return dataset
     
-    elif name == "xnli":
-        dataset = load_dataset("xnli",lang)  
+    # elif name == "xnli":
+    #     dataset = load_dataset("xnli",lang)  
 
-        return dataset
+    #     return dataset
     
-    elif name == "xlsum":        
-        dataset = load_dataset("csebuetnlp/xlsum",lang) # ['amharic', 'arabic', 'azerbaijani', 'bengali', 'burmese', 'chinese_simplified', 'chinese_traditional', 'english', 'french', 'gujarati', 'hausa', 'hindi', 'igbo', 'indonesian', 'japanese', 'kirundi', 'korean', 'kyrgyz', 'marathi', 'nepali', 'oromo', 'pashto', 'persian', 'pidgin', 'portuguese', 'punjabi', 'russian', 'scottish_gaelic', 'serbian_cyrillic', 'serbian_latin', 'sinhala', 'somali', 'spanish', 'swahili', 'tamil', 'telugu', 'thai', 'tigrinya', 'turkish', 'ukrainian', 'urdu', 'uzbek', 'vietnamese', 'welsh', 'yoruba']
+    # elif name == "xlsum":        
+    #     dataset = load_dataset("csebuetnlp/xlsum",lang) # ['amharic', 'arabic', 'azerbaijani', 'bengali', 'burmese', 'chinese_simplified', 'chinese_traditional', 'english', 'french', 'gujarati', 'hausa', 'hindi', 'igbo', 'indonesian', 'japanese', 'kirundi', 'korean', 'kyrgyz', 'marathi', 'nepali', 'oromo', 'pashto', 'persian', 'pidgin', 'portuguese', 'punjabi', 'russian', 'scottish_gaelic', 'serbian_cyrillic', 'serbian_latin', 'sinhala', 'somali', 'spanish', 'swahili', 'tamil', 'telugu', 'thai', 'tigrinya', 'turkish', 'ukrainian', 'urdu', 'uzbek', 'vietnamese', 'welsh', 'yoruba']
 
-        return dataset
+    #     return dataset
     
     else:
-        print("Dataset name is not correctly specified. Please input 'mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")
+        print("Dataset name is not correctly specified. Please input 'mgsm', 'msvamp 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")
 
 def get_translated_dataset_df(name,lang):
     """
@@ -145,6 +150,13 @@ def get_dataset_df(name,lang):
         
         return df
     
+    elif name == "msvamp":
+        df = pd.DataFrame(data={'m_query' : dataset["test"]["m_query"],
+                                'response' : dataset["test"]["response"]
+                                })
+        
+        return df
+    
     elif name == "xcopa" and lang == "en":
         df = pd.DataFrame(data={'premise' : dataset["test"]["premise"],
                                 'choice1' : dataset["test"]["choice1"],
@@ -169,7 +181,7 @@ def get_dataset_df(name,lang):
     ## add other datasets also
     
     else:
-        print("Dataset name is not correctly specified. Please input 'mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")
+        print("Dataset name is not correctly specified. Please input 'mgsm', 'msvamp', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")
 
 def get_exemplars_df(name,lang):
     """

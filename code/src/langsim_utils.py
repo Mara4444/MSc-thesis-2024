@@ -6,10 +6,7 @@ import math
 ####            language similarity         ####
 ################################################
 
-# load the WALS dataset
-walsdata = pd.read_csv('../datasets/wals/language.csv', sep=',')
-
-def get_wals_data(lang):
+def get_wals_data(walsdata,lang):
     """
     Get the wals dataframe row of a specific language.
     
@@ -21,7 +18,7 @@ def get_wals_data(lang):
     """
     return walsdata.loc[walsdata['wals_code'] == lang] # .values.flatten().tolist() get list of walsdata row for a requested language
    
-def calc_distance(lang1,lang2):
+def calc_distance(walsdata,lang1,lang2):
     """
     Calculate the Haversine distance between the geographical locations of two 
     languages given the wals_codes.
@@ -34,8 +31,8 @@ def calc_distance(lang1,lang2):
     """
 
     # get df for both languages
-    wals_lang1 = get_wals_data(lang1)
-    wals_lang2 = get_wals_data(lang2)
+    wals_lang1 = get_wals_data(walsdata,lang1)
+    wals_lang2 = get_wals_data(walsdata,lang2)
     
     lat1 = wals_lang1['latitude']
     lon1 = wals_lang1['longitude']
@@ -59,9 +56,7 @@ def calc_distance(lang1,lang2):
 
     return round(distance)
 
-# calc_distance('eng','dut')
-
-def get_distance_df(langlist):
+def get_distance_df(walsdata,langlist):
     """
     Calculate the Haversine distance between the geographical locations of a 
     list of languages with the wals_codes and creates a df with the pairwise
@@ -78,42 +73,47 @@ def get_distance_df(langlist):
     for lang1 in langlist:
         for lang2 in langlist:
             # print(lang1,lang2,calc_distance(lang1,lang2))
-            df.loc[lang1,lang2] = calc_distance(lang1,lang2)
+            df.loc[lang1,lang2] = calc_distance(walsdata,lang1,lang2)
 
     return df
 
-##################################### how to deal with nan's? ##############################
-
-def get_sim_df(langlist,featurelist):
+def get_sim_df(walsdata,langlist,featurelist):
     """
     Create a df of similarity between a list of languages based on feature set. The similarity 
-    is a sum of binary value (1: feature values are equal for the language pair, 0: else). 
+    is a sum of binary value (1: feature values are equal for the language pair, 0: else) divided 
+    by the number of features that are filled in for both languages.
     
     Parameters:
     langlist: list with wals_codes of languages to be compared.
     
     Returns:
-    Df with summed binary value between each language.
+    Df with shared overlap value between each language.
     """
     df = pd.DataFrame(index=langlist, columns=langlist)
-    df = df.fillna(value=0)
+    df = df.fillna(value=0.0)
 
     for lang1 in langlist:
 
         for lang2 in langlist:
 
+            features_count = 0
+
             # get df for both languages
-            wals_lang1 = get_wals_data(lang1)
-            wals_lang2 = get_wals_data(lang2)
+            wals_lang1 = get_wals_data(walsdata,lang1)
+            wals_lang2 = get_wals_data(walsdata,lang2)
             
             for feature in featurelist:
-
+                # count1 = pd.notna(wals_lang1.at[wals_lang1.index[0], feature]).sum()
                 if pd.notna(wals_lang1.at[wals_lang1.index[0], feature]) and pd.notna(wals_lang2.at[wals_lang2.index[0], feature]): # only check equality for language features that are not nan
-                    
+                   
+                    features_count += 1
+
                     value = 1 if wals_lang1.at[wals_lang1.index[0],feature] == wals_lang2.at[wals_lang2.index[0],feature] else 0 # set 1 for equal value, 0 for unequal
 
                     df.loc[lang1,lang2] += value
-            # if lang1 != lang2:
-            #     df.loc[lang1,lang2] = round(df.loc[lang1,lang2] / df.loc[lang1,lang1],2)
+            
+            # divide by nr of filled features by both languages
+            if features_count > 0:
+                df.loc[lang1, lang2] = round(df.loc[lang1, lang2] / features_count,2)
     
     return df 

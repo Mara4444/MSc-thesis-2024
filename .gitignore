@@ -4,3 +4,6 @@
 
 # folders
 __pycache__/
+results/
+datasets/
+bin/
