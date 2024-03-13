@@ -12,36 +12,6 @@ nltk.download('punkt')
 ####            machine translation         ####
 ################################################
 
-language_codes = {'Bulgarian': 'bul_Cyrl',
-                  'Catalan': 'cat_Latn',
-                  'Chinese' : 'zho_Hant',
-                  'Croatian': 'hrv_Latn',
-                  'Czech': 'ces_Latn',
-                  'Danish': 'dan_Latn',
-                  'Dutch': 'nld_Latn',
-                  'English': 'eng_Latn',
-                  'Finnish': 'fin_Latn',
-                  'French' : 'fre_Latn',
-                  'German' : 'deu_Latn',
-                  'Hungarian': 'hun_Latn',
-                  'Indonesian': 'ind_Latn',
-                  'Italian': 'ita_Latn',
-                  'Japanese' : 'Jpan',
-                  'Korean': 'kor_Hang',
-                  'Norwegian': 'nno_Latn',
-                  'Polish': 'pol_Latn',
-                  'Portuguese': 'por_Latn',
-                  'Romanian': 'ron_Latn',
-                  'Russian' : 'rus_Cyrl',
-                  'Slovenian': 'slv_Latn',
-                  'Serbian': 'srp_Cyrl',
-                  'Spanish' : 'spa_Latn',
-                  'Swedish': 'swe_Latn',
-                  'Ukrainian': 'ukr_Cyrl',
-                  'Vietnamese': 'vie_Latn'}
-
-language_codes_inv = {v: k for k, v in language_codes.items()}
-
 def translate_list(input_list,trg_lang,model,tokenizer):
     """
     Translate a list from English to the target language.
@@ -81,40 +51,6 @@ def translate_list(input_list,trg_lang,model,tokenizer):
 
     return translated_list
 
-# def translate_string(inputstring,trg_lang,model,tokenizer):
-#     """
-#     Translate a string from English to the target language.
-    
-#     Parameters:
-#     inputstringt: input string to translate.
-#     trg_lang: target language given in nllb-200 code.
-    
-#     Returns:
-#     Translated string.
-#     """
-    
-#     translated_string = ""
-        
-#     sentences = sent_tokenize(inputstring)
-
-#     for sentence in sentences:
-#         inputs = tokenizer(
-#             sentence, 
-#             return_tensors="pt"
-#             )
-        
-#         translated_tokens = model.generate(
-#             **inputs, 
-#             forced_bos_token_id=tokenizer.lang_code_to_id[trg_lang], 
-#             max_length=100 # set to longer than max length of a sentence in dataset?
-#             )
-            
-#         translated_sentence = tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
-#         print(sentence, translated_sentence)
-#         translated_string = translated_string + translated_sentence + ' '
-
-#     return translated_string
-
 def translate_dataset(dataset,name,trg_lang,model,tokenizer): 
     """
     Translate a dataset from English to the target language.
@@ -143,160 +79,346 @@ def translate_dataset(dataset,name,trg_lang,model,tokenizer):
     elif name  == 'xcopa': 
 
         translated1_list = translate_list(dataset["test"]["premise"],trg_lang,model,tokenizer)
-        translated2_list = translate_list(dataset["test"]["question"],trg_lang,model,tokenizer)
+        # translated2_list = translate_list(dataset["test"]["question"],trg_lang,model,tokenizer)
         translated3_list = translate_list(dataset["test"]["choice1"],trg_lang,model,tokenizer)
         translated4_list = translate_list(dataset["test"]["choice2"],trg_lang,model,tokenizer)
 
         translated_dataset = pd.DataFrame({'premise': translated1_list,
-                                           'question': translated2_list,
+                                           'question': dataset["test"]["question"],
                                            'choice1': translated3_list,
                                            'choice2': translated4_list, 
                                            'label': dataset["test"]["label"]
                                            })
 
-        translated_dataset.to_csv('./datasets/xcopa/xcopa_' + trg_lang + '.csv', sep=';', index=False, header=True)
+        translated_dataset.to_csv('../datasets/xcopa/xcopa_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
         return translated_dataset
     
-    elif name  == 'xstorycloze': 
+    elif name == "coinflip":
 
-        translated1_list = translate_list(dataset["eval"]["input_sentence_1"],trg_lang,model,tokenizer)
-        translated2_list = translate_list(dataset["eval"]["input_sentence_2"],trg_lang,model,tokenizer)
-        translated3_list = translate_list(dataset["eval"]["input_sentence_3"],trg_lang,model,tokenizer)
-        translated4_list = translate_list(dataset["eval"]["input_sentence_4"],trg_lang,model,tokenizer)
-        translated5_list = translate_list(dataset["eval"]["sentence_quiz1"],trg_lang,model,tokenizer)
-        translated6_list = translate_list(dataset["eval"]["sentence_quiz2"],trg_lang,model,tokenizer)
-        
-        translated_dataset = pd.DataFrame({'input_sentence_1': translated1_list,
-                                           'input_sentence_2': translated2_list,
-                                           'input_sentence_3': translated3_list,
-                                           'input_sentence_4': translated4_list, 
-                                           'sentence_quiz1': translated5_list,
-                                           'sentence_quiz1': translated6_list,
-                                           'answer_right_ending': dataset["eval"]["answer_right_ending"]
+        translated1_list = translate_list(dataset["question"],trg_lang,model,tokenizer)
+        translated2_list = translate_list(dataset["answer"],trg_lang,model,tokenizer)
+
+        translated_dataset = pd.DataFrame({'question': translated1_list,
+                                           'answer': translated2_list,
+                                           'answer_ab': dataset["answer_ab"]
                                            })
 
-        translated_dataset.to_csv('./datasets/xstorycloze/xstorycloze_' + trg_lang + '.csv', sep=';', index=False, header=True)
+        translated_dataset.to_csv('../datasets/coinflip/coinflip_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
         return translated_dataset
+    
+    elif name == "shuffled_objects":
+
+        translated1_list = translate_list(dataset["inputs"],trg_lang,model,tokenizer)
+        translated2_list = translate_list(dataset["A"],trg_lang,model,tokenizer)
+        translated3_list = translate_list(dataset["B"],trg_lang,model,tokenizer)
+        translated4_list = translate_list(dataset["C"],trg_lang,model,tokenizer)
+        translated5_list = translate_list(dataset["answer"],trg_lang,model,tokenizer)
+
+        translated_dataset = pd.DataFrame({'question': translated1_list,
+                                           'A': translated2_list,
+                                           'B': translated3_list,
+                                           'C': translated4_list,
+                                           'answer' : translated5_list,
+                                           'answer_abc': dataset["answer_abc"]
+                                           })
+
+        translated_dataset.to_csv('../datasets/shuffled_objects/shuffled_objects_' + trg_lang + '.csv', sep=';', index=False, header=True)
+
+        return translated_dataset
+    
+    # elif name == 'commonsense':
+
+    #     translated1_list = translate_list(dataset["test"]["inputs"],trg_lang,model,tokenizer)
+    #     translated2_list = translate_list(dataset["test"]["targets"],trg_lang,model,tokenizer)
+
+    #     translated_dataset = pd.DataFrame({'inputs': translated1_list,
+    #                                        'targets': translated2_list,
+    #                                        'targets_vec': dataset["test"]["targets_vec"]
+    #                                        })
+
+    #     translated_dataset.to_csv('../datasets/commonsense/commonsense_' + trg_lang + '.csv', sep=';', index=False, header=True)
+
+    #     return translated_dataset
+
+
+    
+    # elif name  == 'xstorycloze': 
+
+    #     translated1_list = translate_list(dataset["eval"]["input_sentence_1"],trg_lang,model,tokenizer)
+    #     translated2_list = translate_list(dataset["eval"]["input_sentence_2"],trg_lang,model,tokenizer)
+    #     translated3_list = translate_list(dataset["eval"]["input_sentence_3"],trg_lang,model,tokenizer)
+    #     translated4_list = translate_list(dataset["eval"]["input_sentence_4"],trg_lang,model,tokenizer)
+    #     translated5_list = translate_list(dataset["eval"]["sentence_quiz1"],trg_lang,model,tokenizer)
+    #     translated6_list = translate_list(dataset["eval"]["sentence_quiz2"],trg_lang,model,tokenizer)
+        
+    #     translated_dataset = pd.DataFrame({'input_sentence_1': translated1_list,
+    #                                        'input_sentence_2': translated2_list,
+    #                                        'input_sentence_3': translated3_list,
+    #                                        'input_sentence_4': translated4_list, 
+    #                                        'sentence_quiz1': translated5_list,
+    #                                        'sentence_quiz1': translated6_list,
+    #                                        'answer_right_ending': dataset["eval"]["answer_right_ending"]
+    #                                        })
+
+    #     translated_dataset.to_csv('./datasets/xstorycloze/xstorycloze_' + trg_lang + '.csv', sep=';', index=False, header=True)
+
+    #     return translated_dataset
     
     # elif name == "mkqa":
     # answer column is in this shape: [{'type': 5, 'entity': '', 'text': '11.0 years', 'aliases': ['11 years']}]
     # how to translate only text and aliases and keep the rest of the structure?
 
-    elif name  == 'pawsx': 
+    # elif name  == 'pawsx': 
         
-        translated1_list = translate_list(dataset["test"]["sentence1"],trg_lang,model,tokenizer)
-        translated2_list = translate_list(dataset["test"]["sentence2"],trg_lang,model,tokenizer)
+    #     translated1_list = translate_list(dataset["test"]["sentence1"],trg_lang,model,tokenizer)
+    #     translated2_list = translate_list(dataset["test"]["sentence2"],trg_lang,model,tokenizer)
 
-        translated_dataset = pd.DataFrame({'sentence1': translated1_list,
-                                           'sentence2': translated2_list,
-                                           'label': dataset["test"]["label"]
-                                           })
+    #     translated_dataset = pd.DataFrame({'sentence1': translated1_list,
+    #                                        'sentence2': translated2_list,
+    #                                        'label': dataset["test"]["label"]
+    #                                        })
 
-        translated_dataset.to_csv('./datasets/pawsx/pawsx_' + trg_lang + '.csv', sep=';', index=False, header=True)
+    #     translated_dataset.to_csv('./datasets/pawsx/pawsx_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
-        return translated_dataset
+    #     return translated_dataset
     
-    elif name  == 'xnli': 
+    # elif name  == 'xnli': 
         
-        translated1_list = translate_list(dataset["test"]["premise"],trg_lang,model,tokenizer)
-        translated2_list = translate_list(dataset["test"]["hypothesis"],trg_lang,model,tokenizer)
+    #     translated1_list = translate_list(dataset["test"]["premise"],trg_lang,model,tokenizer)
+    #     translated2_list = translate_list(dataset["test"]["hypothesis"],trg_lang,model,tokenizer)
 
-        translated_dataset = pd.DataFrame({'premise': translated1_list,
-                                           'hypothesis': translated2_list,
-                                           'label': dataset["test"]["label"]
-                                           })
+    #     translated_dataset = pd.DataFrame({'premise': translated1_list,
+    #                                        'hypothesis': translated2_list,
+    #                                        'label': dataset["test"]["label"]
+    #                                        })
 
-        translated_dataset.to_csv('./datasets/xnli/xnli_' + trg_lang + '.csv', sep=';', index=False, header=True)
+    #     translated_dataset.to_csv('./datasets/xnli/xnli_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
-        return translated_dataset
+    #     return translated_dataset
     
-    elif name  == 'xlsum': 
+    # elif name  == 'xlsum': 
         
-        translated1_list = translate_list(dataset["test"]["title"],trg_lang,model,tokenizer)
-        translated2_list = translate_list(dataset["test"]["summary"],trg_lang,model,tokenizer)
-        translated3_list = translate_list(dataset["test"]["text"],trg_lang,model,tokenizer)
+    #     translated1_list = translate_list(dataset["test"]["title"],trg_lang,model,tokenizer)
+    #     translated2_list = translate_list(dataset["test"]["summary"],trg_lang,model,tokenizer)
+    #     translated3_list = translate_list(dataset["test"]["text"],trg_lang,model,tokenizer)
 
-        translated_dataset = pd.DataFrame({'title': translated1_list,
-                                           'summary': translated2_list,
-                                           'text': translated3_list
-                                           })
+    #     translated_dataset = pd.DataFrame({'title': translated1_list,
+    #                                        'summary': translated2_list,
+    #                                        'text': translated3_list
+    #                                        })
 
-        translated_dataset.to_csv('./datasets/xlsum/xlsum_' + trg_lang + '.csv', sep=';', index=False, header=True)
+    #     translated_dataset.to_csv('./datasets/xlsum/xlsum_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
-        return translated_dataset
+    #     return translated_dataset
 
     else:
-        print("Dataset name is not correctly specified. Please input 'mgsm', 'xcopa', 'xstorycloze', 'mkqa', 'pawsx', 'xnli' or 'xlsum'.")
+        print("Dataset name is not correctly specified. Please input 'mgsm' or 'xcopa'.")
 
-def translate_exemplars(dataset,languages,model,tokenizer):
+def translate_instruction_cot(languages,model,tokenizer):
     """
-    Translate the exemplars of a dataset from English to the target language.
+    Translate the "Let's think step by step." statement to the target language.
     
     Parameters:
-    dataset: dataset to translate.
-    langauges: list of languages available in the nllb model to translate to.
+    languages: list of languages available in the nllb model to translate to.
     
     Returns:
-    Translated dataset with exemplars and returns as DataFrame. 
+    Translated dataset with cot statement and returns as DataFrame. 
     """
-    lang_list = []
-    question_list = []
-    answer_list = []
+    translated_list = []
 
     for lang in languages:
-        # translate exemplars
-        translated1_list = translate_list(dataset["train"]["question"],lang,model,tokenizer)
-        translated2_list = translate_list(dataset["train"]["answer"],lang,model,tokenizer)
+        
+        translated_list.append(translate_string(inputstring="Let's think step by step.",trg_lang=lang,model=model,tokenizer=tokenizer) )
 
-        for i in [lang]*len(dataset["train"]["question"]):
-            lang_list.append(i)
-        for j in translated1_list:
-            question_list.append(j)
-        for k in translated2_list:
-            answer_list.append(k)
+    translated_instructions = pd.DataFrame({'language' : languages,
+                                   'cot' : translated_list,
+                                   })
 
-    translated_exemplars = pd.DataFrame({'language' : lang_list,
-                                        'question': question_list,
-                                        'answer': answer_list
-                                        })
+    translated_instructions.to_csv('translated_instructions_cot.csv', sep=';', index=False, header=True)
 
-    translated_exemplars.to_csv('mgsm_translated_exemplars_llama.csv', sep=';', index=False, header=True)
+    return translated_instructions
 
-    df = pd.read_csv('../datasets/mgsm/mgsm_exemplars_original.csv',sep=';')
-    merged_df = pd.concat([df, translated_exemplars])
+def translate_instruction_xcopa(languages,model,tokenizer):
+    """
+    Translate the prompt instruction of XCOPA to the target languages.
+    
+    Parameters:
+    languages: list of languages available in the nllb model to translate to.
+    
+    Returns:
+    Translated dataset with XCOPA prompt instruction and returns as DataFrame. 
+    """
+    translated_list1 = []
+    translated_list2 = []
 
-    merged_df.to_csv('mgsm_exemplars_llama.csv', sep=';', index=False, header=True)
+    for lang in languages:
 
-    return translated_exemplars 
+        instruction1 = translate_string(inputstring="Premise:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction2 = translate_string(inputstring="Option A:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction3 = translate_string(inputstring="Option B:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction4 = translate_string(inputstring="Based on the premise, which cause is more likely?",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction5 = translate_string(inputstring="Based on the premise, which effect is more likely?",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction6 = translate_string(inputstring="Pick between options A and B.",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction7 = translate_string(inputstring="Answer:",trg_lang=lang,model=model,tokenizer=tokenizer) 
 
-# def translate_cot_prompt(inputstring,languages,model,tokenizer):
+        instruction_cause = instruction1 + ' {premise} \n' + instruction2 + ' {choice1} \n' + instruction3 + '{choice2} \n' + instruction4 + '\n' + instruction6 + '\n' + instruction7 + ' {cot}'
+        instruction_effect = instruction1 + ' {premise} \n' + instruction2 + ' {choice1} \n' + instruction3 + '{choice2} \n' + instruction5 + '\n' + instruction6 + '\n' + instruction7 + ' {cot}'
+        
+        translated_list1.append(instruction_cause)
+        translated_list2.append(instruction_effect)
+
+    translated_instructions = pd.DataFrame({'language' : languages,
+                                   'xcopa_cause' : translated_list1,
+                                   'xcopa_effect' : translated_list2
+                                   })
+
+    translated_instructions.to_csv('translated_instructions_xcopa.csv', sep=';', index=False, header=True)
+
+    return translated_instructions
+
+def translate_instruction_mgsm(languages,model,tokenizer):
+    """
+    Translate the prompt instruction of MGSM to the target languages.
+    
+    Parameters:
+    languages: list of languages available in the nllb model to translate to.
+    
+    Returns:
+    Translated dataset with MGSM prompt instruction and returns as DataFrame. 
+    """
+    translated_list1 = []
+    translated_list2 = []
+
+    for lang in languages:
+
+        instruction1 = translate_string(inputstring="Question:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction2 = translate_string(inputstring="Answer:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction3 = translate_string(inputstring="The answer (arabic numerals) is:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction4 = translate_string(inputstring="Let's think step by step.",trg_lang=lang,model=model,tokenizer=tokenizer)
+
+        instruction_basic = instruction1 + ' {question} \n' + instruction2 + ' ' + instruction3
+        instruction_cot = instruction1 + ' {question} \n' + instruction2 + ' ' + instruction4
+        
+        translated_list1.append(instruction_basic)
+        translated_list2.append(instruction_cot)
+
+    translated_instructions = pd.DataFrame({'language' : languages,
+                                   'mgsm_basic' : translated_list1,
+                                   'mgsm_cot' : translated_list2
+                                   })
+
+    translated_instructions.to_csv('translated_instructions_mgsm.csv', sep=';', index=False, header=True)
+
+    return translated_instructions
+
+def translate_instruction_coinflip(languages,model,tokenizer):
+    """
+    Translate the prompt instruction of coinflip to the target languages.
+    
+    Parameters:
+    languages: list of languages available in the nllb model to translate to.
+    
+    Returns:
+    Translated dataset with coinflip prompt instruction and returns as DataFrame. 
+    """
+    translated_list1 = []
+    translated_list2 = []
+
+    for lang in languages:
+
+        instruction1 = translate_string(inputstring="Question:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction2 = translate_string(inputstring="Note that 'flip' here means 'reverse'.",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction3 = translate_string(inputstring="Option A: Yes",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction4 = translate_string(inputstring="Option B: No",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction5 = translate_string(inputstring="Pick between options A and B.",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction6 = translate_string(inputstring="Answer: ",trg_lang=lang,model=model,tokenizer=tokenizer) 
+
+        instruction = instruction1 + ' {question} ' + instruction2 + ' \n' + instruction3 + ' \n' + instruction4 + ' \n' + instruction5 + ' \n' + instruction6
+                
+        translated_list1.append(instruction)
+
+    translated_instructions = pd.DataFrame({'language' : languages,
+                                   'coinflip' : translated_list1})
+
+    translated_instructions.to_csv('translated_instructions_coinflip.csv', sep=';', index=False, header=True)
+
+    return translated_instructions
+        
+        
+def translate_string(inputstring,trg_lang,model,tokenizer):
+    """
+    Translate a string from English to the target language.
+    
+    Parameters:
+    inputstringt: input string to translate.
+    trg_lang: target language given in nllb-200 code.
+    
+    Returns:
+    Translated string.
+    """
+    
+    translated_string = ""
+        
+    sentences = sent_tokenize(inputstring)
+
+    for sentence in sentences:
+        inputs = tokenizer(
+            sentence, 
+            return_tensors="pt"
+            )
+        
+        translated_tokens = model.generate(
+            **inputs, 
+            forced_bos_token_id=tokenizer.lang_code_to_id[trg_lang], 
+            max_length=100
+            )
+            
+        translated_sentence = tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
+        print(sentence, translated_sentence)
+        translated_string = translated_string + translated_sentence + ' '
+
+    return translated_string
+
+
+# def translate_exemplars(dataset,languages,model,tokenizer):
 #     """
-#     Translate the "Let's think step by step in <cot_lang>." statement to the target language.
+#     Translate the exemplars of a dataset from English to the target language.
     
 #     Parameters:
-#     inputstring: string to translate.
-#     languages: list of languages available in the nllb model to translate to.
+#     dataset: dataset to translate.
+#     langauges: list of languages available in the nllb model to translate to.
     
 #     Returns:
-#     Translated dataset with cot statement and returns as DataFrame. 
+#     Translated dataset with exemplars and returns as DataFrame. 
 #     """
-#     translated_list = []
+#     lang_list = []
+#     question_list = []
+#     answer_list = []
 
 #     for lang in languages:
+#         # translate exemplars
+#         translated1_list = translate_list(dataset["train"]["question"],lang,model,tokenizer)
+#         translated2_list = translate_list(dataset["train"]["answer"],lang,model,tokenizer)
 
-#         cot_statement = inputstring + language_codes_inv[lang] + '.'
+#         for i in [lang]*len(dataset["train"]["question"]):
+#             lang_list.append(i)
+#         for j in translated1_list:
+#             question_list.append(j)
+#         for k in translated2_list:
+#             answer_list.append(k)
 
-#         translated_list.append(translate_string(inputstring=cot_statement,
-#                                                 lang=lang,
-#                                                 model=model,
-#                                                 tokenizer=tokenizer))
+#     translated_exemplars = pd.DataFrame({'language' : lang_list,
+#                                         'question': question_list,
+#                                         'answer': answer_list
+#                                         })
 
-#     translated_cot = pd.DataFrame({'language' : languages,
-#                                    'cot statement' : translated_list
-#                                    })
+#     translated_exemplars.to_csv('mgsm_translated_exemplars_llama.csv', sep=';', index=False, header=True)
 
-#     translated_cot.to_csv('mgsm_translated_cot_llama.csv', sep=';', index=False, header=True)
+#     df = pd.read_csv('../datasets/mgsm/mgsm_exemplars_original.csv',sep=';')
+#     merged_df = pd.concat([df, translated_exemplars])
 
-#     return translated_cot
+#     merged_df.to_csv('mgsm_exemplars_llama.csv', sep=';', index=False, header=True)
+
+#     return translated_exemplars 

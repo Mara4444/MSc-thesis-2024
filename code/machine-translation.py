@@ -42,19 +42,52 @@ from src.dataset_utils import *
 #   yor_Latn, yue_Hant, zho_Hans, zho_Hant, zul_Latn 
 
 #### initial language selection ####
-#  ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","ben_Beng","bod_Tibt", "bos_Latn","bul_Cyrl",
-# "ces_Latn", "cat_Latn","dan_Latn", "deu_Latn,"ell_Grek","eng_Latn","est_Latn", 
-# "fin_Latn", "fra_Latn","hat_Latn", "heb_Hebr","hin_Deva","hun_Latn", "hye_Armn", 
+# langs = ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","ben_Beng","bod_Tibt", "bos_Latn","bul_Cyrl",
+# "ces_Latn", "cat_Latn","dan_Latn", "deu_Latn","eng_Latn","ell_Grek","est_Latn", 
+# "fin_Latn", "fra_Latn","hat_Latn", "heb_Hebr","hin_Deva","hun_Latn", "hrv_Latn", "hye_Armn", 
 # "ind_Latn", "ita_Latn","jav_Latn", "jpn_Jpan","khm_Khmr","kor_Hang", 
-# "lao_Laoo","mai_Deva", "mar_Deva", "mni_Beng","mya_Mymr", "nno_Latn",
+# "lao_Laoo","mai_Deva", "mal_Mlym", "mar_Deva", "mya_Mymr", "nno_Latn",
 # "nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","quy_Latn","ron_Latn", "rus_Cyrl", 
 # "slv_Latn", "spa_Latn", "srp_Cyrl", "swe_Latn", "swh_Latn", "tam_Taml", "tel_Telu", 
-# "tgl_Latn", 'tha_Thai',"tur_Latn","vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
+# "tgl_Latn", 'tha_Thai',"tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
+
+# langs_without_mgsm = ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","bod_Tibt", "bos_Latn","bul_Cyrl",
+# "ces_Latn", "cat_Latn","dan_Latn", "ell_Grek","est_Latn", 
+# "fin_Latn", "hat_Latn", "heb_Hebr","hin_Deva","hun_Latn", "hrv_Latn", "hye_Armn", 
+# "ind_Latn", "ita_Latn","jav_Latn","khm_Khmr","kor_Hang", 
+# "lao_Laoo","mai_Deva", "mal_Mlym", "mar_Deva", "mya_Mymr", "nno_Latn",
+# "nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","quy_Latn","ron_Latn", 
+# "slv_Latn", "srp_Cyrl", "swe_Latn", "tam_Taml", 
+# "tgl_Latn","tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zsm_Latn","zul_Latn"]
+
+# for lang in langs_without_mgsm:
+#     translate_dataset(get_dataset("mgsm","en"),"mgsm",lang,model,tokenizer)
+
+# langs_without_xcopa = ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","ben_Beng","bod_Tibt", "bos_Latn","bul_Cyrl",
+# "ces_Latn", "cat_Latn","dan_Latn", "deu_Latn","ell_Grek", 
+# "fin_Latn", "fra_Latn","heb_Hebr","hin_Deva","hun_Latn", "hrv_Latn", "hye_Armn", 
+# "jav_Latn", "jpn_Jpan","khm_Khmr","kor_Hang", 
+# "lao_Laoo", "mai_Deva", "mal_Mlym", "mar_Deva", "mya_Mymr", "nno_Latn",
+# "nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","ron_Latn", "rus_Cyrl", 
+# "slv_Latn", "spa_Latn", "srp_Cyrl", "swe_Latn", "tel_Telu", 
+# "tgl_Latn", "ukr_Cyrl", "urd_Arab", 'yue_Hant', "zsm_Latn","zul_Latn"]
 
 # download model
 model_name = "facebook/nllb-200-3.3B"
 tokenizer = AutoTokenizer.from_pretrained(model_name,token=True,src_lang="eng_Latn")
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name,token=True)
 
-for lang in ["hrv_Latn","ukr_Cyrl"]:
-    translate_dataset(get_dataset("mgsm","en"),"mgsm",lang,model,tokenizer)
+langs = ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","ben_Beng","bod_Tibt", "bos_Latn","bul_Cyrl",
+"ces_Latn", "cat_Latn","dan_Latn", "deu_Latn","ell_Grek","est_Latn", 
+"fin_Latn", "fra_Latn","hat_Latn", "heb_Hebr","hin_Deva","hun_Latn", "hrv_Latn", "hye_Armn", 
+"ind_Latn", "ita_Latn","jav_Latn", "jpn_Jpan","khm_Khmr","kor_Hang", 
+"lao_Laoo","mai_Deva", "mal_Mlym", "mar_Deva", "mya_Mymr", "nno_Latn",
+"nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","quy_Latn","ron_Latn", "rus_Cyrl", 
+"slv_Latn", "spa_Latn", "srp_Cyrl", "swe_Latn", "swh_Latn", "tam_Taml", "tel_Telu", 
+"tgl_Latn", 'tha_Thai',"tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
+
+for lang in langs:
+    translate_dataset(get_dataset_df('coinflip','eng_Latn'),"coinflip",lang,model,tokenizer)
+
+# for lang in langs[:3]:
+#     translate_dataset(get_dataset_df('shuffled_objects','eng_Latn'),"shuffled_objects",lang,model,tokenizer)

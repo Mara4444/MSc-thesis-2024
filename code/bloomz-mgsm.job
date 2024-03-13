@@ -2,11 +2,11 @@
 
 #SBATCH --partition=gpu
 #SBATCH --gpus=1
-#SBATCH --job-name=Bloomz-TextGen
+#SBATCH --job-name=mgsm-Bloomz
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=18
-#SBATCH --time=08:00:00
-#SBATCH --output=bloomz_output_%A.out
+#SBATCH --time=20:00:00
+#SBATCH --output=bloomz_mgsm_%A.out
 
 module purge
 module load 2022
