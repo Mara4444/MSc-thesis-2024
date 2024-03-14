@@ -26,24 +26,27 @@ model = LlamaForCausalLM.from_pretrained(model_name)
 #                 'qu' : 'Quechua',
 #                 'sw' : 'Swahili'}
 
-xcopa_langs = { 
-    # 'ta' : 'Tamil',
-    #             'th' : 'Thai',
-                'zh' : 'Chinese',
-                'tr' : 'Turkish',
-                'vi' : 'Vietnamese'}
+# xcopa_langs = { 'ta' : 'Tamil',
+#                 'th' : 'Thai',
+#                 'it' : 'Italian'}
+
+# xcopa_langs = { 'zh' : 'Chinese',
+#                 'tr' : 'Turkish',
+#                 'vi' : 'Vietnamese'}
 
 
-mt_langs = ['Afrikaans','Arabic','Balinese','Belarusian','Bengali','Tibetan', 'Bosnian', 
-                                 'Bulgarian', 'Catalan', 'Czech', 'Danish', 'Khmer', 'Korean', 'Lao', 'Maithili', 
-                                 'Malayalam', 'Marathi', 'Dutch', 'Norwegian', 'Nepali', 'German', 'Polish', 'Greek',
-                                 'Portuguese','Russian','French','Romanian','Finnish','Hebrew','Slovak','Hindi',
-                                 'Croatian','Hungarian','Swedish','Japanese','Javanese',"Armenian", "Bulgarian", 
-                                 "Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Spanish", "Tagalog", 
-                                 "Telugu", "Ukrainian", "Urdu", "Zulu"]
+# mt_langs = ['Afrikaans','Arabic','Balinese','Belarusian','Bengali','Tibetan', 'Bosnian', 
+#                                  'Bulgarian', 'Catalan', 'Czech', 'Danish', 'Khmer', 'Korean', 'Lao', 'Maithili', 
+#                                  'Malayalam', 'Marathi', 'Dutch', 'Norwegian', 'Nepali', 'German', 'Polish', 'Greek',
+#                                  'Portuguese','Russian','French','Romanian','Finnish','Hebrew','Slovak','Hindi',
+#                                  'Croatian','Hungarian','Swedish','Japanese','Javanese',"Armenian", "Bulgarian", 
+#                                  "Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Spanish", "Tagalog", 
+#                                  "Telugu", "Ukrainian", "Urdu", "Zulu"]
+
+mt_langs = ['Bengali','Tibetan', 'Maithili', 'Malayalam', 'German', 'French','Hindi','Swedish','Javanese', "Burmese", "Cantonese","Telugu"]
 
 
-for lang in mt_langs[16:20]:
+for lang in mt_langs:
 
     generate_response(df = get_translated_dataset_df("xcopa",lang),
                   task = "xcopa",
@@ -67,12 +70,12 @@ for lang in mt_langs[16:20]:
     
 # English = get_dataset_df("xcopa","en")
 
-# for lang in xcopa_langs:
+# for lang in mt_langs:
     
 #     generate_response(df = English,
 #                   task = "xcopa",
 #                   task_lang = "English",
-#                   instr_lang = xcopa_langs[lang],
+#                   instr_lang = lang,
 #                   prompt_setting = "basic",
 #                   model = model,
 #                   tokenizer = tokenizer,

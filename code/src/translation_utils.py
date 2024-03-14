@@ -72,10 +72,9 @@ def translate_dataset(dataset,name,trg_lang,model,tokenizer):
                                            })
 
         translated_dataset.to_csv('../datasets/mgsm/mgsm_' + trg_lang + '.csv', sep=';', index=False, header=True)
-        # translated_dataset.to_csv('mgsm_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
         return translated_dataset
-      
+    
     elif name  == 'xcopa': 
 
         translated1_list = translate_list(dataset["test"]["premise"],trg_lang,model,tokenizer)
@@ -128,93 +127,20 @@ def translate_dataset(dataset,name,trg_lang,model,tokenizer):
 
         return translated_dataset
     
-    # elif name == 'commonsense':
+    elif name  == 'msvamp': 
 
-    #     translated1_list = translate_list(dataset["test"]["inputs"],trg_lang,model,tokenizer)
-    #     translated2_list = translate_list(dataset["test"]["targets"],trg_lang,model,tokenizer)
+        translated1_list = translate_list(dataset["m_query"],trg_lang,model,tokenizer)
 
-    #     translated_dataset = pd.DataFrame({'inputs': translated1_list,
-    #                                        'targets': translated2_list,
-    #                                        'targets_vec': dataset["test"]["targets_vec"]
-    #                                        })
+        translated_dataset = pd.DataFrame({'m_query': translated1_list,
+                                           'response': dataset["response"]
+                                           })
 
-    #     translated_dataset.to_csv('../datasets/commonsense/commonsense_' + trg_lang + '.csv', sep=';', index=False, header=True)
+        translated_dataset.to_csv('../datasets/msvamp/msvamp_' + trg_lang + '.csv', sep=';', index=False, header=True)
 
-    #     return translated_dataset
-
-
-    
-    # elif name  == 'xstorycloze': 
-
-    #     translated1_list = translate_list(dataset["eval"]["input_sentence_1"],trg_lang,model,tokenizer)
-    #     translated2_list = translate_list(dataset["eval"]["input_sentence_2"],trg_lang,model,tokenizer)
-    #     translated3_list = translate_list(dataset["eval"]["input_sentence_3"],trg_lang,model,tokenizer)
-    #     translated4_list = translate_list(dataset["eval"]["input_sentence_4"],trg_lang,model,tokenizer)
-    #     translated5_list = translate_list(dataset["eval"]["sentence_quiz1"],trg_lang,model,tokenizer)
-    #     translated6_list = translate_list(dataset["eval"]["sentence_quiz2"],trg_lang,model,tokenizer)
-        
-    #     translated_dataset = pd.DataFrame({'input_sentence_1': translated1_list,
-    #                                        'input_sentence_2': translated2_list,
-    #                                        'input_sentence_3': translated3_list,
-    #                                        'input_sentence_4': translated4_list, 
-    #                                        'sentence_quiz1': translated5_list,
-    #                                        'sentence_quiz1': translated6_list,
-    #                                        'answer_right_ending': dataset["eval"]["answer_right_ending"]
-    #                                        })
-
-    #     translated_dataset.to_csv('./datasets/xstorycloze/xstorycloze_' + trg_lang + '.csv', sep=';', index=False, header=True)
-
-    #     return translated_dataset
-    
-    # elif name == "mkqa":
-    # answer column is in this shape: [{'type': 5, 'entity': '', 'text': '11.0 years', 'aliases': ['11 years']}]
-    # how to translate only text and aliases and keep the rest of the structure?
-
-    # elif name  == 'pawsx': 
-        
-    #     translated1_list = translate_list(dataset["test"]["sentence1"],trg_lang,model,tokenizer)
-    #     translated2_list = translate_list(dataset["test"]["sentence2"],trg_lang,model,tokenizer)
-
-    #     translated_dataset = pd.DataFrame({'sentence1': translated1_list,
-    #                                        'sentence2': translated2_list,
-    #                                        'label': dataset["test"]["label"]
-    #                                        })
-
-    #     translated_dataset.to_csv('./datasets/pawsx/pawsx_' + trg_lang + '.csv', sep=';', index=False, header=True)
-
-    #     return translated_dataset
-    
-    # elif name  == 'xnli': 
-        
-    #     translated1_list = translate_list(dataset["test"]["premise"],trg_lang,model,tokenizer)
-    #     translated2_list = translate_list(dataset["test"]["hypothesis"],trg_lang,model,tokenizer)
-
-    #     translated_dataset = pd.DataFrame({'premise': translated1_list,
-    #                                        'hypothesis': translated2_list,
-    #                                        'label': dataset["test"]["label"]
-    #                                        })
-
-    #     translated_dataset.to_csv('./datasets/xnli/xnli_' + trg_lang + '.csv', sep=';', index=False, header=True)
-
-    #     return translated_dataset
-    
-    # elif name  == 'xlsum': 
-        
-    #     translated1_list = translate_list(dataset["test"]["title"],trg_lang,model,tokenizer)
-    #     translated2_list = translate_list(dataset["test"]["summary"],trg_lang,model,tokenizer)
-    #     translated3_list = translate_list(dataset["test"]["text"],trg_lang,model,tokenizer)
-
-    #     translated_dataset = pd.DataFrame({'title': translated1_list,
-    #                                        'summary': translated2_list,
-    #                                        'text': translated3_list
-    #                                        })
-
-    #     translated_dataset.to_csv('./datasets/xlsum/xlsum_' + trg_lang + '.csv', sep=';', index=False, header=True)
-
-    #     return translated_dataset
+        return translated_dataset
 
     else:
-        print("Dataset name is not correctly specified. Please input 'mgsm' or 'xcopa'.")
+        print("Dataset name is not correctly specified.")
 
 def translate_instruction_cot(languages,model,tokenizer):
     """

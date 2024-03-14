@@ -266,54 +266,75 @@ def get_prompt(row,task,prompt_setting,instr_lang):
                             choice2 = row['choice2'],
                             question = row['question'],
                             cot=cot)
-   
+    
+    # mgsm, msvamp, coinflip en shuffled objects nog niet van machine translated instructions
+
+
     elif task == 'mgsm':
 
         if prompt_setting == 'cot':
+
+            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: Let's think step by step.",
+                                    question = row['question'])
         
-            return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
-                                question = row['question'])
+            # return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
+            #                     question = row['question'])
         
         elif prompt_setting == 'basic':
-
-            return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
-                                question = row['question'])  
+            
+            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: ",
+                                    question = row['question'])
+            # return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
+            #                     question = row['question'])  
         
     elif task == 'msvamp':
 
         if prompt_setting == 'cot':
+
+            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: Let's think step by step.",
+                                    question = row['m_query'])
         
-            return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
-                                question = row['question'])
+            # return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
+            #                     question = row['question'])
         
         elif prompt_setting == 'basic':
 
-            return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
-                                question = row['question'])   
+            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: ",
+                                    question = row['m_query'])
+
+            # return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
+            #                     question = row['question'])   
         
     elif task == 'coinflip':
 
-        question = row['question']
-
         if prompt_setting == 'cot':
             
-            question = row['question']
-
-            return f"Question: {question} \nOption A: Yes \nOption B: No \nPick between options A and B. \nAnswer: Let's think step by step."
-
+            return generate_message("Question: {question} \nOption A: Yes \nOption B: No \nBased on the question, which option is true? \nPick between options A and B. \nAnswer: Let's think step by step.",
+                                    question = row['question'])
+        
         elif prompt_setting == 'basic':
 
-            return f'Question: {question} \nOption A: Yes \nOption B: No \nPick between options A and B. \nAnswer: '
+            return generate_message('Question: {question} \nOption A: Yes \nOption B: No \nBased on the question, which option is true? \nPick between options A and B. \nAnswer: ',
+                                    question = row['question'])         
           
-    # elif task == 'shuffled_objects':
+    elif task == 'shuffled_objects':
 
-    #     if prompt_setting == 'cot':
+        if prompt_setting == 'cot':
+
+            return generate_message("Question: {question} \nOption A: {a} \nOption B: {b} \nOption C: {c} \nBased on the question, which option is true? \nPick between options A, B and C. \nAnswer: Let's think step by step.",
+                                    question = row['input'],
+                                    a = row['A'],
+                                    b = row['B'],
+                                    c = row['C'])
+
+        elif prompt_setting == 'basic':
             
-    #         return 
+            return generate_message("Question: {question} \nOption A: {a} \nOption B: {b} \nOption C: {c} \nBased on the question, which option is true? \nPick between options A, B and C. \nAnswer: ",
+                                    question = row['input'],
+                                    a = row['A'],
+                                    b = row['B'],
+                                    c = row['C'])
 
-
-    #     elif prompt_setting == 'basic':
-    #         return      
 
 def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenizer,name):
     """
@@ -369,6 +390,9 @@ def generate_response(df,task,task_lang,instr_lang,prompt_setting,model,tokenize
     elif task == 'coinflip':
         title = name + '_coinflip_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
 
+    elif task == 'shuffled_objects':
+        title = name + '_shuffled_objects_' + task_lang + '_' + prompt_setting + '_instr_' + instr_lang + '.csv'
+
     response.to_csv('results/' + title, sep=';', index=False, header=False)
 
 
@@ -415,6 +439,15 @@ def calculate_accuracy(df1,df2,task):
     elif task == 'coinflip':
 
         correct_answerlist = df1['answer_ab'].tolist()
+
+        nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if x == y)
+        accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
+
+        return accuracy
+    
+    elif task == 'shuffled_objects':
+
+        correct_answerlist = df1['answer_abc'].tolist()
 
         nr_correct = sum(1 for x, y in zip(correct_answerlist, predicted_answerlist) if x == y)
         accuracy = round(100*(nr_correct / len(correct_answerlist)),1)
@@ -476,7 +509,7 @@ def get_results(df,task,response_loc):
 
     answer_list = []
 
-    if task == 'xcopa' or task == 'coinflip':
+    if task == 'xcopa' or task == 'coinflip' or task == 'shuffled_objects':
 
         for i in range(len(response)):
             answer = extract_abc_answer(response.iloc[i,0])
@@ -495,6 +528,7 @@ def get_results(df,task,response_loc):
         response['answer'] = answer_list
 
         return calculate_accuracy(df,response,task)
+
     
 
 

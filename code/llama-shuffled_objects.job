@@ -2,11 +2,11 @@
 
 #SBATCH --partition=gpu
 #SBATCH --gpus=1
-#SBATCH --job-name=msvamp-Llama
+#SBATCH --job-name=shuffled_objects_llama
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=18
-#SBATCH --time=40:00:00
-#SBATCH --output=llama2_msvamp_%A.out
+#SBATCH --time=20:00:00
+#SBATCH --output=llama_shuffled_objects_%A.out
 
 module purge
 module load 2022
@@ -14,4 +14,4 @@ module load Anaconda3/2022.05
 
 cd $HOME/
 source activate llama
-srun python -u llama-msvamp.py
+srun python -u llama-shuffled_objects.py
