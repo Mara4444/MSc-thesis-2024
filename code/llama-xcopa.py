@@ -43,8 +43,8 @@ model = LlamaForCausalLM.from_pretrained(model_name)
 #                                  "Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Spanish", "Tagalog", 
 #                                  "Telugu", "Ukrainian", "Urdu", "Zulu"]
 
-mt_langs = ['Bengali','Tibetan', 'Maithili', 'Malayalam', 'German', 'French','Hindi','Swedish','Javanese', "Burmese", "Cantonese","Telugu"]
-
+# mt_langs = ['Malayalam', 'German', 'French','Hindi','Swedish','Javanese', "Burmese", "Cantonese","Telugu"]
+mt_langs = ["German","Telugu"]
 
 for lang in mt_langs:
 
@@ -67,6 +67,9 @@ for lang in mt_langs:
 #                   model = model,
 #                   tokenizer = tokenizer,
 #                   name = "llama-2-7b")
+
+# mt_langs = ["Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Spanish", "Tagalog", 
+#                                  "Telugu", "Ukrainian", "Urdu", "Zulu"]
     
 # English = get_dataset_df("xcopa","en")
 

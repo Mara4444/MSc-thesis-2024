@@ -21,11 +21,11 @@ langs = ["afr_Latn","arb_Arab","ban_Latn","bel_Cyrl","ben_Beng","bod_Tibt", "bos
 #                           model=model,
 #                           tokenizer=tokenizer)
 
-# translate_instruction_mgsm(languages=langs,
-#                           model=model,
-#                           tokenizer=tokenizer)
-
-translate_instruction_coinflip(languages=langs,
+translate_instruction_mgsm(languages=langs,
                           model=model,
                           tokenizer=tokenizer)
+
+# translate_instruction_coinflip(languages=langs,
+#                           model=model,
+#                           tokenizer=tokenizer)
 

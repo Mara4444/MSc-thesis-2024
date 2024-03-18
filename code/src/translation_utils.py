@@ -220,12 +220,12 @@ def translate_instruction_mgsm(languages,model,tokenizer):
     for lang in languages:
 
         instruction1 = translate_string(inputstring="Question:",trg_lang=lang,model=model,tokenizer=tokenizer) 
-        instruction2 = translate_string(inputstring="Answer:",trg_lang=lang,model=model,tokenizer=tokenizer) 
-        instruction3 = translate_string(inputstring="The answer (arabic numerals) is:",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction2 = translate_string(inputstring="Based on the question, formulate a numeric answer.",trg_lang=lang,model=model,tokenizer=tokenizer) 
+        instruction3 = translate_string(inputstring="Answer:",trg_lang=lang,model=model,tokenizer=tokenizer) 
         instruction4 = translate_string(inputstring="Let's think step by step.",trg_lang=lang,model=model,tokenizer=tokenizer)
 
         instruction_basic = instruction1 + ' {question} \n' + instruction2 + ' ' + instruction3
-        instruction_cot = instruction1 + ' {question} \n' + instruction2 + ' ' + instruction4
+        instruction_cot = instruction1 + ' {question} \n' + instruction2 + ' ' + instruction3 + ' ' + instruction4
         
         translated_list1.append(instruction_basic)
         translated_list2.append(instruction_cot)

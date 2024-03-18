@@ -241,6 +241,24 @@ def get_translated_dataset_df(name,lang):
         
         return df
     
+    elif name == 'msvamp':
+
+        df = pd.read_csv('./datasets/msvamp/msvamp_' + lang + '.csv',sep=';') 
+
+        return df
+    
+    elif name == 'coinflip':
+
+        df = pd.read_csv('./datasets/coinflip/coinflip_' + lang + '.csv',sep=';') 
+
+        return df
+    
+    elif name == 'shuffled_objects':
+
+        df = pd.read_csv('./datasets/shuffled_objects/shuffled_objects_' + lang + '.csv',sep=';') 
+
+        return df
+    
     else:
         print("Dataset name is not correctly specified. Please input 'mgsm' or 'xcopa'.")
 
