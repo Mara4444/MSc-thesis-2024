@@ -1,0 +1,15 @@
+pip
+ipykernel
+transformers
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+accelerate
+sentencepiece
+protobuf
+pandas
+datasets
+nltk
+random
+re
+numpy
+matplotlib
+seaborn
