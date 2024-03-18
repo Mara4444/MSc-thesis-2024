@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Barang kasebut dikemas ing bungkus gelembung. ;cause;Kuwi ora gampang rusak. ;Iku cilik. ;0
+Aku ngiris kanthongku. ;effect;Aku njupuk sepur tiket. ;Aku nemu senjata. ;0
+Termit nyerang omah. ;effect;Ulam-ulam mau ilang saka omah. ;Ulat-ulat mau mangan kayu ing omah. ;1
+Para wong lelungan wis tekan tapel wates. ;effect;Agen patroli mriksa pasporé. ;Agen patroli nudhuh wong-wong mau nggodha. ;0
+Kantoré ditutup. ;cause;Dina kuwi dina riyaya. ;Wektu kuwi musim panas. ;0
+Bocah wadon kuwi ora nduwé tenaga manèh. ;cause;Dheweke main dam. ;Dheweke mlumpat tali. ;1
+Wong wadon kuwi ora ana ing antarané wong-wong sing nunggu. ;cause;Akèh wong sing mlebu antrian. ;Dheweke metu saka baris. ;1
+Bocah wadon iku nyubit irunge. ;cause;Bayi iku ngguyu ing pipine. ;Bayi kuwi ngrusak popoké. ;1
+Band kasebut main lagu hit. ;effect;Para penonton padha tepuk tangan sakdurungé musik kuwi diwiwiti. ;Para hadirin padha meneng-menengan ngrungokaké kanthi sopan. ;0
+Bocah wadon mau arep matur nuwun marang guru matematika. ;effect;Bocah wadon mau tetep sekolah sakwisé sekolah kanggo detensi. ;Bocah wadon iku nggawa apel kanggo guru. ;1
+Para camper enom kuwi wedi. ;cause;Konselor kampé nyritakké crita bab hantu. ;Wong-wong kuwi nggoreng marshmallow ing geni. ;0
+Wong lanang iku ngethok sirahé. ;effect;Dhèwèké dadi bingung. ;Dheweke ngalami geger otak. ;1
+Cek sing tak tulis ora dibayar. ;cause;Rekening bankku kosong. ;Aku entuk kenaikan gaji. ;0
+Kotak mlebu emailé wong lanang kuwi kebak spam. ;effect;Dheweke mbusak spam. ;Dhèwèké ngirim e-mail akèh. ;0
+Pelaut kuwi dikarantina. ;cause;Dhèwèké kena penyakit kuwi. ;Dhèwèké pulih saka lelara iku. ;0
+Bocah wadon kuwi wis ngapalaké kode kuwi. ;cause;Dhèwèké maca ing njero ati. ;Dheweke lali nulis. ;0
+Aku ngudhunaké banyu ing gelas. ;effect;Banyu kuwi ngilangké rasa ngelakku. ;Kaca dadi kebak. ;1
+Wong lanang kuwi meneng waé sakwisé kanca kuwi rampung ngomong. ;cause;Dhèwèké péngin ndhukung kancané. ;Dhèwèké mikirké omongané kancané. ;1
+Kacilakan kuwi salahku. ;effect;Aku rumangsa salah. ;Aku nglaporake. ;0
+Rantéé pecah. ;cause;Ranté kuwi dibungkus ban. ;Ana link rusak ing chain. ;1
+Wong loro kuwi mutuské kanggo ora ngganggu. ;cause;Wong loro kuwi kesel merga padu. ;Wong loro kuwi ora ngrembug masalah kuwi. ;0
+Wong wadon kuwi mutuské arep dadi wakil gubernur. ;effect;Dhèwèké nyewa manajer kampanye. ;Dhèwèké mènèhi paseksi ing pengadilan. ;0
+Wong lanang kuwi ngira nèk perjalanané bakal adhem. ;effect;Dhèwèké nggawa sandhangan anget ing koperé. ;Dhèwèké lelungan karo koper gedhé. ;0
+Murid kuwi ngerti jawabané. ;effect;Dhèwèké ngangkat tangané. ;Dheweke dadi wong bodho. ;0
+Wong lanang kuwi nangis. ;cause;Bledug mlebu mripaté. ;Dhèwèké nganggo kacamata. ;0
+Pemain kasebut menang limang pertandingan berturut-turut. ;effect;Lawané nudhuh dhèwèké mbeling. ;Mungsuhé kuwi ngéman dhèwèké. ;0
+Guru nyuwek-nyuwek ujiané murid. ;cause;Dheweke nyekel siswa sing nyontek. ;Wangsulane siswa ora bener. ;0
+Aku mandheg ngomong. ;cause;Aku ora bisa ngomong. ;Aku ora isa ambegan. ;1
+Panganan beku dadi beku. ;cause;Aku sijine ing gelombang mikro. ;Aku nutupi karo bungkus plastik. ;0
+Pegawe kasebut pura-pura lara. ;cause;Dhèwèké lara weteng. ;Dhèwèké péngin dina luang. ;1
+Bocah wadon mau tiba ing blumbang. ;cause;Dheweke mlayu ing dek kolam renang. ;Dhèwèké mlumpat saka papan nyilem. ;1
+Tiket wayang wis didol kabèh. ;cause;Dina kuwi dina pembukaan filem. ;Film iki nampa ulasan sing ora apik. ;0
+Wong lanang kuwi wis ilang bobot. ;effect;Wong-wong nyingkirké dhèwèké. ;Wong-wong padha muji dhèwèké. ;1
+Tangane bocah wadon mau dadi blister. ;cause;Dhèwèké nulis surat. ;Dhèwèké munggah ing tali. ;1
+Artis sirkus kasebut juggle nalika numpak sepedha tunggal. ;effect;Para penonton padha ngrayu kanthi gumun. ;Akrobat iki ngguyang saka trapéz. ;0
+Aku ora sabar manèh. ;cause;Kancaku nggawé aku ngentèni. ;Kancaku tekan ing wektu sing tepat. ;0
+Negara-negara sing perang kuwi péngin ayem tentrem. ;effect;Wong-wong kuwi nggawé senjata nuklir. ;Wong loro kuwi ngrembug bab perjanjian. ;1
+Wong lanang iku njupuk obat turu. ;effect;Dhèwèké dadi ngantuk. ;Dhèwèké lara panas. ;0
+Wong wadon mau nempuh sofa. ;effect;Sikil sofa dadi longgar. ;Dheweke ngremuk lutut. ;1
+Bocah kuwi nyempet baloné. ;effect;Baloné pecah. ;Baloné mabur lunga. ;0
+Wong-wong kuwi wis mlebu kamar ing hotèl. ;effect;Wong-wong kuwi mbongkar koperé. ;Wong-wong mau padha menyang bandara. ;0
+Aku ngethok persik. ;effect;Peach bruised. ;Jus tumpah metu. ;1
+Tanganku dadi lengket. ;cause;Aku mangan donat. ;Aku seneng banget mangan panganan manis. ;0
+Aku meksa lawangé. ;effect;Lawangé dibukak. ;Lawangé dikunci. ;0
+Para aktivis boikot produk kasebut. ;cause;Produk kasebut dites kanggo jaminan kualitas. ;Produk kasebut diproduksi liwat tenaga kerja bocah. ;1
+Aku ngambruk témbok. ;effect;Ana tikus sing metu saka bolongan. ;Bledug metu saka bolongan. ;1
+Wong wadon kuwi iri karo adhine. ;cause;Seduluré wadon seneng. ;Seduluré wadon pegatan. ;0
+Aku ngucur anggur ing klambi. ;effect;Aku nganggo jubah. ;Aku ganti kaos. ;1
+Kasir mbukak mesin kas. ;cause;Pelanggan kuwi nggolèki dompeté. ;Pelanggan kuwi nyerahké dhuwité. ;1
+Musisi dalanan narik kawigaten wong akeh. ;effect;Wong-wong mènèhi dhuwit cilik. ;Wong-wong mau banjur padha didhawuhi lunga. ;0
+Bocah cilik mau nangis karo pengasuhé. ;cause;Dhèwèké kangen karo wong tuwané. ;Wektu kanggo mangan. ;0
+Radar pilot ndeteksi badai. ;effect;Pilot nglayar adoh saka badai. ;Pilot mabur liwat badai. ;0
+Wit kuwi ngrusak godhongé. ;effect;Godhong-godhongé dadi werna-werna. ;Godhong-godhongan mau banjur tumpes ing lemah. ;1
+Bocah lanang iku lagi seneng-seneng. ;effect;Dhèwèké mutuské kanggo main kartu karo adhine. ;Dhèwèké mutuské kanggo ngguyu karo adhine. ;1
+Bocah kuwi sambat kudu menyang kamar mandi. ;effect;Bapakipun maringi soda kanggé dipun ombé. ;Bapaké mandheg mobil ing stasiun bensin. ;1
+Bocah kuwi nyiram panganan iwak ing wadhah. ;effect;Iwak kasebut mlumpat metu saka tank. ;Iwak mau nglangi tumuju panganan. ;1
+Pandhangané bab politiké wong wadon kuwi malih. ;effect;Dhèwèké ngganti afiliasi partiné. ;Dhèwèké mèlu protes. ;0
+Banyu ing kamar mandhi wis kenthel. ;effect;Aku mbukak kran banyu. ;Aku nglebokake pembersih saluran menyang iku. ;1
+Para penumpang mudhun saka sepur. ;cause;Sepur teka ing stasiun. ;Sepur kuwi wisel. ;0
+Wong lanang iku tekan lempitan lembab amplop. ;effect;Panjenengané nempel cap ing amplopé. ;Panjenengané nutup amplopé. ;1
+Kanca-kancané ora isa omong-omongan manèh. ;cause;Wong loro kuwi seneng-seneng bareng. ;Wong loro kuwi pindhah menyang kutha liya. ;1
+Akuntan salah ngatur dana perusahaan. ;effect;Dhèwèké dipecat saka jabatané. ;Dhèwèké lunga ing cuti bersalin. ;0
+Aku ndelok jam. ;cause;Aku krungu jam ketik. ;Aku kepengin mriksa wektu. ;1
+Tanganku kram. ;cause;Aku nulis esai kanthi tangan. ;Aku lan bojoku padha nyekel tangan. ;0
+Bolot kasebut kenceng. ;cause;Aku wis ngganti bolt. ;Aku mbengkongake kunci. ;1
+Pasangan kuwi nggawé perjanjian sewa kanggo omah. ;effect;Pasangan kuwi pindhah ing apartemen kuwi. ;Kutha kuwi ora gelem nampa apartemen kuwi. ;0
+Wong wadon mau lungguh ing njaba ing teras. ;cause;Dhèwèké péngin ndelok srengéngé surup. ;Dheweke ngira weruh kilat. ;0
+Wong lanang iku nganggo jaket penyelamat ing banyu. ;cause;Dheweke ora bisa nglangi. ;Banyu kuwi cethèk. ;0
+Wong wadon iku nggawe kesalahan ketik ing prosesor teks. ;effect;Dhèwèké mbusak dokumen kuwi. ;Dheweke mencet tombol backspace. ;1
+Bocah wadon kuwi mbanggak-banggak karo kanca-kancané. ;cause;Dhèwèké nampa nilai sing kurang apik. ;Dhèwèké menang ing kontès. ;1
+Ing pekarangan kuwi ana lendhut. ;cause;Udan deres banget ing wayah wengi. ;Ing kono akèh suket. ;0
+Wong wadon kuwi turu. ;cause;Dhèwèké nginep ing hotel. ;Dheweke lali nyetel jam weker. ;1
+Wong lanang kuwi nganggo krim kanggo njaga awak saka srengéngé. ;cause;Dhèwèké lungguh ing peteng. ;Dheweke lunga menyang pantai. ;1
+Para panaliti mbuktèkaké téyori kuwi. ;effect;Para panaliti mbatalake téyori kasebut. ;Wong-wong padha nampa téyori kuwi. ;1
+Para penggemar ing pertandingan kasebut nguwuh. ;cause;Game kasebut dadi wektu tambahan. ;Wasit nggawé keputusan sing salah. ;1
+Aku ngetik kombinasi ing kunci. ;effect;Aku nutup kunci. ;Kunci mbukak. ;1
+Wong akèh kuwi saya akèh. ;effect;Bapak kuwi mènèhi anaké dhuwit. ;Bapaké nyekel tangané anaké. ;1
+Salju mblokir dalan. ;effect;Aku ngumpulaké salju dadi bola salju. ;Aku ngethok salju saka dalan. ;1
+Para kayaker ngempet dayungé. ;effect;Kayak kuwi tekan ing pesisir. ;Kayak kuwi kepetuk karo ombak. ;0
+Bocah wadon mau ora bisa ngendhalèni sepedhèké. ;effect;Dheweke ngeculake setir. ;Dheweke nabrak pager. ;1
+Aku nguripake kipas. ;effect;Banyu sing disiram ing kulitku. ;Aku krasa angin adhem liwat aku. ;1
+Para peselancar bali menyang pantai. ;cause;Wong-wong kuwi wis teles. ;Wong-wong kuwi ndelok ana hiu. ;1
+Aku narik colokan ing bak mandi. ;effect;Banyu metu saka bak. ;Banyu nyembur ing lantai. ;0
+Bojoné ngrasa salah merga ora setya karo bojoné. ;effect;Dhèwèké nudhuh dhèwèké ora setya. ;Dhèwèké ngakoni ora setya karo bojoné. ;1
+Tinta ing poster sing dicelup. ;cause;Aku ngentèni nganti tinta garing. ;Aku ngecor banyu ing poster. ;1
+Bocah mau tangi nangis. ;cause;Dhèwèké ngimpi elek. ;Dheweke ngompol kasur. ;0
+Bocah kuwi ngunggahké sikilé ing méja. ;effect;Bapake banjur lungguh ing meja. ;Bapakipun maringi piwulang dhumateng piyambakipun. ;1
+Kancaku nguripake sirahe ing arahku. ;cause;Aku mbengok jenengé. ;Aku nggunakaké tanganku. ;0
+Pamréntah kuwi nindhes rakyaté. ;effect;Warga kuwi mbrontak. ;Warga-wargané ndhaftar kanggo milih. ;0
+Bocah kuwi kesasar ing alas. ;effect;Dhèwèké ngedegké kémah. ;Dhèwèké njerit njaluk tulung. ;1
+Wong wadon iku lunga menyang luar negeri. ;cause;Dhèwèké péngin sinau nggambar. ;Dhèwèké péngin sinau bab budaya liya. ;1
+Wong lanang kuwi iri karo kanca kerjané. ;cause;Kancané kerja dipromosikké. ;Kancané kerja nganti wengi. ;0
+Wong iki nyekseni alien. ;cause;Dheweke ngalami halusinasi. ;Dhèwèké lagi mèditasi. ;0
+Rambuté wong lanang kuwi dadi pirang. ;cause;Dheweke sijine pemutih ing. ;Dheweke sijine sampo ing. ;0
+Artis nggawe karya anyar. ;cause;Dheweke ngritik karyane sadurunge. ;Dheweke felt stroke saka inspirasi. ;1
+Anaké lanang pindhah saka omah. ;cause;Dhèwèké dipecat saka militèr. ;Dheweke arep kuliah. ;1
+Buku-buku tiba saka rak buku. ;cause;Rak-rak kuwi kebak bledug. ;Gempa bumi ngguncang rak buku. ;1
+Listrik ing omahku mati. ;effect;Aku nyunari lampu. ;Aku ngreset pemutus sirkuit. ;1
+Kita numpak roller coaster. ;cause;Kuwi katon medeni. ;Katon nyenengake. ;1
+Kantong popcorn wiwit pop. ;cause;Aku ngiseni mentega ing tas. ;Aku wis digawe panas ing gelombang mikro. ;1
+Wit tiba ing kabel listrik. ;effect;Listrik ing lingkungan kasebut mati. ;Prakiraan kasebut ngramal angin gedhe. ;0
+Pembicara kasebut nggawe komentar sing ora bener ing politik. ;effect;Dhèwèké ngganggu penonton. ;Dhèwèké nglarani para penonton. ;1
+Aku nyuduk awakku nganggo pin. ;effect;Aku dadi kringet. ;Ana tetesan getih ing driji. ;1
+Iwaké ngambang ing permukaan tangki. ;cause;Dhèwèké lagi luwé. ;Iku mati. ;1
+Swara wong lanang kuwi kaya-kaya ora krasa. ;cause;Dhèwèké lagi lara pilek. ;Dhèwèké mandheg ngrokok. ;0
+Lawang elevator dibukak. ;cause;Lift tekan lantai sing ditemtokaké. ;Lifté macet ing antarané lantai. ;0
+Bocah kuwi mlayu metu saka omah. ;cause;Dhèwèké ngapusi wong tuwané. ;Wong tuwané ngukum dhèwèké. ;1
+Kamar mandhi banjir. ;cause;Toileté kebanjiran. ;Pemanas banyu rusak. ;0
+Anjing cilik mau tetep cedhak karo sing nduwé. ;cause;Sing nduwé nyandhang guluné. ;Sing nduwé asu kuwi terus ngopèni asu kuwi. ;1
+Wong lanang kuwi ndelok bayangané. ;cause;Dhèwèké ngadeg ing ngisor wit sing gedhé banget. ;Dhèwèké ngadeg ing tlaga sing tenang. ;1
+Aku ora bisa nelpon pacarku. ;effect;Aku telpon bali. ;Aku ketemu karo dheweke kanggo nedha bengi. ;0
+Keluarga kuwi nggolèki ing sakupengé. ;cause;Anjingé mlayu saka omah. ;Perhiasan sing larang regane ilang saka omahe. ;0
+Aku ndelok ambeku wektu ambegan. ;cause;Cuaca adhem banget. ;Dada saya dadi keteg. ;0
+Para karyawan mbentuk serikat. ;cause;Wong-wong kuwi péngin kahanan nyambut gawé sing luwih apik. ;Pakaryané ngundhakké upahé. ;0
+Aku nggawé pai apel. ;effect;Bau busuk sing ana ing pawon kuwi. ;Ing pawon kono ana aroma sing anget. ;1
+Wong wadon kuwi ora isa mlaku. ;cause;Dhèwèké nganggo sepatu hak dhuwur. ;Dheweke nyopot sepatune. ;0
+Uap metu saka pot banyu. ;cause;Banyu dadi mendhung. ;Aku nutupi pot. ;0
+Kabeh kaos kaki aku ana ing laundry. ;effect;Aku nganggo sandal. ;Aku nganggo sepatu bot. ;0
+Argumen politisi kasebut dianggep ora masuk akal. ;effect;Piyambakipun kélangan dukungan para pamilih. ;Dhèwèké dituduh korupsi. ;0
+Kabèh wong ora setuju karo tunangané pasangan kuwi. ;effect;Pasangan kuwi ngandhut. ;Pasangan kuwi mlayu. ;1
+Bangunan iki didedikasikan kanggo jutawan. ;cause;Wong sugih mau péngin bangunan kuwi diruntuhaké. ;Wong sugih kuwi nyumbang dhuwit kanggo mbangun. ;1
+Wong sing dodolan mau nudhuh bocah wadon kuwi nyolong. ;cause;Wong sing dodolan kuwi ndelok bocah wadon kuwi masang barang-barang ing tasé. ;Wong sing dodolan kuwi mbantu cah wédok kuwi nemokké dompet sing disenengi. ;0
+Negara kasebut ngumumake perang ing wilayah tetanggan. ;effect;Para prajurit dikirim kanggo perang. ;Para prajurit banjur ketemu karo kulawargane. ;0
+Pengadilan njaga keputusan sing kontroversial. ;effect;Ana kerusuhan ing ngarepé gedhong pengadilan. ;Ana pasangan sing ngéman janji ing ngarepé gedhong pengadilan. ;0
+Bocah wadon mau mambu ana sing kobong. ;cause;Dheweke njupuk cookie saka toples. ;Dheweke ninggalake cookie ing oven. ;1
+Udan deres banget. ;effect;Badai kuwi saya parah. ;Aku cepet-cepet mlebu. ;1
+Bangunan iki wis dievakuasi. ;cause;Lifté mandheg. ;Alarm geni banjur muni. ;1
+Bapaké nesu karo anaké sing dadi alkoholis. ;effect;Bapaké tuku bir kanggo anaké. ;Bapaké ngusir anaké saka omah. ;1
+Pengacara kuwi munggah undhak-undhakan menyang kantoré. ;cause;Sekretaris mulih sedina. ;Lifté ora bisa mlaku. ;1
+Wong lanang kuwi nesu karo kancané. ;cause;Kancané ngganggu. ;Kancané tuku mangan awan. ;0
+Bocah wadon iku masrahake dhuwité marang kasir. ;effect;Kasir mènèhi dhuwité bocah wadon. ;Kasir lali menehi kuitansi marang bocah wadon kasebut. ;0
+Wong wadon kuwi dilebokké ing kursi rodha. ;cause;Dhèwèké lumpuh merga kecelakaan. ;Dhèwèké mlebu rumah sakit nganggo brankas. ;0
+Warga nggantungake gendera nasional ing njaba omah. ;cause;Negara iki ngrayakake kamardikan. ;Negara iki ngadhepi kasusahan ekonomi. ;0
+Tim kasebut kalah ing turnamen kasebut. ;effect;Wong-wong kuwi nggawé kuciwa para penggemaré. ;Wong-wong kuwi dadi inspirasi kanggo para penggemaré. ;0
+Kancaku kandha nèk aku nduwé panganan sing macet ing untu. ;effect;Aku rumangsa isin. ;Aku bangga karo dhèwèké. ;0
+Bocah kuwi ora lulus ujian sejarah. ;cause;Dhèwèké nggatèkké ing kelas. ;Dheweke lali sinau. ;1
+Bangunan ing pusat kutha ambruk. ;cause;Kutha iki kena lindhu. ;Tingkat kejahatan ing kutha kasebut saya tambah. ;0
+Pacaré wong lanang kuwi wis pisah karo dhèwèké. ;effect;Dhèwèké nyuwun supaya dhèwèké ditampa manèh. ;Dheweke ngenalake dheweke marang wong tuwane. ;0
+Bocah loro kasebut bebarengan nyedhaki bal kasebut. ;effect;Balé mau banjur mlayu. ;Kepala-kepalaé padha tabrakan. ;1
+Raccoon ngrampok tong sampah. ;cause;Ana karton ing tong sampah. ;Tutupé ora ana ing tong sampah. ;1
+Bocah lanang iku ngasah potlot. ;cause;Iku murah. ;Iku ora nyenengake. ;1
+Kasir ora gelem mbalekaké dhuwit kanggo klambi kuwi marang wong wadon kuwi. ;cause;Dheweke kelangan kuitansi. ;Gauné ora cocog. ;0
+Kulitku dadi goresan sing jero. ;effect;Ora suwé banjur mari. ;Iku kiwa bekas. ;1
+Wong lanang kuwi ditonton karo para penumpang ing kréta sing aneh. ;cause;Dhèwèké ndelok ing lemah. ;Dhèwèké ngomong karo dhèwèké dhéwé. ;1
+Bocah kuwi ninggalké remah-remah ing lantai. ;effect;Semut-semut kuwi banjur nyusup ing remah-remah kuwi. ;Bocah kuwi nyelehké roti kuwi. ;0
+Wong wadon kuwi mènèhi tissu kanggo adhine. ;cause;Seduluré wong wadon kuwi ngambung tangané. ;Seduluré wong wadon kuwi nangis. ;1
+Wong lanang iku njupuk mint. ;cause;Bibiné wis pecah. ;Dhèwèké kuwatir bab ambegan. ;1
+Pasangan kuwi mangkat luwih dhisik kanggo nonton acara. ;cause;Wong-wong kuwi ngramal nèk bakal ana akèh wong ing sekitar téater. ;Dheweke entuk arah menyang teater. ;0
+Wong wadon mau ora kerja ing omah. ;effect;Bosé ngalem dhèwèké. ;Kancané nylametké dhèwèké. ;1
+Wong lanang iku nandatangani petisi para aktivis. ;cause;Dhèwèké ndhukung tujuané. ;Dhèwèké nyebut wong-wong kuwi wong edan. ;0
+Atine aktor iku gumeter sadurunge tampil. ;cause;Dhèwèké wedi panggung. ;Dhèwèké ngapalake ayat-ayaté. ;0
+Aku kesasar. ;effect;Aku ngetung dhuwitku. ;Aku mbukak peta. ;1
+Woh-wohan sing wis mateng kuwi isih ana ing srengéngé. ;effect;Wis dipangan. ;Iku shrivelled munggah. ;1
+Mobilé rusak. ;cause;Aku nguripake kontak. ;Mesiné panas banget. ;1
+Wong lanang iku nglarani punggungé. ;effect;Dhèwèké lunga nemoni psikiater. ;Dhèwèké turu pirang-pirang dina. ;1
+Aku miwiti geni ing perapian. ;cause;Aku ora nduwé kayu bakar. ;Ing omah ana adhem. ;1
+Wong wadon kuwi mandheg mlaku. ;cause;Dheweke duwe kram ing sisih. ;Dheweke entuk napas liyane. ;0
+Aku ngetokké lawangé tangga teparo. ;effect;Tanggaku ngajak aku mlebu. ;Tanggaku lunga saka omahé. ;0
+Wong wadon kuwi sedhih banget. ;cause;Bojone salah paham karo kuwatir. ;Bojone ngambung dheweke. ;0
+Guru ngalem muridé. ;cause;Murid kuwi njawab pitakonan kuwi kanthi bener. ;Murid mau ragu-ragu njawab pitakonan kuwi. ;0
+Wong wadon mau ora ana endhog manèh. ;effect;Dhèwèké lunga menyang peternakan. ;Dheweke lunga menyang supermarket. ;1
+Aku ketemu karo kancaku sing wis tuwa. ;effect;Aku ngandhakaké sawijining rahasia marang dhèwèké. ;Aku ngrangkul dhèwèké. ;1
+Wong wadon kuwi ora gelem mlebu ing tlaga. ;cause;Dheweke nyekel iwak. ;Katon kaya kena kontaminasi. ;1
+Murid kuwi teka ing kelas kanthi kecelup. ;cause;Payungé rusak. ;Sepedhahanipun dipun curi. ;0
+Kursor ing layar komputer obah. ;cause;Pangguna ngeklik mouse. ;Panganggo mindhah mouse. ;1
+Sopir kuwi ngliwati dalan. ;cause;Ana kacilakan ing dalan utama. ;Dhèwèké ngetutké truk ing ngarep. ;0
+Aku nggantung klambi klambi ing lawon klambi ing njaba. ;effect;Kainé garing. ;Linen sing dicemari. ;0
+Wong wadon mau nganggo kacamata. ;cause;Cahya srengéngé padhang. ;Dhèwèké ngundang taksi. ;0
+Wong lanang kuwi ndelok langit ing wayah wengi. ;cause;Dheweke kepengin dadi musim panas. ;Dhèwèké mikir nèk kuwi apik banget. ;1
+Aku rumangsa kesel banget. ;effect;Aku turu luwih dhisik. ;Aku ora turu sewengi. ;0
+Wong lanang kuwi lunga menyang tukang cukur. ;cause;Rambuté wis thukul. ;Rambuté saya dawa. ;1
+Bocah kuwi ora seneng karo kanca kelasé sing anyar. ;cause;Bocah kuwi nampani kanca kelasé sing anyar. ;Bocah kuwi ora seneng karo kanca kelasé sing anyar. ;1
+Aku kepéngin ngombé susu. ;cause;Aku lagi mangan cookie. ;Aku lagi nggawé roti. ;0
+Udan wiwit deres. ;effect;Sopiré nyunari lampu. ;Sopiré nyopir mobilé dadi mburi. ;0
+Parkiré bangunan kuwi kosong. ;effect;Aku parkir ing sebrang dalan. ;Aku parkir ing cedhak lawang. ;1
+Panulis ora bisa ngirim rancangan kasebut ing wektu sing wis ditemtokake. ;cause;Dhèwèké ngalami masalah nulis. ;Dhèwèké nyunting rancangané. ;0
+Asosiasi kasebut nyelehake aku. ;cause;Aku njaluk ngomong karo pengawas. ;Aku mènèhi nomer idhèntitasku. ;0
+Angin nyebar liwat jendhela sing mbukak. ;effect;Tombolé lawang muni. ;Tirai-tirai dadi gemeter. ;1
+Listrik ing omahku mati. ;cause;Aku copot lampu. ;Aku ngetokake sekring. ;1
+Wong angkat berat kuwi nggremeng. ;cause;Dheweke ngethok otot ing pangilon. ;Dhèwèké ngangkat bar ing ndhuwuré sirahé. ;1
+Siswa kuwi nyoba ngitung nganggo pikirane. ;effect;Dhèwèké njupuk kalkulator. ;Dhèwèké bingung. ;1
+Bayi kuwi turu. ;cause;Bapaké ngganti popok bayi. ;Bapaké ngguyangké bayiné kanthi alus. ;1
+Bocah wadon iku mbuwang balon banyu marang bocah lanang iku. ;effect;Bocah kuwi ngalami geger otak. ;Bocah lanang mau dadi teles. ;1
+Fotografer lali nggunakaké lampu kilat ing kamera. ;effect;Foto-foto mau dadi kabur. ;Kabèh wong ing foto ora gelem mesem. ;0
+Aku nolak undhangan kanggo pesta ulang taun. ;cause;Aku kesepian. ;Aku ora ana ing kutha. ;1
+Aku wis olahraga. ;cause;Aku rumangsa semangat. ;Aku wedi. ;0
+Aku nyempet spons sing udan. ;effect;Iku nyedhot banyu. ;Banyu bocor metu saka iku. ;1
+Para wisatawan numpak prau menyang resort. ;cause;Resor wis dipesen. ;Resor kuwi ana ing sawijining pulo. ;1
+Bocah kuwi nduwé tato. ;cause;Dhèwèké wedi karo jarum suntik. ;Dhèwèké péngin mbrontak. ;1
+Mobil sing ora kenal diparkir ing ngarep omahku. ;effect;Aku dadi curiga. ;Aku ngubungi pulisi. ;0
+Pelaku kasebut nyerah. ;cause;Bukti-bukti sing ana ing kono nduduhké nèk dhèwèké kuwi salah. ;Ora ana bukti sing nglawan dhèwèké. ;0
+Wong lanang sing abot kuwi mutuské arep ngurangi bobot awaké. ;effect;Dhèwèké ora mangan gula. ;Dhèwèké ora ngombé kafein. ;0
+Bocah wadon iku mlaku ing es. ;effect;Dheweke kesandhung. ;Dhèwèké gemeter. ;0
+Wong wadon iku nduwé cincin ing ngisor mripaté. ;cause;Dhèwèké ora turu sewengi. ;Bojone banjur didheg. ;0
+Lava mili saka gunung geni. ;cause;Gunung geni kuwi njeblug. ;Gunung geni kuwi isih ora aktif. ;0
+Wong wadon iku nganggo sepatu. ;cause;Dhèwèké kenal karo kabèh wong ing pésta kuwi. ;Dhèwèké péngin ninggalké pésta kuwi. ;1
+Aku mbayar petugas tol. ;effect;Aku dityeluk liwat kantor tol. ;Aku ditundha ing kantor tol. ;0
+Eksekutif bangkrut. ;cause;Dhèwèké adol saham perusahaané. ;Dhèwèké mbuwang-mbuwang bandhané. ;1
+Wong lanang kuwi lunga menyang dhokter. ;cause;Dokter kuwi lagi cuti. ;Wong lanang kuwi lara. ;1
+Aku metu saka kamarku liwat jendela. ;cause;Omahé kobong. ;Omahé kosong. ;0
+Jari-jarine bocah lanang dadi prune. ;cause;Dheweke adus suwe. ;Tangane dilapisi sabun. ;0
+Aku nyembur susu. ;cause;Sapi kuwi rasane asem. ;Mulutku garing. ;0
+Aku ora bisa numpak bis. ;effect;Aku teka kerja luwih dhisik. ;Aku telat kerja. ;1
+Truk kasebut tabrakan karo mobil kasebut. ;effect;Truk kuwi cepet banget. ;Mobilé rusak. ;1
+Tim iki nggunakké cara sing salah kanggo nggayuh tujuané. ;effect;Wong-wong kuwi menang. ;Wong-wong kuwi ora gelem mèlu sekolah. ;0
+Botol soda wisel. ;cause;Aku nguripake botol. ;Aku mbengkongake tutup. ;1
+Bocah kuwi dikunci metu saka omahé. ;effect;Dhèwèké nyusup liwat jendhéla sing mbukak. ;Dhèwèké munggah ing atap. ;0
+Tombolé lawang muni. ;effect;Pengunjungé ngetokké lawang. ;Wong wadon kuwi ndelok liwat bolongan kunci ing lawang. ;1
+Wong lanang iku ngrusak jasé. ;effect;Dheweke wis ngresiki garing. ;Dhèwèké nggantungké ing lemari. ;0
+Bocah wadon iku nyempet tabung pasta gigi. ;effect;Pasta untu metu saka tabung. ;Bocah wadon iku nyemburake pasta gigi. ;0
+Pati warga sipil saka perang mundhak. ;effect;Para pasifis nganakaké demonstrasi. ;Para pasifis nganakaké pawai. ;0
+Bocah wadon iku nyeret pita saka rambuté. ;cause;Dheweke ngiket pita kasebut. ;Pita kuwi katon kaya bocah cilik. ;1
+Wong lanang iku nglakoni operasi plastik. ;effect;Dhèwèké dadi tuwa. ;Dhèwèké katon luwih enom. ;1
+Anak pitik metu saka endhog. ;cause;Endhogé metu. ;Aku wis ngethok endhog. ;0
+Wong tahanan kuwi mati merga keluwen. ;effect;Panjenengané séda. ;Dhèwèké mlayu. ;0
+Wong lanang kuwi ora seimbang ing undhak-undhakan. ;effect;Dhèwèké munggah ing undhak-undhakan. ;Dhèwèké tiba saka undhak-undhakan. ;1
+Bocah kuwi nggarak. ;cause;Dhèwèké ngunjuk soda. ;Dhèwèké mbukak kaleng soda. ;0
+Ana angin adhem mlebu liwat jendhela. ;effect;Aku santai. ;Aku dadi gemeter. ;1
+Siswa kasebut nampa beasiswa kanggo kuliah. ;cause;Kanca-kancané kelas ngajèni dhèwèké. ;Dhèwèké nduwé nilai apik. ;1
+Bocah wadon mau ngguyu karo bocah lanang mau. ;cause;Dhèwèké manggon ing sebelahé. ;Dhèwèké seneng karo dhèwèké. ;1
+Wong nglamun sing ora nduwé omah nyolong panganan. ;cause;Dhèwèké ngundang rasa welas asih. ;Dhèwèké ora nduwé dhuwit. ;1
+Aku nelpon kancaku kanggo ngobrol. ;cause;Aku péngin nduwé privasi. ;Aku rumangsa sepi. ;1
+Wong lanang kuwi nyekel aku. ;effect;Aku ngambung tangané. ;Aku ngalahké dhèwèké. ;0
+Aku mlayu. ;cause;Kembang api diluncurake ing udara. ;Frisbee nglayang menyang sirahku. ;1
+Bocah wadon iku ngethok kuku. ;cause;Dhèwèké kuwatir. ;Dhèwèké kaget. ;0
+Aku nguripake kaca ing tanggalan. ;cause;Aku wis nulis janji ing tanggalan. ;Iku awal sasi anyar. ;1
+Bojone nemokake yen garwane duwe hubungan. ;effect;Dhèwèké ngeculaké pengacaraé. ;Dhèwèké njaluk pegatan. ;1
+Bocah wadon kuwi ngeculaké bal karet. ;effect;Balé mau mlumpat. ;Balé mau mencorong. ;0
+Bocah wadon iku salah nalika ujian. ;effect;Dhèwèké ngerti jawabané. ;Dhèwèké mbusak wangsulané. ;1
+Pemain kasebut ngatasi lawannya. ;effect;Lawané nyekel pass. ;Lawané tiba ing lemah. ;1
+Aku njupuk tomat saka wit anggur. ;cause;Wong-wong kuwi wis mateng. ;Aku nyiram wong-wong mau. ;0
+Wong lanang kuwi péngin dadi wong sing romantis. ;effect;Dheweke ketemu karo mantan pacar kanggo mangan awan. ;Dheweke tuku coklat kanggo pacare. ;1
+Merkuri ing termometer mundhak. ;cause;Aku ngeculake termometer. ;Cuaca dadi luwih anget. ;1
+Ana angin topan sing nyebrang kutha. ;effect;Atap gedung pengadilan njeblug. ;Dalan gedhé dadi èlèk sing mbebayani. ;0
+Siswa nampa pangajaran. ;effect;Sekolahané saya apik. ;Dhèwèké nyontek ing ujian. ;0
+Aku rumangsa seneng. ;cause;Aku sujud ing lemah. ;Aku mbungkus awakku nganggo selimut. ;1
+Aku nggilap watu iku. ;effect;Dadi licin. ;Kuwi dadi mencorong. ;1
+Aku nambah gula ing kopi. ;effect;Kopi kuwi mambu banget. ;Kopi kuwi legi. ;1
+Wong lanang kuwi nggolèk-nggolèk ing koran-koran. ;effect;Dheweke entuk potongan kertas. ;Dhèwèké ngiris-iris koran-koran kuwi. ;0
+Aku mbanting kuku nganggo palu. ;effect;Pancorané disempal ing kayu. ;Kuku kuwi dadi karat. ;0
+Iwak iku ngethok tali. ;effect;Para nelayan banjur nyekel iwaké. ;Para nelayan nggunakké tali manèh. ;0
+Bocah kuwi isin arep sekolah. ;cause;Dheweke duwe jerawat. ;Dheweke njupuk braces dheweke mati. ;0
+Wajahku dadi padhang. ;cause;Aku nampa kabar apik. ;Aku ora sabar manèh. ;0
+Tanganku dakusapi nganggo andhuk. ;cause;Lenga wis teles. ;Tanganku wis teles. ;1
+Wong lanang kuwi ora seimbang ing bangku. ;cause;Kursi sing ana ing sangisoré ngguncang. ;Dheweke ngeculake cat ing bangku. ;0
+Para kanca tim padha nyalahké siji lan sijiné. ;cause;Wong-wong kuwi kalah. ;Pelatihé mbatalake latihan. ;0
+Aku njaluk ngapura. ;cause;Aku nyesel karo kesalahanku. ;Aku wis nggayuh tujuwanku. ;0
+Wong wadon kuwi bosen karo pacaré. ;cause;Dhèwèké takon-takon bab dhèwèké dhéwé. ;Dheweke ngomong terus-terusan bab awake dhewe. ;1
+Bocah wadon kuwi mesem. ;effect;Pethiné dadi abang. ;Cithakané katon. ;1
+Kapal mungsuhé njeblug. ;cause;Iku liwat tambang. ;Kapal kuwi banjur mlebu ing pelabuhan. ;0
+Wong lanang iku nyungkem sikilé. ;cause;Dhèwèké mlumpat ing blumbang. ;Dhèwèké ngambah kaca sing pecah. ;1
+Detektif-detektif kasebut nggolèki tapak driji ing papan kadadéan. ;effect;Wong-wong kuwi ngerti sapa sing matèni dhèwèké. ;Dheweke nemokake senjata ing TKP. ;0
+Ana akèh lalu lintas ing dalan gedhe. ;effect;Aku njupuk dalan sing ora rata. ;Aku njaluk tumpangan. ;0
+Ekonomi negara saya suda. ;effect;Akèh wong sing lara. ;Akèh wong sing nganggur. ;1
+Penjaga nyebrang ngungelake peluit marang bocah-bocah. ;cause;Wong-wong kuwi arep mlumpat ing dalan sing arep digawa. ;Dhèwèké kenal karo wong-wong kuwi saka lingkungané. ;0
+Aku nggulung mripatku marang kancaku. ;cause;Dhèwèké ngandhani sing bener. ;Dhèwèké ngéling-éling kanthi sarkastik. ;1
+Mobilé entèk bensin. ;effect;Sopiré macet ing dalan. ;Sopiré njupuk wong sing numpak sepur. ;0
+Wong wadon kuwi lagi nglairké. ;effect;Bayi kuwi lair. ;Wong wadon kuwi lara lara ing wayah ésuk. ;0
+Topié wong lanang kuwi ditiup angin. ;cause;Dheweke nyopot topi. ;Ing njaba ana angin. ;1
+Bocah wadon iku melu pesta ulang tahun kanca sakelas. ;cause;Dhèwèké nampa undangan. ;Dheweke tuku hadiah. ;0
+Pundhaké bocah kuwi panas. ;effect;Ibuné ngukur suhu awaké. ;Ibuné nggawa dhèwèké menyang taman. ;0
+Wong lanang iku nyemburake awake dhewe nganggo cologne. ;cause;Dhèwèké péngin nggumunké pacaré. ;Dheweke nglebokake gel ing rambut. ;0
+Listrik ing omah mati. ;effect;Aku nggoleki lampu senter. ;Aku njupuk sekop. ;0
+Keluarga kuwi pindhah menyang omah sing luwih gedhé. ;cause;Anaké wis lulus saka sekolah menengah. ;Ibu kuwi nglairké anak kembar. ;1
+Wong sing mlayu maraton kuwi tetep alon. ;cause;Dhèwèké péngin ngirit tenaga. ;Dhèwèké ndelok garis finish. ;0
+Bocah kuwi ngundhuh mesin penjual otomatis. ;cause;Mesin kuwi nyembur dhuwit. ;Kantong keripik wis macet. ;1
+Anjing kancaku mati. ;effect;Aku nggulung mripatku marang dheweke. ;Aku ngrangkul dhèwèké. ;1
+Kertu kredité pengusaha kuwi ditolak. ;effect;Dhèwèké nulis surat utang. ;Dhèwèké mbayar kanthi awis. ;1
+Wong sing dikutuk. ;cause;Dheweke ngethok kuku. ;Dhèwèké nggepok driji sikilé. ;1
+Wong lanang kuwi bangga karo seduluré. ;cause;Seduluré lanang gelut karo wong tuwané. ;Seduluré ditampa ing sekolah hukum. ;1
+Bocah wadon kuwi péngin sinau bab tata surya. ;effect;Dhèwèké lunga menyang perpustakaan. ;Dhèwèké ndelok lintang-lintang. ;0
+Poster kasebut nempel ing tembok. ;cause;Aku nyelehké poster ing ndhuwuré lawang. ;Aku masang tape ing mburi poster. ;1
+Klien nyetujoni rencana arsitek kanggo bangunan kasebut. ;effect;Arsitèk kuwi sing mbangun bangunan kuwi. ;Arsitèk ngowahi rancangané. ;0
+Wong lanang iku ngeculake sendok. ;cause;Tangane gemeter. ;Dheweke ngguyu sendok. ;0
+CEO perusahaan kasebut mundur. ;effect;Dewan direksi bubar perusahaan kasebut. ;Dewan direksi wis nemoni penggantine. ;1
+Aku telat teka ing kuliah. ;effect;Aku lungguh ing baris mburi. ;Aku nyedhaki panggung. ;0
+Wong lanang kuwi dibébaské saka penjara. ;cause;Kulawarganipun mbayar jaminan. ;Dhèwèké nyerang kanca tahanan. ;0
+Keluarga kuwi kélangan kabèh bandhané. ;cause;Wong loro kuwi ngedol omahé. ;Omahé kobong. ;1
+Aku ngidak kaleng aluminium. ;effect;Kalengé didaur ulang. ;Kalengé rusak. ;1
+Bocah wadon iku gabung karo tim debat. ;effect;Dhèwèké sinau nggunakké komputer. ;Dhèwèké sinau carané komunikasi. ;1
+Aku dadi luwih seneng. ;cause;Aku ngrungokké musik. ;Aku wis ngumbah piring. ;0
+Badan amal kasebut nggawe tujuan kanggo ngunggahake dhuwit. ;effect;Wong-wong kuwi mènèhi pangan wong-wong sing ora nduwé omah. ;Wong-wong kuwi nganakké lelangan. ;1
+Montor-muter roller kasebut mudhun ing lereng sing curam. ;effect;Para penumpang padha ngguyu. ;Para penumpang padha mbengok. ;1
+Aku nesu banget. ;effect;Aku mriksa kothak layang nalika metu saka omah. ;Aku nutup lawang nalika metu saka omah. ;1
+Wong lanang mau kepéngin ndelok srengéngé mlethèk. ;effect;Dhèwèké lunga menyang lor. ;Dheweke tangi esuk. ;1
+Aku nglipat layang. ;effect;Aku daur ulang kertasé. ;Kertasé dadi kusut. ;1
+Bangsa kuwi ngalami bencana alam. ;effect;Para pemimpin negara liya mbentuk aliansi. ;Pemimpin negara liya ngirim bantuan darurat. ;1
+Sandhangané bocah lanang mau dadi teles. ;cause;Dheweke metu saka kolam renang. ;Dheweke tiba ing kolam renang. ;1
+Murid mau cepet-cepet ngrampungake buku kasebut. ;cause;Buku kuwi arep dibalèkké menyang perpustakaan. ;Dhèwèké nyilih saka kancané. ;0
+Wong jahat kuwi diukum mati. ;cause;Dhèwèké dipenjara. ;Dhèwèké diadili amarga pembunuhan. ;1
+Cahya srengéngé mlebu kamar. ;cause;Aku mbukak gorden. ;Aku mbukak lawangé. ;0
+Aku nyeret rambut saka impostor. ;effect;Wulu wulu dheweke metu. ;Dhèwèké dadi botak. ;0
+Editor ngganti tembung ing ukara ing naskah kasebut. ;cause;Dhèwèké seneng banget karo naskah kuwi. ;Dheweke nganggep ukara kasebut ora jelas. ;1
+Wong wadon kuwi mbatalake akun kertu kredité. ;cause;Dhèwèké sadhar yèn kertu kuwi ilang. ;Dhèwèké ngerti nèk kertu kuwi wis kadaluwarsa. ;0
+Wong lanang lan wong wadon kuwi padha tresna. ;effect;Wong loro kuwi kuliah. ;Wong loro kuwi nikah. ;1
+Musiké ora patiya banter. ;effect;Aku ngunggahake volume. ;Aku nyusun lagu dhewe. ;0
+Rambuté bocah kuwi mencorong. ;cause;Bocah wadon ruffled iku. ;Bocah wadon iku narik. ;0
+Bug wis dipencet. ;cause;Aku nyemprotake dhewe karo repellent serangga. ;Aku mlaku ing bug. ;1
+Aku mbukak mripatku. ;cause;Aku tangi. ;Aku santai. ;0
+Musiké tangga teparo saya rame. ;effect;Aku njaluk supaya dheweke nolak. ;Aku njaluk nyilih CD saka dhèwèké. ;0
+Keluarga kuwi mlarat banget. ;cause;Dhèwèké ora nggunakké akèh dhuwit. ;Dhèwèké éntuk upah sing kurang saka upah minimum. ;1
+Murid iku wis lulus saka universitas. ;effect;Dhèwèké nggolèk gawéan. ;Dhèwèké nduwé hobi. ;0
+Artis nyampur cat kuning karo cat biru. ;effect;Cat sing sumebar ing endi-endi. ;Werna dadi ijo. ;1
+Aku ngganti topik obrolan. ;cause;Aku ora nduwé apa-apa manèh kanggo rembugan. ;Rembugané dadi tegang. ;1
+Adhiku wis metu saka rumah sakit. ;effect;Aku nampani dhèwèké bali ing omah. ;Aku ora gelem mèlu. ;0
+Tirai ing panggung banjur munggah. ;effect;Adegan pambuka drama diwiwiti. ;Para aktor ing lakon kuwi metu saka panggung. ;0
+Para sandera manut karo préntahé para penculik. ;cause;Penculik kuwi ngancam arep nglarani sandera. ;Penculik ninggalké sandera dhéwé. ;0
+Ana swara gedhé sing mbengok ing panggung. ;cause;Musisi mau ngetok-ngetok sikilé. ;Musisi mau ngetokaké gendhing. ;1
+Wong tuwané cepet-cepet mlebu kamar turu anaké. ;cause;Bocah kasebut tangi saka ngimpi elek. ;Bocah kuwi wedi ndelok ing ngisor kasur. ;0
+Wong wadon kuwi ngomong nganggo basa isarat. ;cause;Dhèwèké lair durung wayahé. ;Dhèwèké lair budheg. ;1
+Ana kekeringan ing wilayah kasebut. ;effect;Banyu dadi kontaminasi. ;Panènané mati. ;1
+Kucing ngoyak manuk. ;effect;Manuk iku mabur lunga. ;Manuk mau nyekel cacing. ;0
+Bocah wadon iku ganti sekolah. ;cause;Sekolah ngeculake kanggo musim panas. ;Dhèwèké pindhah menyang kutha anyar. ;1
+Sing nduwé pabrik ora gelem ngundhakaké upahé para karyawan. ;effect;Sing nduwé omah milih manajer anyar. ;Para karyawan mogok. ;1
+Pemimpin kasebut nglawan para ekstremis ing negarane. ;effect;Wong-wong sing ekstrem kuwi mengaruhi dhèwèké. ;Para ekstremis matèni dhèwèké. ;1
+Aku mlaku tanpa alas ing pantai. ;effect;Pasir macet ing sikilku. ;Ombak-ombak nggegirisi ing pinggir pantai. ;0
+Aku tangi ing tengah wengi krasa adhem. ;effect;Aku nganggo celana olahraga. ;Aku ngombé segelas banyu. ;0
+Ibuné ora ngandhani anaké. ;cause;Anaké ngguyu. ;Anaké nangis. ;1
+Celana jinsku rusak. ;cause;Aku zip munggah jins. ;Aku kesandhung ing trotoar. ;1
+Bocah kuwi nganggo kawat gigi. ;effect;Dheweke entuk rongga. ;Gigié dadi lurus. ;1
+Aku wis latihan ing gym wingi. ;effect;Dina iki aku tangi karo otot sing lara. ;Dina iki aku tangi karo tenggorokan sing lara. ;0
+Bocah wadon wis bisik-bisik bali lan nerusake kanggo saben liyane ing meja nedha awan. ;effect;Murid-murid liyané lungguh ing méja mangan. ;Siswa-siswa liyané sing mangan bareng krasa ora ana. ;1
+Bocah kuwi tiba ing trampolin. ;effect;Dhèwèké mlumpat manèh ing udhara. ;Dhèwèké mutuské kanggo nyoba kanggo nglakoni flip. ;0
+Layangé tak lebokké ing kothak layang. ;effect;Kantor pos ngirim layangé. ;Kantor pos nyepetake layang kasebut. ;0
+Wong sing main judi kuwi percaya diri. ;effect;Dhèwèké taruhan kabèh duwité. ;Dhèwèké mulih tanpa dhuwit. ;0
+Kebakaran alasé nyebar. ;cause;Anginé saya banter. ;Para tukang kobongan mau banjur dicekel. ;0
+Bocah mau nyuwil lututé. ;effect;Ibuné ngongkon dhèwèké menyang kamaré. ;Ibuné ngubengi tatu kuwi. ;1
+Wong lanang kuwi slamet saka penyakit sing marahi mati. ;cause;Dhèwèké mlebu wasiaté. ;Dhèwèké éntuk transplantasi organ. ;1
+Aku ngunjuk kopi sing panas banget. ;effect;Aku ngethok ilatku. ;Aku ngobong ilatku. ;1
+Editoré ngeculaké panulis. ;cause;Penulis ora mbédak-mbédakké crita-crita kuwi. ;Panulis ora ngetung wektu sing penting. ;1
+Aku rumangsa kesel banget. ;cause;Aku turu sedina muput. ;Aku sinau sedina muput. ;1
+Dhokter kuwi ndiagnosis pasien. ;cause;Dhèwèké ndelok gejala-gejala saka pasien. ;Dhèwèké nulis resep pil kanggo pasien. ;0
+Aku nggaruk kulitku. ;cause;Aku wis keselek. ;Rasane ngelu. ;1
+Wong lanang kuwi ngalami operasi darurat. ;cause;Dhèwèké dadi nesu. ;Dhèwèké kena serangan jantung. ;1
+Otot lengené wong lanang kuwi dadi mbengkong. ;cause;Dhèwèké nyemplungaké tangané. ;Dhèwèké ngusap tangané. ;0
+Wong lanang kuwi ngangkat alisé. ;cause;Dhèwèké kaget. ;Dhèwèké ngrasa cilik ati. ;0
+Aku ngapura kesalahan kolega. ;cause;Aku percaya nèk dhèwèké nduwé niat sing apik. ;Aku percaya nèk dhèwèké luwih ngerti. ;0
+Wong lanang kuwi mandheg ngrokok. ;effect;Dhèwèké mulai ngleksanani luwih akèh. ;Dhèwèké mulai tangi luwih awal. ;0
+Wong wadon mau banjur mbanting wong sing nyerang ing irungé. ;effect;Awaké penyerang kuwi ora ana sing urip. ;Sing nyerang mulai pendarahan. ;1
+Darté ora mrédhong. ;cause;Wong lanang kuwi ora nemtokké sing bener. ;Wong lanang kuwi kalah. ;0
+Sing nduwé omah njaluk supaya ana petugas pembasmi kebon teka ing omahé. ;cause;Dheweke nemokake tikus ing ruang paling ngisor. ;Dhèwèké nduwé kebon semut ing kamaré. ;0
+Aku ngajak tamu omahku supaya kita mangan bareng. ;cause;Aku kesel banget ora isa nggawé apa-apa. ;Tamu kula sampun ngantos dipun tampi. ;0
+Bocah wadon iku nyekel kakange lagi maca buku harian. ;effect;Dhèwèké mulai ndhelikké buku hariané. ;Dhèwèké nduwé buku harian anyar. ;0
+Wong wadon kuwi ora nduwé dhuwit kanggo mbayar sewa. ;effect;Dhèwèké kerja lembur. ;Dhèwèké metu saka kerja. ;0
+Tangane bocah kuwi cepet banget mundur. ;cause;Dhèwèké nyentuh kompor sing panas. ;Dheweke ngusap sirahe anak kirik. ;0
+Perusahaan kepengin ngukur kepuasan pelanggan. ;effect;Wong-wong mau nawaraké diskon kanggo para pelanggan anyar. ;Wong-wong kuwi mènèhi survey marang para pelanggan. ;1
+Lantai kayu dadi goresan. ;cause;Bocah mau mbuwang bantal saka sofa. ;Bocah lanang iku nyeret kursi ing lantai. ;1
+Aku nglindhungi rai. ;cause;Mungsuhku ngécé aku. ;Mungsuhku nggepok tangan. ;1
+Patung sing misuwur kobong. ;cause;Iki kena kilat. ;Wong-wong teka kanggo ngabekti marang patung kuwi. ;0
+Woh-wohan kuwi tak tinggal ing meja. ;effect;Woh-wohan kuwi ngetokké wiji. ;Kembangé dadi kebak lalat. ;1
+Balerina mau nyuwil ligamen. ;cause;Dheweke nuduhake driji sikil. ;Dheweke nyemplungake pergelangan sikil. ;1
+Tali sepatu bocah kuwi dadi ora kaiket. ;cause;Dhèwèké sinau carané ngiket. ;Dheweke mlayu ing taman dolanan. ;1
+Aku dadi kepincut karo buku kuwi. ;effect;Aku bali buku. ;Aku ora ngerti wektu. ;1
+Wong lanang kuwi nduwé iman sing padha karo wong tuwané. ;cause;Wong tuwané nduwé pengaruh marang dhèwèké. ;Wong tuwané ora gelem gelem ndhèrèk. ;0
+Mobilé alon-alon mandheg. ;cause;Gas wis entek. ;Sopiré ngantuk. ;0
+Wong lanang iku mangan es krim ing srengenge. ;effect;Es krim wis ilang rasané. ;Es krim kasebut netes saka kerucut. ;1
+Aku nggantungaké karya seni ing kamar. ;cause;Karpeté katon reged. ;Tembok-temboké katon cethèk. ;1
+Aku lunga saka kerja luwih dhisik. ;cause;Aku lara sirah. ;Bosku nganakké rapat. ;0
+Anjing iku ngrusak karpet. ;effect;Sing duwé nyempal-nyempal asu kuwi. ;Sing nduwé wis mènèhi hadiah marang anaké. ;0
+Aku njaluk ngapura marang kancaku. ;effect;Kancaku ngapura aku. ;Kancaku dadi nesu banget. ;0
+Wong lanang kuwi ora kaya wong liya. ;cause;Dhèwèké nggawa tas ransel. ;Dheweke nganggo rompi neon. ;1
+Saksi kuwi ngapusi ing sangisoré sumpah. ;effect;Dhèwèké ngrampungké paseksiné. ;Dhèwèké dituduh sumpah palsu. ;1
+Wong wadon iku nglukis rambuté. ;cause;Dhèwèké péngin nduwé tampilan sing anyar. ;Dhèwèké péngin dadi wong sing kondhang. ;0
+Para imigran kasebut kejiret kanthi ilegal ing negara kasebut. ;effect;Wong loro kuwi éntuk gawéan. ;Wong-wong kuwi dideportasi. ;1
+Pembicara umum kuwi ngomongké guyonan. ;effect;Para penonton padha ngguyu. ;Para penonton padha ngadeg. ;0
+Aku ndelok srengéngé. ;effect;Srengéngé nggawé aku wuta. ;Kulitku dadi kecoklatan merga srengéngé. ;0
+Aku rumangsa bosen. ;effect;Aku ngenyek. ;Aku ngambek. ;1
+Steak iku angel dipotong. ;cause;Pisau kuwi mboseni. ;Steak kuwi mentah. ;0
+Wong wadon kuwi nganakké bangkrut. ;cause;Dhèwèké nampa bayaran nafkah. ;Dhèwèké nduwé utang sing akèh banget. ;1
+Lampu ing apartemen kancaku isih mencorong. ;effect;Aku kepengin weruh apa dheweke metu. ;Aku mutuské kanggo marani dhèwèké. ;1
+Aku nyelehake kembang ing irungku. ;effect;Kembangé wis metu. ;Aku ngrasakké ambu kembangé. ;1
+Wong wadon kuwi ngrasa kangen. ;cause;Dheweke nemoni kanca cilik. ;Dheweke bengok-bengok karo anak-anake. ;0
+Siswa kasebut ora nerusake tugas kasebut. ;effect;Piyambakipun nyerahaken makalah punika langkung rumiyin. ;Dhèwèké ngirimaké makalah sing durung rampung. ;1
+Mobilku rusak. ;effect;Aku lunga menyang pusat perbelanjaan. ;Aku ngundang mekanik. ;1
+Aku mbuwang cathetan kuwi. ;cause;Iku anonim. ;Ora isa diwaca. ;1
+Manuk iku nggepok swiwine. ;effect;Iki nglairake endhog. ;Iku munggah munggah. ;1
+Aku parkir ing dalan. ;cause;Garasi kuwi mbukak. ;Garasi kuwi kebak wong. ;1
+Pelaku ngarahake bedhil marang korbane. ;effect;Pelaku ngendelaké senjatané. ;Korban ngangkat tangane. ;1
+Aku ngarep-arep akhir minggu. ;cause;Aku ngrancang arep nekani pemakaman pamanku. ;Aku arep nekani pesta mantenan kancaku. ;1
+Aku ora ngerti wektu. ;cause;Aku ngimpi. ;Aku dadi mual. ;0
+Dokumen kasebut dicithak kanthi ora bisa diwaca. ;cause;Printeré wis entèk. ;Prints punika saking kertas. ;0
+Stadion kasebut main lagu kebangsaan. ;effect;Para penggemar banjur mratobat marang gendera. ;Para penggemar padha teka ing lapangan. ;0
+Roso celupé ora enak. ;effect;Aku ngladèni. ;Aku nglebokaké uyah ing kono. ;1
+Aku nyelehake andhuk kertas ing tumpahan kasebut. ;effect;Lenga kuwi nyedhot cairan kuwi. ;Lembu kasebut ninggal sisa lengket. ;0
+Wong wadon kuwi diganggu wektu lagi maca buku. ;effect;Dhèwèké wis nyorot kaca kuwi. ;Dhèwèké maca buku kuwi manèh. ;0
+Pesawat kasebut nemoni sawetara turbulensi. ;effect;Wong lanang iku nyandhet sabuk pengamané. ;Wong lanang kuwi ndelok metu jendela. ;0
+Bocah kuwi ora gelem. ;cause;Bocah wadon kuwi ora nggatèkké. ;Bocah wadon mau nyungkem. ;1
+Para dhokter mènèhi pasien iku tangan lan sikil tiron. ;cause;Wong-wong kuwi amputasi sikilé. ;Dheweke ngawasi vital dheweke. ;0
+Bocah lanang iku nyubit sikut bocah wadon. ;effect;Dheweke nyekel pundhak marang dheweke. ;Dheweke nyekel lengen saka dheweke. ;1
+Aku njaluk saran marang kancaku. ;cause;Aku ngajèni pendapaté. ;Aku ngerti nèk aku bener. ;0
+Bocah kuwi mlaku ing lumpur. ;effect;Klempungé dadi nempel ing sepatuné. ;Klempungé kena ing rai. ;0
+Kutha iki nampa salju pirang-pirang inci. ;effect;Sekolah-sekolah ditutup. ;Wong-wong padha ndhelik ing njero lemah. ;0
+Shift karyawan wis rampung. ;effect;Dheweke mulih sedina. ;Dhèwèké ngancam bakal ninggalké gawéan kuwi. ;0
+Wit kuwi ngrusak omah. ;cause;Wit mau tiba ing atap. ;Wit kuwi ndhedhet halaman mburi. ;0
+Kayu mau pecah dadi loro. ;cause;Aku numpuk kayu ing njero perapian. ;Aku nggebag kapak ing alas. ;1
+Kulawarga kasebut ngucapake selamat marang pasangan kasebut. ;cause;Pasangan kasebut ngumumake manawa dheweke pisah. ;Pasangan iki ngumumake yen dheweke duwe bayi. ;1
+Bocah wadon iku ngirim layang katresnan marang bocah lanang iku. ;cause;Dhèwèké seneng karo dhèwèké. ;Dhèwèké ngambung dhèwèké. ;0
+Aku ngangguk-ngangguk marang kanca-kancaku. ;cause;Aku bingung. ;Aku setuju karo dhèwèké. ;1
+Kanca-kanca kuwi nggunakké koin. ;cause;Wong-wong kuwi péngin nggolèk cara kanggo ngrampungké masalah. ;Wong-wong kuwi péngin nggawé keputusan sing adil. ;1
+Timer ing pawon banjur mati. ;effect;Wong lanang kuwi ngeculaké barang-barang sing dituku ing kulkas. ;Wong lanang iku njupuk pizza saka oven. ;1
+Wong wadon kuwi nduwé tujuan sing ambisius. ;effect;Dhèwèké ora semangat manèh. ;Dhèwèké kerja keras. ;1
+Wong sugih kuwi mati merga wis tuwa. ;effect;Anaké ngalami masalah hukum. ;Anaké sing éntuk warisan bandhané. ;1
+Wong wadon iku ngidak-idak geni. ;effect;Lampu geni mau mati. ;Asap metu saka geni. ;0
+Mobilé wong wadon kuwi ana ing bengkel. ;cause;Lisensi nyopiré dicabut. ;Dhèwèké ngalami kacilakan mobil. ;1
+Aku turu liwat weker. ;effect;Aku wis nggawé sarapan. ;Aku ora sarapan. ;1
+Tokoh umum metu saka limusin. ;effect;Kamera-kamera kuwi ndelok dhèwèké. ;Kulawarganipun rawuh wonten ing konferensi pers. ;0
+Wong wadon mau isih ana ing bak mandi. ;effect;Banyu adus dadi anget. ;Banyu adus metu saka bak. ;0
+Siswa kuliah mau kepengin ketemu karo siswa liyane ing kampus. ;effect;Dhèwèké mèlu ing persaudaraan. ;Piyambakipun jurusan teknik. ;0
+Aku ngangkat bantal sofa. ;cause;Aku nggoleki dhuwit cilik. ;Aku lagi nyusun ulang ruang tamu. ;0
+Tawon iku mabur marani bocah lanang iku. ;effect;Bocah kuwi mlayu. ;Bocah lanang iku njupuk kembang. ;0
+Wong wadon kuwi dianggep salah merga salah. ;effect;Dhèwèké diukum kanggo nindakaké tugas kanggo masyarakat. ;Dhèwèké diukum mati. ;0
+Aku nyampur gula menyang teh panas. ;effect;Tèhé dadi kukus. ;Gulaé ilang. ;1
+Wong tuwa kuwi mlaku kanthi lumpuh. ;cause;Dhèwèké digawa ing perang. ;Dhèwèké tatu ing pertempuran. ;1
+Pelaku iku mlayu saka polisi. ;effect;Pulisi ngubungi korban. ;Polisi ngoyak penjahat kasebut. ;1
+Laptop ora bakal diuripake. ;cause;Aku ngeculake. ;Aku ngisi daya. ;0
+Wong wadon mau ora ana papan ing lemari. ;cause;Dhèwèké nduwé lemari klambi sing akèh. ;Dheweke nglipat klambine. ;0
+Wong lanang kuwi sedhih banget. ;cause;Bojoné nglairké anak. ;Bojoné ninggalké. ;1
+Wong lanang kuwi éntuk gelar. ;effect;Dhèwèké dadi trampil kanggo nyambut gawé sing dikarepké. ;Nawarké gawéané ditarik. ;0
+Swaraé wong lanang kuwi krungu ing kabèh ruangan. ;cause;Dhèwèké nampani para rawuh. ;Dhèwèké ngomong ing mikropon. ;1
+Aku mbuwang dhuwit recehan menyang sumber banyu. ;effect;Dhuwit receh kuwi tiba ing dhasar. ;Dhuwit receh pecah dadi loro. ;0
+Pemain nemplek bal menyang bolongan. ;effect;Balé mlebu bolongan. ;Balé mau mundur menyang juru main. ;0
+Aku ambegan bledug ing loteng. ;effect;Aku singkong. ;Aku ngetus. ;1
+Kasir toko ngundang keamanan. ;cause;Pelanggan kasebut nggunakake dhuwit palsu. ;Pelanggan ninggalaké lampu ngarepé. ;0
+Aku nggawa sampah metu. ;cause;Sampahé njalari pawoné mambu. ;Aku ora sengaja mbuwang dhaptar blanja. ;0
+Kulawargane lunga menyang kebon binatang. ;effect;Bocah-bocah padha nggumun karo kewan-kewan kasebut. ;Bocah-bocah padha ngoyak kewan-kewan. ;0
+Napasé wong lanang kuwi banter. ;cause;Ginjelé wis gagal. ;Paru-parune wis kebak. ;1
+Aku nduwé tiket tambahan kanggo konser. ;effect;Aku takon karo kancaku kanggo arah menyang papan. ;Aku takon karo kancaku apa dhèwèké péngin mèlu. ;1
+AC ing omah rusak. ;effect;Aku nggawa selimut. ;Aku mbukak jendhela. ;1
+Bocah iku lara punggung. ;cause;Tas ranselé mbukak. ;Tas ranselé abot. ;1
+Aku tuku hadiah kanggo ibuku. ;cause;Aku nggawé jajan kanggo dhèwèké. ;Dina kuwi dina ulang tauné. ;1
+Kembang narcis ing taman wis rusak. ;cause;Tanduran iku disengat lebah. ;Tuwuhan iku digali dening tuwuhan. ;1
+Aku ngetokaké korek api. ;effect;Lampu kuwi mati. ;Kembang api kuwi metu saka korek api. ;1
+Para pihak sing ora setuju ngrampungake. ;cause;Wong-wong kuwi ora gelem debat ing pengadilan. ;Wong loro kuwi péngin ndandani hubungané. ;0
+Bocah-bocah mau dikirim menyang panti asuhan. ;cause;Wong tuwané mati. ;Wong tuwané ngrusak wong-wong mau. ;0
+Ana meteorit sing tiba ing samodra. ;effect;Ana tsunami. ;Udan es wiwit deres. ;0
+Wong sing mlaku-mlaku mau ketemu ula sing ngracuni. ;effect;Dhèwèké dadi dehidrasi. ;Dhèwèké dadi panik. ;1
+Oven dadi panas. ;cause;Aku nguripake oven. ;Aku nyelehake piring ing oven. ;0
+Aku nyikat irisan lemon. ;effect;Lemon dadi jamur. ;Lemon sing disemprot. ;1
+Negara kasebut nemokake tanah anyar. ;effect;Nagara ninggal tanah. ;Negara kasebut njajah tanah kasebut. ;1
+Kaca kuwi tiba saka méja. ;effect;Iku pecah kabeh liwat lantai. ;Iku ndharat ing tumpukan saka laundry. ;0
+Méjaé goyang-goyang. ;cause;Lantaié ora rata. ;Lantai kuwi licin. ;0
+Bapaké nyekel anaké ngapusi. ;effect;Anaké ngaku bener. ;Bapak kuwi percaya karo anaké. ;0
+Kepalaé wong lanang kuwi lara banget. ;effect;Dheweke njupuk sirup watuk. ;Dhèwèké ngombé aspirin. ;1
+Sepuré mandheg. ;cause;Iku nyedhaki stasiun. ;Iku mlaku ing mburi jadwal. ;0
+Wong lanang iku ngalami terapi. ;cause;Wong-wong ing keluargané ngalami penyakit mental. ;Dhèwèké didiagnosa ngalami depresi. ;1
+Wong wadon iku nyekel tenggorokane. ;cause;Dheweke nguntal panganane. ;Dheweke keselek karo panganan. ;1
+Wong wadon kuwi lara tenggorokan. ;effect;Swara kuwi kaya swara sing nggronjal. ;Dheweke ngomong nganggo aksen. ;0
+Anjing iku mandeng steak sing renyah ing meja. ;effect;Iku drooled. ;Iku lay mudhun. ;0
+Bisnisé wong wadon kuwi sukses. ;effect;Dheweke ngeculake karyawan. ;Dhèwèké dadi sugih. ;1
+Para siswa metu saka kelas. ;cause;Tombolé muni. ;Guru maringi tugas. ;0
+Wong wadon iku ngaku weruh hantu. ;effect;Kanca-kancané kuwi ora percaya. ;Kanca-kancané ana hubungané karo dhèwèké. ;0
+Wong lanang kuwi ora isa ngrungokké. ;cause;Dhèwèké mèh klelep ing samodra. ;Dhèwèké mèh mati ing jeblugan. ;1
+Bocah kuwi ngeculaké tali baloné. ;effect;Baloné dadi kosong. ;Baloné munggah ing udhara. ;1
+Wong lanang kuwi ora isa ngomong manèh. ;cause;Dhèwèké kena stroke. ;Dhèwèké ambegan jero. ;0
+Wong wadon mau kesandhung ing trotoar. ;cause;Ana retakan ing semen. ;Dhèwèké krungu jenengé diundang. ;0
+Wong lanang iku numpak bal meriam menyang kolam renang. ;effect;Wong sing njaga wong mati banjur mlumpat ing njero. ;Wong lanang iku nglembara marang juru nyalamet. ;1
+Aku njupuk antibiotik. ;effect;Infèksiku wis mari. ;Infèksiku nyebar. ;0
+Lampu lalu lintas dadi kuning. ;effect;Sopiré nyurung rem. ;Sopiré nyemplung klaksoné. ;0
+Wadhah plastiké dadi lebur. ;cause;Aku nyelehake wadhah kasebut ing banyu anget. ;Aku nyelehake wadhah kasebut ing kompor sing panas. ;1
+Mobilé dadi rusak. ;cause;Sopir kuwi nabrak tiang telepon. ;Sopiré mlayu ing lampu abang. ;0
+Bocah mau sinau sewengi muput. ;effect;Dhèwèké ora mèlu ujian. ;Dhèwèké lulus ujian. ;1
+Bocah enom iku ngadhang ing pinggir kolam. ;cause;Dhèwèké wedi sinau nglangi. ;Pengawal nyawané lagi tugas. ;0
+Aku numpak tanganku ing dhadhaku. ;effect;Aku krasa kaya jantungku ngalah. ;Jantungku dadi luwih kenceng. ;0
+Bangunan sing cedhak karo kantorku lagi dibangun. ;effect;Kantorku kebak wong. ;Kantorku rame banget. ;1
+Keluarga mau kepéngin kenal karo tangga teparo sing anyar. ;effect;Keluarga kuwi ngundang tangga-tanggané kanggo mangan. ;Keluarga kuwi ngambung tangan marang tangga teparo saka halaman. ;0
+Banyu njeblug saka kolam renang. ;cause;Wong nglangi nyebur ing blumbang. ;Wong nglangi ngambang ing blumbang. ;0
+Aku ngethok irisan semangka. ;effect;Aku ora sengaja nguntal wiji. ;Aku ora sengaja ngethok untu. ;0
+Bocah kuwi kesandhung. ;cause;Jaketé ora dibukak. ;Tali sepatuné ora dital. ;1
+Wong wadon kuwi nglebokké earplug. ;cause;Dheweke kesasar dening swara. ;Kupingé ditusuk. ;0
+Aku ngisi botol banyuku. ;cause;Aku ngombé kabèh banyu ing kono. ;Aku nyimpen ing kulkas. ;0
+Acara televisi kasebut disensor. ;cause;Ing kono ana basa sing kasar. ;Iki crita sing rumit. ;0
+Kapal kuwi nabrak. ;effect;Para kru padha klelep. ;Para kru ketemu karo bajak laut. ;0
+Bocah kuwi bingung merga teka-teki kuwi. ;effect;Dhèwèké ngrampungaké teka-teki. ;Dhèwèké njaluk petunjuk. ;1
+Telponé muni. ;effect;Wong lanang kuwi nyetel telpon. ;Wong lanang kuwi njawab telponé. ;1
+Wong wadon kuwi mandeng aku. ;effect;Aku ngrangkul dhèwèké. ;Aku ora seneng. ;1
+Kelompok kuwi lunga saka musiyum. ;cause;Wong-wong kuwi njupuk gambar barang-barang sing ana ing pameran kuwi. ;Wong-wong kuwi ndelok kabèh barang-barang sing ana ing pameran kuwi. ;1
+Wong lanang kuwi mulai padu karo aku. ;effect;Kancaku ngenalake aku karo wong lanang iku. ;Kancaku mbantu aku. ;1
+Ban sepedhah motorku pecah. ;effect;Aku ngompa udara menyang ban. ;Aku ngganti gir ing sepedha. ;0
+Bocah wadon kuwi katon pucet. ;effect;Bapaké maca crita marang dhèwèké. ;Bapaké ngrasakké bathuké. ;1
+Pulpené ora ana tinta manèh. ;effect;Aku nggunakké potlot. ;Aku nulis jenengku. ;0
+Wong lanang kuwi ora éntuk silihan. ;cause;Dhèwèké nduwé utang. ;Dhèwèké miwiti bisnis. ;0
+Bocah wadon mau ora sekolah ing omah. ;cause;Dheweke duwe cacar. ;Dhèwèké seneng sinau matématika. ;0
+Kantong sampah kebak. ;effect;Aku nggawa menyang tong sampah. ;Aku mbuwang iku mudhun sink. ;0
+Aku wis ngusap karpet. ;cause;Kancaku kamar ngucur punch. ;Anjingku ngucur rambut. ;1
+Wong lanang kuwi nesu banget. ;effect;Dhèwèké matèni komputeré. ;Dheweke mbuwang kursi ing sisih liyane ruangan. ;1
+Bocah wadon iku mbuwang ranting menyang geni. ;effect;Cangkangé kobong. ;Geni mau mati. ;0
+Wong lanang iku metu saka kamar mandhi. ;cause;Banyu panas wis ora ana. ;Dhèwèké ora bisa nemokké andhuk. ;0
+Wong tuwané péngin anak-anaké sekolah ing perguruan tinggi. ;effect;Wong loro kuwi nyimpen dhuwit kanggo biaya sekolah. ;Wong-wong kuwi ngélikké anak-anaké supaya dolanan ing njaba. ;0
+Wong lanang iku mbongkar tali sepatune. ;effect;Sepatué dadi longgar. ;Sepatu-sepatu kuwi dadi rusak. ;0
+Wong lanang mau mangan setengah saka panganan utama. ;effect;Dheweke adhem sisa-sisa. ;Dhèwèké nyimpen resep-resepé. ;0
+Kledhèké saya bengkak. ;effect;Aku sijine es ing. ;Aku nggosok lotion ing iku. ;0
+Lawang kantorku mbukak. ;effect;Aku ngomong karo kolega ing mejaku. ;Aku krungu omongané ing lorong. ;1
+Aku kudu antri. ;effect;Aku lungguh. ;Aku maca majalah. ;1
+Wong lanang iku nyawang laler. ;effect;Lalat kuwi mlayu. ;Lalat kuwi tetep ora obah. ;0
+Wong lanang kuwi nulis surat wasiat. ;cause;Dhèwèké lagi mati. ;Dhèwèké wis randha. ;0
+Wong sing mlayu kuwi krasa nèk sing mlayu luwih cepet. ;effect;Dhèwèké metu saka lomba. ;Dhèwèké cepet-cepet mlaku. ;1
+Aku mikir kanthi tliti babagan masalah kasebut. ;effect;Aku njaluk naséhat. ;Aku nduwé solusi. ;1
+Wong sing mlaku mlaku ing jembatan gantung sing goyang. ;effect;Dhèwèké wedi banget. ;Dhèwèké seneng banget. ;0
+Wong kuwi wis ngramal nèk timé bakal menang. ;effect;Dheweke ketemu kanca-kancane kanggo nonton pertandingan. ;Dhèwèké nggawe taruhan karo kanca-kancané. ;1
+Bocah kuwi ora bisa turu. ;effect;Dhèwèké nyetel jam wekeré. ;Dhèwèké ngétung wedhus. ;1

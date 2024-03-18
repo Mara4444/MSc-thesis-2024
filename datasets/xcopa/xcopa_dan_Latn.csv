@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Varerne var pakket i boblefolie. ;cause;Det var skrøbeligt. ;Den var lille. ;0
+Jeg tømte mine lommer. ;effect;Jeg fandt en billetstopp. ;Jeg fandt et våben. ;0
+Termitter invaderede huset. ;effect;Termitterne forsvandt fra huset. ;Termitterne spiste gennem træet i huset. ;1
+Rejsende nåede grænsen. ;effect;Patruljen kontrollerede deres pas. ;Patruljen anklagede dem for smugling. ;0
+Kontoret var lukket. ;cause;Det var en helligdag. ;Det var sommer. ;0
+Pigen løb tør for energi. ;cause;Hun spillede dam. ;Hun sprang i reb. ;1
+Kvinden mistede sin plads i køen. ;cause;Flere mennesker trådte ind i køen. ;Hun gik ud af køen. ;1
+Pigen klemte sig i næsen. ;cause;Barnet drak på hendes babyshower. ;Barnet har snavset hendes ble. ;1
+Bandet spillede deres hit. ;effect;Publikum klappede sammen med musikken. ;Publikum lyttede høfligt i stilhed. ;0
+Pigen ville takke sin matematiklærer. ;effect;Pigen blev efter skole for eftersyn. ;Pigen bragte læreren et æble. ;1
+De unge lejrgangere var bange. ;cause;Deres lejrleder fortalte dem en spøgelseshistorie. ;De brød marshmallows på lejrbål. ;0
+Manden slog hovedet. ;effect;Han gik tabt i tanker. ;Han fik en hjernerystelse. ;1
+Checken, jeg skrev, blev ikke betalt. ;cause;Min bankkonto var tom. ;Jeg har fortjent en lønforhøjelse. ;0
+Mandens e-mail-indbakke var fuld af spam. ;effect;Han slettede spam. ;Han sendte en masse e-mail. ;0
+- Han var i karantæne. ;cause;Han blev udsat for sygdommen. ;Han kom sig fra sygdommen. ;0
+Pigen huskede koden. ;cause;Hun reciterede den for sig selv. ;Hun glemte at skrive det ned. ;0
+Jeg hældte vandet i glasset. ;effect;Vandet slukkede min tørst. ;Glasset blev fyldt. ;1
+Manden forblev tavs, da hans ven var færdig med at tale. ;cause;Han ville støtte sin ven. ;Han tænkte på sin vens ord. ;1
+Ulykken var min skyld. ;effect;Jeg følte mig skyldig. ;Jeg rejste anklage. ;0
+Kæden gik fra hinanden. ;cause;Kæden var viklet om et dæk. ;Der var et brudt led i kæden. ;1
+Parret besluttede at gå på kompromis. ;cause;De blev trætte af at skændes. ;De undgik at diskutere problemet. ;0
+Kvinden besluttede at stille op til et offentligt embede. ;effect;Hun hyrede en kampagnechef. ;Hun vidnede i retten. ;0
+Manden forventede koldt vejr på sin rejse. ;effect;Han pakkede varmt tøj i sin kuffert. ;Han rejste med en stor kuffert. ;0
+Studenten kendte svaret på spørgsmålet. ;effect;Han rakte hånden op. ;Han dummede sig. ;0
+Manden fik tårer i øjnene. ;cause;Støv kom i hans øjne. ;Han satte beskyttelsesbriller over øjnene. ;0
+Spilleren vandt fem kampe i træk. ;effect;Hendes modstander beskyldte hende for at snyde. ;Hendes modstander havde ondt af hende. ;0
+Læreren rev elevens eksamen i stykker. ;cause;Han fangede den studerende i at snyde. ;Den studerendes svar var forkerte. ;0
+Jeg holdt op med at tale. ;cause;Jeg mistede min stemme. ;Jeg var helt åndeløs. ;1
+Den frosne mad er blevet aftavet. ;cause;Jeg lagde den i mikrobølgeovnen. ;Jeg dækkede den med plastikfolie. ;0
+Ansatte fejet syge. ;cause;Han havde mave kramper. ;Han ville have fri. ;1
+Pigen landede i poolen. ;cause;Hun løb på pooldækket. ;Hun sprang fra springbrættet. ;1
+Billetterne er udsolgt. ;cause;Det var filmens premiere. ;Filmen fik dårlige anmeldelser. ;0
+Manden har tabt sig. ;effect;Folk isolerede ham. ;Folk komplimenterede ham. ;1
+Pigen fik blærer i hænderne. ;cause;Hun skrev et brev. ;Hun klatrede op ad et reb. ;1
+Cirkusartisten jonglerede mens han kørte på en enhjuls cykel. ;effect;Publikum jublede i forbløffelse. ;Akrobaten svingede fra en trapez. ;0
+Jeg mistede tålmodigheden. ;cause;Min ven lod mig vente. ;Min ven kom til tiden. ;0
+De krigsførende lande ønskede fred. ;effect;De udviklede atomvåben. ;De forhandlede en traktat. ;1
+Manden tog sovepiller. ;effect;Han blev døsig. ;Han havde feber. ;0
+Kvinden ramte sofaen. ;effect;Sofas ben slap løs. ;Hun har fået blå mærker på knæet. ;1
+Drengen klemte ballonen. ;effect;Ballonen knækkede. ;Ballonen fløj væk. ;0
+De er rejsende, der har checket ind på deres hotelværelse. ;effect;De pakkede deres kufferter ud. ;De tog til lufthavnen. ;0
+Jeg bed i fersken. ;effect;Fersken er blå. ;- Der er væske ud. ;1
+Mine hænder blev klæbrige. ;cause;Jeg spiste en doughnut. ;Jeg var en sød tand. ;0
+Jeg skubbede døren. ;effect;Døren åbnede sig. ;Døren er låst. ;0
+Aktivister boykottede produkterne. ;cause;Produkterne blev testet med henblik på kvalitetssikring. ;Produkterne blev fremstillet ved hjælp af børnearbejde. ;1
+Jeg borede et hul i væggen. ;effect;En mus kravlede ud af hullet. ;Støvet blæste ud af hullet. ;1
+Kvinden følte misundelse af sin søster. ;cause;Hendes søster var glad. ;Hendes søster blev skilt. ;0
+Jeg spildte vin på min skjorte. ;effect;Jeg tog et forklæde på. ;Jeg skiftede skjorte. ;1
+Kassereren åbnede kasseapparatet. ;cause;Kunden gennemsøgte hans tegnebog. ;Kunden gav hende pengene. ;1
+Gadespilleren tiltrak en skare. ;effect;Folk gav ham penge. ;Han sendte folkene væk. ;0
+Den lille dreng græd til sin babysitter. ;cause;Han savnede sine forældre. ;Det var snack tid. ;0
+Pilotens radar opdagede en storm. ;effect;Piloten sejlede væk fra stormen. ;Piloten fløj gennem stormen. ;0
+Træet har mistet sine blade. ;effect;Bladene skiftede farver. ;Bladene ophobede sig på jorden. ;1
+Drengen var i et sjoft humør. ;effect;Han besluttede at spille et kortspil med sin søster. ;Han besluttede at spille en practical joke på sin søster. ;1
+Barnet klagede over at det skulle på toilettet. ;effect;Hans far gav ham en sodavand at drikke. ;Hans far stoppede bilen ved en tankstation. ;1
+Barnet strøede fiskemat i tanken. ;effect;Fisken sprang ud af tanken. ;Fisken svømmede mod maden. ;1
+Kvinden ændrede sine politiske synspunkter. ;effect;Hun skiftede parti. ;Hun deltog i en protest. ;0
+Vasken i badeværelset var tilstoppet. ;effect;Jeg tændte for vandet. ;Jeg hældte afløbsrensning i den. ;1
+Passagererne steg af toget. ;cause;Toget ankom til stationen. ;Toget fløj. ;0
+Manden trykkede ned på konvolutten. ;effect;Han satte et stempel på konvolutten. ;Han lukkede konvolutten. ;1
+Vennerne mistede kontakten. ;cause;De nød hinandens selskab. ;De flyttede til forskellige byer. ;1
+Regnskabsføreren forvalte selskabets midler forkert. ;effect;Hun blev fyret fra sin stilling. ;Hun gik på barselsorlov. ;0
+Jeg kiggede på uret. ;cause;Jeg hørte uret tikke. ;Jeg ville se på klokken. ;1
+Min hånd kramper. ;cause;Jeg skrev essayet for hånd. ;Min kone og jeg holdt hinanden i hånden. ;0
+Boltten strammede. ;cause;Jeg har udskiftet bolten. ;Jeg vendte på skiftnøglen. ;1
+Parret har underskrevet en lejeaftale for en lejlighed. ;effect;Parret flyttede ind i lejligheden. ;Byen har fordømt lejligheden. ;0
+Kvinden sad udenfor på verandaen. ;cause;Hun ville se solnedgangen. ;Hun troede, hun så et lyn. ;0
+Manden havde redningsvest på i vandet. ;cause;Han kunne ikke svømme. ;Vandet var lavt. ;0
+Kvinden lavede en skrivefejl i tekstbehandleren. ;effect;Hun slettede dokumentet. ;Hun trykkede på backspace-tasten. ;1
+Pigen pralede for sine venner. ;cause;Hun fik en dårlig karakter. ;Hun vandt en konkurrence. ;1
+Græsset var mudret. ;cause;Det regnede i nat. ;Det var fyldt med ukrudt. ;0
+Kvinden sov. ;cause;Hun overnattede på et hotel. ;Hun glemte at sætte vækkeuret. ;1
+Manden tog solcreme på. ;cause;Han sad i skyggen. ;Han tog til stranden. ;1
+Forskerne beviste teorien. ;effect;Forskerne trak teorien tilbage. ;Individer accepterede teorien. ;1
+Fansene på kampen booed. ;cause;Spillet gik i forlængelse. ;Dommeren tog et dårligt valg. ;1
+Jeg skrev min kombination på låsen. ;effect;Jeg lukkede låsen. ;Låsen sprang op. ;1
+Folkemængden blev mere og mere intens. ;effect;Faren gav sin søn nogle penge. ;Faderen tog sin søns hånd. ;1
+Sneen blokerede indkørslen. ;effect;Jeg samlede sneen til en snebold. ;Jeg skovlede sneen væk. ;1
+Kajakførerne padlede med deres årer. ;effect;Kajakken nåede kysten. ;Kajakken ramte en bølge. ;0
+Pigen mistede kontrollen over sin cykel. ;effect;Hun slap styret. ;Hun kørte ind i et hegn. ;1
+Jeg tændte for viften. ;effect;Vand sprøjtet på min hud. ;Jeg følte den kølige luft passere over mig. ;1
+Surferne vendte tilbage til stranden. ;cause;De var gennemblødte. ;De så en haj. ;1
+Jeg trak afløbsproppen i badekarret. ;effect;Vandet er gået ud af badekarret. ;Vandet sprøjtede på gulvet. ;0
+Manden følte sig skyldig i at have været utro mod sin kone. ;effect;Han beskyldte hende for utroskab. ;Han tilstod sin utroskab. ;1
+Tintet på plakatet smuldrede. ;cause;Jeg ventede på at blækken tørrede. ;Jeg spildte vand på plakaten. ;1
+Barnet vågnede skrigende. ;cause;Han havde mareridt. ;Han har pisset i sengen. ;0
+Drengen satte sine fødder op på bordet. ;effect;Hans far satte sig ved bordet. ;Hans far forkyndte ham. ;1
+Min ven vendte hovedet i min retning. ;cause;Jeg råbte hans navn. ;Jeg vinkede med armene. ;0
+Regeringen undertrykte sine borgere. ;effect;Borgerne gjorde oprør. ;Borgerne er registreret til at stemme. ;0
+Drengen var faret vild i skoven. ;effect;Han slog et telt op. ;Han skreg om hjælp. ;1
+Kvinden rejste til udlandet. ;cause;Hun ville lære at tegne. ;Hun ville lære om andre kulturer. ;1
+Manden var jaloux på sin kollega. ;cause;Hans kollega fik en forfremmelse. ;Hans kollega arbejdede sent. ;0
+Manden var vidne til rumvæsner. ;cause;Han havde hallucinationer. ;Han mediterede. ;0
+Manden blev blond. ;cause;Han har puttet blegemiddel i den. ;Han har puttet shampoo i den. ;0
+Kunstneren skabte nyt værk. ;cause;Hun kritiserede hendes tidligere arbejde. ;Hun følte et slag af inspiration. ;1
+Sønnen flyttede hjemmefra. ;cause;Han blev udskrevet fra militæret. ;Han skulle på college. ;1
+Bøger faldt ud af bogreolen. ;cause;Regale var dækket af støv. ;Et jordskælv rystede bogreolen. ;1
+Strømmen i mit hus gik. ;effect;Jeg tændte for lyset. ;Jeg nulstiller afbryder. ;1
+Vi kørte på bjergbanen. ;cause;Det så skræmmende ud. ;Det så sjovt ud. ;1
+Posen med popcorn begyndte at knække. ;cause;Jeg hældte smør i posen. ;Jeg har opvarmet den i mikrobølgeovnen. ;1
+Et træ faldt ned på elledningen. ;effect;Strømmen i kvarteret gik ud. ;Der var ventet kraftige vinde. ;0
+Taleren fremsatte politisk ukorrekte bemærkninger. ;effect;Han kedede publikum. ;Han fornærmede publikum. ;1
+Jeg prikkede mig selv med nålen. ;effect;En sveddråbe drypte fra mit ansigt. ;En dråbe blod dannede sig på min finger. ;1
+Fisken flød på tankens overflade. ;cause;Den var sulten. ;Den var død. ;1
+Manden lød hæs. ;cause;Han var forkølet. ;Han holdt op med at ryge. ;0
+Elevatordørene åbnede sig. ;cause;Elevatoren ankom til den udpegede etage. ;Elevatoren blev fanget mellem etager. ;0
+Teenageren sneg sig ud af huset. ;cause;Han løj for sine forældre. ;Hans forældre gav ham husarrest. ;1
+Badeværelset er oversvømmet. ;cause;Toilettet var overfyldt. ;Vandvarmeren gik i stykker. ;0
+Hvalpen blev ved sin ejer. ;cause;Ejeren satte en krave på hvalpen. ;Ejeren holdt hvalpen i snor. ;1
+Manden fangede hans spejlbillede. ;cause;Han stod under det store træ. ;Han stod over den rolige sø. ;1
+Jeg gik glip af min kæres telefonsamtale. ;effect;Jeg ringede tilbage. ;Jeg mødte hende til middag. ;0
+Familien gennemsøgte kvarteret. ;cause;Deres hund løb hjemmefra. ;Der var forsvundet dyre smykker fra deres hjem. ;0
+Jeg så mit åndedræt, da jeg udåndede. ;cause;Vejret var koldt. ;Mit bryst følte stramt. ;0
+Ansatte dannede en fagforening. ;cause;De ønskede bedre arbejdsvilkår. ;Deres arbejdsgiver hævede deres løn. ;0
+Jeg har bagt en æbletærte. ;effect;En rådnende lugt fyldte køkkenet. ;En varm duft fyldte køkkenet. ;1
+Kvinden kæmpede for at gå. ;cause;Hun bar høje hæle. ;Hun tog skoene af. ;0
+Damp steg op fra vandet i gryden. ;cause;Vandet kogte. ;Jeg dækkede potten. ;0
+Alle mine sokker var i vaskeriet. ;effect;Jeg havde sandaler på. ;Jeg havde støvler på. ;0
+Politikerens argument blev anset for absurd. ;effect;Han mistede støtte fra vælgerne. ;Han blev anklaget for korruption. ;0
+Alle var uenige med parrets forlovelse. ;effect;Parret blev gravide. ;Parret flygtede. ;1
+Bygningen var dedikeret til millionæren. ;cause;Millionæren ville have bygningen revet ned. ;Millionermanden bidrog med midlerne til at bygge den. ;1
+Salgsassistenten anklagede pigen for at stjæle. ;cause;Salgsassistenten så pigen lægge varer i sin taske. ;Salgsassistenten hjalp pigen med at finde den taske hun kunne lide. ;0
+Landet erklærede krig mod det nabolande. ;effect;Soldater blev sendt ud for at kæmpe. ;Soldaterne blev genforenet med deres familier. ;0
+Retten fastholdt den kontroversielle dom. ;effect;Et oprør brød ud foran retsbygningen. ;Et par afgav løfter foran retsbygningen. ;0
+Pigen lugtede noget brændende. ;cause;Hun tog kagerne ud af krukken. ;Hun glemte kagerne i ovnen. ;1
+Det regnede i skyggeslag. ;effect;Stormen blev værre. ;Jeg skyndte mig ind. ;1
+Bygningen blev evakueret. ;cause;Elevatoren stoppede med at fungere. ;Brandlarmen gik i gang. ;1
+Faren var vred over sin søns alkoholisme. ;effect;Faderen købte en øl til sin søn. ;Faderen smed sin søn ud af huset. ;1
+Advokaten gik op ad trappen til sit kontor. ;cause;Sekretæren gik hjem. ;Elevatoren var i stykker. ;1
+Manden blev irriteret på sin ven. ;cause;Hans ven afbrød ham. ;Hans ven har købt frokost til ham. ;0
+Pigen gav sine penge til kassereren. ;effect;Kassereren gav pigen sin veksel. ;Kassøren glemte at give pigen en kvittering. ;0
+Kvinden blev sat i kørestol. ;cause;Hun blev lammet i en ulykke. ;Hun kom ind på hospitalet i en båre. ;0
+Borgerne hængte nationalslaget op uden for deres hjem. ;cause;Landet fejrede sin uafhængighed. ;Landet stod over for økonomiske vanskeligheder. ;0
+Holdet tabte turneringen. ;effect;De skuffede deres fans. ;De inspirerede deres fans. ;0
+Min ven påpegede at jeg havde mad i tænderne. ;effect;Jeg følte mig flov. ;Jeg var stolt. ;0
+Drengen slog ikke historieprøven. ;cause;Han var opmærksom i timen. ;Han glemte at studere. ;1
+Bygningen i centrum kollapsede. ;cause;Et jordskælv ramte byen. ;Kriminaliteten i byen steg. ;0
+Hans kæreste slog op med ham. ;effect;Han bad hende om at tage ham tilbage. ;Hun præsenterede ham for sine forældre. ;0
+De to børn rykkede samtidig ned for at hente bolden. ;effect;Bolden rullede væk. ;Deres hoveder kolliderede. ;1
+Vaskebjørnen ransagede skraldespanden. ;cause;Der var pap i skraldespanden. ;- Dækken var af skraldespanden. ;1
+Drengen skærpede blyanten. ;cause;Det var billigt. ;Det var kedeligt. ;1
+Kassøren nægtede kvinden en refusion for kjolen. ;cause;Hun har mistet kvitteringen. ;- Klædet passede ikke. ;0
+Skrabningen i min hud var dyb. ;effect;Det helete hurtigt. ;Det efterlod et ar. ;1
+Manden fik mærkelige blik fra passagererne på toget. ;cause;Han stirrede på jorden. ;Han talte med sig selv. ;1
+Barnet efterlod krummer på gulvet. ;effect;Myrer kravlede til krummerne. ;Barnet lagde brødet væk. ;0
+Kvinden gav sin søster et lommetørklæde. ;cause;Kvindens søster faldt sine hænder sammen. ;Kvindens søster begyndte at græde. ;1
+Manden tog en mønt. ;cause;Hans læber var revnet. ;Han var bekymret for dårlig ånde. ;1
+Parret gik tidligt til showet. ;cause;De forventede trafikken omkring teatret. ;De har vejvisninger til teatret. ;0
+Kvinden blev hjemme fra arbejde. ;effect;Hendes chef roste hende. ;Hendes kollega dækkede hende. ;1
+Manden underskrev aktivisternes ansøgning. ;cause;Han støttede deres sag. ;Han fordømte dem som vanvittige. ;0
+Skuespillerens hjerte fløj før hans optræden. ;cause;Han havde sceneskræk. ;Han huskede sine replikker. ;0
+Jeg var fortabt. ;effect;Jeg har talt mine penge. ;Jeg har udfoldet et kort. ;1
+Den modne frugt blev liggende i solen. ;effect;Den blev spist. ;Den krymper. ;1
+Bilen gik i stykker. ;cause;Jeg tændte tændingen. ;Motoren overophedes. ;1
+Manden har ondt i ryggen. ;effect;Han har været hos en psykiater. ;Han blev i sengen i flere dage. ;1
+Jeg startede en ild i pejset. ;cause;Jeg havde ikke mere brænde. ;Det var koldt i huset. ;1
+Kvinden holdt op med at løbe. ;cause;Hun har kramper i siden. ;Hun fik en ny ånd. ;0
+Jeg bankede på min nabos dør. ;effect;Min nabo inviterede mig ind. ;Min nabo forlod sit hus. ;0
+Kvinden sukkede af frustration. ;cause;Hendes mand misforstod hendes bekymringer. ;Hendes mand kyssede hende farvel. ;0
+Læreren roste eleven. ;cause;Studenten besvarede spørgsmålet korrekt. ;Studenten tøvede med at besvare spørgsmålet. ;0
+Kvinden løb tør for æg. ;effect;Hun tog til gården. ;Hun gik til supermarkedet. ;1
+Jeg mødte en gammel ven. ;effect;Jeg afslørede en hemmelighed for ham. ;Jeg gav ham et knus. ;1
+Kvinden undgik at gå i søen. ;cause;Hun fangede en fisk. ;Det så forurenet ud. ;1
+Den studerende kom til timen helt våd. ;cause;Hans paraply var i stykker. ;Hans cykel blev stjålet. ;0
+Kursoren på computerskærmen bevægede sig. ;cause;Brugeren klikkede på musen. ;Brugeren flyttede musen. ;1
+Chaufføren tog en omvej. ;cause;Der skete en ulykke på hovedvejen. ;Hun fulgte efter lastbilen foran sig. ;0
+Jeg hængte det våde sengetøj på vaskebåndet udenfor. ;effect;Linen tørrede. ;Det er blevet plaget. ;0
+Kvinden tog sine solbriller på. ;cause;Solen skinnede. ;Hun ringede efter en taxa. ;0
+Manden stirrede på nattehimlen. ;cause;Han ville ønske, det var sommer. ;Han syntes, det var smukt. ;1
+Jeg følte mig udmattet. ;effect;Jeg gik tidligt i seng. ;Jeg var oppe hele natten. ;0
+Manden gik til frisøren. ;cause;Han fik håret til at gro. ;Hans hår var ved at blive langt. ;1
+Drengen spillede onde tricks på sin nye klassekammerat. ;cause;Drengen hilste den nye klassekammerat velkommen. ;Drengen kunne ikke lide sin nye klassekammerat. ;1
+Jeg havde lyst til et glas mælk. ;cause;Jeg spiste småkager. ;Jeg bagte brød. ;0
+Det begyndte at regne. ;effect;Chaufføren tændte forlygterne. ;Chaufføren satte bilen i baggang. ;0
+Parkeringspladsen i bygningen var tom. ;effect;Jeg parkerede på den anden side af gaden. ;Jeg parkerede nær indgangen. ;1
+Forfatteren gik glip af sin deadline for at indsende udkastet. ;cause;Hun havde en forfatterblokade. ;Hun redigerede udkastet. ;0
+- Han lagde på. ;cause;Jeg bad om at tale med en chef. ;Jeg gav mit identifikationsnummer. ;0
+Vinden blæste gennem det åbne vindue. ;effect;Dørklokken ringede. ;Gardinerne rystede. ;1
+Strømmen i mit hus gik. ;cause;Jeg har taget strømmen fra lampen. ;Jeg sprang en sikring. ;1
+Vægtløfteren gryntet. ;cause;Han bøjde sine muskler i spejlet. ;Han løftede stangen over hovedet. ;1
+Eleven prøvede at regne det i sit hoved. ;effect;Han tog en lommeregner. ;Han blev forvirret. ;1
+Barnet faldt i søvn. ;cause;Faren skiftede babys ble. ;Faren rystede babyen forsigtigt. ;1
+Pigen kastede vandballonen efter drengen. ;effect;Drengen fik en hjernerystelse. ;Drengen blev våd. ;1
+Fotografen glemte at bruge kameraets blink. ;effect;Billederne blev sløret. ;Alle på billederne nægtede at smile. ;0
+Jeg afslog invitationen til fødselsdagsfesten. ;cause;Jeg var ensom. ;Jeg var ude af byen. ;1
+Jeg har trænet. ;cause;Jeg følte mig energisk. ;Jeg var bange. ;0
+Jeg klemte den fugtige svamp. ;effect;Den har optaget vand. ;Vand siver ud af den. ;1
+Feriegæsterne tog en færge til feriestedet. ;cause;- Vi havde ikke tid. ;- Vi boede på en ø. ;1
+Teenageren fik en tatovering. ;cause;Hun var bange for nåle. ;Hun ville gøre oprør. ;1
+En ukendt bil parkeret uden for mit hus. ;effect;Jeg blev mistænksom. ;Jeg ringede til politiet. ;0
+Forbryderen har overgivet sig selv. ;cause;Beviserne implicerede ham. ;Der var ingen beviser mod ham. ;0
+Den tunge mand besluttede at tabe sig. ;effect;Han skærer slik ud. ;Han undgik koffein. ;0
+Pigen trådte på isen. ;effect;Hun gled. ;Hun rystede. ;0
+Kvinden havde ring under øjnene. ;cause;Hun var oppe hele natten. ;Hun lagde sin søn i seng. ;0
+Lava flød fra vulkanen. ;cause;Vulkanen brød ud. ;Vulkanen var i dvale. ;0
+Kvinden tog skoene på. ;cause;Hun kendte alle til festen. ;Hun ville forlade festen. ;1
+Jeg betalte vejafgiftspigen. ;effect;Hun lod mig passere gennem tolden. ;Hun holdt mig inde ved tolden. ;0
+Lederen gik konkurs. ;cause;Han solgte sine aktier. ;Han spildte sin formue. ;1
+Manden gik til lægen. ;cause;Lægen var på orlov. ;Manden følte sig syg. ;1
+Jeg gik ud af mit soveværelse gennem vinduet. ;cause;Huset var i brand. ;Huset var tomt. ;0
+Drengens fingre blev afprutte. ;cause;Han tog et langt bad. ;Han skummet sine hænder med sæbe. ;0
+Jeg spyttede mælken ud. ;cause;Mælken smagte sur. ;Min mund var tør. ;0
+Jeg nåede ikke bussen. ;effect;Jeg kom tidligt på arbejde. ;Jeg kom for sent på arbejde. ;1
+Lastbilen kolliderede med bilen. ;effect;Lastbilen accelererede. ;Bilen blev smadret. ;1
+Holdet manipulerede konkurrencen til deres fordel. ;effect;De vandt. ;De droppede ud. ;0
+Sodavandskoppen synger. ;cause;Jeg vendte flasken om. ;Jeg vendte hætten af. ;1
+Drengen var låst ude af sit hus. ;effect;Han kravlede ind gennem et åbent vindue. ;Han klatrede op på taget. ;0
+Dørklokken ringede. ;effect;Besøgeren bankede på døren. ;Kvinden kiggede ind gennem lågesluset i døren. ;1
+Manden har plaget sit jakkesæt. ;effect;Han har fået det tørret. ;Han hængte den i sit skab. ;0
+Pigen klemte tandpastaen. ;effect;Tandpastaen sprøjter ud af røret. ;Pigen spyttede tandpastaen ud. ;0
+Civile dødsfald i krigen steg. ;effect;Pacifister demonstrerede. ;Pacifister holdt en parade. ;0
+Pigen trak båndet ud af sit hår. ;cause;Hun bandt båndet. ;Båndet så babyagtigt ud. ;1
+Han har fået plastikkirurgi. ;effect;Han blev ældre. ;Han så yngre ud. ;1
+En kylling dukkede op fra ægget. ;cause;Ægget klokkede. ;Jeg knækkede ægget. ;0
+Fangen sultede. ;effect;Han døde. ;Han flygtede. ;0
+Manden mistede sin balance på stigen. ;effect;Han klatrede op ad stigen. ;Han faldt ned fra stigen. ;1
+Barnet burkede. ;cause;Han tog en slurk sodavand. ;Han åbnede soda-kannen. ;0
+En kold luftstrøm kom ind gennem vinduet. ;effect;Jeg slapper af. ;Jeg rystede. ;1
+Studenten fik et stipendium til at gå på universitetet. ;cause;Hendes klassekammerater respekterede hende. ;Hun fik gode karakterer. ;1
+Pigen gjorde nar af drengen. ;cause;Hun boede ved siden af ham. ;Hun var forelsket i ham. ;1
+Den sultne vagabond stjal mad. ;cause;Han fremprovokerede medlidenhed. ;Han havde ingen penge. ;1
+Jeg ringede til min ven for at snakke. ;cause;Jeg ville have privatliv. ;Jeg følte mig ensom. ;1
+Manden rakte hånden ud til mig. ;effect;Jeg gav ham hånden. ;Jeg gav ham et slag. ;0
+Jeg bukkede. ;cause;Fyrværkeriet blev kastet op i luften. ;Frisbeeen svævede mod mit hoved. ;1
+Pigen bed sine negle. ;cause;Hun var bekymret. ;Hun blev overrasket. ;0
+Jeg vendte bladet på kalenderen. ;cause;Jeg har en aftale på kalenderen. ;Det var begyndelsen på en ny måned. ;1
+Manden opdagede at hans kone havde en affære. ;effect;Han fyrede sin advokat. ;Han har søgt om skilsmisse. ;1
+Pigen tabte gummikuglen. ;effect;Bolden hoppede. ;Bolden glødte. ;0
+Pigen begik en fejl på sin eksamen. ;effect;Hun gættede svaret. ;Hun slettede sit svar. ;1
+Spilleren tacklede sin modstander. ;effect;Hans modstander fangede passet. ;Hans modstander ramte jorden. ;1
+Jeg plukkede tomaterne fra vinstokken. ;cause;De var modne. ;Jeg vandede dem. ;0
+Manden ville være romantisk. ;effect;Han mødte sin ekskæreste til frokost. ;Han købte chokolade til sin kæreste. ;1
+Kviksølv i termometeret steg. ;cause;Jeg tabte termometeret. ;Vejret blev varmere. ;1
+En tornado kom gennem byen. ;effect;Retsbygningens tag sprang af. ;Vejen blev farligt is. ;0
+Den studerende fik vejledning. ;effect;Hans karakterer blev bedre. ;Han snydte på eksamen. ;0
+Jeg følte mig tryg. ;cause;Jeg knælede ned på jorden. ;Jeg pakkede mig ind i et tæppe. ;1
+Jeg har poleret stenen. ;effect;Det blev glat. ;Det blev skinnende. ;1
+Jeg har tilstillet sukker til kaffen. ;effect;Kaffen lugtede stærkt. ;Kaffen smagte sød. ;1
+Manden blandede sig gennem papirerne. ;effect;Han har fået et papirskår. ;Han rev papirerne i stykker. ;0
+Jeg slog sømmet med hammeren. ;effect;Spidsen sank ind i træet. ;Naglen er blevet rustet. ;0
+Fisken bed i snoret. ;effect;Fiskeren fik fisken i sig. ;Fiskeren kaster linjen om. ;0
+Den unge var flov over at gå i skole. ;cause;Hun har fået en bumse. ;Hun har fjernet tandbøjlen. ;0
+Mit ansigt blev lysere. ;cause;Jeg har fået gode nyheder. ;Jeg mistede tålmodigheden. ;0
+Jeg tørrede mine hænder med et håndklæde. ;cause;Håndklædet var vådt. ;Mine hænder var våde. ;1
+Manden mistede sin balance på afkroget. ;cause;Stolen vaklede under ham. ;Han spildte maling på afføringen. ;0
+Holdkammeraterne gav hinanden skylden. ;cause;De tabte deres spil. ;Deres træner aflyste træningen. ;0
+Jeg bad om tilgivelse. ;cause;Jeg fortrød min fejl. ;Jeg nåede mit mål. ;0
+Kvinden blev træt af sin date. ;cause;Han stillede hende spørgsmål om hende selv. ;Han talte uafbrudt om sig selv. ;1
+Pigen glimtede. ;effect;Hendes kinder rødmede. ;Hendes gruber viste sig. ;1
+Fjendtligt skib sprang i luften. ;cause;Den gik over minen. ;Den sejlede ind i havnen. ;0
+Manden punkterede sin fod. ;cause;Han gik ind i en pøl. ;Han trådte på glas. ;1
+Kriminalbetjentene har undersøgt gerningsstedet for fingeraftryk. ;effect;De opdagede mordernes identitet. ;De fandt våbnet på gerningsstedet. ;0
+Der var meget trafik på motorvejen. ;effect;Jeg tog en omvej. ;Jeg bad om et lift. ;0
+Landets økonomi gik i opløsning. ;effect;Mange mennesker blev syge. ;Mange mennesker var arbejdsløse. ;1
+Overgangsvagten blæste i fløjten på børnene. ;cause;De var ved at gå ind i modkørende trafik. ;Hun genkendte dem fra nabolaget. ;0
+Jeg vendte øjnene mod min ven. ;cause;Han fortalte mig sandheden. ;Han gjorde en sarkastisk bemærkning. ;1
+Bilen løb tør for benzin. ;effect;Chaufføren var strandet på vejen. ;Chaufføren hentede en lifter. ;0
+Kvinden gik i fødsel. ;effect;Barnet blev født. ;Kvinden havde morgenkvalme. ;0
+Mandens hat blev blæst væk. ;cause;Han tog hatten af. ;Det var blæsende udenfor. ;1
+Pigen var til sin klassekammerats fødselsdagsfest. ;cause;Hun fik en invitation. ;Hun købte en gave. ;0
+Drengens pande var varm. ;effect;Hans mor tog hans temperatur. ;Hans mor tog ham med i parken. ;0
+Manden sprøjtede sig med cologne. ;cause;Han ville imponere sin date. ;Han har gel i håret. ;0
+Strømmen i huset gik ud. ;effect;Jeg ledte efter en lommelygte. ;Jeg tog en skovl. ;0
+Familien flyttede ind i et større hus. ;cause;Sønnen er færdig med gymnasiet. ;Moderen fødte tvillinger. ;1
+Maratonløberen holdt et langsomt tempo. ;cause;Hun ville spare på sin energi. ;Hun så målstregen. ;0
+Drengen sparkede i automaten. ;cause;Maskinen spyttede vekslerne ud. ;- Posen med chips var fast. ;1
+Min vens hund døde. ;effect;Jeg vendte øjnene mod ham. ;Jeg gav ham et knus. ;1
+Forretningsmandens kreditkort blev afvist. ;effect;Han skrev en gældsbrev. ;Han betalte kontant. ;1
+Manden forbandede. ;cause;Han klippede sine negle. ;Han stødte på sin tå. ;1
+Manden var stolt af sin bror. ;cause;Hans bror kom i skænderi med deres forældre. ;Hans bror blev optaget på jurastudiet. ;1
+Pigen ville lære om solsystemet. ;effect;Hun gik på biblioteket. ;Hun kiggede på stjernerne. ;0
+Plakaten hængte på væggen. ;cause;Jeg placerede plakaten over døren. ;Jeg lagde tape på bagsiden af plakaten. ;1
+Kunden godkendte arkitektens planer for bygningen. ;effect;Arkitekten konstruerede bygningen. ;Arkitekten justerede planerne. ;0
+Manden tabte sin ske. ;cause;Hans hånd rystede. ;Han slikkede skeen. ;0
+Virksomhedens administrerende direktør trak sig. ;effect;Bestyrelsen opløste selskabet. ;Bestyrelsen har fundet en afløser. ;1
+Jeg kom for sent til foredraget. ;effect;Jeg satte mig i bageste række. ;Jeg gik hen til podiet. ;0
+Manden blev løsladt fra fængslet. ;cause;Hans familie betalte hans kaution. ;Han angreb en medfanger. ;0
+Familien mistede alle deres ejendele. ;cause;De solgte deres hus. ;Deres hus brændte. ;1
+Jeg trådte på aluminiumsdåsen. ;effect;- Dens er genbrugt. ;- Densken blev knust. ;1
+Pigen sluttede sig til debatteamet. ;effect;Hun lærte at bruge en computer. ;Hun lærte at kommunikere. ;1
+Mit humør blev bedre. ;cause;Jeg lyttede til musik. ;Jeg vaskede op. ;0
+Velgørenhedsorganisationen satte sig som mål at indsamle penge. ;effect;De gav de hjemløse mad. ;De holdt en auktion. ;1
+Vægbanen styrtede ned ad den stejle fald. ;effect;Passagererne gigglede. ;Passagererne skreg. ;1
+Jeg var rasende. ;effect;Jeg tjekkede postkassen, da jeg forlod huset. ;Jeg smækkede døren, da jeg forlod huset. ;1
+Manden ville se solopgangen. ;effect;Han rejste nordpå. ;Han stod tidligt op. ;1
+Jeg faldt papiret. ;effect;Jeg genbrugte papiret. ;Papiret krøllede. ;1
+Landet var blevet ramt af en naturkatastrofe. ;effect;Ledere fra andre lande dannet en alliance. ;Ledere fra andre lande sendte nødhjælp. ;1
+Drengens tøj blev vådt. ;cause;Han klatrede ud af poolen. ;Han faldt ned i poolen. ;1
+Studenten skyndte sig at læse bogen færdig. ;cause;Den skulle returneres til biblioteket. ;Han lånte den af en ven. ;0
+Forbryderen blev henrettet. ;cause;Han blev smidt i fængsel. ;Han blev dømt for mord. ;1
+Solens lys kom ind i værelset. ;cause;Jeg åbnede gardinerne. ;Jeg låste døren op. ;0
+Jeg trak den falske mands hår. ;effect;Hendes paryk kom af. ;Hun blev skaldet. ;0
+Redaktøren omformulerede en sætning i manuskriptet. ;cause;Han fandt manuskriptet overbevisende. ;Han fandt dommen uklar. ;1
+Kvinden annullerede sin kreditkortkonto. ;cause;Hun opdagede, at kortet var væk. ;Hun indså, at kortet var udløbet. ;0
+Manden og kvinden forelskede sig. ;effect;De gik på college. ;De blev gift. ;1
+Musikken var for svag til at blive hørt. ;effect;Jeg skruede op for lyden. ;Jeg komponerede min egen sang. ;0
+Drengens hår stod op. ;cause;Pigen har gjort det til noget. ;Pigen trak den ud. ;0
+- Insektens hoved blev knust. ;cause;Jeg har sprøjtet mig med insektmiddel. ;Jeg trådte på insekt. ;1
+Jeg åbnede øjnene. ;cause;Jeg vågnede. ;Jeg slapper af. ;0
+Min nabos musik var højt. ;effect;Jeg bad ham om at skrue ned. ;Jeg bad ham om at låne CD'en. ;0
+Mandens familie levede i fattigdom. ;cause;Han var sparsom med sine indtægter. ;Han tjente under mindstelønnen. ;1
+Studenten er færdig fra universitetet. ;effect;Han søgte arbejde. ;Han tog en hobby. ;0
+Kunstneren blandede gul maling med blå maling. ;effect;Malingen sprøjtede overalt. ;Malingen blev grøn. ;1
+Jeg skiftede samtaleemne. ;cause;Jeg havde ikke mere at tale om. ;Samtalen blev anspændt. ;1
+Min bror er blevet udskrevet fra hospitalet. ;effect;Jeg hilste ham velkommen hjem. ;Jeg gav ham en kold skulder. ;0
+Gardinet på scenen gik op. ;effect;Spillets indledende scene begyndte. ;Skuespillerne forlod scenen. ;0
+Gidslen underkastede sig kidnapperens befalinger. ;cause;Kidnapperen truede med at skade gidslen. ;Kidnapperen efterlod gidslen alene. ;0
+Et bomm genlød på scenen. ;cause;Musikeren bankede på sin fod. ;Musikeren slog på trommen. ;1
+Forældrene skyndte sig ind i deres barns soveværelse. ;cause;Barnet vågnede skrigende fra et mareridt. ;Barnet var bange for at kigge under sengen. ;0
+Kvinden kommunikerede med tegnsprog. ;cause;Hun blev født for tidligt. ;Hun er døv fra fødslen. ;1
+Der var tørke i området. ;effect;Vandet blev forurenet. ;Afgrøderne døde. ;1
+Katten jagtede fuglen. ;effect;Fuglen fløj væk. ;Fuglen fangede en orm. ;0
+Pigen skiftede skole. ;cause;Skolen er fri i sommer. ;Hun flyttede til en ny by. ;1
+Fabrikens ejer nægtede at hæve lønningerne til medarbejderne. ;effect;Ejeren har udnævnt en ny manager. ;Ansatte gik i strejke. ;1
+Lederen gjorde ekstremisterne til fjender i sit land. ;effect;- Han blev påvirket af ekstremisterne. ;- Han blev myrdet af ekstremisterne. ;1
+Jeg gik barfodet på stranden. ;effect;Sanden klistrede sig fast i mine fødder. ;Bølger slog ned langs kysten. ;0
+Jeg vågnede midt om natten og frøs. ;effect;Jeg tog sweatpants på. ;Jeg drak et glas vand. ;0
+Moderen stillede sin søn. ;cause;Hendes søn grinede. ;Hendes søn hvævede. ;1
+Et hul i mine jeans. ;cause;Jeg har lukket jeans'en. ;Jeg snublede på fortovet. ;1
+Drengen havde tandbøjler på. ;effect;Han har fået et hulrum. ;Hans tænder blev lige. ;1
+Jeg trænede i gymnastiksalen i går. ;effect;Jeg vågnede i dag med ømme muskler. ;Jeg vågnede i dag med ondt i halsen. ;0
+Pigen hviskede frem og tilbage til hinanden ved frokostbordet. ;effect;Andre elever satte sig ved frokostbordet. ;Andre elever ved frokostbordet følte sig overladt. ;1
+Barnet landede på trampolinen. ;effect;Hun sprang op i luften igen. ;Hun besluttede at prøve at gøre en flip. ;0
+Jeg lagde brevet i postkassen. ;effect;Postkontoret leverede brevet. ;Postvæsenet fremskyndede brevet. ;0
+Gambleren var selvsikker. ;effect;Han satsede alle sine penge. ;Han gik hjem flad. ;0
+Skovbranden spredte sig. ;cause;Vinden blev stærkere. ;Brandmændene blev anholdt. ;0
+Barnet flåede hans knæ. ;effect;Hans mor sendte ham til sit værelse. ;Hans mor bandasjerede såret. ;1
+Manden overlevede den dødelige sygdom. ;cause;Han skrev under på sit testamente. ;Han fik en organtransplantation. ;1
+Jeg tog en slurk af den brændende kaffe. ;effect;Jeg bed mig i tungen. ;Jeg brændte min tunge. ;1
+Redaktøren fyrede forfatteren. ;cause;Forfatteren undgik at være partisk i sine historier. ;Forfatteren overså en vigtig deadline. ;1
+Jeg følte mig udmattet. ;cause;Jeg sov hele dagen. ;Jeg har studeret hele dagen. ;1
+Lægen stillede diagnosen. ;cause;Hun identificerede patientens symptomer. ;Hun ordinerede piller til patienten. ;0
+Jeg klør mig. ;cause;Det var svedigt. ;Det kløede. ;1
+Manden blev opereret. ;cause;Han mistede sin lidenskab. ;Han fik et hjerteanfald. ;1
+Mandens armmuskler er udbukket. ;cause;Han bøjde sine arme. ;Han gnidte sine arme. ;0
+Manden løftede øjenbrynet. ;cause;Han blev overrasket. ;Han følte sig modløs. ;0
+Jeg undskyldte min kollegas fejl. ;cause;Jeg troede, hans hensigter var gode. ;Jeg troede, at han vidste bedre. ;0
+Manden holdt op med at ryge. ;effect;Han begyndte at motionere mere. ;Han begyndte at vågne tidligere. ;0
+Kvinden slog sin angriber i næsen. ;effect;Angriberens krop blev livløs. ;Angriberen begyndte at bløde. ;1
+Dart missede målet. ;cause;Manden sigtede forkert. ;Han var ved at tabe. ;0
+Husejeren bad om at få en udryddelsesmand til at besøge ham. ;cause;Han opdagede rotter i kælderen. ;Han havde en myrekultur i sit værelse. ;0
+Jeg foreslog min gæst, at vi skulle ud at spise. ;cause;Jeg var for træt til at forberede noget. ;Min gæst blev for længe. ;0
+Pigen fangede sin bror i at læse hendes dagbog. ;effect;Hun begyndte at gemme dagbogen. ;Hun har fået en ny dagbog. ;0
+Kvinden havde ikke nok penge til huslejen. ;effect;Hun arbejdede overtid. ;Hun sagde op. ;0
+Barnet fik hurtigt en hånd, der gik tilbage. ;cause;Han rørte ved den varme komfur. ;Han klappede hvalpens hoved. ;0
+Virksomheden ønskede at måle kundernes tilfredshed. ;effect;De tilbød rabat til nye kunder. ;De uddelte en undersøgelse til kunderne. ;1
+Trægulvet blev rivet. ;cause;Drengen smed pude fra sofaen. ;Drengen slæbte en stol over gulvet. ;1
+Jeg beskyttede mit ansigt. ;cause;Min fjende hånede mig. ;Min fjende rakte en knytnæve. ;1
+Den berømte statue brændte ned. ;cause;Den blev ramt af et lyn. ;Folk kom for at tilbede den. ;0
+Jeg glemte frugten på bordet. ;effect;Frugten udskyder frø. ;Flue svømmede over frugten. ;1
+Ballerinen rev et ledbånd. ;cause;Hun pegede på sine tæer. ;Hun fik en ankelforvrængning. ;1
+Barnet havde løst sine snørebånd. ;cause;Han lærte at binde dem. ;Han løb rundt på legepladsen. ;1
+Jeg blev betaget af bogen. ;effect;Jeg returnerede bogen. ;Jeg mistede tidsfornemmelsen. ;1
+Manden havde samme tro som sine forældre. ;cause;Hans forældre påvirkede ham. ;Hans forældre fornægtede ham. ;0
+Bilen sænkede langsomt til at standse. ;cause;Det løb tør for benzin. ;Chaufføren faldt i søvn. ;0
+Manden spiste is i solen. ;effect;Isen mistede sin smag. ;Isen drypper fra keglen. ;1
+Jeg hængte kunstværker op i værelset. ;cause;Tæppet så beskidt ud. ;Væggene så bare ud. ;1
+Jeg forlod arbejdet tidligt. ;cause;Jeg havde hovedpine. ;Min chef holdt et møde. ;0
+Hvalpen har snavset tæppet. ;effect;Ejeren skældte hunden ud. ;Ejeren gav hvalpen en godbid. ;0
+Jeg undskyldte mig over for min ven. ;effect;Min ven har tilgivet mig. ;Min ven blev rasende. ;0
+Manden stod ud i mængden. ;cause;Han bar en rygsæk. ;Han havde en neonvest på. ;1
+Vidnet løj under ed. ;effect;Han afsluttede sit vidnesbyrd. ;Han blev anklaget for at have svigtet. ;1
+Kvinden farvede sit hår. ;cause;Hun ville have et nyt look. ;Hun ville blande sig ind. ;0
+Indvandrerne blev fanget ulovligt bosiddende i landet. ;effect;De fandt arbejde. ;De blev deporteret. ;1
+Den offentlige taler lavede en vittighed. ;effect;Publikum lo. ;Publikum rejste sig. ;0
+Jeg så ind i solen. ;effect;Solen gjorde mig blind. ;Solen har brænde mig. ;0
+Jeg keder mig. ;effect;Jeg snorede. ;Jeg gav. ;1
+Steakken var svær at skære. ;cause;Kniven var sløv. ;- Stekken var rå. ;0
+Kvinden erklærede konkurs. ;cause;Hun modtog underholdsbidrag. ;Hun optog en enorm gæld. ;1
+Lyset i min vens lejlighed var tændt. ;effect;Jeg tænkte på, om han var ude. ;Jeg besluttede at besøge ham. ;1
+Jeg lagde blomsten under min næse. ;effect;Blomsterne faldt af blomsten. ;Jeg opfangede blomstens duft. ;1
+Kvinden følte sig nostalgisk. ;cause;Hun løb ind i en barndomsven. ;Hun råbte ad sine børn. ;0
+Studenten udsatte sig på papiret. ;effect;Han indsendte papiret tidligt. ;Han indsendte papiret ufuldstændigt. ;1
+Min bil gik i stykker. ;effect;Jeg gik i indkøbscenteret. ;Jeg ringede til en mekaniker. ;1
+Jeg smed sedlen væk. ;cause;Det var anonymt. ;Det var ulæseligt. ;1
+Fuglen slog med vingerne. ;effect;Den lagde æg. ;Den steg opad. ;1
+Jeg parkerede på indkørslen. ;cause;Garagen var åben. ;Garagen var fuld. ;1
+Forbryderen sigtede pistolen mod sit offer. ;effect;Forbryderen lagde pistolen. ;Offeret rakte hænderne op. ;1
+Jeg så frem til weekenden. ;cause;Jeg havde planlagt at deltage i min onkels begravelse. ;Jeg havde planlagt at deltage i min vens bryllup. ;1
+Jeg mistede tidsfornemmelsen. ;cause;Jeg var dagdrømmer. ;Jeg var kvalm. ;0
+Dokumentet blev udskrevet ulæseligt. ;cause;Printeren var løbet tør for blæk. ;- Der var ikke mere papir. ;0
+Stadionet spillede nationalsangen. ;effect;Fansene vendte sig mod flaget. ;Fansene stormede ind på banen. ;0
+Dippen smagte bland. ;effect;Jeg serverede den. ;Jeg har sat salt i den. ;1
+Jeg lagde papirhåndklædet på spildet. ;effect;Håndklædet absorberede væsken. ;Udledningen efterlod en klæbende rest. ;0
+Kvinden blev afbrudt midt i sin bog. ;effect;Hun bookmarked sin side. ;Hun læste bogen igen. ;0
+Flyet ramte turbulens. ;effect;Manden stramte sit sikkerhedssele. ;Manden kiggede ud af vinduet. ;0
+Drengen rystede. ;cause;Pigen ignorerede ham. ;Pigen stødte ham. ;1
+Lægerne gav patienten et kunstigt lem. ;cause;De amputerede hendes ben. ;De overvågede hendes vitale funktioner. ;0
+Drengen klemt pigens albue. ;effect;Hun rystede på skuldrene for ham. ;Hun trak sin arm væk fra ham. ;1
+Jeg bad min ven om råd. ;cause;Jeg satte pris på hans mening. ;Jeg vidste, jeg havde ret. ;0
+Drengen trådte i mudder. ;effect;Mudderet klistrede sig fast i hans sko. ;Mudderet ramte ham i ansigtet. ;0
+Byen fik flere centimeter sne. ;effect;Skolerne lukket. ;Folk gemte sig under jorden. ;0
+Arbejderens vagt er slut. ;effect;Han tog hjem for dagen. ;Han truede med at sige op. ;0
+Træet beskadigede huset. ;cause;Træet faldt ned på taget. ;Træet skyggede baghaven. ;0
+Træet blev delt i to. ;cause;Jeg stak brænde i pejset. ;Jeg svingede øksen ned til træet. ;1
+Familien lykønskede parret. ;cause;Parret meddelte, at de var ved at skilles. ;Parret meddelte at de skulle have en baby. ;1
+Pigen sendte drengen et valentinskort. ;cause;Hun kunne lide ham. ;Hun kyssede ham. ;0
+Jeg nikkede med hovedet over min vens udtalelse. ;cause;Jeg var forvirret. ;Jeg var enig med ham. ;1
+Vennerne kastede en mønt. ;cause;De ville finde et kompromis. ;De ville træffe en retfærdig beslutning. ;1
+Timeren i køkkenet gik af. ;effect;Manden losser købmandsprodukter i køleskabet. ;Manden tog pizzaen ud af ovnen. ;1
+Kvinden satte sig et ambitiøst mål. ;effect;Hun slap af. ;Hun arbejdede hårdt. ;1
+Den rige mand døde af alderdom. ;effect;Hans søn fik lovlige problemer. ;Hans søn arvede hans formue. ;1
+Kvinden trådte på flammerne. ;effect;Flammerne gik ud. ;Røg steg op fra flammerne. ;0
+Kvindens bil var i værkstedet. ;cause;Hendes kørekort blev inddraget. ;Hun var ude for en bilulykke. ;1
+Jeg sov igennem min alarm. ;effect;Jeg har lavet morgenmad. ;Jeg gik glip af morgenmaden. ;1
+Den offentlige person kom ud af limousinen. ;effect;Kameraerne blinkede i hans retning. ;Hans familie deltog i pressekonferencen. ;0
+Kvinden blev i badekarret. ;effect;Badet blev lunkent. ;Badet vandet drænet ud af badekarret. ;0
+Den studerende ville møde andre studerende på campus. ;effect;Han gik med i et broderskab. ;Han har en ingeniøruddannelse. ;0
+Jeg løftede sofaen op. ;cause;Jeg ledte efter småpenge. ;Jeg omarrangerede stuen. ;0
+Vespen fløj mod drengen. ;effect;Drengen løb væk. ;Drengen plukkede en blomst. ;0
+Kvinden blev fundet skyldig i en forseelse. ;effect;Hun blev idømt samfundstjeneste. ;Hun blev henrettet. ;0
+Jeg blandede sukkeret i den varme te. ;effect;Teen dampede. ;Sukkeret opløstes. ;1
+Den veteran gik med en halte. ;cause;Han blev indkaldt til krig. ;Han blev såret i kamp. ;1
+Forbryderen flygtede fra politiet. ;effect;Politiet tog sig af offeret. ;Politiet jagtede forbryderen. ;1
+Laptopen tændte ikke. ;cause;Jeg tabte den. ;Jeg har opladet den. ;0
+Kvinden løb tør for plads i sit skab. ;cause;Hun skabte sig en omfattende garderobe. ;Hun har lagt sit vasketøj sammen. ;0
+Manden var knust i hjertet. ;cause;Hans kone fødte. ;Hans kone forlod ham. ;1
+Manden fik en eksamen. ;effect;Han blev kvalificeret til det job han ønskede. ;Hans jobtilbud blev trukket tilbage. ;0
+Hans stemme kunne tydeligt høres i hele salen. ;cause;Han hilste på publikum. ;Han talte ind i mikrofonen. ;1
+Jeg kastede en mønt i vandfontenen. ;effect;Mønten sank til bunden. ;Mønten brød i to. ;0
+Spilleren slår bolden mod hullet. ;effect;Bolden gik ind i hullet. ;Bolden trak sig tilbage til spilleren. ;0
+Jeg åndede støvet op på loftet. ;effect;Jeg hikkede. ;Jeg nysede. ;1
+Kassereren ringede til vagterne. ;cause;Kunden brugte falske penge. ;Kunden glemte sine forlygter tændt. ;0
+Jeg tog affaldet ud. ;cause;Pølset fik køkkenet til at lugte dårligt. ;Jeg smed min indkøbsliste væk. ;0
+Familien tog til zoologisk have. ;effect;Børnene beundrede dyrene. ;Børnene jagtede dyrene. ;0
+Manden åndede højt. ;cause;Hans nyrer svigtede. ;Hans lunger var tilstoppede. ;1
+Jeg havde en ekstra billet til koncerten. ;effect;Jeg spurgte min ven om vej til stedet. ;Jeg spurgte min ven, om han var interesseret i at tage med. ;1
+Luftkonditioneringen i huset gik i stykker. ;effect;Jeg tog tæpper med. ;Jeg åbnede vinduerne. ;1
+Drengen har ondt i ryggen. ;cause;Hans rygsæk var åben. ;Hans rygsæk var tung. ;1
+Jeg har købt en gave til min mor. ;cause;Jeg bagte en kage til hende. ;Det var hendes fødselsdag. ;1
+Narcisserne i haven er blevet ødelagt. ;cause;En bi stødte gartneren. ;Ekorn gravede pærerne op. ;1
+Jeg slog tændstikken. ;effect;Flammen gik ud. ;Tændstikken skabte en flamme. ;1
+De stridende parter nåede frem til en forlig. ;cause;De ville ikke diskutere det i retten. ;De ville reparere deres personlige forhold. ;0
+Børnene blev sendt på børnehjem. ;cause;Deres forældre døde. ;Deres forældre forkælede dem. ;0
+En meteor faldt i havet. ;effect;Der skete en tsunami. ;Det begyndte at hagle. ;0
+Vandrerinden stødte på en giftig slange. ;effect;Hun blev dehydreret. ;Hun gik i panik. ;1
+Ovnen blev varm. ;cause;Jeg tændte ovnen. ;Jeg satte tallerkenen i ovnen. ;0
+Jeg klemte citronen. ;effect;Citronen blev skummet. ;- Det er citron sprøjtet. ;1
+Landet opdagede nyt land. ;effect;Landet forlod landet. ;Landet koloniserede landet. ;1
+Glasset faldt ned fra bordet. ;effect;Den gik i stykker over hele gulvet. ;Den landede i en bunke vasketøj. ;0
+Bordet vaklede. ;cause;Gulvet var ujævnt. ;Gulvet var glat. ;0
+Faderen fangede sin søn i at lyve. ;effect;Hans søn tilstod sandheden. ;Faderen stolede på sin søn. ;0
+Mandens hoved bankede af smerte. ;effect;Han tog hostesaft. ;Han tog aspirin. ;1
+Toget sænkede hastigheden. ;cause;Den nærmede sig stationen. ;Det var bagud med tidsplanen. ;0
+Han gik i terapi. ;cause;Han havde en slægtshistorie med psykisk sygdom. ;Han blev diagnosticeret med depression. ;1
+Kvinden greb om halsen. ;cause;Hun slugte sin mad. ;Hun kvalte sig i sin mad. ;1
+Kvinden havde ondt i halsen. ;effect;Hendes stemme lød rasende. ;Hun talte med accent. ;0
+Hunden kiggede på den saftige bøf på bordet. ;effect;Det drak. ;Det lagde ned. ;0
+Kvindens forretning lykkedes. ;effect;Hun fyrede sine ansatte. ;Hun blev rig. ;1
+Eleverne forlod klasseværelset. ;cause;Klokken ringede. ;Læreren gav mig lektier. ;0
+Kvinden hævdede, hun havde set et spøgelse. ;effect;Hendes bekendte udtrykte tvivl. ;Hendes bekendte var i familie med hende. ;0
+Manden mistede hørelsen. ;cause;Han druknede næsten i havet. ;Han blev næsten dræbt i en eksplosion. ;1
+Barnet lod ballonstrengen gå. ;effect;Ballonen er tømt. ;Ballonen steg op i luften. ;1
+Manden mistede evnen til at tale. ;cause;Han fik et slagtilfælde. ;Han tog et dybt indånding. ;0
+Kvinden snublede på fortovet. ;cause;Der var en revne i cementen. ;Hun hørte sit navn blive kaldt. ;0
+Manden kastede en kanonbold i poolen. ;effect;Livredderen sprang efter ham. ;Manden har gennemblødt redningsmanden. ;1
+Jeg tog antibiotika. ;effect;Min infektion er væk. ;Min infektion spredes. ;0
+Trafiklyset blev gult. ;effect;Chaufføren trykkede på bremsen. ;Chaufføren blæste. ;0
+Plastikbeholderen smeltede. ;cause;Jeg har gennemblødt beholderen i varmt vand. ;Jeg lagde beholderen på den varme komfur. ;1
+Bilen fik buer. ;cause;Chaufføren ramte en telefonstolpe. ;Chaufføren kørte over rødt. ;0
+Drengen studerede hele natten. ;effect;Han sprang eksamen. ;Han bestod eksamen. ;1
+Den unge dreng klamrede sig til udkanten af bassinet. ;cause;Han var bange for at lære at svømme. ;Livredderen var på vagt. ;0
+Jeg lagde min hånd på mit bryst. ;effect;Jeg kunne mærke mit hjerte. ;Mit hjerte slog hurtigere. ;0
+Bygningen ved siden af mit kontor var under opførelse. ;effect;Mit kontor var overfyldt. ;Mit kontor var støjende. ;1
+Familien ønskede at lære deres nye naboer at kende. ;effect;Familien inviterede naboerne over til middag. ;Familien vinkede til naboerne fra deres have. ;0
+Vand sprøjtede op fra poolen. ;cause;Svømmeren dykkede ned i poolen. ;Svømmeren flød i poolen. ;0
+Jeg bed i et stykke vandmelon. ;effect;Jeg slugte et frø. ;Jeg har ved et uheld sprunget en tand. ;0
+Drengen snublede. ;cause;Hans jakke var løslåst. ;Hans snørebånd var løsnet. ;1
+Kvinden har sat ørepropper i. ;cause;Hun blev distraheret af støj. ;Hun fik piercinger i ørerne. ;0
+Jeg har fyldt min vandflaske op. ;cause;Jeg drak alt vandet i den. ;Jeg gemte den i køleskabet. ;0
+TV-showet blev censureret. ;cause;Den indeholdt vulgært sprog. ;Det havde et kompliceret plot. ;0
+Skibet er blevet ødelagt. ;effect;Besætningen druknede. ;Besætningen stødte på pirater. ;0
+Drengen følte sig forvirret af gåden. ;effect;Han løste gåden. ;Han bad om et hint. ;1
+Telefonen ringede. ;effect;Manden lagde på. ;Manden tog telefonen. ;1
+Kvinden stirrede på mig. ;effect;Jeg krammede hende. ;Jeg følte mig ikke godt tilpas. ;1
+Gruppen forlod museet. ;cause;De tog billeder af udstillingerne. ;De så alle udstillingerne. ;1
+Manden begyndte at skændes med mig. ;effect;Min ven præsenterede mig for manden. ;Min ven stod op for mig. ;1
+Dækket på min cykel var plat. ;effect;Jeg pumpede luft i dækket. ;Jeg skiftede gear på cyklen. ;0
+Pigen så bleg ud. ;effect;Hendes far læste en historie for hende. ;Hendes far rørte ved hendes pande. ;1
+Pennen løb tør for blæk. ;effect;Jeg brugte en blyant. ;Jeg skrev mit navn. ;0
+Manden blev nægtet et lån. ;cause;Han var i gæld. ;Han startede en forretning. ;0
+Pigen blev hjemme fra skolen. ;cause;Hun havde skoldkopper. ;Hun nød at lære matematik. ;0
+- Skraldespanden var fuld. ;effect;Jeg tog den med i skraldespanden. ;Jeg smed den ned i vasken. ;0
+Jeg støvsugede tæppet. ;cause;Min bofælle spildte punch. ;Min hund taber hår. ;1
+Manden mistede sin temperament. ;effect;Han slukkede sin computer. ;Han smed en stol over i værelset. ;1
+Pigen kastede en gren i lejrbålet. ;effect;Kvisten brændte. ;Ilden gik ud. ;0
+Manden kom ud af badet. ;cause;Varmt vand var væk. ;Han kunne ikke finde et håndklæde. ;0
+Forældrene ønskede at deres børn skulle gå på universitetet. ;effect;De har opsparet penge til skolepenge. ;De opfordrede deres børn til at lege udenfor. ;0
+Manden løste sine sko. ;effect;Skoene slap af. ;Skoene blev slidte. ;0
+Manden spiste halvdelen af hovedrätten. ;effect;Han kølede resten. ;Han gemte opskriften. ;0
+Min ankel var hævet. ;effect;Jeg lagde is på den. ;Jeg smurte lotion på den. ;0
+Min kontordør var åben. ;effect;Jeg talte med min kollega ved mit skrivebord. ;Jeg hørte samtalen i gangen. ;1
+Jeg måtte stå i kø. ;effect;Jeg satte mig. ;Jeg skimmed et magasin. ;1
+Manden slog på fluen. ;effect;Fuglen gik. ;Fuglen blev stille. ;0
+Manden skrev et testamente. ;cause;Han var døende. ;Han var enkemand. ;0
+Løberen fornemmede at hans modstander kom nærmere. ;effect;Han droppede ud af løbet. ;Han accelererede sit tempo. ;1
+Jeg har tænkt grundigt over problemet. ;effect;Jeg bad om råd. ;Jeg fandt en løsning. ;1
+Rejsende gik på den rystende hængebro. ;effect;Han var skrækslagen. ;Han var begejstret. ;0
+Manden forudså holdets sejr. ;effect;Han mødte sine venner for at se kampen. ;Han har sat et væddemål med sine venner. ;1
+Drengen kunne ikke falde i søvn. ;effect;Han satte sin vækkeur. ;Han talte får. ;1

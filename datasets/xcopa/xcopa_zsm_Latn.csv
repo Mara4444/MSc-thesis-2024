@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Item itu dibungkus dalam bungkusan gelembung. ;cause;Ia rapuh. ;Ia kecil. ;0
+Saya mengosongkan poket saya. ;effect;Saya mengambil sepinggan tiket. ;Saya jumpa senjata. ;0
+Semut menyerang rumah. ;effect;Semut hilang dari rumah. ;Semut memakan kayu di dalam rumah. ;1
+Para pelancong telah sampai ke sempadan. ;effect;Agen rondaan memeriksa pasport mereka. ;Agen rondaan menuduh mereka menyeludup. ;0
+Pejabat itu ditutup. ;cause;Hari itu hari cuti. ;Ia adalah musim panas. ;0
+Gadis itu kehabisan tenaga. ;cause;Dia bermain dam. ;Dia melompat tali. ;1
+Wanita itu kehilangan tempatnya dalam barisan. ;cause;Lebih ramai orang masuk ke barisan. ;Dia melangkah keluar dari barisan. ;1
+Gadis itu mencubit hidungnya. ;cause;Bayi itu mengadu pada bibnya. ;Bayi itu mencemarkan lampin dia. ;1
+Band itu memainkan lagu hit mereka. ;effect;Penonton bertepuk tangan mengikut muzik. ;Penonton dengan sopan mendengar dalam diam. ;0
+Gadis itu ingin berterima kasih kepada guru matematiknya. ;effect;Gadis itu tinggal selepas sekolah untuk penangguhan. ;Gadis itu membawa seorang guru sebuah epal. ;1
+Para penempatan muda berasa takut. ;cause;Penasihat kem mereka memberitahu mereka cerita hantu. ;Mereka memanggang marshmallows di atas api perkhemahan. ;0
+Lelaki itu memukul kepalanya. ;effect;Dia tersesat dalam pemikiran. ;Dia mengalami gegaran otak. ;1
+Cek yang saya tulis tidak dibayar. ;cause;Akaun bank saya kosong. ;Saya layak mendapat kenaikan gaji. ;0
+Peti masuk e-mel lelaki itu penuh dengan spam. ;effect;Dia memadam spam. ;Dia menghantar e-mel secara beramai-ramai. ;0
+Pelaut itu dikuarantin. ;cause;Dia terdedah kepada penyakit itu. ;Dia pulih dari penyakit itu. ;0
+Gadis itu menghafal kodnya. ;cause;Dia mengulangi itu untuk dirinya sendiri. ;Dia lupa untuk menulisnya. ;0
+Saya tuangkan air ke dalam gelas. ;effect;Air itu memuaskan dahaga saya. ;Gelas itu menjadi penuh. ;1
+Lelaki itu diam apabila rakannya selesai bercakap. ;cause;Dia mahu menawarkan sokongan kepada rakannya. ;Dia memikirkan kata-kata rakannya. ;1
+Kemalangan itu adalah salah saya. ;effect;Saya berasa bersalah. ;Saya telah memfailkan dakwaan. ;0
+Rantai itu terpecah. ;cause;Rantai itu dibungkus pada tayar. ;Ada satu pautan yang rosak dalam rantaian. ;1
+Pasangan itu memutuskan untuk berkompromi. ;cause;Mereka bosan berdebat. ;Mereka mengelakkan untuk membincangkan masalah itu. ;0
+Wanita itu memutuskan untuk bertanding untuk jawatan awam. ;effect;Dia mengupah pengurus kempen. ;Dia memberi keterangan di mahkamah. ;0
+Lelaki itu menjangkakan cuaca sejuk dalam perjalanannya. ;effect;Dia mengemas pakaian hangat dalam beg begnya. ;Dia mengembara dengan beg besar. ;0
+Pelajar itu tahu jawapan kepada soalan itu. ;effect;Dia mengangkat tangannya. ;Dia tergelak. ;0
+Mata lelaki itu menangis. ;cause;Debu masuk ke matanya. ;Dia meletakkan cermin mata di matanya. ;0
+Pemain itu memenangi lima perlawanan berturut-turut. ;effect;Lawan dia menuduh dia menipu. ;Lawan dia kasihan padanya. ;0
+Guru merobek ujian pelajar. ;cause;Dia menangkap pelajar yang menipu. ;Jawapan pelajar itu salah. ;0
+Saya berhenti untuk berhenti bercakap. ;cause;Saya kehilangan suara saya. ;Saya kehabisan nafas. ;1
+Makanan beku itu mencairkan. ;cause;Saya letakkan di dalam microwave. ;Saya menutupnya dengan plastik. ;0
+Pekerja itu berpura-pura sakit. ;cause;Dia mengalami kekejangan perut. ;Dia mahu hari cuti. ;1
+Gadis itu jatuh ke dalam kolam renang. ;cause;Dia berlari di dek kolam renang. ;Dia melompat dari papan penyelam. ;1
+Tiket filem sudah habis. ;cause;Hari pembukaan filem. ;Filem itu menerima ulasan yang buruk. ;0
+Lelaki itu kehilangan berat badan. ;effect;Orang mengasingkan dia. ;Orang ramai memujinya. ;1
+Tangan gadis itu menjadi berlubang. ;cause;Dia mengetik surat. ;Dia memanjat tali. ;1
+Pelakon sarkas itu bermainnya sambil menunggang basikal. ;effect;Penonton bersorak dengan terkejut. ;Akrobat itu berayun dari trapeze. ;0
+Saya hilang kesabaran saya. ;cause;Kawan saya buat saya menunggu. ;Kawan saya tiba tepat pada masanya. ;0
+Negara-negara yang berperang itu mahukan keamanan. ;effect;Mereka membangunkan senjata nuklear. ;Mereka berunding perjanjian. ;1
+Lelaki itu mengambil ubat tidur. ;effect;Dia menjadi mengantuk. ;Dia demam. ;0
+Wanita itu terhempas ke sofa. ;effect;Kaki sofa terlepas. ;Dia memar lutut. ;1
+Anak lelaki itu memerah belon. ;effect;Balon itu pecah. ;Balon terbang. ;0
+Mereka pelancong yang mendaftar masuk ke bilik hotel mereka. ;effect;Mereka membuka beg mereka. ;Mereka pergi ke lapangan terbang. ;0
+Saya menggigit dalam persik. ;effect;Persik yang lebam. ;Jus tumpah keluar. ;1
+Tangan saya menjadi lengket. ;cause;Saya makan donat. ;Saya suka gula-gula. ;0
+Saya menolak pintu. ;effect;Pintu dibuka. ;Pintu dikunci. ;0
+Aktivis memboikot produk. ;cause;Produk diuji untuk jaminan kualiti. ;Produk-produk itu dihasilkan melalui buruh kanak-kanak. ;1
+Saya menggerudi lubang di dinding. ;effect;Tikus merangkak keluar dari lubang. ;Debu meletup keluar dari lubang. ;1
+Wanita itu merasa iri hati terhadap adiknya. ;cause;Adiknya gembira. ;Adik perempuan dia bercerai. ;0
+Saya tumpah wain pada baju saya. ;effect;Saya pakai tudung. ;Saya tukar baju. ;1
+Pengurus membuka mesin tunai. ;cause;Pelanggan itu mencari dompetnya. ;Pelanggan itu menyerahkan wangnya. ;1
+Pemuzik jalanan itu menarik perhatian orang ramai. ;effect;Orang memberi dia perubahan. ;Dia menyuruh orang ramai pergi. ;0
+Anak lelaki itu menangis kepada pengasuhnya. ;cause;Dia rindu ibu bapanya. ;Masa untuk makan tengahari. ;0
+Radar juruterbang mengesan ribut. ;effect;Juruterbang itu menavigasi jauh dari ribut. ;Juruterbang terbang melalui ribut. ;0
+Pokok itu menumpahkan daunnya. ;effect;Daun berubah warna. ;Daun terkumpul di atas tanah. ;1
+Anak itu dalam mood nakal. ;effect;Dia memutuskan untuk bermain kad dengan kakaknya. ;Dia memutuskan untuk bermain lelucon praktikal pada adiknya. ;1
+Anak itu mengadu bahawa dia perlu pergi ke bilik mandi. ;effect;Ayahnya memberinya soda untuk diminum. ;Ayahnya berhenti di stesen minyak. ;1
+Anak itu menumpahkan makanan ikan ke dalam tangki. ;effect;Ikan itu melompat keluar dari tangki. ;Ikan itu berenang ke arah makanan. ;1
+Pandangan politik wanita itu berubah. ;effect;Dia menukar keanggotaan parti. ;Dia terlibat dalam protes. ;0
+Sinki bilik mandi tersumbat. ;effect;Saya buka paip. ;Saya tuangkan pembersih longkang ke dalamnya. ;1
+Penumpang turun dari kereta api. ;cause;Kereta api tiba di stesen. ;Kereta api itu bersiul. ;0
+Lelaki itu menekan pada lempeng lembab sampul surat. ;effect;Dia meletakkan cap pada sampul surat. ;Dia menutup sampul surat itu. ;1
+Kawan-kawan hilang hubungan. ;cause;Mereka menikmati pergaulan masing-masing. ;Mereka berpindah ke bandar yang berbeza. ;1
+Akauntan salah menguruskan dana syarikat. ;effect;Dia dipecat dari jawatannya. ;Dia pergi bercuti bersalin. ;0
+Saya melihat pada jam. ;cause;Saya dengar jam berdetik. ;Saya mahu memeriksa masa. ;1
+Tangan saya berkerut. ;cause;Saya menulis esei dengan tangan. ;Saya dan isteri saya berpegangan tangan. ;0
+Bolt mengetatkan. ;cause;Saya gantikan bautnya. ;Saya memutar kunci. ;1
+Pasangan itu menandatangani perjanjian sewa untuk sebuah apartmen. ;effect;Pasangan itu berpindah ke apartmen. ;Bandar mengutuk apartmen itu. ;0
+Wanita itu duduk di luar di teras. ;cause;Dia mahu menonton matahari terbenam. ;Dia fikir dia melihat petir. ;0
+Lelaki itu memakai jaket penyelamat di dalam air. ;cause;Dia tak boleh berenang. ;Airnya cetek. ;0
+Wanita itu membuat kesilapan ketik dalam pemprosesan kata. ;effect;Dia memadam dokumen itu. ;Dia menekan butang backspace. ;1
+Gadis itu berbangga dengan kawan-kawannya. ;cause;Dia mendapat markah yang buruk. ;Dia memenangi pertandingan. ;1
+Rumput itu berlumpur. ;cause;Ia turun sepanjang malam. ;Ia penuh dengan rumpai. ;0
+Wanita itu tertidur. ;cause;Dia bermalam di sebuah hotel. ;Dia lupa untuk menetapkan jam penggera. ;1
+Lelaki itu memakai pelindung matahari. ;cause;Dia duduk di tempat teduh. ;Dia pergi ke pantai. ;1
+Para penyelidik membuktikan teori itu. ;effect;Para penyelidik menarik balik teori itu. ;Individu menerima teori itu. ;1
+Peminat di perlawanan itu berteriak. ;cause;Permainan telah memasuki masa tambahan. ;Pengadil membuat keputusan yang salah. ;1
+Saya masukkan kod pada kunci. ;effect;Saya menutup kunci. ;Kunci dibuka. ;1
+Orang ramai semakin kuat. ;effect;Bapa itu memberikan anaknya sejumlah wang. ;Bapa itu memegang tangan anaknya. ;1
+Salji telah menyekat jalan masuk. ;effect;Saya mengumpulkan salji menjadi bola salji. ;Saya mengepung salji keluar dari jalan. ;1
+Para pelayar kayak mendayung dayung mereka. ;effect;Kayak itu sampai ke pantai. ;Kayak itu terhempas ombak. ;0
+Gadis itu hilang kawalan motosikalnya. ;effect;Dia melepaskan pemandu. ;Dia terhempas ke pagar. ;1
+Saya hidupkan kipas angin. ;effect;Air yang disiram ke kulit saya. ;Saya rasa udara sejuk melintas di atas saya. ;1
+Para peselancar kembali ke pantai. ;cause;Mereka basah. ;Mereka nampak jerung. ;1
+Saya tarik palam di dalam tab mandi. ;effect;Air mengalir keluar dari tab mandi. ;Air itu bercambah ke lantai. ;0
+Suami itu berasa bersalah kerana menipu isterinya. ;effect;Dia menuduh dia tidak setia. ;Dia mengaku perselingkuhannya kepadanya. ;1
+Tinta di poster itu berlubang. ;cause;Saya menunggu dakwat itu kering. ;Saya tumpahkan air pada poster. ;1
+Anak itu bangun menjerit. ;cause;Dia ada mimpi buruk. ;Dia kencing di katil. ;0
+Anak itu meletakkan kakinya di atas meja. ;effect;Ayahnya duduk di meja. ;Ayahnya mengajarnya. ;1
+Kawan saya menoleh ke arah saya. ;cause;Saya menjerit namanya. ;Saya melambai lengan saya. ;0
+Kerajaan menindas rakyatnya. ;effect;Rakyat berbaris. ;Warga berdaftar untuk mengundi. ;0
+Budak itu tersesat di dalam hutan. ;effect;Dia mendirikan khemah. ;Dia menjerit minta tolong. ;1
+Wanita itu pergi ke luar negara. ;cause;Dia mahu belajar menggambar. ;Dia mahu belajar tentang budaya lain. ;1
+Lelaki itu cemburu kepada rakan sekerja beliau. ;cause;Rakan kerjanya mendapat promosi. ;Rakan kerjanya bekerja lewat. ;0
+Lelaki itu menyaksikan makhluk asing. ;cause;Dia berhalusinasi. ;Dia sedang bermeditasi. ;0
+Rambut lelaki itu bertukar menjadi berambut perang. ;cause;Dia letak peluntur di dalamnya. ;Dia letak syampu di dalamnya. ;0
+Artis mencipta karya baru. ;cause;Dia mengkritik karya terdahulu beliau. ;Dia merasakan satu serangan inspirasi. ;1
+Anak lelaki itu berpindah dari rumah. ;cause;Dia telah dibebaskan dari tentera. ;Dia akan ke kolej. ;1
+Buku jatuh dari rak buku. ;cause;Rak-rak itu dipenuhi debu. ;Gempa bumi mengguncang rak buku. ;1
+Listrik di rumah saya terputus. ;effect;Saya menyalakan lampu. ;Saya reset pemutus litar. ;1
+Kami menaiki roller coaster. ;cause;Ia kelihatan menakutkan. ;Ia kelihatan menyeronokkan. ;1
+Beg popcorn mula pecah. ;cause;Saya tuangkan mentega ke dalam beg. ;Saya memanaskannya dalam microwave. ;1
+Pokok jatuh ke atas talian kuasa. ;effect;Listrik di kejiranan itu terputus. ;Ramalan cuaca menjangkakan angin kencang. ;0
+Penutur membuat komen yang tidak betul dari segi politik. ;effect;Dia membosankan penonton. ;Dia menyinggung penonton. ;1
+Saya menusuk diri saya dengan pin. ;effect;Sepotong peluh menetes dari muka saya. ;Satu titisan darah terbentuk pada jari saya. ;1
+Ikan itu terapung di permukaan tangki. ;cause;Ia lapar. ;Ia sudah mati. ;1
+Suara lelaki itu terdengar serak. ;cause;Dia demam. ;Dia berhenti merokok. ;0
+Pintu lif dibuka. ;cause;Lif tiba di tingkat yang ditetapkan. ;Lif tersangkut di antara dua tingkat. ;0
+Remaja itu menyelinap keluar dari rumah. ;cause;Dia berbohong kepada ibu bapanya. ;Ibu bapanya menghukumnya. ;1
+Bilik mandi banjir. ;cause;Toilet terbanjiri. ;Pemanas air rosak. ;0
+Anak anjing itu tinggal berhampiran pemiliknya. ;cause;Pemiliknya meletakkan kolar pada anak anjing itu. ;Pemiliknya menjaga anjing itu dengan tali. ;1
+Lelaki itu menangkap pantulan dirinya. ;cause;Dia berdiri di bawah pokok yang luas. ;Dia berdiri di atas tasik yang tenang. ;1
+Saya terlepas panggilan telefon teman wanita saya. ;effect;Saya telefon dia balik. ;Saya bertemu dengannya untuk makan malam. ;0
+Keluarga itu mencari di sekitar. ;cause;Anjing mereka lari dari rumah. ;Perhiasan mahal hilang dari rumah mereka. ;0
+Saya nampak nafas saya ketika saya menghembus nafas. ;cause;Cuaca sejuk. ;Dada saya terasa ketat. ;0
+Pekerja membentuk kesatuan. ;cause;Mereka mahukan keadaan kerja yang lebih baik. ;Majikan mereka menaikkan gaji mereka. ;0
+Saya telah membuat pai epal. ;effect;Bau busuk memenuhi dapur. ;Aroma hangat memenuhi dapur. ;1
+Wanita itu berjuang untuk berjalan. ;cause;Dia memakai kasut tumit tinggi. ;Dia menanggalkan kasutnya. ;0
+Uap naik dari periuk air. ;cause;Air mendidih. ;Saya dah tutup. ;0
+Semua stoking saya berada di tempat dobi. ;effect;Saya memakai sandal. ;Saya memakai kasut bot. ;0
+hujah ahli politik itu dianggap tidak masuk akal. ;effect;Dia kehilangan sokongan pengundi. ;Dia dituduh rasuah. ;0
+Semua orang tidak bersetuju dengan pertunangan pasangan itu. ;effect;Pasangan itu hamil. ;Pasangan itu melarikan diri. ;1
+Bangunan itu didedikasikan untuk jutawan. ;cause;Jutawan itu mahu bangunan itu dirobohkan. ;Jutawan itu menyumbang dana untuk membinanya. ;1
+Rakan jualan menuduh gadis itu mencuri. ;cause;Penjual melihat gadis itu meletakkan barang dagangan di dalam begnya. ;Penjual membantu gadis itu mencari dompet yang dia suka. ;0
+Negara itu mengisytiharkan perang ke atas wilayah jiran. ;effect;Tentera dihantar keluar untuk berperang. ;Tentera telah dipersukan semula dengan keluarga mereka. ;0
+Mahkamah menyokong keputusan kontroversi. ;effect;Sebuah rusuhan berlaku di hadapan mahkamah. ;Pasangan bertukar sumpah di hadapan mahkamah. ;0
+Gadis itu mencium bau sesuatu yang terbakar. ;cause;Dia mengambil biskut dari balang. ;Dia tinggalkan biskut di dalam ketuhar. ;1
+Hujan lebat. ;effect;Ribut semakin teruk. ;Saya bergegas masuk ke dalam. ;1
+Bangunan telah dikosongkan. ;cause;Lif berhenti berfungsi. ;Alarm kebakaran berbunyi. ;1
+Bapa itu marah dengan kecanduan alkohol anaknya. ;effect;Bapa itu membelikan anaknya bir. ;Ayahnya menendang anaknya keluar dari rumah. ;1
+Peguam itu menaiki tangga ke pejabatnya. ;cause;Setiausaha pulang untuk hari ini. ;Lif rosak. ;1
+Lelaki itu mula marah dengan rakannya. ;cause;Kawan dia mengganggu dia. ;Kawan dia belikan dia makan tengahari. ;0
+Gadis itu menyerahkan wangnya kepada juruwang. ;effect;Pengurus kasir memberikan gadis itu kembaliannya. ;Pengurus kedai lupa untuk memberikan resipi kepada gadis itu. ;0
+Wanita itu diletakkan di kerusi roda. ;cause;Dia lumpuh dalam kemalangan. ;Dia masuk hospital dalam sebuah tandu. ;0
+Warga menggantung bendera kebangsaan di luar rumah mereka. ;cause;Negara itu meraikan kemerdekaannya. ;Negara itu menghadapi kesukaran ekonomi. ;0
+Pasukan itu kalah dalam kejohanan. ;effect;Mereka mengecewakan peminat mereka. ;Mereka memberi inspirasi kepada peminat mereka. ;0
+Kawan saya menunjukkan bahawa saya mempunyai makanan terjebak dalam gigi saya. ;effect;Saya berasa malu. ;Saya berasa bangga. ;0
+Budak itu gagal dalam peperiksaan sejarahnya. ;cause;Dia memberi perhatian semasa kelas. ;Dia lupa untuk belajar. ;1
+Bangunan pusat bandar runtuh. ;cause;Gempa bumi melanda bandar. ;Kadar jenayah di bandar meningkat. ;0
+Gadis lelaki itu putus dengannya. ;effect;Dia memohon untuk dia kembali. ;Dia memperkenalkannya kepada ibu bapanya. ;0
+Kedua-dua kanak-kanak secara serentak mencapai ke bawah untuk mengambil bola. ;effect;Bola itu berputar. ;Kepala mereka bertembung. ;1
+Raccoon merompak tong sampah. ;cause;Ada kadbod di tong sampah. ;Penutupnya tidak ada di tong sampah. ;1
+Anak itu mengasah pensil. ;cause;Ia murah. ;Ia membosankan. ;1
+Pengurus bank menolak wanita itu untuk membayar balik wang untuk gaun itu. ;cause;Dia hilang resitnya. ;Gaun itu tidak sesuai. ;0
+Goresan pada kulit saya sangat dalam. ;effect;Ia sembuh dengan cepat. ;Ia meninggalkan parut. ;1
+Lelaki itu menerima pandangan pelik dari penumpang di dalam kereta api. ;cause;Dia menatap ke tanah. ;Dia bercakap dengan dirinya sendiri. ;1
+Anak itu meninggalkan serpihan di atas lantai. ;effect;Semut merangkak ke serpihan. ;Anak itu meletakkan roti itu. ;0
+Wanita itu memberikan tisu kepada kakaknya. ;cause;Adik perempuan itu menggenggam tangannya. ;Adik perempuan itu mula menangis. ;1
+Lelaki itu mengambil mint. ;cause;Bibirnya pecah. ;Dia bimbang tentang bau mulut. ;1
+Pasangan itu berangkat lebih awal untuk pertunjukan. ;cause;Mereka menjangkakan lalu lintas di sekitar teater. ;Mereka ada arahan untuk ke teater. ;0
+Wanita itu tinggal di rumah daripada bekerja. ;effect;Bosnya memujinya. ;Rakan sekerja dia yang melindungi dia. ;1
+Lelaki itu menandatangani petisyen aktivis. ;cause;Dia menyokong tujuan mereka. ;Dia mengutuk mereka sebagai orang gila. ;0
+Hati pelakon itu berdegup kencang sebelum persembahannya. ;cause;Dia takut pentas. ;Dia menghafal ayatnya. ;0
+Saya tersesat. ;effect;Saya kira wang saya. ;Saya membuka peta. ;1
+Buah yang matang berlama-lama di bawah sinar matahari. ;effect;Ia telah dimakan. ;Ia menyusut. ;1
+Kereta rosak. ;cause;Saya menghidupkan pencucuhan. ;Enjin terlalu panas. ;1
+Lelaki itu menyakiti punggungnya. ;effect;Dia pergi berjumpa dengan seorang psikiatri. ;Dia tinggal di tempat tidur selama beberapa hari. ;1
+Saya menyalakan api di perapian. ;cause;Saya kehabisan kayu bakar. ;Ia sejuk di dalam rumah. ;1
+Wanita itu berhenti berjoging. ;cause;Dia mengalami kekejangan di sisi. ;Dia mendapat nafas kedua. ;0
+Saya mengetuk pintu jiran saya. ;effect;Jiran saya menjemput saya masuk. ;Jiran saya meninggalkan rumahnya. ;0
+Wanita itu menghela nafas dengan kekecewaan. ;cause;Suaminya salah faham kebimbangan beliau. ;Suaminya menciumnya untuk mengucapkan selamat tinggal. ;0
+Guru memuji pelajar itu. ;cause;Pelajar itu menjawab soalan dengan betul. ;Pelajar itu teragak-agak untuk menjawab soalan itu. ;0
+Wanita itu kehabisan telur. ;effect;Dia pergi ke ladang. ;Dia pergi ke pasar raya. ;1
+Saya bertemu dengan seorang kawan lama. ;effect;Saya mendedahkan rahsia kepadanya. ;Saya memeluknya. ;1
+Wanita itu mengelakkan diri daripada masuk ke dalam tasik. ;cause;Dia menangkap ikan. ;Ia kelihatan tercemar. ;1
+Pelajar itu tiba di kelas basah. ;cause;Payungnya rosak. ;Basikalnya dicuri. ;0
+Kursor pada skrin komputer bergerak. ;cause;Pengguna mengklik tetikus. ;Pengguna menggerakkan tetikus. ;1
+Pemandu mengambil jalan memutar. ;cause;Kemalangan berlaku di jalan utama. ;Dia mengikut trak di depannya. ;0
+Saya menggantung kain basah di luar pada garisan pakaian. ;effect;Linen kering. ;Linen yang bernoda. ;0
+Wanita itu memakai cermin mata. ;cause;Cahaya matahari terang. ;Dia memanggil teksi. ;0
+Lelaki itu memandang ke langit malam. ;cause;Dia berharap ia adalah musim panas. ;Dia fikir ia indah. ;1
+Saya berasa letih. ;effect;Saya tidur awal. ;Saya berjaga sepanjang malam. ;0
+Lelaki itu pergi ke tukang cukur. ;cause;Dia tumbuh rambutnya. ;Rambutnya semakin panjang. ;1
+Anak itu bermain-main dengan rakan sekelasnya yang baru. ;cause;Anak itu menyambut rakan sekelas baru itu. ;Anak itu tidak menyukai rakan sekelas baru itu. ;1
+Saya mengidam segelas susu. ;cause;Saya makan biskut. ;Saya sedang membakar roti. ;0
+Ia mula hujan. ;effect;Pemandu menyalakan lampu depan. ;Pemandu itu memutar kereta ke belakang. ;0
+Tempat letak kereta bangunan itu kosong. ;effect;Saya letak kereta di seberang jalan. ;Saya letak kereta dekat pintu masuk. ;1
+Penulis terlepas tarikh akhir untuk penyerahan draf. ;cause;Dia mengalami masalah menulis. ;Dia mengedit draf. ;0
+Rakan kongsi itu menutup telefonnya. ;cause;Saya minta bercakap dengan penyelia. ;Saya memberikan nombor pengenalan saya. ;0
+Angin bertiup melalui tingkap terbuka. ;effect;Bunyi loceng pintu. ;Tirai bergetar. ;1
+Listrik di rumah saya terputus. ;cause;Saya cabut palam. ;Saya meletupkan pelekat. ;1
+Peningkat berat itu menggeram. ;cause;Dia melenturkan ototnya di cermin. ;Dia mengangkat bar di atas kepalanya. ;1
+Pelajar itu cuba melakukan matematik di kepalanya. ;effect;Dia mengeluarkan kalkulator. ;Dia keliru. ;1
+Bayi itu tertidur. ;cause;Bapa menukar lampin bayi. ;Bapa itu perlahan-lahan menggelengkan bayi itu. ;1
+Gadis itu melemparkan belon air ke arah budak itu. ;effect;Budak itu mengalami gegaran otak. ;Budak itu basah. ;1
+Jurugambar lupa menggunakan kilat pada kamera. ;effect;Gambar-gambarnya kabur. ;Semua orang dalam gambar enggan tersenyum. ;0
+Saya menolak jemputan untuk parti hari jadi. ;cause;Saya kesepian. ;Saya keluar bandar. ;1
+Saya bersenam. ;cause;Saya berasa bertenaga. ;Saya takut. ;0
+Saya memerah sponge lembap. ;effect;Ia menyerap air. ;Air yang keluar daripadanya. ;1
+Para pelancong mengambil feri ke resort. ;cause;Resort itu sudah dipesan. ;Resort itu terletak di sebuah pulau. ;1
+Remaja itu mendapat tatu. ;cause;Dia takut jarum. ;Dia mahu memberontak. ;1
+Sebuah kereta yang tidak dikenali yang diletakkan di luar rumah saya. ;effect;Saya mula curiga. ;Saya dah telefon polis. ;0
+Penjenayah itu menyerahkan dirinya. ;cause;Bukti menunjukkan dia terlibat. ;Tiada bukti terhadapnya. ;0
+Lelaki yang gemuk itu memutuskan untuk menurunkan berat badan. ;effect;Dia dah berhenti makan gula-gula. ;Dia mengelakkan kafein. ;0
+Gadis itu melangkah di atas ais. ;effect;Dia tergelincir. ;Dia gemetar. ;0
+Wanita itu mempunyai cincin di bawah matanya. ;cause;Dia berjaga sepanjang malam. ;Dia meletakkan anaknya untuk tidur. ;0
+Lava mengalir dari gunung berapi. ;cause;Gunung berapi meletus. ;Gunung berapi itu tidak aktif. ;0
+Wanita itu memakai kasutnya. ;cause;Dia kenal semua orang di parti itu. ;Dia mahu meninggalkan parti. ;1
+Saya bayar pembantu tol. ;effect;Dia membiarkan saya melalui tol. ;Dia menahan saya di gerai tol. ;0
+Eksekutif itu muflis. ;cause;Dia menjual saham syarikatnya. ;Dia membazirkan hartanya. ;1
+Lelaki itu pergi ke doktor. ;cause;Doktor sedang cuti. ;Lelaki itu berasa sakit. ;1
+Saya keluar dari bilik tidur saya melalui tingkap. ;cause;Rumah itu terbakar. ;Rumah itu kosong. ;0
+Jari-jari budak itu menjadi prune. ;cause;Dia mandi lama. ;Dia berkumur tangan dengan sabun. ;0
+Saya meludah keluar susu. ;cause;Susu itu rasa masam. ;Mulut saya kering. ;0
+Saya terlepas bas. ;effect;Saya datang awal untuk bekerja. ;Saya terlambat ke tempat kerja. ;1
+Truk itu bertembung dengan kereta. ;effect;Truk itu laju. ;Kereta dah rosak. ;1
+Pasukan itu memalsukan pertandingan itu untuk mereka. ;effect;Mereka menang. ;Mereka keluar. ;0
+Botol soda bersiul. ;cause;Saya pusing botol. ;Saya memutar kap. ;1
+Anak itu dikunci keluar dari rumahnya. ;effect;Dia merangkak masuk melalui tingkap terbuka. ;Dia memanjat ke bumbung. ;0
+Bunyi loceng pintu. ;effect;Pengunjung mengetuk pintu. ;Wanita itu mengintip melalui lubang kunci di pintu. ;1
+Lelaki itu mencemarkan pakaian. ;effect;Dia dah kemas kering. ;Dia menggantungnya di dalam almari. ;0
+Gadis itu memerah tiub ubat gigi. ;effect;ubat gigi keluar dari tiub. ;Gadis itu meludah ubat gigi. ;0
+Kematian orang awam akibat perang melonjak. ;effect;Pasifist mengadakan protes. ;Para penyokong keamanan mengadakan perarakan. ;0
+Gadis itu menarik tali dari rambutnya. ;cause;Dia mengikat tali. ;Tali itu kelihatan seperti bayi. ;1
+Lelaki itu menjalani pembedahan plastik. ;effect;Dia sudah tua. ;Dia kelihatan lebih muda. ;1
+Ayam bayi muncul dari telur. ;cause;Telur itu menetas. ;Saya dah pecahkan telur. ;0
+Tahanan itu kelaparan. ;effect;Dia meninggal. ;Dia melarikan diri. ;0
+Lelaki itu hilang keseimbangan di tangga. ;effect;Dia menaiki tangga. ;Dia jatuh dari tangga. ;1
+Anak itu menggerutu. ;cause;Dia mengambil soda. ;Dia buka tin soda. ;0
+Sejuk masuk melalui tingkap. ;effect;Saya berehat. ;Saya gemetar. ;1
+Pelajar itu menerima biasiswa untuk pergi ke kolej. ;cause;Rakan sekelasnya menghormatinya. ;Dia mendapat gred yang baik. ;1
+Gadis itu mengejek lelaki itu. ;cause;Dia tinggal bersebelahan dengan dia. ;Dia naksir dengannya. ;1
+Pengembara yang lapar mencuri makanan. ;cause;Dia menghasut belas kasihan. ;Dia tidak mempunyai wang. ;1
+Saya telefon kawan saya untuk berbual. ;cause;Saya mahu privasi. ;Saya berasa kesepian. ;1
+Lelaki itu menghulurkan tangannya kepadaku. ;effect;Saya berjabat tangan dengannya. ;Saya menamparnya. ;0
+Saya berpeluh. ;cause;Kembang api dilancarkan di udara. ;Frisbee itu terbang ke arah kepala saya. ;1
+Gadis itu menggigit kuku. ;cause;Dia risau. ;Dia terkejut. ;0
+Saya telah menghidupkan kalendar. ;cause;Saya telah menandakan temujanji pada kalendar. ;Ia adalah permulaan bulan baru. ;1
+Suami itu mendapati bahawa isterinya berselingkuh. ;effect;Dia memecat peguamnya. ;Dia memfailkan untuk perceraian. ;1
+Gadis itu menjatuhkan bola getah. ;effect;Bola itu melompat. ;Bola itu bersinar. ;0
+Gadis itu membuat kesilapan dalam peperiksaan. ;effect;Dia meneka jawapannya. ;Dia memadamkan jawapannya. ;1
+Pemain itu menyentuh lawan. ;effect;Lawan dia menangkap pas. ;Lawan dia jatuh ke tanah. ;1
+Saya mengambil tomato dari pokok anggur. ;cause;Mereka sudah masak. ;Saya beri air. ;0
+Lelaki itu mahu bertindak romantis. ;effect;Dia bertemu bekas kekasihnya untuk makan tengahari. ;Dia membeli coklat untuk teman wanitanya. ;1
+Merkuri dalam termometer meningkat. ;cause;Saya terjatuh termometer. ;Cuaca menjadi lebih panas. ;1
+Tornado datang melalui bandar. ;effect;Bumbung mahkamah meletup. ;Lebuh raya menjadi berbahaya bersalji. ;0
+Pelajar itu menerima bimbingan. ;effect;Nilai dia bertambah baik. ;Dia menipu dalam peperiksaan. ;0
+Saya berasa selesa. ;cause;Saya berlutut di tanah. ;Saya membungkus diri saya dalam selimut. ;1
+Saya dah lapis batu itu. ;effect;Ia menjadi licin. ;Ia menjadi berkilat. ;1
+Saya tambah gula ke dalam kopi. ;effect;Kopi tu berbau kuat. ;Kopi itu rasa manis. ;1
+Lelaki itu mengelirukan kertas. ;effect;Dia mendapat luka kertas. ;Dia menghancur kertas. ;0
+Saya memukul kuku dengan tukul. ;effect;Kuku tersangkut ke dalam kayu. ;Kuku menjadi berkarat. ;0
+Ikan itu menggigit tali. ;effect;Nelayan itu menarik ikan. ;Nelayan itu membuat semula tali. ;0
+Remaja itu malu untuk pergi ke sekolah. ;cause;Dia mendapat jerawat. ;Dia dah lepaskan alat bantu gigi. ;0
+Ekspresi wajah saya menyala. ;cause;Saya menerima berita baik. ;Saya hilang kesabaran saya. ;0
+Saya sapu tangan saya dengan tuala. ;cause;Tuala itu basah. ;Tangan saya basah. ;1
+Lelaki itu hilang keseimbangan di atas bangku. ;cause;Kerusi itu goyang di bawahnya. ;Dia tumpahkan cat di atas bangku. ;0
+Rakan sepasukan saling menyalahkan. ;cause;Mereka kalah dalam permainan. ;Jurulatih mereka membatalkan latihan. ;0
+Saya meminta maaf. ;cause;Saya menyesal kesilapan saya. ;Saya mencapai matlamat saya. ;0
+Wanita itu bosan dengan teman kencannya. ;cause;Dia bertanya soalan tentang dirinya. ;Dia bercakap tanpa henti tentang dirinya. ;1
+Gadis itu tersenyum. ;effect;Matanya merah. ;Dimples beliau muncul. ;1
+Kapal musuh meletup. ;cause;Ia melintasi lombong. ;Ia berlayar ke pelabuhan. ;0
+Lelaki itu menusuk kakinya. ;cause;Dia berjalan ke dalam kolam. ;Dia menginjak kaca pecah. ;1
+Detektif mengepam tempat kejadian untuk cap jari. ;effect;Mereka menemui identiti pembunuh. ;Mereka menemui senjata di tempat kejadian. ;0
+Terdapat banyak trafik di lebuh raya. ;effect;Saya mengambil jalan memutar. ;Saya minta tumpangan. ;0
+Ekonomi negara merosot. ;effect;Ramai orang sakit. ;Ramai orang menghadapi pengangguran. ;1
+Penjaga penyeberangan meniup peluitnya kepada kanak-kanak. ;cause;Mereka akan berjalan ke dalam lalu lintas yang datang. ;Dia mengenali mereka dari kejiranan. ;0
+Saya menggelincir mata pada kawan saya. ;cause;Dia beritahu saya yang sebenarnya. ;Dia membuat komen sarkastik. ;1
+Kereta kehabisan minyak. ;effect;Pemandu tersangkut di jalan raya. ;Pemandu mengambil seorang pengiring. ;0
+Wanita itu mula bersalin. ;effect;Bayi itu telah dilahirkan. ;Wanita itu mengalami penyakit pagi. ;0
+Topi lelaki itu tertiup angin. ;cause;Dia melepas topi. ;Ia berangin di luar. ;1
+Gadis itu menghadiri parti hari jadi rakan sekelasnya. ;cause;Dia menerima jemputan. ;Dia beli hadiah. ;0
+Dahi budak itu terasa panas. ;effect;Ibunya mengambil suhu badan. ;Ibunya membawanya ke taman. ;0
+Lelaki itu menyembur dirinya dengan cologne. ;cause;Dia mahu menarik perhatian teman kencannya. ;Dia meletakkan gel di rambutnya. ;0
+Listrik di rumah itu terputus. ;effect;Saya mencari lampu suluh. ;Saya mengambil sekop. ;0
+Keluarga itu berpindah ke rumah yang lebih besar. ;cause;Anak lelaki itu lulus dari sekolah menengah. ;Ibu melahirkan anak kembar. ;1
+Pelari maraton itu terus berjalan perlahan. ;cause;Dia mahu menjimatkan tenaga. ;Dia nampak garis penamat. ;0
+Budak itu menendang mesin penjual. ;cause;Mesin meludah keluar perubahan. ;Beg cip tersangkut. ;1
+Anjing kawan saya meninggal. ;effect;Saya menggelincir mata saya pada dia. ;Saya memeluknya. ;1
+Kad kredit ahli perniagaan itu ditolak. ;effect;Dia menulis IOU. ;Dia bayar dengan tunai. ;1
+Lelaki itu terkutuk. ;cause;Dia memotong kuku. ;Dia terjatuh jari kakinya. ;1
+Lelaki itu berasa bangga dengan abangnya. ;cause;Adiknya bergaduh dengan ibu bapa mereka. ;Adiknya diterima masuk ke sekolah undang-undang. ;1
+Gadis itu mahu belajar tentang sistem solar. ;effect;Dia pergi ke perpustakaan. ;Dia memandang bintang-bintang. ;0
+Poster itu melekat di dinding. ;cause;Saya letak poster di atas pintu. ;Saya letakkan pita di belakang poster. ;1
+Pelanggan meluluskan rancangan arkitek untuk bangunan itu. ;effect;Arkitek membina bangunan itu. ;Arkitek itu mengubah rancangan. ;0
+Lelaki itu menjatuhkan sudu. ;cause;Tangan dia gemetar. ;Dia menjilat sudu. ;0
+Ketua Pegawai Eksekutif syarikat itu meletak jawatan. ;effect;Lembaga pengarah membubarkan syarikat itu. ;Lembaga pengarah dah jumpa pengganti dia. ;1
+Saya tiba lewat untuk kuliah. ;effect;Saya duduk di barisan belakang. ;Saya menghampiri podium. ;0
+Lelaki itu dibebaskan dari penjara. ;cause;Keluarganya membayar jaminan. ;Dia menyerang rakan banduan. ;0
+Keluarga itu kehilangan semua harta mereka. ;cause;Mereka menjual rumah mereka. ;Rumah mereka terbakar. ;1
+Saya menginjak tin aluminium. ;effect;Tin itu telah dikitar semula. ;Tin mendapat hancur. ;1
+Gadis itu menyertai pasukan perdebatan. ;effect;Dia belajar menggunakan komputer. ;Dia belajar kemahiran komunikasi. ;1
+Mood saya bertambah baik. ;cause;Saya mendengar muzik. ;Saya dah basuh pinggan mangkuk. ;0
+Badan amal itu membuat matlamat untuk mengumpul wang. ;effect;Mereka memberi makan orang yang tiada tempat tinggal. ;Mereka mengadakan lelongan. ;1
+Roller coaster terjun ke bawah terjun curam. ;effect;Penumpang ketawa. ;Penumpang menjerit. ;1
+Saya marah. ;effect;Saya memeriksa peti mel semasa meninggalkan rumah. ;Saya mengetuk pintu apabila meninggalkan rumah. ;1
+Lelaki itu mahu menonton matahari terbit. ;effect;Dia pergi ke utara. ;Dia bangun awal. ;1
+Saya lipat kertas. ;effect;Saya daur ulang kertas. ;Kertas itu berkerut. ;1
+Negara itu mengalami bencana alam. ;effect;Pemimpin negara lain membentuk sebuah pakatan. ;Pemimpin negara lain menghantar bantuan kecemasan. ;1
+Pakaian budak itu basah. ;cause;Dia memanjat dari kolam renang. ;Dia jatuh ke dalam kolam renang. ;1
+Pelajar itu bergegas untuk menyelesaikan buku itu. ;cause;Ia sepatutnya dikembalikan ke perpustakaan. ;Dia pinjam dari seorang kawan. ;0
+Penjenayah itu dihukum mati. ;cause;Dia dipenjarakan. ;Dia disabitkan dengan tuduhan membunuh. ;1
+Cahaya matahari memasuki bilik. ;cause;Saya buka langsir. ;Saya buka pintu. ;0
+Saya menarik rambut penipu itu. ;effect;Wignya dah lepas. ;Dia botak. ;0
+Editor mengubah perkataan dalam manuskrip. ;cause;Dia mendapati manuskrip itu menarik. ;Dia menganggap hukuman itu tidak jelas. ;1
+Wanita itu membatalkan akaun kad kreditnya. ;cause;Dia sedar kad itu hilang. ;Dia sedar kad itu telah tamat tempoh. ;0
+Lelaki dan wanita jatuh cinta. ;effect;Mereka menghadiri kolej. ;Mereka berkahwin. ;1
+Muziknya terlalu lemah untuk didengar. ;effect;Saya tambahkan bunyi. ;Saya menyusun lagu saya sendiri. ;0
+Rambut budak itu menonjol. ;cause;Gadis itu mengganggunya. ;Gadis itu menariknya. ;0
+Bug itu telah dihancurkan. ;cause;Saya menyembur diri dengan racun serangga. ;Saya menginjak serangga. ;1
+Saya membuka mata saya. ;cause;Saya terjaga. ;Saya berehat. ;0
+Muzik jiran saya berbunyi kuat. ;effect;Saya minta dia untuk menolaknya. ;Saya minta CD daripada dia. ;0
+Keluarga lelaki itu hidup dalam kemiskinan. ;cause;Dia berhemat dengan pendapatan. ;Dia mendapat gaji di bawah gaji minimum. ;1
+Pelajar itu lulus dari universiti. ;effect;Dia mencari kerja. ;Dia mengambil hobi. ;0
+Artis itu mencampurkan cat kuning dengan cat biru. ;effect;Cat yang bertaburan di mana-mana. ;Cat berubah menjadi hijau. ;1
+Saya menukar topik perbualan. ;cause;Saya kehabisan perkara untuk dibincangkan. ;Perbualan menjadi tegang. ;1
+Adik saya telah dikeluarkan dari hospital. ;effect;Saya menyambutnya pulang ke rumah. ;Saya beri dia bahu sejuk. ;0
+Tirai di atas pentas telah dibuka. ;effect;Adegan pembukaan drama bermula. ;Pelakon dalam drama itu keluar dari pentas. ;0
+Tawanan itu tunduk kepada mandat penculik. ;cause;Penculik itu mengancam untuk menyakiti tebusan. ;Penculik meninggalkan tebusan itu sendiri. ;0
+Sebuah bom bergemuruh di atas pentas. ;cause;Pemuzik itu mengetuk kakinya. ;Pemuzik itu memukul gendang. ;1
+Ibu bapa bergegas ke bilik tidur anak mereka. ;cause;Anak itu bangun menjerit dari mimpi buruk. ;Anak itu takut untuk melihat di bawah katilnya. ;0
+Wanita itu berkomunikasi dengan bahasa isyarat. ;cause;Dia dilahirkan lebih awal. ;Dia dilahirkan pekak. ;1
+Kekeringan berlaku di rantau ini. ;effect;Airnya menjadi tercemar. ;Tanaman musnah. ;1
+Kucing mengejar burung. ;effect;Burung itu terbang. ;Burung itu menangkap cacing. ;0
+Gadis itu menukar sekolah. ;cause;Sekolah cuti untuk musim panas. ;Dia berpindah ke bandar baru. ;1
+Pemilik kilang enggan menaikkan gaji pekerja. ;effect;Pemilik melantik pengurus baru. ;Pekerja mogok. ;1
+Pemimpin itu memusuhi para ekstremis di dalam negaranya. ;effect;Para ekstremis mempengaruhi dia. ;Para ekstremis membunuhnya. ;1
+Saya berjalan kaki telanjang di pantai. ;effect;Pasir melekat pada kaki saya. ;Ombak melanda sepanjang pantai. ;0
+Saya bangun di tengah malam berasa sejuk. ;effect;Saya pakai seluar sweat. ;Saya minum segelas air. ;0
+Ibu itu mendiamkan anaknya. ;cause;Anaknya tersenyum. ;Anaknya merengek. ;1
+Sebuah lubang robek dalam seluar jeans saya. ;cause;Saya zip jeans. ;Saya tersandung di atas trotoar. ;1
+Budak lelaki itu memakai kawat gigi. ;effect;Dia mendapat rongga. ;Gigi dia jadi lurus. ;1
+Saya bekerja di gimnasium semalam. ;effect;Saya bangun hari ini dengan otot yang sakit. ;Saya bangun hari ini dengan sakit tekak. ;0
+Gadis itu berbisik ke belakang dan ke depan antara satu sama lain di meja makan tengah hari. ;effect;Pelajar lain duduk di meja makan tengah hari. ;Pelajar lain di meja makan tengah hari berasa ditinggalkan. ;1
+Anak itu mendarat di trampolin. ;effect;Dia melompat kembali ke udara. ;Dia memutuskan untuk cuba untuk melakukan flip. ;0
+Saya meletakkan surat itu di dalam peti mel. ;effect;Pejabat pos menghantar surat itu. ;Pejabat pos mempercepatkan surat itu. ;0
+Penjudi itu yakin. ;effect;Dia bertaruh semua wangnya. ;Dia pulang dengan wang kosong. ;0
+Kebakaran hutan merebak. ;cause;Angin menjadi lebih kuat. ;Pembakar telah ditangkap. ;0
+Anak itu mengelupas lututnya. ;effect;Ibunya menghantarnya ke biliknya. ;Ibunya meletakkan pembalut pada luka. ;1
+Lelaki itu selamat dari penyakit yang mematikan. ;cause;Dia menandatangani wasiatnya. ;Dia menerima pemindahan organ. ;1
+Saya mengambil satu sudu kopi yang mendidih. ;effect;Saya menggigit lidah saya. ;Saya bakar lidah saya. ;1
+Editor memecat penulis. ;cause;Penulis mengelakkan bias dalam cerita-cerita beliau. ;Penulis terlepas tarikh akhir yang penting. ;1
+Saya berasa letih. ;cause;Saya tidur sepanjang hari. ;Saya belajar sepanjang hari. ;1
+Doktor mendiagnosis pesakit. ;cause;Dia mengenal pasti gejala pesakit. ;Dia memberi ubat kepada pesakit. ;0
+Saya menggaruk kulit saya. ;cause;Ia berpeluh. ;Ia terasa gatal. ;1
+Lelaki itu menjalani pembedahan kecemasan. ;cause;Dia hilang kawalan. ;Dia mengalami serangan jantung. ;1
+Otot lengan lelaki itu membengkak. ;cause;Dia melenturkan tangannya. ;Dia mengurut tangannya. ;0
+Lelaki itu mengangkat alisnya. ;cause;Dia terkejut. ;Dia berasa kecewa. ;0
+Saya memaafkan kesalahan rakan sekerja saya. ;cause;Saya percaya niatnya baik. ;Saya percaya bahawa dia tahu lebih baik. ;0
+Lelaki itu berhenti merokok. ;effect;Dia mula bersenam lebih banyak. ;Dia mula bangun lebih awal. ;0
+Wanita itu memukul penyerangnya di hidung. ;effect;Badan penyerang itu menjadi tidak bernyawa. ;Penyerang itu mula berdarah. ;1
+Anak panah itu terlepas sasaran. ;cause;Lelaki itu tidak menembak dengan betul. ;Lelaki itu kalah dalam permainan. ;0
+Pemilik rumah meminta pembasmi serangga datang ke rumahnya. ;cause;Dia menemui tikus di ruang bawah tanah. ;Dia menyimpan ladang semut di biliknya. ;0
+Saya cadangkan kepada tetamu saya bahawa kita pergi untuk makan malam. ;cause;Saya terlalu letih untuk menyediakan apa-apa. ;Tetamu rumah saya telah lama tinggal. ;0
+Gadis itu menangkap abangnya membaca buku hariannya. ;effect;Dia mula menyembunyikan buku harian itu. ;Dia ada diari baru. ;0
+Wanita itu kekurangan wang untuk sewa. ;effect;Dia bekerja lembur. ;Dia berhenti kerja. ;0
+Tangan kanak-kanak itu dengan cepat berundur. ;cause;Dia menyentuh ketuhar panas. ;Dia mengelus kepala anak anjing itu. ;0
+Syarikat itu ingin mengukur kepuasan pelanggan. ;effect;Mereka menawarkan diskaun kepada pelanggan baru. ;Mereka mengedarkan tinjauan kepada pelanggan. ;1
+Lantai kayu menjadi tercalar. ;cause;Budak itu melemparkan bantal dari sofa. ;Anak lelaki itu menyeret kerusi di lantai. ;1
+Saya melindungi muka saya. ;cause;Musuh saya mengejek saya. ;Musuh saya mengangkat tinju. ;1
+Patung terkenal dibakar. ;cause;Ia telah dilanda petir. ;Orang datang untuk memujinya. ;0
+Saya tinggalkan buah-buahan di atas meja. ;effect;Buah itu menumpahkan benih. ;Lalat berserakan buah. ;1
+Pelakon balerina itu patah ligamen. ;cause;Dia menunjukkan jari kakinya. ;Dia memutar pergelangan kakinya. ;1
+Tali kasut kanak-kanak itu terpecahkan. ;cause;Dia belajar bagaimana mengikatnya. ;Dia berlari di taman permainan. ;1
+Saya terpesona dengan buku itu. ;effect;Saya telah mengembalikan buku itu. ;Saya hilang masa. ;1
+Lelaki itu mempunyai kepercayaan yang sama dengan orang tuanya. ;cause;Ibu bapanya mempengaruhi dia. ;Ibu bapanya telah membantahnya. ;0
+Kereta perlahan-lahan berhenti. ;cause;Ia kehabisan gas. ;Pemandu tertidur. ;0
+Lelaki itu makan ais krim di bawah sinar matahari. ;effect;Aiskrim hilang rasa. ;Aiskrim itu menetes dari kerucut. ;1
+Saya menggantung karya seni di dalam bilik. ;cause;Permaidani kelihatan kotor. ;Dinding kelihatan kosong. ;1
+Saya keluar kerja awal. ;cause;Saya sakit kepala. ;Bos saya mengadakan mesyuarat. ;0
+Anjing itu mencemarkan permaidani. ;effect;Pemiliknya memarahi anjing itu. ;Pemiliknya memberi anjing itu makanan. ;0
+Saya minta maaf kepada kawan saya. ;effect;Kawan saya memaafkan saya. ;Kawan saya menjadi marah. ;0
+Lelaki itu menonjol di tengah orang ramai. ;cause;Dia membawa beg belakang. ;Dia memakai rompi neon. ;1
+Saksi itu berbohong di bawah sumpah. ;effect;Dia telah menyelesaikan kesaksiannya. ;Dia didakwa dengan sumpah palsu. ;1
+Wanita itu mengecat rambutnya. ;cause;Dia mahukan rupa baru. ;Dia mahu bercampur. ;0
+Pendatang ditangkap secara haram tinggal di negara ini. ;effect;Mereka mendapat pekerjaan. ;Mereka telah dihantar pulang. ;1
+Penutur awam membuat jenaka. ;effect;Penonton ketawa. ;Penonton berdiri. ;0
+Saya melihat ke dalam matahari. ;effect;Matahari membutakan saya. ;Kulit saya tercalar matahari. ;0
+Saya berasa bosan. ;effect;Saya menghisap. ;Saya mengangguk. ;1
+Steak itu sukar untuk dipotong. ;cause;Pisau itu tidak tajam. ;Steak itu mentah. ;0
+Wanita itu mengisytiharkan muflis. ;cause;Dia menerima pembayaran nafkah. ;Dia mendapat hutang yang besar. ;1
+Lampu di apartmen kawan saya masih menyala. ;effect;Saya tertanya-tanya jika dia keluar. ;Saya memutuskan untuk melawatnya. ;1
+Saya meletakkan bunga di bawah hidung saya. ;effect;Daun kelopak jatuh dari bunga. ;Saya dapat bau bunga itu. ;1
+Wanita itu berasa nostalgia. ;cause;Dia bertemu dengan kawan zaman kanak-kanak. ;Dia menjerit pada anak-anaknya. ;0
+Pelajar itu menunda-nunda kertas kerja. ;effect;Dia menyerahkan kertas kerja lebih awal. ;Dia menyerahkan kertas yang tidak lengkap. ;1
+Kereta saya rosak. ;effect;Saya pergi ke pusat membeli-belah. ;Saya panggil mekanik. ;1
+Saya buang nota itu. ;cause;Ia adalah tanpa nama. ;Ia tidak boleh dibaca. ;1
+Burung itu mengepakkan sayapnya. ;effect;Ia bertelur. ;Ia naik ke atas. ;1
+Saya letak kereta di jalan masuk. ;cause;Garaj itu terbuka. ;Garaj penuh. ;1
+Penjenayah itu mengarahkan pistol ke arah mangsa. ;effect;Penjenayah itu meletakkan pistolnya. ;Mangsa mengangkat tangannya. ;1
+Saya menantikan hujung minggu. ;cause;Saya merancang untuk menghadiri pengebumian pakcik saya. ;Saya merancang untuk menghadiri perkahwinan kawan saya. ;1
+Saya hilang masa. ;cause;Saya sedang bermimpi. ;Saya berasa mual. ;0
+Dokumen itu dicetak tidak dapat dibaca. ;cause;Pencetak itu kekurangan dakwat. ;Cetakan itu kehabisan kertas. ;0
+Stadium itu memainkan lagu kebangsaan. ;effect;Peminat berbalik kepada bendera. ;Peminat bergegas ke lapangan. ;0
+Dip itu rasa tidak sedap. ;effect;Saya berkhidmat. ;Saya letak garam di dalamnya. ;1
+Saya meletakkan tuala kertas di tumpahan. ;effect;Tuala menyerap cecair. ;Penumpahan meninggalkan sisa yang lengket. ;0
+Wanita itu terganggu semasa sedang membaca bukunya. ;effect;Dia bookmark laman webnya. ;Dia membaca semula buku itu. ;0
+Pesawat itu mengalami turbulensi. ;effect;Lelaki itu mengikat tali pinggang keledarnya. ;Lelaki itu melihat keluar tingkap. ;0
+Anak itu tergelak. ;cause;Gadis itu mengabaikannya. ;Gadis itu menusuknya. ;1
+Doktor memberi pesakit itu anggota badan tiruan. ;cause;Mereka memotong kakinya. ;Mereka memantau tanda-tanda vitalnya. ;0
+Budak lelaki itu mencubit siku gadis itu. ;effect;Dia mengangkat bahu padanya. ;Dia menarik tangannya daripadanya. ;1
+Saya meminta nasihat kepada kawan saya. ;cause;Saya menghargai pendapatnya. ;Saya tahu saya betul. ;0
+Anak itu melangkah di dalam lumpur. ;effect;Lumpur melekat pada kasutnya. ;Lumpur itu memukul wajahnya. ;0
+Bandar ini menerima beberapa inci salji. ;effect;Sekolah ditutup. ;Orang bersembunyi di bawah tanah. ;0
+Shift pekerja berakhir. ;effect;Dia pulang ke rumah untuk hari ini. ;Dia mengancam untuk berhenti kerja. ;0
+Pokok itu merosakkan rumah. ;cause;Pokok itu jatuh ke atas bumbung. ;Pokok itu memberi bayangan di halaman belakang. ;0
+Kayu itu terbelah dua. ;cause;Saya tumpukan kayu di perapian. ;Saya mengayunkan kapak ke arah kayu. ;1
+Keluarga mengucapkan tahniah kepada pasangan itu. ;cause;Pasangan itu mengumumkan bahawa mereka berpisah. ;Pasangan itu mengumumkan bahawa mereka akan mempunyai bayi. ;1
+Gadis itu menghantar anak lelaki itu kad cinta. ;cause;Dia sukakannya. ;Dia menciumnya. ;0
+Saya mengangguk pada kenyataan kawan saya. ;cause;Saya keliru. ;Saya bersetuju dengan dia. ;1
+Kawan-kawan itu melemparkan duit syiling. ;cause;Mereka mahu mencari kompromi. ;Mereka mahu membuat keputusan yang adil. ;1
+Masa di dapur telah berbunyi. ;effect;Lelaki itu memuat turun barangan ke dalam peti sejuk. ;Lelaki itu mengambil pizza dari ketuhar. ;1
+Wanita itu menetapkan matlamat yang bercita-cita tinggi. ;effect;Dia bersantai. ;Dia bekerja keras. ;1
+Lelaki kaya itu meninggal kerana usia tua. ;effect;Anaknya mendapat masalah undang-undang. ;Anaknya mewarisi hartanya. ;1
+Wanita itu menginjak api. ;effect;Api telah padam. ;Asap muncul dari api. ;0
+Kereta wanita itu berada di kedai. ;cause;Lesen pemanduannya telah dibatalkan. ;Dia terlibat dalam kemalangan kereta. ;1
+Saya tidur melalui penggera saya. ;effect;Saya buat sarapan. ;Saya terlepas sarapan. ;1
+Tokoh awam keluar dari limusin. ;effect;Kamera menyala ke arahnya. ;Keluarganya menghadiri sidang akhbar. ;0
+Wanita itu berlama-lama di dalam tab mandi. ;effect;Air mandi menjadi suam. ;Air mandi mengalir keluar dari tab mandi. ;0
+Pelajar kolej itu mahu bertemu dengan pelajar lain di kampus. ;effect;Dia menyertai persaudaraan. ;Dia jurusan kejuruteraan. ;0
+Saya mengangkat bantal sofa. ;cause;Saya mencari wang kecil. ;Saya sedang merangka semula ruang tamu. ;0
+Tawon terbang ke arah budak lelaki itu. ;effect;Budak itu melarikan diri. ;Anak lelaki itu mengambil bunga. ;0
+Wanita itu didapati bersalah atas kesalahan kecil. ;effect;Dia dijatuhi hukuman untuk melakukan kerja masyarakat. ;Dia diletakkan di barisan kematian. ;0
+Saya campurkan gula ke dalam teh panas. ;effect;Teh dikukus. ;Gula itu larut. ;1
+Veteran itu berjalan dengan kebas. ;cause;Dia telah direkrut untuk perang. ;Dia cedera dalam pertempuran. ;1
+Penjenayah itu melarikan diri dari polis. ;effect;Polis telah melayan mangsa. ;Polis mengejar penjenayah itu. ;1
+Laptop tidak akan hidupkan. ;cause;Saya terjatuh. ;Saya dah cas. ;0
+Wanita itu kehabisan ruang di dalam almari. ;cause;Dia memperoleh pakaian yang luas. ;Dia melipat pakaian. ;0
+Lelaki itu patah hati. ;cause;Isterinya melahirkan. ;Isterinya meninggalkannya. ;1
+Lelaki itu mendapat ijazah. ;effect;Dia menjadi berkelayakan untuk pekerjaan yang dia mahu. ;Tawaran kerjanya dibatalkan. ;0
+Suara lelaki itu jelas terdengar di seluruh auditorium. ;cause;Dia menyapa penonton. ;Dia bercakap ke dalam mikrofon. ;1
+Saya melemparkan duit syiling ke dalam air mata air. ;effect;Duit syiling itu tenggelam ke dasar. ;Duit syiling itu pecah separuh. ;0
+Pemain memukul bola ke arah lubang. ;effect;Bola itu masuk ke dalam lubang. ;Bola itu kembali kepada pemain. ;0
+Saya bernafas dalam habuk di loteng. ;effect;Saya menghisap. ;Saya bersin. ;1
+Pengurus kedai memanggil keselamatan. ;cause;Pelanggan menggunakan wang palsu. ;Pelanggan meninggalkan lampu depan nya. ;0
+Saya bawa keluar sampah. ;cause;Sampah membuat dapur berbau busuk. ;Saya tidak sengaja membuang senarai belanjaan saya. ;0
+Keluarga pergi ke zoo. ;effect;Kanak-kanak kagum dengan haiwan-haiwan itu. ;Kanak-kanak mengejar haiwan. ;0
+Pernafasan lelaki itu kuat. ;cause;Ginjalnya gagal. ;Paru-parunya tersumbat. ;1
+Saya ada tiket tambahan untuk konsert. ;effect;Saya tanya kawan saya arah ke tempat. ;Saya tanya kawan saya jika dia berminat untuk pergi. ;1
+Penghawa dingin di rumah rosak. ;effect;Saya bawa selimut. ;Saya buka tingkap. ;1
+Anak itu sakit belakang. ;cause;Beg dia terbuka. ;Beg dia berat. ;1
+Saya belikan mak saya hadiah. ;cause;Saya buatkan kek untuknya. ;Hari itu hari jadi dia. ;1
+Bunga-bunga dalam taman telah musnah. ;cause;Lebah menyengat tukang kebun. ;Tupai menggali mentol. ;1
+Saya berjaya. ;effect;Api itu pudar. ;Kebakaran itu menghasilkan api. ;1
+Pihak-pihak yang berselisih mencapai penyelesaian. ;cause;Mereka tidak mahu berdebat di mahkamah. ;Mereka mahu memperbaiki hubungan peribadi mereka. ;0
+Anak-anak itu dihantar ke rumah anak yatim. ;cause;Ibu bapa mereka telah meninggal dunia. ;Ibu bapa mereka memanjakan mereka. ;0
+Sebuah meteor mendarat di lautan. ;effect;Tsunami berlaku. ;Ia mula hujan es. ;0
+Pengembara itu menemui ular beracun. ;effect;Dia menjadi dehidrasi. ;Dia panik. ;1
+Oven menjadi panas. ;cause;Saya hidupkan ketuhar. ;Saya meletakkan hidangan dalam ketuhar. ;0
+Saya memerah bahagian lemon. ;effect;Lemon tu dah berjamur. ;Lemon yang disiram. ;1
+Negara ini menemui tanah baru. ;effect;Negara meninggalkan tanah. ;Negara menjajah tanah. ;1
+Kaca jatuh dari meja. ;effect;Ia hancur di seluruh lantai. ;Ia mendarat di dalam timbunan pakaian. ;0
+Meja bergoyang. ;cause;Lantai tidak rata. ;Lantai itu licin. ;0
+Bapa itu menangkap anaknya berbohong. ;effect;Anaknya mengaku kebenaran. ;Ayahnya mempercayai anaknya. ;0
+Kepala lelaki itu berdebar-debar kerana kesakitan. ;effect;Dia mengambil sirap batuk. ;Dia mengambil aspirin. ;1
+Kereta api melambatkan. ;cause;Ia menghampiri stesen. ;Ia berlari di belakang jadual. ;0
+Lelaki itu menjalani terapi. ;cause;Penyakit mental berlaku dalam keluarganya. ;Dia didiagnosis dengan kemurungan. ;1
+Wanita itu menggenggam tenggorokannya. ;cause;Dia menelan makanan. ;Dia tersedak dengan makanan. ;1
+Wanita itu sakit tekak. ;effect;Suaranya terdengar kasar. ;Dia bercakap dengan loghat. ;0
+Anjing itu memandang steak yang berjus di atas meja. ;effect;Ia menggeletar. ;Ia meletakkan. ;0
+Perniagaan wanita itu berjaya. ;effect;Dia memecat pekerja-pekerjanya. ;Dia menjadi kaya. ;1
+Pelajar-pelajar keluar dari bilik darjah. ;cause;Bunyi loceng. ;Guru memberikan kerja rumah. ;0
+Wanita itu mendakwa dia melihat hantu. ;effect;Kawan-kawan beliau menyatakan keraguan. ;Kawan-kawan dia berkaitan dengan dia. ;0
+Lelaki itu kehilangan pendengaran. ;cause;Dia hampir tenggelam di lautan. ;Dia hampir terbunuh dalam letupan. ;1
+Anak itu melepaskan tali belon. ;effect;Balon itu meletup. ;Belon naik ke udara. ;1
+Lelaki itu kehilangan keupayaan untuk bercakap. ;cause;Dia mengalami strok. ;Dia menarik nafas dalam-dalam. ;0
+Wanita itu tersandung di trotoar. ;cause;Terdapat retakan dalam simen. ;Dia dengar namanya dipanggil. ;0
+Lelaki itu melakukan bola meriam ke dalam kolam renang. ;effect;Penjaga menyelam melompat selepas dia. ;Lelaki itu basahkan pengawal penyelamat. ;1
+Saya mengambil antibiotik. ;effect;Jangkitan saya telah pulih. ;Jangkitan saya merebak. ;0
+Lampu trafik bertukar menjadi kuning. ;effect;Pemandu itu menekan brek. ;Pemandu itu membunyikan klakson. ;0
+Bekas plastiknya meleleh. ;cause;Saya rendam bekas dalam air suam. ;Saya meletakkan bekas di atas dapur panas. ;1
+Kereta itu rosak. ;cause;Pemandu menabrak tiang telefon. ;Pemandu itu memintas lampu merah. ;0
+Budak itu belajar sepanjang malam. ;effect;Dia terlepas peperiksaan. ;Dia lulus peperiksaan. ;1
+Anak lelaki itu berpegang teguh pada pinggir kolam. ;cause;Dia takut belajar berenang. ;Penjaga menyelamat sedang bertugas. ;0
+Saya meletakkan tangan saya ke dada saya. ;effect;Saya merasakan degupan jantung saya. ;Detak jantung saya meningkat. ;0
+Bangunan bersebelahan dengan pejabat saya sedang dalam pembinaan. ;effect;Pejabat saya penuh sesak. ;Pejabat saya berisik. ;1
+Keluarga itu ingin mengenali jiran baru mereka. ;effect;Keluarga itu menjemput jiran-jiran untuk makan malam. ;Keluarga itu melambai kepada jiran-jiran dari halaman mereka. ;0
+Air tercurah dari kolam renang. ;cause;Berenang menyelam ke dalam kolam renang. ;Berenang itu terapung di dalam kolam. ;0
+Saya menggigit sepotong tembikai. ;effect;Saya sengaja menelan benih. ;Saya tidak sengaja patah gigi saya. ;0
+Budak itu tersandung. ;cause;Jaketnya dibuka. ;Tali kasutnya terputus. ;1
+Wanita itu meletakkan penutup telinga. ;cause;Dia terganggu oleh bunyi bising. ;Dia menusuk telinga. ;0
+Saya mengisi semula botol air saya. ;cause;Saya minum semua air di dalamnya. ;Saya simpan di dalam peti sejuk. ;0
+Acara televisyen itu disensor. ;cause;Ia mengandungi bahasa kasar. ;Ia mempunyai plot yang rumit. ;0
+Kapal itu hancur. ;effect;Awak kapal tenggelam. ;Awak kapal menemui lanun. ;0
+Anak itu berasa bingung dengan teka-teki itu. ;effect;Dia memecahkan teka-teki. ;Dia minta petunjuk. ;1
+Telefon berdering. ;effect;Lelaki itu menutup telefon. ;Lelaki itu mengangkat telefon. ;1
+Wanita itu menatap saya. ;effect;Saya memeluknya. ;Saya berasa tidak selesa. ;1
+Kumpulan itu meninggalkan muzium. ;cause;Mereka mengambil gambar pameran. ;Mereka melihat semua pameran. ;1
+Lelaki itu mula berhujah dengan saya. ;effect;Kawan saya memperkenalkan saya kepada lelaki itu. ;Kawan saya berdiri untuk saya. ;1
+Tayar motosikal saya pecah. ;effect;Saya memompa udara ke dalam tayar. ;Saya tukar gear pada basikal. ;0
+Gadis itu kelihatan pucat. ;effect;Ayahnya membacakan cerita kepadanya. ;Ayahnya menyentuh dahi. ;1
+Pen ini kehabisan dakwat. ;effect;Saya guna pensil. ;Saya telah menandatangani nama saya. ;0
+Lelaki itu ditolak untuk pinjaman. ;cause;Dia berhutang. ;Dia memulakan perniagaan. ;0
+Gadis itu tinggal di rumah daripada sekolah. ;cause;Dia ada cacar air. ;Dia suka belajar matematik. ;0
+Beg sampah penuh. ;effect;Saya bawa ke tong sampah. ;Saya buang ia ke dalam sinki. ;0
+Saya telah menghisap karpet. ;cause;Rakan sebilik saya tumpah punch. ;Anjing saya menumpahkan rambut. ;1
+Lelaki itu hilang sabar. ;effect;Dia mematikan komputernya. ;Dia melemparkan kerusi ke seluruh bilik. ;1
+Gadis itu melemparkan ranting ke dalam api perkhemahan. ;effect;Cabang itu terbakar. ;Api dah padam. ;0
+Lelaki itu keluar dari bilik mandi. ;cause;Air panas dah tiada. ;Dia tak jumpa tuala. ;0
+Ibu bapa mahu anak-anak mereka pergi ke kolej. ;effect;Mereka menyisihkan dana simpanan untuk yuran pengajian. ;Mereka menggalakkan anak-anak mereka bermain di luar. ;0
+Lelaki itu membuka tali kasutnya. ;effect;Kasut saya longgar. ;Kasut dah rosak. ;0
+Lelaki itu makan separuh hidangan utama. ;effect;Dia menyejukkan makanan yang tinggal. ;Dia simpan resipi. ;0
+Pergelangan kaki saya bengkak. ;effect;Saya meletakkan ais di atasnya. ;Saya gosokkan lotion di atasnya. ;0
+Pintu pejabat saya terbuka. ;effect;Saya bercakap dengan rakan sekerja saya di meja saya. ;Saya mendengar perbualan di dalam dewan. ;1
+Saya terpaksa menunggu dalam barisan. ;effect;Saya mengambil tempat duduk. ;Saya mengimbas majalah. ;1
+Lelaki itu menatap lalat itu. ;effect;Lalat itu berbunyi. ;Lalat itu masih kekal. ;0
+Lelaki itu menulis wasiat. ;cause;Dia sedang sekarat. ;Dia seorang duda. ;0
+Pelari itu merasakan pesaingnya mengejarnya. ;effect;Dia keluar dari perlumbaan. ;Dia mempercepatkan langkahnya. ;1
+Saya berfikir dengan teliti mengenai masalah ini. ;effect;Saya minta nasihat. ;Saya ada penyelesaian. ;1
+Pengembara berjalan di atas jambatan gantung yang goyah. ;effect;Dia berasa takut. ;Dia berasa gembira. ;0
+Lelaki itu menjangkakan kemenangan pasukan. ;effect;Dia bertemu kawan-kawannya untuk menonton permainan. ;Dia membuat pertaruhan dengan kawan-kawannya. ;1
+Budak itu tidak boleh tidur. ;effect;Dia set jam penggera. ;Dia mengira biri-biri. ;1

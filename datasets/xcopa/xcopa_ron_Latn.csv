@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Produsul era ambalat în folie cu bule. ;cause;Era fragilă. ;Era mică. ;0
+Mi-am golit buzunarele. ;effect;Am recuperat un bilet de călătorie. ;Am găsit o armă. ;0
+Termitele au invadat casa. ;effect;Termitele au dispărut din casă. ;Termitele au mâncat lemnul din casă. ;1
+Călătorii au ajuns la graniţă. ;effect;Agentul de patrulare le-a verificat paşapoartele. ;Agentul de patrulare i-a acuzat de contrabandă. ;0
+Biroul era închis. ;cause;Era o sărbătoare. ;Era vara. ;0
+Fata a rămas fără energie. ;cause;A jucat dame. ;A sărit de sfoară. ;1
+Femeia şi-a pierdut locul în rând. ;cause;Mai mulţi oameni au intrat în rând. ;A ieşit din rând. ;1
+Fata şi-a ciupit nasul. ;cause;Copilul a salivat pe bibă. ;Copilul i-a murdărit scutecul. ;1
+Trupa a cântat hitul lor. ;effect;Publicul a aplaudat pe muzică. ;Audienţa a ascultat cu politeţe în tăcere. ;0
+Fata a vrut să-i mulţumească profesorului de matematică. ;effect;Fata a rămas după ore pentru detenţie. ;Fata i-a adus profesorului un măr. ;1
+Tinerii de la tabără s-au speriat. ;cause;Consilierul lor de tabără le-a spus o poveste cu fantome. ;Au prăjit bomboane pe focul de tabără. ;0
+Omul s-a lovit la cap. ;effect;S-a pierdut în gânduri. ;A avut o contuzie. ;1
+Cecul pe care l-am scris a fost refuzat. ;cause;Contul meu bancar era gol. ;Am câştigat o mărire de salariu. ;0
+Cutia de e-mail a omului era plină de spam. ;effect;A şters mesajele spam. ;A trimis un e-mail în masă. ;0
+Marinarul a fost pus în carantină. ;cause;A fost expus la boală. ;S-a vindecat de boală. ;0
+Fata a memorat codul. ;cause;Ea a recitat-o pentru ea. ;A uitat să-l scrie. ;0
+Am turnat apa în pahar. ;effect;Apa mi-a potolit setea. ;Sticla s-a umplut. ;1
+Bărbatul a rămas tăcut când prietenul său a terminat de vorbit. ;cause;A vrut să-şi ofere sprijin prietenului său. ;Se gândea la cuvintele prietenului său. ;1
+Accidentul a fost vina mea. ;effect;M-am simţit vinovat. ;Am depus plângere. ;0
+Lanţul s-a destrămat. ;cause;Lanţul era înfăşurat în jurul unei anvelope. ;A fost o verigă ruptă în lanţ. ;1
+Cuplul a decis să facă un compromis. ;cause;S-au săturat să se certe. ;Ei au evitat să discute problema. ;0
+Femeia a decis să candideze pentru funcţii publice. ;effect;A angajat un manager de campanie. ;A depus mărturie în instanţă. ;0
+Omul a anticipat că va fi frig în călătoria sa. ;effect;A împachetat haine calde în valiză. ;A călătorit cu o valiză mare. ;0
+Studentul știa răspunsul la întrebare. ;effect;El a ridicat mâna. ;A făcut o prostie. ;0
+Ochii omului au început să plângă. ;cause;A intrat praf în ochi. ;Şi-a pus ochelari de protecţie pe ochi. ;0
+Jucătorul a câştigat cinci jocuri la rând. ;effect;Adversarul ei a acuzat-o de înșelătorie. ;Adversarul ei a simţit milă de ea. ;0
+Profesorul a rupt examenul elevului. ;cause;L-a prins pe elev înşelând. ;Răspunsurile elevului erau incorecte. ;0
+Am făcut o pauză ca să nu mai vorbesc. ;cause;Mi-am pierdut vocea. ;Mi-a rămas respiraţia. ;1
+Mâncarea îngheţată s-a dezgheţat. ;cause;Am pus-o în cuptorul cu microunde. ;Am acoperit-o cu folie de plastic. ;0
+Angajatul s-a prefăcut că e bolnav. ;cause;Avea crampe la stomac. ;A vrut o zi liberă. ;1
+Fata a aterizat în piscină. ;cause;A alergat pe puntea piscinei. ;A sărit de pe trambulină. ;1
+Biletele de film s-au vândut. ;cause;Era ziua de deschidere a filmului. ;Filmul a primit critici slabe. ;0
+Omul a slăbit. ;effect;Oamenii l-au izolat. ;Oamenii îl lăudau. ;1
+Mâinile fetei au devenit cu bule. ;cause;A scris o scrisoare. ;A urcat pe o frânghie. ;1
+Artistul de circ jonglează în timp ce conduce o monocicletă. ;effect;Publicul a aplaudat cu uimire. ;Acrobatul s-a aruncat de pe un trapez. ;0
+Mi-am pierdut răbdarea. ;cause;Prietenul meu m-a făcut să aştept. ;Prietenul meu a ajuns la timp. ;0
+Ţările în conflict doreau pacea. ;effect;Au dezvoltat arme nucleare. ;Au negociat un tratat. ;1
+Omul a luat somnifere. ;effect;A devenit somnoros. ;Avea febră. ;0
+Femeia s-a lovit de canapea. ;effect;Piciorul canapelei s-a dezlegat. ;Şi-a lovit genunchiul. ;1
+Băiatul a strâns balonul. ;effect;Balonul a explodat. ;Balonul a zburat departe. ;0
+Călătorii s-au cazat în camera lor de hotel. ;effect;Au despachetat valizele. ;Au plecat la aeroport. ;0
+Am muşcat în piersică. ;effect;Piersicul e înţepenit. ;A vărsat suc. ;1
+Mi s-au lipicit mâinile. ;cause;Am mâncat o gogoaşă. ;Am avut un dinte dulce. ;0
+Am împins uşa. ;effect;Uşa s-a deschis. ;Uşa e încuiată. ;0
+Activistii au boicotat produsele. ;cause;Produsele au fost testate pentru asigurarea calității. ;Produsele au fost fabricate prin munca copiilor. ;1
+Am făcut o gaură în perete. ;effect;Un şoarece a ieşit din gaură. ;Praful a fost aruncat din gaură. ;1
+Femeia era invidioasă pe sora ei. ;cause;Sora ei era fericită. ;Sora ei a divorţat. ;0
+Mi-am vărsat vin pe cămaşă. ;effect;Am pus un şorţ. ;Mi-am schimbat cămaşa. ;1
+Casierul a deschis casa de marcat. ;cause;Clientul şi-a căutat în portofel. ;Clientul i-a dat banii. ;1
+Muzicianul de stradă a atras o mulţime. ;effect;Oamenii i-au dat schimbare. ;El a trimis mulţimea departe. ;0
+Băiatul a plâns la dădaca lui. ;cause;I-a fost dor de părinţii lui. ;Era ora gustărilor. ;0
+Radarul pilotului a detectat o furtună. ;effect;Pilotul a navigat departe de furtună. ;Pilotul a zburat prin furtună. ;0
+Copacul îşi pierde frunzele. ;effect;Frunzele au devenit colorate. ;Frunzele s-au adunat pe pământ. ;1
+Băiatul era într-o dispoziţie răutăcioasă. ;effect;A decis să joace cărţi cu sora lui. ;A decis să-şi joace o glumă cu sora lui. ;1
+Copilul s-a plâns că a trebuit să meargă la baie. ;effect;Tatăl lui i-a dat un suc să bea. ;Tatăl lui a oprit maşina la o benzinărie. ;1
+Copilul a stropit mâncare de peşte în acvariu. ;effect;Peştele a sărit din rezervor. ;Peştele a înotat spre mâncare. ;1
+Părerile politice ale femeii s-au schimbat. ;effect;Ea a schimbat afilierea partidului ei. ;Ea s-a angajat într-un protest. ;0
+Chiuveta din baie era înfundată. ;effect;Am deschis robinetul. ;Am turnat detergent de scurgere în ea. ;1
+Pasagerii au coborât din tren. ;cause;Trenul a ajuns la gară. ;Trenul a fluierat. ;0
+Omul a apăsat pe flaconul umed al plicului. ;effect;A pus o ştampilă pe plic. ;A sigilat plicul. ;1
+Prietenii au pierdut contactul. ;cause;Ei se bucurau de compania celuilalt. ;S-au mutat în oraşe diferite. ;1
+Contabilul a gestionat greşit fondurile companiei. ;effect;A fost concediată din funcţia ei. ;A plecat în concediu de maternitate. ;0
+M-am uitat la ceas. ;cause;Am auzit ceasul tic-tac. ;Am vrut să văd cât e ceasul. ;1
+Mi-a intrat mâna în crampe. ;cause;Am scris eseul de mână. ;Eu şi soţia mea ne-am ţinut de mână. ;0
+Buloul s-a strâns. ;cause;Am înlocuit șurubul. ;Am răsucit cheia. ;1
+Cuplul a semnat un contract de închiriere pentru un apartament. ;effect;Cuplul s-a mutat în apartament. ;Oraşul a condamnat apartamentul. ;0
+Femeia stătea afară pe verandă. ;cause;Voia să vadă apusul de soare. ;A crezut că a văzut fulger. ;0
+Omul purta o vestă de salvare în apă. ;cause;Nu ştia să înoate. ;Apa era puţin adâncă. ;0
+Femeia a făcut o greşeală de tipar în procesorul de texte. ;effect;Ea a șters documentul. ;A apăsat pe butonul de backspace. ;1
+Fata s-a lăudat prietenilor ei. ;cause;A luat o notă proastă. ;A câştigat un concurs. ;1
+Gazonul era noroios. ;cause;A plouat peste noapte. ;Era plin de buruieni. ;0
+Femeia a adormit. ;cause;A petrecut noaptea la un hotel. ;A uitat să-şi pună ceasul de trezire. ;1
+Omul a pus pe protecție solară. ;cause;El a stat la umbră. ;A plecat la plajă. ;1
+Cercetătorii au dovedit teoria. ;effect;Cercetătorii au retras teoria. ;Oamenii au acceptat teoria. ;1
+Fanii de la meci au huiduit. ;cause;Jocul a intrat în prelungiri. ;Arbitrul a luat o decizie greşită. ;1
+Am introdus combinaţia pe încuietoare. ;effect;Am închis lacătul. ;S-a deschis încuietoarea. ;1
+Mulţimea s-a intensificat. ;effect;Tatăl i-a dat fiului său nişte bani. ;Tatăl a luat mâna fiului său. ;1
+Zăpada bloca drumul. ;effect;Am adunat zăpada într-o bulă de zăpadă. ;Am scos zăpada din drum. ;1
+Canoagistii au vâslit cu vâslele. ;effect;Caiacul a ajuns pe mal. ;Caiacul a lovit un val. ;0
+Fata a pierdut controlul motocicletei. ;effect;A lăsat ghidonul. ;S-a lovit de un gard. ;1
+Am pornit ventilatorul. ;effect;Apa stropită pe pielea mea. ;Am simţit cum aerul rece trece peste mine. ;1
+Surferii s-au întors pe plajă. ;cause;Erau udate. ;Au văzut un rechin. ;1
+Am scos dopul de scurgere din cadă. ;effect;Apa a scurs din cadă. ;Apa a stropit podeaua. ;0
+Soţul s-a simţit vinovat că şi-a înşelat soţia. ;effect;A acuzat-o de infidelitate. ;El a mărturisit infidelitatea lui. ;1
+Cerneala de pe afiş a fost ştersă. ;cause;Am aşteptat ca cerneala să se usuce. ;Am vărsat apă pe afiş. ;1
+Copilul s-a trezit ţipând. ;cause;A avut un coşmar. ;A făcut pe pat. ;0
+Băiatul şi-a pus picioarele pe masă. ;effect;Tatăl său s-a așezat la masă. ;Tatăl lui i-a ţinut predici. ;1
+Prietenul meu a întors capul în direcţia mea. ;cause;I-am strigat numele. ;Am făcut cu mâinile. ;0
+Guvernul îşi asuprea cetăţenii. ;effect;Cetăţenii au organizat o revoltă. ;Cetăţenii s-au înregistrat să voteze. ;0
+Băiatul s-a rătăcit în pădure. ;effect;A ridicat un cort. ;A strigat după ajutor. ;1
+Femeia a călătorit în străinătate. ;cause;Voia să înveţe să deseneze. ;Voia să înveţe despre alte culturi. ;1
+Omul era gelos pe colegul său de muncă. ;cause;Colegul lui de muncă a primit o promovare. ;Colegul lui de muncă a lucrat până târziu. ;0
+Omul a fost martor la extratereştri. ;cause;A avut halucinaţii. ;Medita. ;0
+Părul omului a devenit blond. ;cause;A pus în ea clătitor. ;A pus şampon în ea. ;0
+Artistul a creat o nouă lucrare. ;cause;Ea a criticat munca ei anterioară. ;A simţit un şoc de inspiraţie. ;1
+Fiul s-a mutat de acasă. ;cause;A fost eliberat din armată. ;El a fost de gând să colegiu. ;1
+Cărţile au căzut din raft. ;cause;Rafturile erau acoperite cu praf. ;Un cutremur a zguduit raftul de cărţi. ;1
+A fost oprită curentul electric în casa mea. ;effect;Am aprins o lumină. ;Am resetat întrerupătorul. ;1
+Am mers cu roller coaster-ul. ;cause;Arăta înfricoşător. ;Arată distractiv. ;1
+Punga de popcorn a început să se spargă. ;cause;Am turnat unt în punga. ;Am încălzit-o în cuptorul cu microunde. ;1
+Un copac a căzut pe linia de curent. ;effect;A căzut curentul în cartier. ;Previziunea prevedea vânturi puternice. ;0
+Oratorul a făcut comentarii incorecte din punct de vedere politic. ;effect;A plictisit publicul. ;A ofensat publicul. ;1
+M-am înţepat cu acul. ;effect;O picătură de sudoare mi-a picurat de pe faţă. ;O picătură de sânge s-a format pe degetul meu. ;1
+Peștele plutea pe suprafața rezervorului. ;cause;A fost foame. ;Era mort. ;1
+Vocea omului suna rau. ;cause;A fost răcit. ;A renunţat la fumat. ;0
+Uşile liftului s-au deschis. ;cause;Liftul a ajuns la etajul desemnat. ;Liftul s-a blocat între etaje. ;0
+Adolescentul s-a furişat afară din casă. ;cause;I-a minţit pe părinţii lui. ;Părinţii lui l-au pedepsit. ;1
+Baia a inundat. ;cause;Toaleta a reîncărcat. ;Se strică încălzitorul de apă. ;0
+Căţeluşul a rămas lângă stăpâna lui. ;cause;Proprietarul a pus un guler pe căţeluş. ;Proprietarul păstra căţeluşul în lesă. ;1
+Omul a prins reflecţia lui. ;cause;Stătea sub copacul întinzându-se. ;Stătea deasupra lacului liniştit. ;1
+Am pierdut apelul de telefon al prietenei mele. ;effect;Am sunat-o înapoi. ;Am întâlnit-o la cină. ;0
+Familia a căutat în cartier. ;cause;Câinele lor a fugit de acasă. ;Au dispărut bijuterii scumpe din casa lor. ;0
+Mi-am văzut respiraţia când am expirat. ;cause;Vremea era rece. ;S-a simţit strâns în piept. ;0
+Angajaţii au format un sindicat. ;cause;Ei au vrut condiţii de muncă mai bune. ;Angajatorul lor le-a mărit salariile. ;0
+Am făcut o plăcintă cu mere. ;effect;Un miros de putregai umpluse bucătăria. ;O aromă caldă umpluse bucătăria. ;1
+Femeia se lupta să meargă. ;cause;Purta tocuri înalte. ;Şi-a scos pantofii. ;0
+Vaporul a crescut din oala cu apă. ;cause;Apa a fiert. ;Am acoperit oala. ;0
+Toate şosetele mele erau la spălătorie. ;effect;Am purtat sandale. ;Am purtat cizme. ;0
+Argumentul politicianului a fost considerat absurd. ;effect;A pierdut sprijinul votanţilor. ;A fost acuzat de corupţie. ;0
+Toată lumea a dezaprobat logodna cuplului. ;effect;Cuplul a rămas însărcinat. ;Cuplul a fugit. ;1
+Clădirea a fost dedicată milionarului. ;cause;Milionarul a vrut ca clădirea să fie demolată. ;Milionarul a contribuit cu fondurile pentru a-l construi. ;1
+Asociatul de vânzări a acuzat fata de furt. ;cause;Vânzătorul a văzut-o pe fată punând marfă în poşetă. ;Vânzătorul a ajutat-o pe fată să găsească poşeta care i-a plăcut. ;0
+Ţara a declarat război teritoriului vecin. ;effect;Soldaţii au fost trimişi să lupte. ;Soldaţii au fost reuniţi cu familiile lor. ;0
+Curtea a confirmat hotărârea controversată. ;effect;O revoltă a izbucnit în faţa tribunalului. ;Un cuplu a făcut jurăminte în faţa tribunalului. ;0
+Fata a mirosit ceva arzând. ;cause;A scos prăjiturile din borcan. ;A lăsat prăjiturile în cuptor. ;1
+Ploaia a început să curgă. ;effect;Furtuna s-a înrăutăţit. ;Am fugit să intru. ;1
+Clădirea a fost evacuată. ;cause;Ascensorul a încetat să mai funcţioneze. ;Alarma de incendiu a sunat. ;1
+Tatăl a fost supărat pe alcoolismul fiului său. ;effect;Tatăl i-a cumpărat fiului său o bere. ;Tatăl şi-a dat fiul afară din casă. ;1
+Avocata a urcat pe scări până la biroul ei. ;cause;Secretara a plecat acasă pentru ziua de azi. ;Liftul nu funcţiona. ;1
+Bărbatul s-a supărat pe prietenul său. ;cause;Prietenul său l-a întrerupt. ;Prietenul lui i-a cumpărat prânzul. ;0
+Fata a dat banii la casier. ;effect;Casierul i-a dat fetei restul. ;Casierul a uitat să-i dea fetei o chitanţă. ;0
+Femeia a fost pusă într-un scaun cu rotile. ;cause;A fost paralizată într-un accident. ;A intrat în spital pe o targă. ;0
+Cetăţenii au agăţat steagul naţional în faţa caselor lor. ;cause;Ţara îşi comemora independenţa. ;Ţara se confrunta cu dificultăţi economice. ;0
+Echipa a pierdut turneul. ;effect;Şi-au dezamăgit fanii. ;Ei şi-au inspirat fanii. ;0
+Prietenul meu mi-a spus că am mâncare înţepenită în dinţi. ;effect;Mi-a fost ruşine. ;M-am simţit mândru. ;0
+Băiatul a picat examenul de istorie. ;cause;A fost atent la ore. ;A uitat să studieze. ;1
+Clădirea din centru s-a prăbuşit. ;cause;Un cutremur a lovit oraşul. ;Rata criminalităţii în oraş a crescut. ;0
+Prietena lui s-a despărţit de el. ;effect;A implorat-o să-l ia înapoi. ;Ea l-a prezentat părinţilor ei. ;0
+Cei doi copii au ajuns simultan să recupereze mingea. ;effect;Mingea s-a rostogolit. ;Capetele lor s-au ciocnit. ;1
+Racunul a jefuit coşul de gunoi. ;cause;Era carton în coşul de gunoi. ;Capacul era de pe coşul de gunoi. ;1
+Băiatul a ascuțit creionul. ;cause;A fost ieftin. ;A fost plictisitor. ;1
+Casierul a refuzat să-i restituie femeii rochia. ;cause;Şi-a pierdut chitanţa. ;Rochia nu mi se potrivea. ;0
+Grinza de pe pielea mea era adâncă. ;effect;S-a vindecat repede. ;A lăsat o cicatrice. ;1
+Bărbatul a primit priviri ciudate de la pasagerii din tren. ;cause;Se holba la pământ. ;Vorbea cu el însuşi. ;1
+Copilul a lăsat firimituri pe podea. ;effect;Furnicile s-au târât pe firimituri. ;Copilul a pus pâinea deoparte. ;0
+Femeia i-a dat surorii ei un şerveţel. ;cause;Sora femeii şi-a încrucişat mâinile. ;Sora femeii a început să plângă. ;1
+Omul a luat o menta. ;cause;Buzele lui erau rupte. ;Era îngrijorat de respiraţia urât mirositoare. ;1
+Cuplul a plecat mai devreme pentru spectacol. ;cause;Au anticipat traficul din jurul teatrului. ;Au direcţia spre teatru. ;0
+Femeia a rămas acasă de la serviciu. ;effect;Şeful ei a lăudat-o. ;Colega ei de la muncă a acoperit-o. ;1
+Omul a semnat petiţia activiştilor. ;cause;El a susținut cauza lor. ;El i-a denunţat ca fiind nebuni. ;0
+Inima actorului flutura înainte de spectacol. ;cause;Avea frică de scenă. ;Şi-a memorat replicile. ;0
+Am fost pierdut. ;effect;Mi-am numărat banii. ;Am desfăcut o hartă. ;1
+Fructele coapte au rămas în soare. ;effect;A fost mâncat. ;S-a strâmbat. ;1
+Maşina s-a stricat. ;cause;Am pornit motorul. ;Motorul s-a supraîncălzit. ;1
+Omul s-a rănit la spate. ;effect;S-a dus la un psihiatru. ;A stat în pat câteva zile. ;1
+Am dat foc la şemineu. ;cause;Nu mai aveam lemne de foc. ;Era frig în casă. ;1
+Femeia a încetat să alerge. ;cause;Are o crampa in partea laterala. ;A primit o a doua suflare. ;0
+Am bătut la uşa vecinului meu. ;effect;Vecinul m-a invitat înăuntru. ;Vecina mea a plecat de acasă. ;0
+Femeia a suspinat de frustrare. ;cause;Soţul ei nu a înţeles îngrijorările ei. ;Soţul ei a sărutat-o la revedere. ;0
+Profesorul a lăudat-o pe elevă. ;cause;Studentul a răspuns corect la întrebare. ;Studentul a ezitat să răspundă la întrebare. ;0
+Femeia a rămas fără ouă. ;effect;A plecat la fermă. ;A fost la supermarket. ;1
+Am întâlnit un vechi prieten. ;effect;I-am dezvăluit un secret. ;L-am îmbrăţişat. ;1
+Femeia a evitat să intre în lac. ;cause;A prins un peşte. ;Părea contaminat. ;1
+Elevul a ajuns la clasă ud. ;cause;Umbrelă lui era ruptă. ;I-a fost furată bicicleta. ;0
+Cursorul de pe ecranul computerului s-a mutat. ;cause;Utilizatorul a făcut clic cu mouse-ul. ;Utilizatorul a mutat mouse-ul. ;1
+Şoferul a luat-o pe o cale de cotitură. ;cause;A avut loc un accident pe drumul principal. ;A urmat camionul din faţa ei. ;0
+Am atârnat lenjeria umedă pe coarda de rufe. ;effect;Lenjeria s-a uscat. ;Lenjeria pătată. ;0
+Femeia a pus ochelarii. ;cause;Lumina soarelui era strălucitoare. ;A chemat un taxi. ;0
+Omul se uita la cerul nopţii. ;cause;El a dorit să fie vara. ;A crezut că e frumos. ;1
+M-am simţit epuizat. ;effect;M-am dus la culcare devreme. ;Am stat treaz toată noaptea. ;0
+Omul s-a dus la frizer. ;cause;Îşi lăsase părul să crească. ;Părul lui era lung. ;1
+Băiatul a jucat trucuri rele cu noul său coleg de clasă. ;cause;Băiatul i-a dat bun venit noului coleg de clasă. ;Băiatul nu-l plăcea pe noul coleg de clasă. ;1
+Am avut o poftă de lapte. ;cause;Am mâncat prăjituri. ;Am fost de coacere pâine. ;0
+A început să plouă. ;effect;Şoferul a aprins farurile. ;Şoferul a dat înapoi. ;0
+Parcare clădirii era gol. ;effect;Am parcat peste drum. ;Am parcat lângă intrare. ;1
+Scriitoarea a ratat termenul limită pentru prezentarea proiectului. ;cause;A avut un bloc de scriitor. ;Ea a editat proiectul. ;0
+Asociatul mi-a închis. ;cause;Am cerut să vorbesc cu un supraveghetor. ;Mi-am dat numărul de identificare. ;0
+Vântul sufla prin fereastra deschisă. ;effect;A sunat soneria. ;Cortinele s-au zguduit. ;1
+A fost oprită curentul electric în casa mea. ;cause;Am deconectat lampa. ;Am explodat o siguranță. ;1
+Ridicatoarea de greutati a mormăit. ;cause;Şi-a mişcat muşchii în oglindă. ;A ridicat bara deasupra capului. ;1
+Studentul a încercat să facă calculele în mintea lui. ;effect;A scos un calculator. ;A fost confuz. ;1
+Copilul a adormit. ;cause;Tatăl a schimbat scutecul copilului. ;Tatăl a scuturat copilul cu blândeţe. ;1
+Fata a aruncat balonul cu apă în băiat. ;effect;Băiatul a avut o contuzie. ;Băiatul s-a udat. ;1
+Fotograful a uitat să folosească flash-ul de pe aparat. ;effect;Fotografiile au ieşit neclare. ;Toţi cei din fotografii au refuzat să zâmbească. ;0
+Am refuzat invitaţia la petrecerea de ziua de naştere. ;cause;Eram singur. ;Am fost plecat din oraş. ;1
+Am făcut exerciţii. ;cause;M-am simţit plin de energie. ;Am fost speriat. ;0
+Am stoarcit buretele umed. ;effect;A absorbit apa. ;A ieşit apă. ;1
+Oaspeţii au luat un feribot spre staţiune. ;cause;Resortul a fost rezervat. ;Resortul era pe o insulă. ;1
+Adolescentul a făcut un tatuaj. ;cause;Îi era frică de ace. ;A vrut să se răzvrătească. ;1
+O maşină necunoscută parcată în faţa casei mele. ;effect;Am devenit suspicios. ;Am sunat la poliţie. ;0
+Criminalul s-a predat singur. ;cause;Dovezile l-au implicat. ;Nu a existat nici o dovadă împotriva lui. ;0
+Omul greoi a decis să slăbească. ;effect;A renunţat la dulciuri. ;A evitat cafeina. ;0
+Fata a călcat pe gheaţă. ;effect;A alunecat. ;Ea tremura. ;0
+Femeia avea inele sub ochi. ;cause;A stat trează toată noaptea. ;Şi-a pus fiul la culcare. ;0
+Lava a curgut din vulcan. ;cause;Vulcanul a erupt. ;Vulcanul era inactiv. ;0
+Femeia şi-a pus pantofii. ;cause;Îi cunoştea pe toţi de la petrecere. ;A vrut să plece de la petrecere. ;1
+L-am plătit pe cel care se ocupă de taxă. ;effect;M-a lăsat să trec prin cabina de taxare. ;M-a reţinut la taxă. ;0
+Directorul a dat faliment. ;cause;Şi-a vândut acţiunile companiei. ;Şi-a risipit averea. ;1
+Omul a mers la doctor. ;cause;Doctorul era în concediu. ;Omul s-a simţit rău. ;1
+Am ieşit din dormitor pe fereastră. ;cause;Casa era în flăcări. ;Casa era goală. ;0
+Degetele băiatului au devenit prune. ;cause;A făcut un duş lung. ;Şi-a spumărit mâinile cu săpun. ;0
+Am scuipat laptele. ;cause;Laptele avea gust de acid. ;Gura mea era uscată. ;0
+Am pierdut autobuzul. ;effect;Am venit devreme la muncă. ;Am întârziat la muncă. ;1
+Camionul s-a ciocnit cu maşina. ;effect;Camionul a accelerat. ;Maşina a fost distrusă. ;1
+Echipa a aranjat concursul în favoarea lor. ;effect;Au câştigat. ;Au renunţat. ;0
+Sticla de suc a şuierat. ;cause;Am întors sticla. ;Am răsucit capacul. ;1
+Băiatul a fost închis în afara casei sale. ;effect;S-a târât printr-o fereastră deschisă. ;S-a urcat pe acoperiş. ;0
+A sunat soneria. ;effect;Vizitatorul a bătut la ușă. ;Femeia a scotocit prin gaura de la cheie. ;1
+Omul şi-a pătat costumul. ;effect;A făcut curăţenie. ;A agăţat-o în dulapul lui. ;0
+Fata a stoarcit tubul de pastă de dinţi. ;effect;Pasta de dinti a iesit din tub. ;Fata a scuipat pastă de dinţi. ;0
+Morţile civililor din război au crescut. ;effect;Pacifistii au organizat un protest. ;Pacifistii au organizat o parada. ;0
+Fata a smuls panglica din par. ;cause;Ea a legat panglica. ;Rubanul părea copilăresc. ;1
+Omul a făcut operaţie estetică. ;effect;A îmbătrânit. ;Arăta mai tânăr. ;1
+Un pui a ieşit din ou. ;cause;Oul a eclozat. ;Am spart ouăle. ;0
+Prizonierul a murit de foame. ;effect;A murit. ;A fugit. ;0
+Omul şi-a pierdut echilibrul pe scară. ;effect;A urcat pe scară. ;A căzut de pe scară. ;1
+Copilul a burped. ;cause;A luat o înghiţitură de suc. ;A deschis cutia cu suc. ;0
+Un curent rece a intrat prin fereastră. ;effect;M-am relaxat. ;Am tremurat. ;1
+Studentul a primit o bursă pentru a merge la facultate. ;cause;Colegii ei de clasă o respectau. ;A avut note bune. ;1
+Fata a făcut mişto de băiat. ;cause;Locuia alături de el. ;Ea a avut o pasiune pentru el. ;1
+Vagabondul flămând a furat mâncare. ;cause;El a incitat la milă. ;Nu avea bani. ;1
+Mi-am sunat prietenul să vorbim. ;cause;Am vrut intimitate. ;M-am simţit singur. ;1
+Omul mi-a întins mâna. ;effect;I-am dat mâna. ;L-am pălmuit. ;0
+M-am ascuns. ;cause;Focurile de artificii au fost lansate în aer. ;Frisbee-ul a zburat spre capul meu. ;1
+Fata s-a muşcat de unghii. ;cause;Era îngrijorată. ;A fost surprinsă. ;0
+Am întors pagina din calendar. ;cause;Am marcat o întâlnire în calendar. ;Era începutul unei noi luni. ;1
+Soţul a descoperit că soţia lui avea o aventură. ;effect;Şi-a concediat avocatul. ;A cerut divorţul. ;1
+Fata a scăpat mingea de cauciuc. ;effect;Mingea a sărit. ;Mingea a strălucit. ;0
+Fata a făcut o greşeală la examen. ;effect;Ea a ghicit răspunsul. ;Ea a șters răspunsul ei. ;1
+Jucătorul a atacat adversarul. ;effect;Adversarul lui a prins pasul. ;Adversarul lui a lovit la pământ. ;1
+Am cules roşiile de pe viţă. ;cause;Erau coapte. ;Le-am udat. ;0
+Omul a vrut să fie romantic. ;effect;S-a întâlnit cu fosta lui iubită la prânz. ;I-a cumpărat fetei lui ciocolată. ;1
+Mercurul din termometru a crescut. ;cause;Am scăpat termometrul. ;Vremea s-a încălzit. ;1
+O tornadă a trecut prin oraş. ;effect;Acoperişul tribunalului a explodat. ;Autostrada a devenit periculos de îngheţată. ;0
+Studentul a primit tutoriale. ;effect;Notele lui s-au îmbunătăţit. ;A trişat la examen. ;0
+M-am simţit confortabil. ;cause;M-am îngenuncheat pe pământ. ;M-am înfăşurat într-o pătură. ;1
+Am lustruit piatra. ;effect;A devenit alunecoasă. ;A devenit strălucitoare. ;1
+Am adăugat zahăr în cafea. ;effect;Cafeaua avea un miros puternic. ;Cafeaua avea un gust dulce. ;1
+Omul a răscolit prin ziare. ;effect;S-a tăiat de la hârtie. ;A distrus hârtiile. ;0
+Am lovit cu ciocanul cu cuiul. ;effect;Cârligul a intrat în lemn. ;Unghiul a devenit ruginit. ;0
+Peştele a muşcat coarda. ;effect;Pescarul a prins peştele. ;Pescarul a refăcut coarda. ;0
+Adolescentul era jenat să meargă la şcoală. ;cause;Are o coş. ;Şi-a scos aparatul. ;0
+Expresia feţei mele s-a luminat. ;cause;Am primit veşti bune. ;Mi-am pierdut răbdarea. ;0
+Mi-am şters mâinile cu un prosop. ;cause;Prosopul era ud. ;Am mâinile ude. ;1
+Omul şi-a pierdut echilibrul pe scaun. ;cause;Scaunul se clătina sub el. ;A vărsat vopsea pe scaun. ;0
+Colegii de echipă s-au dat vina unul pe celălalt. ;cause;Au pierdut jocul. ;Antrenorul lor a anulat antrenamentul. ;0
+Am cerut iertare. ;cause;Am regretat greşeala mea. ;Mi-am atins scopul. ;0
+Femeia s-a plictisit de partenerul ei. ;cause;A pus întrebări despre ea. ;Vorbea fără încetare despre el. ;1
+Fata a zâmbit. ;effect;Obrajii ei au roşcat. ;I-au apărut gropicile. ;1
+Nava inamic a explodat. ;cause;A trecut peste mina. ;A navigat în port. ;0
+Omul şi-a înţepat piciorul. ;cause;A intrat într-o baltă. ;A călcat pe sticlă spartă. ;1
+Detectivii au verificat locul crimei pentru amprente. ;effect;Au descoperit identitatea criminalului. ;Au găsit arma la locul crimei. ;0
+Era mult trafic pe autostradă. ;effect;Am luat-o pe o cale de cotitură. ;Am cerut o plimbare. ;0
+Economia naţiunii a scăzut. ;effect;Mulţi oameni s-au îmbolnăvit. ;Mulţi oameni s-au confruntat cu şomajul. ;1
+Paznicul de la trecere a fluierat la copii. ;cause;Erau pe cale să intre în traficul din partea cealaltă. ;I-a recunoscut din cartierul ei. ;0
+Mi-am întors ochii la prietenul meu. ;cause;Mi-a spus adevărul. ;A făcut o remarcă sarcastică. ;1
+Maşina a rămas fără benzină. ;effect;Şoferul a rămas blocat pe drum. ;Şoferul a luat un autostopist. ;0
+Femeia a intrat în travaliu. ;effect;Copilul a fost livrat. ;Femeia avea greţuri de dimineaţă. ;0
+Pălăria omului a fost luată de vânt. ;cause;A scos pălăria. ;Era vântul afară. ;1
+Fata a participat la petrecerea de ziua colegului ei de clasă. ;cause;A primit o invitaţie. ;Ea a cumpărat un cadou. ;0
+Fruntea băiatului era fierbinte. ;effect;Mama lui i-a luat temperatura. ;Mama lui l-a dus în parc. ;0
+Omul s-a împrăştiat cu parfum. ;cause;A vrut să-şi impresioneze partenera. ;Şi-a pus gel în păr. ;0
+A fost oprită curentul electric. ;effect;Am căutat o lanternă. ;Am luat o lopată. ;0
+Familia s-a mutat într-o casă mai mare. ;cause;Fiul a absolvit liceul. ;Mama a dat naştere la gemeni. ;1
+Maratonistul a mers încet. ;cause;Voia să-şi economisească energia. ;A văzut linia de sosire. ;0
+Băiatul a lovit automatul. ;cause;Maşina a scuipat restul. ;Punga de cartofi a fost blocată. ;1
+Câinele prietenului meu a murit. ;effect;Mi-am întors ochii la el. ;L-am îmbrăţişat. ;1
+Cartea de credit a omului de afaceri a fost refuzată. ;effect;A scris un datorie. ;A plătit cu bani gheaţă. ;1
+Omul blestemat. ;cause;Şi-a tăiat unghiile. ;S-a lovit la deget. ;1
+Omul a fost mândru de fratele său. ;cause;Fratele lui s-a certat cu părinţii lor. ;Fratele lui a fost acceptat la facultatea de drept. ;1
+Fata voia să înveţe despre sistemul solar. ;effect;S-a dus la bibliotecă. ;S-a uitat la stele. ;0
+Afişul a rămas pe perete. ;cause;Am pus posterul deasupra uşii. ;Am pus bandă pe spatele posterului. ;1
+Clientul a aprobat planurile arhitectului pentru clădire. ;effect;Arhitectul a construit clădirea. ;Arhitectul a ajustat planurile. ;0
+Omul a scăpat lingura. ;cause;Îi tremura mâna. ;A lins lingura. ;0
+Directorul general al companiei a demisionat. ;effect;Consiliul de administraţie a dizolvat compania. ;Consiliul de administraţie i-a găsit un înlocuitor. ;1
+Am ajuns târziu la prelegere. ;effect;Am luat un loc în rândul din spate. ;M-am apropiat de podium. ;0
+Omul a fost eliberat din închisoare. ;cause;Familia lui i-a plătit cauţiunea. ;A atacat un coleg de închisoare. ;0
+Familia a pierdut toate bunurile. ;cause;Şi-au vândut casa. ;Casa lor a luat foc. ;1
+Am călcat în cutia de aluminiu. ;effect;Containerul a fost reciclat. ;Cutii a fost zdrobit. ;1
+Fata s-a alăturat echipei de dezbateri. ;effect;A învăţat să folosească un calculator. ;A învăţat să comunice. ;1
+Starea mea de spirit s-a îmbunătăţit. ;cause;Am ascultat muzică. ;Am spălat vasele. ;0
+Caritatea a făcut un obiectiv de a strânge bani. ;effect;Ei au hrănit oamenii fără adăpost. ;Au ţinut o licitaţie. ;1
+Roller coaster-ul s-a aruncat în jos pe o cădere abruptă. ;effect;Pasagerii au râs. ;Pasagerii au ţipat. ;1
+Eram furios. ;effect;Am verificat cutia poştală când am ieşit de acasă. ;Am trântit uşa când am ieşit din casă. ;1
+Omul a vrut să vadă răsăritul soarelui. ;effect;A călătorit spre nord. ;S-a trezit devreme. ;1
+Am îndoit hârtia. ;effect;Am reciclat hârtia. ;Hârtia s-a zgâriat. ;1
+Naţiunea a îndurat un dezastru natural. ;effect;Liderii altor ţări au format o alianţă. ;Liderii altor ţări au trimis ajutoare de urgenţă. ;1
+Hainele băiatului au fost udate. ;cause;A ieşit din piscină. ;A căzut în piscină. ;1
+Studentul s-a grăbit să termine cartea. ;cause;Trebuia să fie returnată la bibliotecă. ;A împrumutat-o de la un prieten. ;0
+Criminalul a fost executat. ;cause;A fost aruncat în închisoare. ;A fost condamnat pentru crimă. ;1
+Lumina soarelui a intrat în cameră. ;cause;Am deschis draperiile. ;Am deschis uşa. ;0
+Am tras de păr impostorului. ;effect;I-a căzut peruca. ;A devenit cheală. ;0
+Editorul a reformula o frază din manuscris. ;cause;A găsit manuscrisul convingător. ;El a considerat sentinţa neclară. ;1
+Femeia şi-a anulat contul de card de credit. ;cause;Ea a realizat că cardul lipsea. ;Ea a realizat că cardul a expirat. ;0
+Bărbatul şi femeia s-au îndrăgostit. ;effect;Au urmat facultatea. ;S-au căsătorit. ;1
+Muzica era prea slabă pentru a fi auzită. ;effect;Am ridicat volumul. ;Mi-am compus propriul cântec. ;0
+Părul băiatului era ridicat. ;cause;Fata a făcut-o. ;Fata a tras-o. ;0
+Gândacul a fost strivit. ;cause;M-am împrăştiat cu insecticid. ;Am călcat pe gândac. ;1
+Am deschis ochii. ;cause;M-am trezit. ;M-am relaxat. ;0
+Muzica vecinului meu era foarte tare. ;effect;I-am cerut să-l reducă. ;Am cerut să împrumut CD-ul de la el. ;0
+Familia acestui om trăia în sărăcie. ;cause;El a fost frugalit cu câștigurile sale. ;A câştigat sub salariul minim. ;1
+Studentul a absolvit universitatea. ;effect;A căutat de lucru. ;A ales un hobby. ;0
+Artistul a amestecat vopsea galbenă cu vopsea albastră. ;effect;Vopseaua a fost împrăştiată peste tot. ;Vopseaua a devenit verde. ;1
+Am schimbat subiectul conversaţiei. ;cause;Nu mai aveam despre ce să vorbim. ;Conversaţia a devenit tensionată. ;1
+Fratele meu a fost externat din spital. ;effect;L-am primit acasă. ;I-am dat umăr rece. ;0
+Cortina de pe scenă s-a ridicat. ;effect;Scena de deschidere a piesei a început. ;Actorii piesei au ieşit de pe scenă. ;0
+Ostaticul a fost supus ordinelor răpitorului. ;cause;Răpitorul a ameninţat că va răni ostaticul. ;Răpitorul a lăsat ostaticul singur. ;0
+Un boom a reverberat pe scenă. ;cause;Muzicianul a bătut cu piciorul. ;Muzicianul a bătut în tambur. ;1
+Părinţii s-au grăbit în dormitorul copilului lor. ;cause;Copilul s-a trezit ţipând după un coşmar. ;Copilul era speriat să se uite sub patul ei. ;0
+Femeia a comunicat prin limbajul semnelor. ;cause;S-a născut prematură. ;S-a născut surdă. ;1
+A fost o secetă în regiune. ;effect;Apa a devenit contaminată. ;Culturile au murit. ;1
+Pisica a urmărit pasărea. ;effect;Pasărea a zburat departe. ;Pasărea a prins un vierme. ;0
+Fata a schimbat şcoala. ;cause;Şcoala a ieşit pentru vară. ;S-a mutat într-un oraş nou. ;1
+Proprietarul fabricii a refuzat să crească salariile angajaților. ;effect;Proprietarul a numit un nou manager. ;Angajaţii au intrat în grevă. ;1
+Liderul a antagonizat extremiştii din ţara sa. ;effect;Extremiştii l-au influenţat. ;Extremiştii l-au asasinat. ;1
+Am mers desculţ pe plajă. ;effect;Nisipul mi s-a lipit de picioare. ;Valurile s-au ciocnit de-a lungul ţărmului. ;0
+M-am trezit în mijlocul nopţii cu frig. ;effect;Mi-am pus pantaloni de sport. ;Am băut un pahar cu apă. ;0
+Mama a tăcut fiul ei. ;cause;Fiul ei a zâmbit. ;Fiul ei se plângea. ;1
+O gaură ruptă în blugi. ;cause;Am închis fermoarul la blugi. ;M-am împiedicat pe trotuar. ;1
+Băiatul purta aparat ortopedic. ;effect;Are o carieră. ;Dinţii lui au devenit drepţi. ;1
+Am făcut exerciţii ieri la sala de sport. ;effect;M-am trezit azi cu dureri musculare. ;M-am trezit azi cu o durere de gât. ;0
+Fata a șoptit înainte și înapoi la fiecare altul la masa de prânz. ;effect;Alţi elevi s-au aşezat la masa de prânz. ;Alţi elevi de la masa de prânz s-au simţit lăsaţi în afara. ;1
+Copilul a aterizat pe trambulină. ;effect;A sărit înapoi în aer. ;A decis să încerce să facă o aruncare. ;0
+Am pus scrisoarea în cutia poştală. ;effect;Poşta a livrat scrisoarea. ;Poşta a expediat scrisoarea. ;0
+Jucătorul era încrezător. ;effect;A pariat toţi banii. ;A plecat acasă falit. ;0
+Focul de pădure s-a răspândit. ;cause;Vânturile au devenit mai puternice. ;Arsorii au fost prinşi. ;0
+Copilul şi-a jupuit genunchiul. ;effect;Mama lui l-a trimis în camera lui. ;Mama lui a pus un bandaj pe rană. ;1
+Omul a supravieţuit bolii mortale. ;cause;Şi-a semnat testamentul. ;A primit un transplant de organe. ;1
+Am băut o gură din cafeaua fierbinte. ;effect;M-am muşcat de limbă. ;Mi-am ars limba. ;1
+Editorul a concediat scriitorul. ;cause;Scriitoarea a evitat prejudecăţile în poveştile ei. ;Scriitorul a ratat un termen important. ;1
+M-am simţit epuizat. ;cause;Am dormit toată ziua. ;Am studiat toată ziua. ;1
+Medicul a diagnosticat pacientul. ;cause;Ea a identificat simptomele pacientului. ;I-a prescris pastile pacientului. ;0
+M-am zgâriat pe piele. ;cause;Era transpirat. ;Mă mânca. ;1
+Omul a fost supus unei operaţii de urgenţă. ;cause;Şi-a pierdut cumpătul. ;A suferit un atac de cord. ;1
+Muşchii braţului omului au fost umflati. ;cause;Şi-a flexionat braţele. ;Şi-a frecat mâinile. ;0
+Omul şi-a ridicat sprâncenele. ;cause;A fost surprins. ;S-a simţit descurajat. ;0
+Am scuzat greşeala colegului meu. ;cause;Am crezut că intenţiile lui erau bune. ;Am crezut că el ştie mai bine. ;0
+Omul a renunţat la fumat. ;effect;A început să facă mai mult exerciţii fizice. ;A început să se trezească mai devreme. ;0
+Femeia a lovit atacatorul ei în nas. ;effect;Corpul atacatorului a ramas fara viata. ;Atacatorul a început să sângereze. ;1
+Săgeata a ratat ţinta. ;cause;Omul nu ţinta bine. ;Omul pierdea jocul. ;0
+Proprietarul casei a cerut ca un exterminator să vină la casa lui. ;cause;A descoperit şobolani în subsol. ;A avut o fermă de furnici în camera lui. ;0
+I-am sugerat oaspetelui meu să ieşim la cină. ;cause;Eram prea obosită să pregătesc ceva. ;Oaspete mea a rămas peste bun venit ei. ;0
+Fata a prins-o pe fratele ei citind jurnalul ei. ;effect;A început să ascundă jurnalul. ;Are un jurnal nou. ;0
+Femeia nu avea bani pentru chirie. ;effect;A lucrat peste program. ;A demisionat. ;0
+Mâna copilului a fost rapid retrasă. ;cause;A atins sobă fierbinte. ;A pălmuit capul căţelului. ;0
+Compania a vrut să măsoare satisfacţia clienţilor. ;effect;Au oferit o reducere pentru clienţii noi. ;Au distribuit un sondaj clienţilor. ;1
+Podeaua din lemn a fost zgâriat. ;cause;Băiatul a aruncat pernele de pe canapea. ;Băiatul a târât un scaun pe podea. ;1
+Mi-am protejat faţa. ;cause;Duşmanul meu m-a batjocorit. ;Inamicul meu a ridicat pumnul. ;1
+Faimoasa statuie a ars. ;cause;A fost lovit de fulger. ;Oamenii veneau să-l venereze. ;0
+Am lăsat fructele pe masă. ;effect;Fructele se dezvolta. ;Muştele au încolţit fructele. ;1
+Balerina a rupt un ligament. ;cause;Ea a arătat degetele de la picioare. ;Şi-a răsucit glezna. ;1
+S-au dezlegat şireturile copilului. ;cause;A învăţat cum să le lege. ;A alergat pe terenul de joacă. ;1
+Am devenit captivat de carte. ;effect;Am returnat cartea. ;Am pierdut noţiunea timpului. ;1
+Bărbatul avea credinţe asemănătoare cu cele ale părinţilor săi. ;cause;Părinţii lui l-au influenţat. ;Părinţii lui l-au renegat. ;0
+Maşina a încetinit treptat până s-a oprit. ;cause;A rămas fără benzină. ;Şoferul a adormit. ;0
+Omul a mâncat îngheţata la soare. ;effect;Îngheţata şi-a pierdut gustul. ;Îngheţata a picurat din con. ;1
+Am agăţat opere de artă în cameră. ;cause;Covorul părea murdar. ;Pereţii păreau goi. ;1
+Am plecat de la serviciu mai devreme. ;cause;Am avut o durere de cap. ;Şeful meu a ţinut o şedinţă. ;0
+Căţeluşul a murdărit covorul. ;effect;Proprietarul a certat cățelușul. ;Proprietarul a dat căţeluşului o gustare. ;0
+Mi-am cerut scuze prietenului meu. ;effect;Prietenul meu m-a iertat. ;Prietenul meu a devenit furios. ;0
+Omul a ieşit în evidenţă în mulţime. ;cause;Avea un rucsac. ;A purtat o vestă neon. ;1
+Martorul a minţit sub jurământ. ;effect;Şi-a terminat mărturia. ;A fost acuzat de sperjur. ;1
+Femeia şi-a vopsit părul. ;cause;Voia un nou aspect. ;Voia să se amestece. ;0
+Imigranţii au fost prinşi în ţară ilegal. ;effect;Au găsit de lucru. ;Au fost deportaţi. ;1
+Vorbitorul public a făcut o glumă. ;effect;Publicul a râs. ;Publicul s-a ridicat. ;0
+M-am uitat în soare. ;effect;Soarele m-a orbit. ;Soarele mi-a bronzat pielea. ;0
+M-am simţit plictisit. ;effect;Am sforăit. ;Am bâzâit. ;1
+Friptura a fost dificil de tăiat. ;cause;Cuţitul era plictisitor. ;Friptura era crudă. ;0
+Femeia a declarat faliment. ;cause;Ea a primit plata de pensie alimentară. ;A dobândit datorii masive. ;1
+Lumina din apartamentul prietenului meu era aprinsă. ;effect;Mă întrebam dacă a ieşit. ;M-am hotărât să-i fac o vizită. ;1
+Am pus floarea sub nasul meu. ;effect;Petalele au căzut de pe floare. ;Am simţit mirosul florii. ;1
+Femeia era nostalgică. ;cause;A dat peste un prieten din copilărie. ;Ea a strigat la copiii ei. ;0
+Studentul a amânat lucrarea. ;effect;A depus lucrarea mai devreme. ;A trimis lucrarea incompletă. ;1
+Mi s-a stricat maşina. ;effect;Am fost la mall. ;Am chemat un mecanic. ;1
+Am aruncat biletul. ;cause;A fost anonim. ;Era ilegibil. ;1
+Păsarea şi-a batut aripile. ;effect;A depus ouă. ;A urcat în sus. ;1
+Am parcat în alee. ;cause;Garajul era deschis. ;Garajul era plin. ;1
+Criminalul a îndreptat arma spre victima sa. ;effect;Criminalul a pus arma jos. ;Victima şi-a ridicat mâinile. ;1
+Abia aşteptam weekend-ul. ;cause;Am plănuit să particip la înmormântarea unchiului meu. ;Am plănuit să particip la nunta prietenului meu. ;1
+Am pierdut noţiunea timpului. ;cause;Am fost visător. ;Mi-a fost greaţă. ;0
+Documentul a fost tipărit necitibil. ;cause;Imprimanta era lipsită de cerneală. ;Amprenta era fără hârtie. ;0
+În stadion a fost cântat imnul naţional. ;effect;Fanii s-au întors spre steag. ;Fanii au intrat pe teren. ;0
+Gustul de băutură era bland. ;effect;Am servit-o. ;Am pus sare în ea. ;1
+Am pus prosopul de hârtie pe scurgere. ;effect;Prosopul a absorbit lichidul. ;Deversarea a lăsat un reziduu lipicios. ;0
+Femeia a fost întreruptă în mijlocul citirii cărţii ei. ;effect;Ea a marcat pagina ei. ;A recititit cartea. ;0
+Avionul a intrat în turbulenţe. ;effect;Omul şi-a strâns centura de siguranţă. ;Omul s-a uitat pe fereastră. ;0
+Băiatul a cedat. ;cause;Fata l-a ignorat. ;Fata l-a înţepat. ;1
+Doctorii i-au dat pacientului un membru artificial. ;cause;I-au amputat piciorul. ;Ei au monitorizat semnele ei vitale. ;0
+Băiatul a ciupit cotul fetei. ;effect;Ea a ridicat umerii la el. ;Ea a tras braţul de lângă el. ;1
+Mi-am cerut sfatul prietenului meu. ;cause;I-am apreciat opinia. ;Ştiam că am avut dreptate. ;0
+Băiatul a călcat în noroi. ;effect;Lampa i s-a lipit de pantofi. ;Marea i-a lovit faţa. ;0
+Oraşul a primit câteva centimetri de zăpadă. ;effect;Şcolile au fost închise. ;Oamenii s-au ascuns sub pământ. ;0
+Cei de la serviciu au terminat tura. ;effect;A plecat acasă pentru o zi. ;A ameninţat că va demisiona. ;0
+Copacul a deteriorat casa. ;cause;Copacul a căzut pe acoperiş. ;Copacul umbra curtea din spate. ;0
+Lemnul s-a despicat în două. ;cause;Am pus lemnele în şemineu. ;Am lovit cu toporul lemnul. ;1
+Familia a felicitat cuplul. ;cause;Cuplul a anunțat că se despart. ;Cuplul a anunțat că aveau un copil. ;1
+Fata i-a trimis băiatului o felicitare de Sf. Valentin. ;cause;Ea îl plăcea. ;Ea l-a sărutat. ;0
+Am dat din cap la declaraţia prietenului meu. ;cause;Am fost confuz. ;Am fost de acord cu el. ;1
+Prietenii au aruncat o monedă. ;cause;Au vrut să găsească un compromis. ;Au vrut să ia o decizie corectă. ;1
+A sunat cronometrul din bucătărie. ;effect;Omul a descărcat alimentele în frigider. ;Omul a scos pizza din cuptor. ;1
+Femeia şi-a stabilit un obiectiv ambiţios. ;effect;A renunţat. ;A muncit din greu. ;1
+Omul bogat a murit de bătrâneţe. ;effect;Fiul lui a intrat în probleme legale. ;Fiul său a moştenit averea. ;1
+Femeia a călcat în flăcări. ;effect;Flăcările s-au stins. ;Fumul a apărut din flăcări. ;0
+Maşina femeii era la atelier. ;cause;I-au revocat permisul de conducere. ;A avut un accident de maşină. ;1
+Am dormit până la alarmă. ;effect;Am făcut micul dejun. ;Am ratat micul dejun. ;1
+Personalitatea publică a ieşit din limuzină. ;effect;Camerele de filmat au fost îndreptate spre el. ;Familia lui a participat la conferinţa de presă. ;0
+Femeia a rămas în cadă. ;effect;Apa de baie a devenit vagă. ;Apa de baie a scurs din cadă. ;0
+Studentul voia să se întâlnească cu alţi studenţi din campus. ;effect;S-a alăturat unei frăţii. ;A studiat inginerie. ;0
+Am ridicat pernele canapelei. ;cause;Căutam nişte mărunţiş. ;Am fost rearanjarea living. ;0
+Viespă a zburat spre băiat. ;effect;Băiatul a fugit. ;Băiatul a cules o floare. ;0
+Femeia a fost găsită vinovată de o abatere. ;effect;A fost condamnată la muncă în folosul comunităţii. ;A fost condamnată la moarte. ;0
+Am amestecat zahărul în ceaiul fierbinte. ;effect;Ceaiul a fost făcut cu abur. ;Zahărul s-a dizolvat. ;1
+Veteranul şchiopăta. ;cause;A fost recrutat pentru război. ;A fost rănit în luptă. ;1
+Criminalul a fugit de poliție. ;effect;Poliţia a fost la victima. ;Poliţia l-a urmărit pe criminal. ;1
+Laptopul nu se pornea. ;cause;Mi-a căzut. ;Am încărcat-o. ;0
+Femeia a rămas fără loc în dulap. ;cause;Ea a dobândit o garderoba extinsă. ;Şi-a împăturit rufele. ;0
+Omul a fost cu inima frântă. ;cause;Soţia lui a născut. ;Soţia l-a părăsit. ;1
+Omul a obţinut o diplomă. ;effect;A devenit calificat pentru slujba pe care o dorea. ;Oferta lui de slujbă a fost anulată. ;0
+Vocea acestui om se auzea în toată sala. ;cause;El a salutat publicul. ;A vorbit în microfon. ;1
+Am aruncat o monedă în fântâna cu apă. ;effect;Moneda a coborât la fund. ;Moneda s-a rupt în două. ;0
+Jucătorul loveşte mingea spre gaură. ;effect;Mingea a intrat în gaură. ;Mingea s-a retras înapoi la jucător. ;0
+Am respirat praful de la pod. ;effect;Am sughit. ;Am strănutat. ;1
+Casierul magazinului a sunat la paza. ;cause;Clientul a folosit bani falsi. ;Clientul şi-a lăsat farurile aprinse. ;0
+Am scos gunoiul. ;cause;Gunoiul a făcut bucătăria să miroasă urât. ;Mi-am aruncat accidental lista de cumpărături. ;0
+Familia a fost la grădina zoologică. ;effect;Copiii au admirat animalele. ;Copiii au urmărit animalele. ;0
+Respiraţia omului era zgomotoasă. ;cause;Rinichii lui au cedat. ;Plamanii lui erau congestaţi. ;1
+Am avut un bilet în plus pentru concert. ;effect;L-am întrebat pe prietenul meu despre direcţia de la locul de desfăşurare. ;L-am întrebat pe prietenul meu dacă e interesat să meargă. ;1
+Aerul condiţionat din casă s-a stricat. ;effect;Am adus pături. ;Am deschis ferestrele. ;1
+Băiatul are dureri de spate. ;cause;Rucsacul lui era deschis. ;Rucsacul lui era greu. ;1
+I-am cumpărat mamei mele un cadou. ;cause;I-am făcut un tort. ;Era ziua ei. ;1
+Narcise din grădină au fost distruse. ;cause;O albină l-a înţepat pe grădinar. ;Veveriţele au dezgropat bulbii. ;1
+Am lovit chibritul. ;effect;Flacăra s-a stins. ;Chibritul a produs o flacără. ;1
+Părțile în conflict au ajuns la o înțelegere. ;cause;Nu au vrut să dezbată în instanţă. ;Au vrut să-şi repare relaţia personală. ;0
+Copiii au fost trimişi la un orfelinat. ;cause;Părinţii lor au murit. ;Părinţii lor i-au răsfăţat. ;0
+Un meteorit a aterizat în ocean. ;effect;A avut loc un tsunami. ;A început să plouă cu grindină. ;0
+Călătorul a întâlnit un şarpe veninos. ;effect;A devenit deshidratată. ;A intrat în panică. ;1
+Cuptorul s-a încălzit. ;cause;Am pornit cuptorul. ;Am pus farfuria în cuptor. ;0
+Am stoarcit o bucată de lămâie. ;effect;Lămâia s-a mucegăit. ;Lămâie stropită. ;1
+Ţara a descoperit noi teritorii. ;effect;Ţara a abandonat pământul. ;Ţara a colonizat pământul. ;1
+Sticla a căzut de pe masă. ;effect;S-a spart pe tot podeaua. ;A aterizat într-o grămadă de rufe. ;0
+Masa s-a clătinat. ;cause;Podeaua era neuniformă. ;Podeaua era alunecoasă. ;0
+Tatăl l-a prins pe fiul său minţind. ;effect;Fiul lui a mărturisit adevărul. ;Tatăl avea încredere în fiul său. ;0
+Capul omului a pulsat de durere. ;effect;A luat sirop pentru tuse. ;A luat aspirină. ;1
+Trenul a încetinit. ;cause;Se apropia de staţie. ;A fost în urma programului. ;0
+Omul a trecut prin terapie. ;cause;Boala mintală a fost în familia lui. ;A fost diagnosticat cu depresie. ;1
+Femeia s-a apucat de gât. ;cause;Şi-a înghiţit mâncarea. ;S-a sufocat cu mâncarea. ;1
+Femeia avea o durere de gât. ;effect;Vocea ei suna zgomotos. ;Vorbea cu accent. ;0
+Câinele a privit friptura suculentă de pe masă. ;effect;A salivat. ;A fost pusă jos. ;0
+Afacerea femeii a avut succes. ;effect;Şi-a concediat angajaţii. ;Ea a devenit bogată. ;1
+Elevii au ieșit din clasă. ;cause;A sunat clopotul. ;Profesorul i-a dat temă. ;0
+Femeia a pretins că a văzut o fantomă. ;effect;Cunoscuţii ei au exprimat scepticism. ;Cunoscuţii ei au legătură cu ea. ;0
+Omul şi-a pierdut auzul. ;cause;Aproape s-a înecat în ocean. ;Aproape a fost ucis într-o explozie. ;1
+Copilul a lăsat sfoara balonului. ;effect;Balonul s-a dezgheţat. ;Balonul s-a ridicat în aer. ;1
+Omul şi-a pierdut capacitatea de a vorbi. ;cause;A avut un atac cerebral. ;A respirat adânc. ;0
+Femeia s-a împiedicat pe trotuar. ;cause;A fost o fisură în ciment. ;A auzit numele ei fiind strigat. ;0
+Omul a făcut un balon de tun în piscină. ;effect;Salvamotorul a sărit după el. ;Omul a udat salvamarul. ;1
+Am luat antibiotice. ;effect;Infecţia mea s-a vindecat. ;Infecţia mea s-a răspândit. ;0
+Semnalul de circulaţie a devenit galben. ;effect;Şoferul a apăsat frâna. ;Şoferul a claxonat. ;0
+Containerul de plastic s-a topit. ;cause;Am înmuiat recipientul în apă caldă. ;Am pus recipientul pe sobă fierbinte. ;1
+Maşina a fost înţepată. ;cause;Şoferul a lovit un stâlp de telefon. ;Şoferul a trecut pe roşu. ;0
+Băiatul a studiat toată noaptea. ;effect;A sărit examenul. ;A trecut examenul. ;1
+Băiatul s-a agăţat de marginea piscinei. ;cause;Se temea să înveţe să înoate. ;Salvatorul era de serviciu. ;0
+Mi-am pus mâna pe piept. ;effect;Mi-am simţit inima bătând. ;Ritmul inimii mi s-a accelerat. ;0
+Clădirea adiacentă biroului meu era în construcţie. ;effect;Biroul meu era aglomerat. ;Biroul meu era zgomotos. ;1
+Familia voia să-şi cunoască noii vecini. ;effect;Familia a invitat vecinii la cină. ;Familia a făcut cu mâna vecinilor din curtea lor. ;0
+Apa a picat din piscină. ;cause;Înotătorul s-a aruncat în piscină. ;Înotătorul plutea în piscină. ;0
+Am muşcat o felie de pepene verde. ;effect;Am înghiţit accidental o sămânţă. ;Mi-am rupt dinţii din greşeală. ;0
+Băiatul s-a împiedicat. ;cause;Jacheta lui era desfăcută. ;Şireturile de la pantofi erau dezlegate. ;1
+Femeia a pus dopuri în urechi. ;cause;A fost distrasă de zgomot. ;Şi-a făcut găuri în urechi. ;0
+Mi-am umplut sticla de apă. ;cause;Am băut toată apa din ea. ;L-am păstrat în frigider. ;0
+Serialul a fost cenzurat. ;cause;Conţinea un limbaj vulgar. ;Avea un complot complicat. ;0
+Nava s-a naufragiat. ;effect;Echipajul s-a înecat. ;Echipajul a întâlnit piraţi. ;0
+Băiatul a simţit că a fost uluit de ghicitoare. ;effect;A rezolvat ghicitoarea. ;A cerut un indiciu. ;1
+A sunat telefonul. ;effect;Omul a închis. ;Omul a ridicat telefonul. ;1
+Femeia se holba la mine. ;effect;Am îmbrăţişat-o. ;M-am simţit inconfortabil. ;1
+Grupul a părăsit muzeul. ;cause;Au făcut fotografii cu exponatele. ;Au văzut toate exponatele. ;1
+Omul a început o ceartă cu mine. ;effect;Prietenul meu m-a prezentat omului. ;Prietenul meu m-a apărat. ;1
+Roata de pe bicicleta mea era praf. ;effect;Am pompat aer în anvelopa. ;Am schimbat viteza de pe bicicletă. ;0
+Fata părea palidă. ;effect;Tatăl ei i-a citit o poveste. ;Tatăl ei a simţit fruntea ei. ;1
+S-a terminat cerneala în pix. ;effect;Am folosit un creion. ;Am semnat cu numele meu. ;0
+Omul a fost refuzat pentru un împrumut. ;cause;Avea datorii. ;A început o afacere. ;0
+Fata a stat acasă de la școală. ;cause;A avut varicelă. ;Îi plăcea să înveţe matematică. ;0
+Sacul de gunoi era plin. ;effect;L-am dus la gunoi. ;Am aruncat-o în chiuvetă. ;0
+Am aspirat covorul. ;cause;Colegul meu de cameră a vărsat punch. ;Câinele meu îşi pierde părul. ;1
+Omul şi-a pierdut cumpătul. ;effect;Şi-a închis computerul. ;A aruncat un scaun peste cameră. ;1
+Fata a aruncat o crenghie în foc. ;effect;Ramura a ars. ;Focul s-a stins. ;0
+Omul a ieşit din duş. ;cause;Apa caldă a dispărut. ;Nu a putut găsi un prosop. ;0
+Părinţii voiau ca copiii lor să meargă la facultate. ;effect;Au pus deoparte un fond de economii pentru scolarizare. ;Ei i-au încurajat pe copiii lor să se joace afară. ;0
+Omul şi-a dezlegat şireturile. ;effect;Pantofii s-au desfăcut. ;Pantofii au fost uzate. ;0
+Omul a mâncat jumătate din meniu. ;effect;A refrigerat resturile. ;A salvat reţeta. ;0
+- Ce? - Mă umfla glezna. ;effect;Am pus gheaţă pe ea. ;Am frecat lotiune pe ea. ;0
+Uşa biroului meu era deschisă. ;effect;Am vorbit cu colegul meu de la birou. ;Am auzit conversaţia din hol. ;1
+A trebuit să aştept la rând. ;effect;Am luat loc. ;Am citit o revistă. ;1
+Omul a lovit cu ochiul la muscă. ;effect;Muşcă a zburat departe. ;Muşca a rămas nemişcată. ;0
+Omul a scris un testament. ;cause;Era pe moarte. ;Era văduv. ;0
+Alergătorul simţea că rivalul îl depăşeşte. ;effect;A renunţat la concurs. ;El a accelerat pasul. ;1
+M-am gândit cu atenție la problemă. ;effect;Am cerut sfaturi. ;Am venit cu o soluție. ;1
+Călătorul a mers pe podul suspendat tremurător. ;effect;Era îngrozit. ;Era în extaz. ;0
+Omul a anticipat victoria echipei. ;effect;S-a întâlnit cu prietenii să vadă meciul. ;A făcut un pariu cu prietenii lui. ;1
+Băiatul nu putea adormi. ;effect;Şi-a setat ceasul de trezire. ;El a numărat oile. ;1

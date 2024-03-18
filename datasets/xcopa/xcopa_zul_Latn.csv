@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Le nto yayipakishwe ngefilimu enamabhamuza. ;cause;Yayibuthakathaka. ;Yayincane. ;0
+Ngazikhipha zonke izikhwama zami. ;effect;Ngithole ithikithi. ;Ngithole isikhali. ;0
+Izintuthwane zahlasela indlu. ;effect;Izintuthwane zanyamalala endlini. ;Izintuthwane zadla izinkuni endlini. ;1
+Abagibeli bafika emngceleni. ;effect;Iphoyisa lahlola amapasi abo. ;Iphoyisa labagqugquzela ukuba bagqekeze. ;0
+Ihhovisi lalivaliwe. ;cause;Kwakuyiholide. ;Kwakusehlobo. ;0
+Le ntombazane yaphelelwa amandla. ;cause;Wayedlala ideski. ;Wagxuma ngentambo. ;1
+Lona wesifazane walahlekelwa indawo yakhe emgqeni. ;cause;Kwaba nabantu abengeziwe ababekulolo hlelo. ;Waphuma emgqeni. ;1
+Le ntombazane yafinyeza ikhala layo. ;cause;Ingane yayihlanza phezu kwe-baby bib yayo. ;Ingane yayithinte isilevu sakhe. ;1
+Iqembu ladlala ingoma yalo eyaduma. ;effect;Izilaleli zaqhwaba izandla ngesikhathi umculo uqhubeka. ;Izilaleli zazilalela ngokuthula. ;0
+Le ntombazane yayifuna ukubonga uthisha wayo wezibalo. ;effect;Le ntombazane yahlala ngemva kwesikole ngenxa yokujeziswa. ;Le ntombazane yalethela uthisha i-apula. ;1
+Izakhamuzi zasekamu ezisencane zazethukile. ;cause;Umeluleki wabo wasekamu wabatshela indaba yesipoki. ;Babesosa ama-marshmallow emlilweni wasekamu. ;0
+Le ndoda yashaya ikhanda layo. ;effect;Wazindla kakhulu. ;Unokushaqeka kwengqondo. ;1
+Isheke engangilibhala alizange libuyiselwe. ;cause;I-akhawunti yami yasebhange yayingenalutho. ;Ngathola ukwenyuswa kweholo. ;0
+Ibhokisi lokungenayo lale ndoda laligcwele izincwadi ezingekho emthethweni. ;effect;Wasula izincwadi ezingadingekile. ;Wathumela i-imeyili eningi. ;0
+Isikebhe sasivalelwe yodwa. ;cause;Wayengase agule. ;Walulama kulokhu kugula. ;0
+Le ntombazane yayikwazi ngekhanda lokho okwakushiwo. ;cause;Wazifundela yona. ;Wakhohlwa ukuyibhala phansi. ;0
+Ngafaka amanzi engilazini. ;effect;Amanzi anelisa ukoma kwami. ;Ingilazi yagcwala. ;1
+Le ndoda yahlala ithule lapho umngane wayo eqeda ukukhuluma. ;cause;Wayefuna ukumsekela umngane wakhe. ;Wayecabanga ngamazwi omngane wakhe. ;1
+Le ngozi yaba yiphutha lami. ;effect;Ngazizwa nginecala. ;Ngafaka icala. ;0
+Iketanga lahlukana. ;cause;Lolu chungechunge lwalugoqwe ithayi. ;Kwakunesixhumanisi esaphukile kulolu chungechunge. ;1
+Lo mbhangqwana wanquma ukuyekethisa. ;cause;Bakhathala ukuxabana. ;Ayengaxoxi ngale nkinga. ;0
+Lona wesifazane wanquma ukufaka isicelo sokuthatha isikhundla sikahulumeni. ;effect;Waqasha umphathi womkhankaso. ;Wafakaza enkantolo. ;0
+Le ndoda yayilindele ukuba kube nesimo sezulu esibandayo ohambweni lwayo. ;effect;Waphuthelwa izingubo ezifudumele ephaketheni lakhe. ;Wahamba nesikhwama esikhulu. ;0
+Umfundi wayeyazi impendulo yalo mbuzo. ;effect;Waphakamisa isandla. ;Wenza iphutha. ;0
+Le ndoda yakhala izinyembezi. ;cause;Unothuli emehlweni. ;Wafaka izibuko ezivikelayo emehlweni akhe. ;0
+Lo mdlali wanqoba imidlalo emihlanu ilandelana. ;effect;Umphikisi wakhe wamsola ngokukhwabanisa. ;Umphikisi wakhe wamdabukela. ;0
+Uthisha wasiklebhula isivivinyo somfundi. ;cause;Wabamba umfundi ekopela. ;Izimpendulo zomfundi zazingalungile. ;0
+Ngama kancane ukuze ngiyeke ukukhuluma. ;cause;Ngilahlekelwe izwi lami. ;Ngaphelelwa umoya. ;1
+Ukudla okufriziwe kwachichima. ;cause;Ngiyifake emshinini we-microwave. ;Ngawumboza ngepulasitiki. ;0
+Isisebenzi sasizenza isiguli. ;cause;Wayenamafinyila esiswini. ;Wayefuna usuku lokuphumula. ;1
+Le ntombazane yawela echibini. ;cause;Wagijima phezu kwedokodo lokubhukuda. ;Wagxuma waphuma ebhodini lokwehla. ;1
+Amathikithi ebhayisikobho ayethengisiwe. ;cause;Kwakuwusuku lokuvula ifilimu. ;Le filimu yathola izibuyekezo ezingezinhle. ;0
+Le ndoda yehla ngesisindo. ;effect;Abantu bamhlukanisa. ;Abantu babemncoma. ;1
+Izandla zale ntombazane zaqala ukuba nezimbotshana. ;cause;Wathayipha incwadi. ;Wakhwela intambo. ;1
+Umculi waseshashalazini wayedlala ngesikhathi ehamba ngebhayisikili elinamabhayisikili amabili. ;effect;Izilaleli zamemeza ngokumangala. ;Lo mdlali waseshashalazini wayegxuma esuka emgodini. ;0
+Ngaphelelwa isineke. ;cause;Umngane wami wangenza ngalinda. ;Umngane wami wafika ngesikhathi. ;0
+Amazwe alwayo ayefuna ukuthula. ;effect;Bakha izikhali zenuzi. ;Baxoxisana ngesivumelwano. ;1
+Le ndoda yayithathe amaphilisi okulala. ;effect;Waqala ukucobeka. ;Wayenomkhuhlane. ;0
+Lona wesifazane washayisa kusofa. ;effect;Umlenze wesofa wehla. ;Waphuka idolo. ;1
+Umfana wacindezela ibhaluni. ;effect;Ibhaluni laqhuma. ;Ibhaluni laphunyuka. ;0
+Babeyizihambi ezazilinde ekamelweni lazo lasehhotela. ;effect;Bakhipha izikhwama zabo. ;Baya esikhumulweni sezindiza. ;0
+Ngilume iphesika. ;effect;Iphesika lilimaze. ;Kwachitheka ujusi. ;1
+Izandla zami zaba nokunamathela. ;cause;Ngadla i-donut. ;Ngangikuthanda ukudla okumnandi. ;0
+Ngacindezela umnyango. ;effect;Umnyango wavuleka. ;Umnyango uvaliwe. ;0
+Izishoshovu zawenqaba lo mkhiqizo. ;cause;Imikhiqizo yahlolwa ukuze kuqinisekiswe ikhwalithi. ;Le mikhiqizo yayenziwa ngokusetshenziswa kwezingane. ;1
+Ngagubha umgodi odongeni. ;effect;Igundane lakhwela laphuma emgodini. ;Kwaphuma uthuli emgodini. ;1
+Lona wesifazane waba nomona ngodadewabo. ;cause;Udadewabo wayejabule. ;Udadewabo wahlukanisa. ;0
+Ngachitheka iwayini ekameleni lami. ;effect;Ngafaka umgexo. ;Ngashintsha ihembe lami. ;1
+Umphathi wemali wavula umshini wokukhokha. ;cause;Ikhasimende laphenya esikhwameni salo semali. ;Ikhasimende lamnika imali. ;1
+Umculi wasemgwaqweni wadonsa isixuku. ;effect;Abantu babemnika imali. ;Wayixosha leyo mibuthano. ;0
+Umfana omncane wakhala kumzanyana wakhe. ;cause;Wayekhumbula abazali bakhe. ;Kwakuyisikhathi sokudla okulula. ;0
+Imishini yokubona izinto ezisezingeni eliphezulu ye-radar yomshayeli yabona isiphepho. ;effect;Umshayeli waso wahamba wayohlala kude nesiphepho. ;Umshayeli wendiza wadlula kulesi siphepho. ;0
+Isihlahla salahla amaqabunga aso. ;effect;Amaqabunga aphenduka imibala. ;Amaqabunga ayeqoqana phansi. ;1
+Umfana wayenesimo sengqondo esibi. ;effect;Wanquma ukudlala ikhadi nodadewabo. ;Wanquma ukwenza udadewabo ihlaya. ;1
+Ingane yakhononda ngokuthi yayidinga ukuya endlini yangasese. ;effect;Uyise wamnika isiphuzo esinomsoco. ;Uyise wamisa imoto esiteshini segesi. ;1
+Ingane yayihlanza ukudla kwezinhlanzi ethangini. ;effect;Izinhlanzi zavele zaphuma ethangini. ;Izinhlanzi zabhukuda zaya ekudleni. ;1
+Imibono yalo wesifazane yezombangazwe yashintsha. ;effect;Washintsha iqembu lakhe. ;Wahlanganyela embhikishweni. ;0
+Isinki yasendlini yokugezela yayixhunyiwe. ;effect;Ngavula ompompi. ;Ngagcwalisa umuthi wokuhlanza amanzi. ;1
+Abagibeli behla esitimeleni. ;cause;Isitimela safika esiteshini. ;Isitimela sahlaba ikhwelo. ;0
+Lendoda yacindezela phansi esikhwameni esimanzi semvilophu. ;effect;Wabeka isitembu emvilophini. ;Wavala imvilophu. ;1
+Abangane balahlekelwa ukuxhumana. ;cause;Babekujabulela ukuba ndawonye. ;Bathuthela emadolobheni ahlukene. ;1
+Umgcini-zimali wasebenzisa kabi imali yenkampani. ;effect;Waxoshwa esikhundleni sakhe. ;Waya ekhefini lokubeletha. ;0
+Ngabheka iwashi. ;cause;Ngezwa iwashi liqhubeka. ;Ngangifuna ukuhlola isikhathi. ;1
+Isandla sami saqala ukuvaleka. ;cause;Ngabhala indaba ngesandla. ;Mina nomkami sabambana ngezandla. ;0
+Isibopho saqina. ;cause;Ngasifaka esinye isibambo. ;Ngajika isikulufa. ;1
+Lo mbhangqwana wasayina isivumelwano sokuqasha ifulethi. ;effect;Lo mbhangqwana wathuthela kulelo fulethi. ;Idolobha lalahla leli fulethi. ;0
+Lona wesifazane wahlala ngaphandle kuvulandi. ;cause;Wayefuna ukubuka ukushona kwelanga. ;Wayecabanga ukuthi ubona umbani. ;0
+Le ndoda yayigqoke ibhantshi lokuphepha emanzini. ;cause;Wayengakwazi ukubhukuda. ;Amanzi ayengashoni kakhulu. ;0
+Lona wesifazane wenza iphutha ekubhaleni umbhalo. ;effect;Wasula leyo ncwadi. ;Washaya inkinobho yokulondoloza. ;1
+Le ntombazane yaqhosha kubangane bayo. ;cause;Wathola amamaki amabi. ;Wanqoba emncintiswaneni. ;1
+Utshani babudaka. ;cause;Lalinetha ubusuku bonke. ;Yayigcwele ukhula. ;0
+Owesifazane walala. ;cause;Wahlala ubusuku ehhotela. ;Wakhohlwa ukusetha iwashi lakhe elivusa amadlingozi. ;1
+Le ndoda yafaka ukhilimu wokugwema ukushiswa yilanga. ;cause;Wahlala emthunzini. ;Waya olwandle. ;1
+Abacwaningi baqinisekisa ukuthi kuyiqiniso. ;effect;Abacwaningi bayikhipha imibono yabo. ;Abantu bamukela le nkolelo. ;1
+Abalandeli emdlalweni babememeza. ;cause;Umdlalo waqhubeka isikhathi esengeziwe. ;Unompempe wenza isinqumo esibi. ;1
+Ngafaka inhlanganisela yami esakhiweni sokukhiya. ;effect;Ngavala isivalo. ;Isikhiya savuleka. ;1
+Isixuku sashuba. ;effect;Ubaba wanika indodana yakhe imali. ;Ubaba wabamba indodana yakhe ngesandla. ;1
+Iqhwa lalivimba indlela yokungena endlini. ;effect;Ngahlanganisa iqhwa laba ibhola leqhwa. ;Ngasusa iqhwa. ;1
+Abashayeli bama-kayak babedonsa izintambo zabo. ;effect;Ikhayakhe lafika ogwini. ;Ikhayakhe laphonswa amagagasi. ;0
+Le ntombazane yalahlekelwa ukulawula ibhayisikili layo. ;effect;Wayeka ukulawula imoto. ;Washayisa uthango. ;1
+Ngavula umshini wokuphehla umoya. ;effect;Amanzi agcobhoza isikhumba sami. ;Ngazizwa umoya opholile udlula phezu kwami. ;1
+Abashushuluzi babuyela ogwini. ;cause;Zazimanzi. ;Babona ushaka. ;1
+Ngadonsa ipulaki lokukhupha amanzi kubhavu. ;effect;Amanzi aphuma kubhavu. ;Amanzi agcwala phansi. ;0
+Indoda yazizwa inecala ngokukhohlisa umkayo. ;effect;Wamsola ngokuthi akathembekanga. ;Wavuma ukuthi wayengathembekile kuye. ;1
+Uyinki osesithombeni ususiwe. ;cause;Ngalinda ukuba uyinki wome. ;Ngachitha amanzi ephepheni. ;1
+Ingane yavuka imemeza. ;cause;Wayebone iphupho elibi. ;Wageza umbhede. ;0
+Umfana wafaka izinyawo zakhe etafuleni. ;effect;Uyise wahlala phansi etafuleni. ;Uyise wamshumayeza. ;1
+Umngane wami waphendukela kimi. ;cause;Ngamemeza igama lakhe. ;Ngazishaya izandla. ;0
+Uhulumeni wawucindezela izakhamuzi zawo. ;effect;Izakhamuzi zaqala ukuvukela. ;Izakhamuzi zabhalisela ukuvota. ;0
+Umfana wayelahlekile ehlathini. ;effect;Wakha itende. ;Wamemeza ecela usizo. ;1
+Lona wesifazane waya phesheya. ;cause;Wayefuna ukufunda ukudweba. ;Wayefuna ukufunda ngamanye amasiko. ;1
+Le ndoda yayinomona ngomuntu eyayisebenza naye. ;cause;Omunye ayesebenza naye wathola isikhundla esiphakeme. ;Umuntu asebenza naye wasebenza isikhathi eside. ;0
+Le ndoda yabona abantu abavela kwamanye amazwe. ;cause;Wayenomqondo othile. ;Wayehlale ecabanga. ;0
+Izinwele zalo muntu zaba nsundu. ;cause;Wafaka umuthi wokuhlanza kuwo. ;Wafaka i-shampoo kuwo. ;0
+Lo mculi wenza umsebenzi omusha. ;cause;Wagxeka umsebenzi wakhe wangaphambili. ;Wafikelwa umoya. ;1
+Indodana yathutha ekhaya. ;cause;Wakhishwa ebuthweni lezempi. ;Wayezoya ekolishi. ;1
+Izincwadi zawa eshalofini. ;cause;Amashalofu ayembozwe uthuli. ;Ukuzamazama komhlaba kwazamazamisa ishalofu lezincwadi. ;1
+Ugesi wasekhaya wanqamuka. ;effect;Ngakhanyisa isibani. ;Ngibeka kabusha isivimbeli. ;1
+Sahamba nge-roller coaster. ;cause;Kwakubonakala kusabisa. ;Kwakubonakala kumnandi. ;1
+Isikhwama sama-popcorn saqala ukuqhuma. ;cause;Ngagcwalisa isikhwama ngebhotela. ;Ngayifudumeza emshinini we-microwave. ;1
+Isihlahla sawela phezu kwentambo kagesi. ;effect;Ugesi wacima endaweni eseduze. ;Isimo sezulu sabikezela imimoya enamandla. ;0
+Isikhulumi senza amazwi angafanele neze ezombangazwe. ;effect;Wayebangela izilaleli ukuba zikhathazeke. ;Wayethukuthelisa izilaleli. ;1
+Ngazigwaza ngensimbi. ;effect;Ngathinteka kakhulu. ;Kwavela ithonsi legazi emunweni wami. ;1
+Izinhlanzi zazindiza phezu kwethangi. ;cause;Yayizimele. ;Yayingaphili. ;1
+Le ndoda yayizwakala inomsindo. ;cause;Wayegula. ;Wayeka ukubhema. ;0
+Iminyango ye-elevator yavuleka. ;cause;I-elevator yafika esitezi esibekiwe. ;I-elevator yabambeka phakathi kwezakhiwo ezimbili. ;0
+Le ntombazane yaqhuma yaphuma endlini. ;cause;Waqamba amanga kubazali bakhe. ;Abazali bakhe bamjezisa. ;1
+Indlu yangasese yagcwala amanzi. ;cause;Indlu yangasese yagcwala. ;Isifudumezi samanzi saphuka. ;0
+Le nja yahlala eduze komnikazi wayo. ;cause;Umnikazi wabeka ikhola emdlwaneni. ;Umnikazi wayibophela inja. ;1
+Le ndoda yabamba ukubonakaliswa kwayo. ;cause;Wema ngaphansi kwesihlahla esikhulu. ;Wayemi phezu kwechibi elinokuthula. ;1
+Ngaphuthelwa ucingo lwentombi yami. ;effect;Ngabuye ngamshayela ucingo. ;Ngahlangana naye esidlweni sakusihlwa. ;0
+Umkhaya wasesha indawo. ;cause;Inja yabo yabaleka ekhaya. ;Kwakulahleke ubucwebe obuyigugu ekhaya labo. ;0
+Ngabona umoya engiwuphefumulayo lapho ngiphefumula. ;cause;Kwakubanda. ;Isifuba sami sasicindezelekile. ;0
+Izisebenzi zakha inyunyana. ;cause;Babefuna izimo zokusebenza ezingcono. ;Umqashi wabo wakhuphula amaholo abo. ;0
+Ngibhake i-apple pie. ;effect;Ikhishi laligcwele iphunga lokubola. ;Ikhishi lagcwala iphunga elimnandi. ;1
+Lona wesifazane wayelwela ukuhamba. ;cause;Wayegqoka izitebhisi eziphakeme. ;Wakhumula izicathulo zakhe. ;0
+Kwaphuma umusi emcengezini wamanzi. ;cause;Amanzi abila. ;Ngavala imbiza. ;0
+Zonke izimbadada zami zazisendlini yokuwasha. ;effect;Ngangigqoke izimbadada. ;Ngangigqoke amabhuzu. ;0
+Le mpikiswano yesazi sezombangazwe yabhekwa njengengenangqondo. ;effect;Walahlekelwa ukwesekwa abavoti. ;Wayesolwa ngokukhwabanisa. ;0
+Wonke umuntu wayemelene nokuthembisana umshado kwalo mbhangqwana. ;effect;Laba bashadikazi bakhulelwa. ;Laba bashadikazi babaleka. ;1
+Lesi sakhiwo sanikezelwa kuleso sikhulu. ;cause;Lesi sikhulu sasifuna ukuba isakhiwo sidilizwe. ;Lesi sikhulu sanikela ngemali ukuze kwakhiwe. ;1
+Umdayisi waso wasola le ntombazane ngokweba. ;cause;Umthengisi wabona intombazane ifaka izimpahla esikhwameni sayo. ;Umthengisi wasiza le ntombazane ukuba ithole isikhwama esithandayo. ;0
+Leli zwe lamemezela impi endaweni engumakhelwane. ;effect;Amasosha ayethunyelwa empini. ;Amasosha aphinde ahlangana nemikhaya yawo. ;0
+Inkantolo yasisekela leso sinqumo esiphikisayo. ;effect;Kwaqubuka isiyaluyalu phambi kwenkantolo. ;Umbhangqwana othile washintshana ngezifungo phambi kwenkantolo. ;0
+Le ntombazane yezwa iphunga lokuthile okwakusha. ;cause;Wakhipha amakhekhe ebhodweni. ;Washiya amakhukhi kuhhavini. ;1
+Imvula yayina kakhulu. ;effect;Isiphepho saba sibi nakakhulu. ;Ngagijimela ngaphakathi. ;1
+Lesi sakhiwo sasikhishiwe. ;cause;Ilifti alizange lisebenze. ;I-alamu yomlilo yaqala ukusebenza. ;1
+Uyise wayecasulwa ukuluthwa utshwala kwendodana yakhe. ;effect;Ubaba wathengela indodana yakhe ubhiya. ;Ubaba wayegxosha indodana yakhe endlini. ;1
+Ummeli wakhuphukela ehhovisi lakhe. ;cause;Unobhala waya ekhaya ngalolo suku. ;Isithuthuthu sasingasebenzi. ;1
+Le ndoda yacasukela umngane wayo. ;cause;Umngane wakhe wamphazamisa. ;Umngane wakhe wamthengela ukudla kwasemini. ;0
+Le ntombazane yanikeza umbheki imali yayo. ;effect;Umphathi-mali wanika intombazane imali yayo esele. ;Umphathi-mali wakhohlwa ukunika intombazane irisidi. ;0
+Lona wesifazane wabekwa esihlalweni sabakhubazekile. ;cause;Wayekhubazekile engozini. ;Wangena esibhedlela ehamba ngesihlalo. ;0
+Izakhamuzi zazibeka ifulege likazwelonke ngaphandle kwemizi yazo. ;cause;Izwe laligubha ukuzimela kwalo. ;Izwe lalibhekene nobunzima bezomnotho. ;0
+Leli qembu lalahlekelwa umqhudelwano. ;effect;Badumaza abalandeli babo. ;Zazikhuthaza abalandeli bazo. ;0
+Umngane wami wathi kunokudla okumbophele emazinyweni. ;effect;Ngazizwa nginamahloni. ;Ngazizwa ngiziqhenya. ;0
+Le nsizwa yahluleka esivivinyweni sayo semfundo yezomlando. ;cause;Wayelalelisisa esifundweni. ;Wakhohlwa ukufunda. ;1
+Isakhiwo esisedolobheni sabhidlika. ;cause;Kwazamazama umhlaba edolobheni. ;Izinga lobugebengu edolobheni landa. ;0
+Intombazane yalo muntu yahlukana naye. ;effect;Wamncenga ukuba ambuyisele. ;Wamethula kubazali bakhe. ;0
+Izingane zombili zazama kanyekanye ukubuyisa ibhola. ;effect;Ibhola laqhuma. ;Amakhanda abo ashayisana. ;1
+I-raccoon yaphanga imfucumfucu. ;cause;Kwakunekhadibhodi emgqonyeni kadoti. ;Isivalo sasingaphandle kukadoti. ;1
+Umfana walolonga ipensela. ;cause;Kwakubiza kancane. ;Kwakungathandeki. ;1
+Umphathi-mali wenqaba ukubuyisela imali yalengubo kowesifazane. ;cause;Wayilahla irisidi lakhe. ;Ingubo yayingahambisani nami. ;0
+Isikhumba sami sasilinyazwe kakhulu. ;effect;Lwalulama ngokushesha. ;Kwashiya ibala. ;1
+Abagibeli babembuka ngendlela exakile. ;cause;Wayegqolozele phansi. ;Wayekhuluma yedwa. ;1
+Ingane yashiya imvuthuluka phansi. ;effect;Izintuthwane zagcwala emakhekhezini. ;Ingane yafaka isinkwa endaweni yaso. ;0
+Lona wesifazane wanika udadewabo ithawula. ;cause;Udadewabo walona wesifazane wavala izandla. ;Udadewabo walowo wesifazane waqala ukukhala. ;1
+Le ndoda yathatha i-mint. ;cause;Izindebe zakhe zaziklebhukile. ;Wayekhathazeke ngokuphefumula kabi. ;1
+Lo mbhangqwana washiya kusenesikhathi waya embukisweni. ;cause;Babelindele ukuba kube nomgwaqo omkhulu eduze kwendawo yeshashalazi. ;Banemiyalo yokuya enkundleni yemidlalo. ;0
+Lona wesifazane wahlala ekhaya engekho emsebenzini. ;effect;Umphathi wakhe wamncoma. ;Umuntu ayesebenza naye wamvikela. ;1
+Le ndoda yasayina isicelo sezisebenzi. ;cause;Wasekela inhloso yabo. ;Wababeka icala ngokuthi bayizithutha. ;0
+Inhliziyo yomdlali yayishaya ngamandla ngaphambi kokuba adlale. ;cause;Wayethukile. ;Wayewazi ngekhanda amazwi akhe. ;0
+Ngangidukile. ;effect;Ngabala imali yami. ;Ngavula ibalazwe. ;1
+Izithelo ezivuthiwe zahlala elangeni. ;effect;Yayidliwe. ;Yaqala ukuqina. ;1
+Imoto yaphuka. ;cause;Ngavula i-ignition. ;Injini yashisa kakhulu. ;1
+Le ndoda yalimala emhlane. ;effect;Waya kudokotela wezifo zengqondo. ;Wahlala embhedeni izinsuku eziningana. ;1
+Ngaqala umlilo esithandweni somlilo. ;cause;Ngangingasenamahlathi. ;Kwakubanda endlini. ;1
+Lona wesifazane wayeka ukugijima. ;cause;Unesifo sokuquleka ohlangothini. ;Wathola umoya wesibili. ;0
+Ngangqongqoza emnyango kamakhelwane wami. ;effect;Umakhelwane wami wangimemela endlini. ;Umakhelwane wami waphuma endlini yakhe. ;0
+Lona wesifazane wabubula ngenxa yokukhungatheka. ;cause;Umyeni wakhe wayengaziqondi kahle izinto ezazimkhathaza. ;Umyeni wakhe wamanga. ;0
+Uthisha wancoma umfundi. ;cause;Umfundi wawuphendula kahle umbuzo. ;Lo mfundi wanqikaza ukuphendula umbuzo. ;0
+Owesifazane waphelelwa amaqanda. ;effect;Waya epulazini. ;Waya esitolo. ;1
+Ngahlangana nomngane wami wakudala. ;effect;Ngambonisa imfihlo. ;Ngambingelela. ;1
+Lona wesifazane wakugwema ukungena echibini. ;cause;Yabamba inhlanzi. ;Yayibukeka ingcolile. ;1
+Lo mfundi wafika ekilasini emanzi. ;cause;Isambulela sakhe sasiphukile. ;Ibhayisikili lakhe lalibiwe. ;0
+Isikhombi esikhompyutheni sashintsha. ;cause;Umsebenzisi wachofoza igundane. ;Umsebenzisi wasusa igundane. ;1
+Umshayeli wathatha indlela eyisicaba. ;cause;Kube nengozi emgwaqweni omkhulu. ;Walandela iloli elalimphambi kwakhe. ;0
+Ngaphonsa ilineni elimanzi entanjeni yangaphandle. ;effect;Indwangu yelineni yasha. ;Indwangu yelineni igcwele amabala. ;0
+Lona wesifazane wagqoka izibuko zakhe zelanga. ;cause;Ukukhanya kwelanga kwakukhanya. ;Wabiza itekisi. ;0
+Le ndoda yayibheke esibhakabhakeni ebusuku. ;cause;Wayefisa sengathi ngabe kuyinyanga kaJuni. ;Wayecabanga ukuthi lihle. ;1
+Ngazizwa ngikhathele. ;effect;Ngaya embhedeni ekuseni. ;Ngahlala ngilale ubusuku bonke. ;0
+Le ndoda yaya kumgundi. ;cause;Wayekhula izinwele. ;Izinwele zakhe zaziba zinde. ;1
+Umfana wadlala amaqhinga amabi kumfundi ayefunda naye. ;cause;Umfana wamukela umfundi omusha. ;Umfana wayengamthandi umfundi ayefunda naye. ;1
+Ngangilangazelela ingilazi yobisi. ;cause;Ngangidla amakhekhe. ;Ngangibhaka isinkwa. ;0
+Yaqala ukuna. ;effect;Umshayeli wavula izibani. ;Umshayeli wahlehlisa imoto. ;0
+Indawo yokupaka yalesi sakhiwo yayingenamuntu. ;effect;Ngapaka ngaphesheya komgwaqo. ;Ngapaka eduze komnyango. ;1
+Umbhali wehluleka ukufaka umbhalo ngaphambi kwesikhathi. ;cause;Wayenesifo sokungaboni kahle. ;Wenza ukuhlela. ;0
+Umngane wami wangikhiyela ucingo. ;cause;Ngacela ukukhuluma nomqondisi. ;Nginikeze inombolo yami yokuhlonza. ;0
+Umoya wavuthela ngefasitela elivulekile. ;effect;Kwakhala insimbi yomnyango. ;Amakhethini agubha. ;1
+Ugesi wasekhaya wanqamuka. ;cause;Ngikhiphe ugesi. ;Ngaphelelwa isiqinisi. ;1
+Umgijimi we-weightlifting wabhonga. ;cause;Wenza izivivinyo esibukweni. ;Waphakamisa ibha phezu kwekhanda lakhe. ;1
+Umfundi wazama ukwenza izibalo engqondweni yakhe. ;effect;Wakhipha umshini wokubala. ;Wayedidekile. ;1
+Ingane yalala. ;cause;Ubaba washintsha u-diaper wengane. ;Ubaba wayigingqa ngobumnene ingane. ;1
+Le ntombazane yaphonsa ibhaluni lamanzi kulo mfana. ;effect;Umfana unokuphazamiseka kwengqondo. ;Umfana wagcwala amanzi. ;1
+Umthwebuli wezithombe wakhohlwa ukusebenzisa i-flash ekhamera. ;effect;Izithombe zavele zafiphala. ;Wonke umuntu kulezi zithombe wenqaba ukumamatheka. ;0
+Ngasenqaba isimemo sokuya ephathini yosuku lokuzalwa. ;cause;Nganginesizungu. ;Ngangingaphandle kwedolobha. ;1
+Ngangivivinya umzimba. ;cause;Ngazizwa nginamandla. ;Ngangesaba. ;0
+Ngacindezela isiponji esimanzi. ;effect;Lalithatha amanzi. ;Amanzi agelezela ngaphandle. ;1
+Laba bantu ababesekhefini bathatha isikebhe esiya endaweni yokuvakasha. ;cause;Indawo yokungcebeleka yayigcwele. ;Le ndawo yokungcebeleka yayisesiqhingini. ;1
+Le ntombazanyana yathola umdwebo. ;cause;Wayesaba izinaliti. ;Wayefuna ukuvukela. ;1
+Imoto engajwayelekile ipakiwe ngaphandle kwendlu yami. ;effect;Ngaqala ukuba nokungabaza. ;Ngabiza amaphoyisa. ;0
+Lesi sigebengu sazinikela. ;cause;Ubufakazi bamfaka icala. ;Kwakungekho bufakazi obumelene naye. ;0
+Le ndoda enesisindo esikhulu yanquma ukwehlisa isisindo. ;effect;Wayeka ukudla amaswidi. ;Wayegwema i-caffeine. ;0
+Le ntombazane yanyathela eqhweni. ;effect;Wakhukhuleka. ;Wayethuthumela. ;0
+Lona wesifazane wayenezindandatho ngaphansi kwamehlo akhe. ;cause;Wahlala ubusuku bonke. ;Wayibeka indodana yakhe embhedeni. ;0
+I-lava yayihamba ivela entabeni-mlilo. ;cause;Le ntaba-mlilo yaqhuma. ;Le ntaba-mlilo yayingaphumi. ;0
+Lona wesifazane wagqoka izicathulo zakhe. ;cause;Wayesazi wonke umuntu owayengalapho. ;Wayefuna ukushiya iphathi. ;1
+Ngakhokhela umlindi wendawo yokukhokhela. ;effect;Wangivumela ukuba ngidlule endaweni yokukhokhisa. ;Wangibamba lapho kukhokhelwa khona. ;0
+Isikhulu esiphezulu sabhidlika. ;cause;Wadayisa isitoko sakhe senkampani. ;Waphaza umcebo wakhe. ;1
+Le ndoda yaya kudokotela. ;cause;Udokotela wayesekhefini. ;Le ndoda yayingazizwa kahle. ;1
+Ngashiya igumbi lami lokulala ngefasitela. ;cause;Indlu yayishisa. ;Indlu yayingenamuntu. ;0
+Iminwe yomfana yaqala ukuqina. ;cause;Wathatha ishawa ende. ;Wafafaza izandla zakhe ngensipho. ;0
+Ngikhiphela ubisi ngaphandle. ;cause;Ubisi lwalunambitheka lubabayo. ;Umlomo wami wawomile. ;0
+Ngalibala ibhasi. ;effect;Ngangiphuthume emsebenzini. ;Ngangiphuze ukufika emsebenzini. ;1
+Iloli laphambana nemoto. ;effect;Iloli laqala ukusheshisa. ;Imoto yaphahlazeka. ;1
+Leli qembu lalenza umncintiswano waba ngcono. ;effect;Baye banqoba. ;Bayeka. ;0
+Ibhodlela likasawoti lahlaba ikhwelo. ;cause;Ngaliphendulela ibhodlela. ;Ngasusa isigqoko. ;1
+Umfana wavalwa endlini. ;effect;Wakhasa wangena ngefasitela elivulekile. ;Wakhwela ophahleni. ;0
+Kwakhala insimbi yomnyango. ;effect;Isivakashi sabetha emnyango. ;Lona wesifazane wabuka emnyango ngesikhiya. ;1
+Le ndoda yafaka amabala esithweni sayo. ;effect;Ulihlanze ngendlela eyomile. ;Wayilengisa ekhabetheni lakhe. ;0
+Le ntombazane yacindezela ishubhu likaphayi wamazinyo. ;effect;Umuthi wokuxubha waqhuma waphuma esithubeni. ;Le ntombazane yakhipha umuthi wokuxubha amazinyo. ;0
+Ukufa kwabantu abangasiwo amasosha ngenxa yempi kwanda kakhulu. ;effect;Abashisekeli benkululeko babhikisha. ;Abashisekeli benkululeko babehamba ngombukiso. ;0
+Le ntombazane yakhipha ibhande ezinweleni zayo. ;cause;Wabopha intambo. ;Leli bhendi lalibonakala linjengelengane. ;1
+Le ndoda yahlinzwa ngokwenziwa ubuhle. ;effect;Wakhula. ;Wayebukeka emusha. ;1
+Kwaphuma inkukhu encane eqandeni. ;cause;Iqanda laqhuma. ;Ngaqhekeza iqanda. ;0
+Isiboshwa salamba. ;effect;Washona. ;Wabaleka. ;0
+Le ndoda yalahlekelwa ukulinganisela kwayo esikhwelweni. ;effect;Wenyukela phezulu. ;Wawa esitezi. ;1
+Ingane yabhodla. ;cause;Wathatha isobho likasawoda. ;Wavula ibhodlela le-soda. ;0
+Kwakungena umoya obandayo ngefasitela. ;effect;Ngaziphumuza. ;Ngaqhaqhazela. ;1
+Lo mfundi wathola umfundaze wokuya ekolishi. ;cause;Abangane bakhe ekilasini babemhlonipha. ;Wayethola amamaki amahle. ;1
+Le ntombazane yayihlekisa ngomfana. ;cause;Wayehlala eduze kwakhe. ;Wayemthanda kakhulu. ;1
+Lesi siphepheli esilambile sebiwe ukudla. ;cause;Wayekhuthaza isihawu. ;Wayengenamali. ;1
+Ngabiza umngane wami ukuze sixoxe. ;cause;Ngangifuna ukuba ngedwa. ;Ngangizizwa nginesizungu. ;1
+Le ndoda yangelulela isandla sayo kimi. ;effect;Ngamshaya ngesandla. ;Ngambhaxabula. ;0
+Ngacasuka. ;cause;Kwaqhumuka iziqhumane emoyeni. ;I-frisbee yagijimela ekhanda lami. ;1
+Le ntombazane yaziluma izinzipho. ;cause;Wayekhathazekile. ;Wamangala. ;0
+Ngavula ikhalenda. ;cause;Ngibhale i-aphoyintimenti ekhalendeni. ;Kwakuwukuqala kwenyanga entsha. ;1
+Umyeni wathola ukuthi umkakhe wayethandana nomunye umuntu. ;effect;Wayixosha ummeli wakhe. ;Wafaka isicelo sesehlukaniso. ;1
+Le ntombazane yalahla ibhola lenjoloba. ;effect;Ibhola laphonsa. ;Ibhola lalikhanya. ;0
+Le ntombazane yenza iphutha esivivinyweni sayo. ;effect;Wayesilindele impendulo. ;Wasula impendulo yakhe. ;1
+Umdlali wahlasela umphikisi wakhe. ;effect;Umphikisi wakhe wabadonsa. ;Umphikisi wakhe wawela phansi. ;1
+Ngathatha utamatisi emvinini. ;cause;Zazivuthiwe. ;Ngazinisela. ;0
+Le ndoda yayifuna ukuba nomusa. ;effect;Wahlangana nentombi yakhe yangaphambili ukuze badle isidlo sasemini. ;Wathengela intombi yakhe ushokoledi. ;1
+I-mercury esilinganisweni sokushisa lenyuka. ;cause;Ngiyilahlile i-thermometer. ;Isimo sezulu saba sifudumele. ;1
+Kwafika isiphepho edolobheni. ;effect;Uphahla lwendawo yokwahlulela lwaqhuma lwaba yizicucu. ;Umgwaqo omkhulu waba yiqhwa eliyingozi. ;0
+Umfundi wathola ukufundiswa. ;effect;Amamaki akhe athuthuka. ;Wakopela esivivinyweni. ;0
+Ngazizwa ngikhululekile. ;cause;Ngaguqa phansi. ;Ngazigqokisa ngengubo. ;1
+Ngalicwebezela itshe. ;effect;Lase liguqa. ;Lase likhazimula. ;1
+Ngangeza ushukela ekhofini. ;effect;Ikhofi lalinuka kamnandi. ;Ikhofi lalinambitheka kamnandi. ;1
+Le ndoda yafunda amaphepha. ;effect;Unamanxeba ephepheni. ;Wadiliza amaphepha. ;0
+Ngagadla isikhonkwane ngesando. ;effect;Isikhonkwane sangena esihlahleni. ;Isikhonkwane sapholiswa. ;0
+Inhlanzi yaluma intambo. ;effect;Umdobi wacosha izinhlanzi. ;Umdobi uphinda afake intambo. ;0
+Le ntombazanyana yayinamahloni okuya esikoleni. ;cause;Unesithuthwane. ;Wayesuse ama-braces akhe. ;0
+Ngase ngijabula. ;cause;Ngithole izindaba ezinhle. ;Ngaphelelwa isineke. ;0
+Ngazihlanza ngesikhumba. ;cause;Ithawula lalinamanzi. ;Izandla zami zazimanzi. ;1
+Le ndoda yalahlekelwa ukulinganisela kwayo esihlalweni. ;cause;Isihlalo sasinyakaza ngaphansi kwakhe. ;Wathululela upende esihlalweni. ;0
+Abalingani beqembu babekelana icala. ;cause;Balahlekelwa umdlalo wabo. ;Umqeqeshi wabo wakhansela ukuqeqeshwa. ;0
+Ngacela intethelelo. ;cause;Ngazisola ngephutha lami. ;Ngafinyelela umgomo wami. ;0
+Lona wesifazane wacasuka lapho ehamba nomuntu ayethandana naye. ;cause;Wambuza imibuzo ngaye. ;Wayekhuluma ngokungaphezi ngaye. ;1
+Le ntombazane yamomotheka. ;effect;Izihlathi zakhe zabomvu. ;Kwabonakala ukuthi wayenezimfene. ;1
+Umkhumbi wesitha waqhuma. ;cause;Yadlula phezu komgodi. ;Laliya ethekwini. ;0
+Le ndoda yalimaza unyawo lwayo. ;cause;Waya echibini. ;Wanyathela ingilazi ephukile. ;1
+Abaphenyi bahlola indawo yesigameko sokushona kwaso befuna izimpawu zeminwe. ;effect;Bathola ukuthi ungubani umbulali. ;Bathola isikhali endaweni yesehlakalo. ;0
+Kwakunethrafikhi eningi emgwaqweni omkhulu. ;effect;Ngathatha indlela ehlukile. ;Ngacela ukuyiswa. ;0
+Umnotho wezwe wancipha. ;effect;Abantu abaningi bagula. ;Abantu abaningi babebhekene nokuntuleka kwemisebenzi. ;1
+Unogada wasemgwaqweni wababhaxabula abantwana. ;cause;Babesezohamba bangene emotweni eza. ;Wababona endaweni yakubo. ;0
+Ngaphendukisa amehlo ami ngakubangane bami. ;cause;Wangitshela iqiniso. ;Wenza inkulumo ebhuqayo. ;1
+Imoto yaphelelwa uphethiloli. ;effect;Umshayeli wayegxilile emgwaqweni. ;Umshayeli wathatha umuntu owayehamba nge-hitchhiker. ;0
+Owesifazane waqala ukubeletha. ;effect;Ingane yazalwa. ;Lona wesifazane wayegula ekuseni. ;0
+Isigqoko salowo muntu sapheshulwa umoya. ;cause;Wakhumula isigqoko. ;Kwakunomoya ngaphandle. ;1
+Le ntombazane yaya emcimbini wosuku lokuzalwa lofunda naye ekilasini. ;cause;Wathola isimemo. ;Wathenga isipho. ;0
+Iphondo lalo mfana lalifudumele. ;effect;Unina wayelinganisa izinga lokushisa kwakhe. ;Unina wamyisa epaki. ;0
+Le ndoda yazifafaza nge-cologne. ;cause;Wayefuna ukuhlaba umxhwele umuntu ayethandana naye. ;Wafaka ijeli ezinweleni zakhe. ;0
+Ugesi wavalwa endlini. ;effect;Ngafuna isibani. ;Ngathatha isikulufa. ;0
+Umkhaya wathuthela endlini enkulu. ;cause;Indodana yafunda esikoleni esiphakeme. ;Umama wabeletha amawele. ;1
+Umgijimi webanga elide waqhubeka ehamba kancane. ;cause;Wayefuna ukonga amandla akhe. ;Wabona lapho kugcina khona. ;0
+Umfana wakhahlela umshini wokuthengisa. ;cause;Umshini wakhipha imali. ;Isikhwama sama-chips sasinamatheke. ;1
+Inja yomngane wami yashona. ;effect;Ngaphenduphenduka ngimbuka. ;Ngambingelela. ;1
+Ikhadi lesikweletu lalowo muntu webhizinisi lenqatshwa. ;effect;Wabhala incwadi yesikweletu. ;Wakhokha ngokheshi. ;1
+Le ndoda yaqalekiswa. ;cause;Wasika izinzipho zakhe. ;Waphuka isithupha. ;1
+Le ndoda yaziqhenya ngomfowabo. ;cause;Umfowabo waxabana nabazali babo. ;Umfowabo wamukelwa esikoleni sezomthetho. ;1
+Le ntombazane yayifuna ukufunda ngesimiso sonozungezilanga. ;effect;Waya emtatsheni wezincwadi. ;Wabuka izinkanyezi. ;0
+Iphosta yanamathela odongeni. ;cause;Ngabeka iphosta phezu komnyango. ;Ngafaka iteyipu ngemuva kwephosta. ;1
+Ikhasimende lavuma ukuthi lo mklami aklame isakhiwo. ;effect;Umakhi wakha lesi sakhiwo. ;Umakhi wasishintsha. ;0
+Le ndoda yalahla isipuni sayo. ;cause;Isandla sakhe sasithuthumela. ;Walincela ithini. ;0
+Umphathi-jikelele wenkampani wasula esikhundleni. ;effect;Ibhodi yabaqondisi yahlakaza inkampani. ;Ibhodi yabaqondisi lathola umuntu owayezongena esikhundleni sakhe. ;1
+Ngafika sekwephuzile enkulumweni. ;effect;Ngahlala emuva. ;Ngasondela endaweni yesikhulumi. ;0
+Le ndoda yakhululwa ejele. ;cause;Umkhaya wakhe wamkhokhela ibheyili. ;Wahlasela esinye isiboshwa. ;0
+Umkhaya walahlekelwa yiyo yonke impahla yawo. ;cause;Bathengisa umuzi wabo. ;Indlu yabo yashiswa. ;1
+Nginyathele phezu kwebhodlela le-aluminium. ;effect;Leli bhodlela lalisetshenziswe kabusha. ;Ikani laphulwa. ;1
+Le ntombazane yajoyina iqembu lezingxoxo. ;effect;Wafunda ukusebenzisa i-computer. ;Wafunda amakhono okuxhumana. ;1
+Isimo sami sengqondo sathuthuka. ;cause;Ngalalela umculo. ;Ngageza izitsha. ;0
+Inhlangano yaba nesisusa sokuthola imali. ;effect;Babondla abantu abangenamakhaya. ;Babene-auction. ;1
+I-roller coaster yehla ngesivunguvungu. ;effect;Abagibeli baqala ukuhleka. ;Abagibeli babememeza. ;1
+Ngathukuthela ngagan' unwabu. ;effect;Ngahlola ibhokisi leposi lapho ngiphuma endlini. ;Ngavala umnyango lapho ngiphuma endlini. ;1
+Le ndoda yayifuna ukubuka ukuphuma kwelanga. ;effect;Waya enyakatho. ;Wavuka ekuseni. ;1
+Ngaligoba leli phepha. ;effect;Ngaphinda ngawusebenzisa kabusha lo magazini. ;Iphepha lagoqeka. ;1
+Isizwe sakhuthazelela inhlekelele engokwemvelo. ;effect;Abaholi bamazwe athile bakha umfelandawonye. ;Abaholi bakwamanye amazwe bathumela usizo oluphuthumayo. ;1
+Izingubo zomfana zacwila. ;cause;Waphuma echibini. ;Wawela echibini. ;1
+Lo mfundi waphuthuma ukuyoqeda incwadi. ;cause;Kwakufanele ibuyiselwe emtatsheni wezincwadi. ;Wayimboleke kumngane wakhe. ;0
+Lesi selelesi sabulawa. ;cause;Waphonswa ejele. ;Waboshwa ngecala lokubulala. ;1
+Ukukhanya kwelanga kwangena ekamelweni. ;cause;Ngavula amakhethini. ;Ngavula umnyango. ;0
+Ngadonsa izinwele zalowo okhohlisayo. ;effect;I-wig yakhe yakhishwa. ;Wenza ubuze. ;0
+Umhleli waphinda futhi umusho othile embhalweni wesandla. ;cause;Wathola umbhalo wesandla uthakazelisa kakhulu. ;Wabona sengathi isigwebo asicacile. ;1
+Lona wesifazane wakhansela i-akhawunti yakhe yekhadi lokuthenga ngesikweletu. ;cause;Waqaphela ukuthi ikhadi lalingekho. ;Waqaphela ukuthi ikhadi lase liphelelwe isikhathi. ;0
+Indoda nowesifazane bathandana. ;effect;Bafunda ekolishi. ;Bashada. ;1
+Umculo wawungasazwakali kahle. ;effect;Ngikhuphule ivolumu. ;Ngaqamba iculo lami. ;0
+Izinwele zalo mfana zazigqamile. ;cause;Le ntombazane yayiphazamise. ;Le ntombazane yayidonsa. ;0
+Leligciwane laphulwa. ;cause;Ngazifafaza ngento yokubulala izinambuzane. ;Nginyathela i-bug. ;1
+Ngavula amehlo ami. ;cause;Ngaphaphama. ;Ngaziphumuza. ;0
+Umculo womakhelwane wami wawukhala kakhulu. ;effect;Ngamcela ukuba ayipholise. ;Ngacela ukuboleka i-CD kuye. ;0
+Umkhaya wale ndoda wawuhlwempu. ;cause;Wayengumuntu ongenisa imali. ;Wayehola ngaphansi komholo ophansi. ;1
+Lo mfundi waphothula eyunivesithi. ;effect;Wafuna umsebenzi. ;Wathatha umdlalo wokuzilibazisa. ;0
+Lo mculi waxuba upende ophuzi nopende oluhlaza okwesibhakabhaka. ;effect;Upende wafafazeka yonke indawo. ;Upende waphenduka waba luhlaza. ;1
+Ngashintsha isihloko sengxoxo. ;cause;Ngaphelelwa izinto engingaxoxa ngazo. ;Ingxoxo yaba nzima. ;1
+Umfowethu wakhululwa esibhedlela. ;effect;Ngamamukela ekhaya. ;Angizange ngimbonise isithakazelo. ;0
+Kwaphakama ikhethini esiteji. ;effect;Kwaqala isenzakalo sokuqala somdlalo. ;Abadlali balo mdlalo baphuma esiteji. ;0
+Isiboshwa sazithoba eziqondisweni zomthumbi. ;cause;Umsolwa wasongela ngokumlimaza. ;Umsolwa washiya isiboshwa yedwa. ;0
+Kwazwakala umsindo omkhulu esiteji. ;cause;Umculi washaya ngonyawo. ;Umculi washaya isigubhu. ;1
+Abazali baphuthuma ekamelweni lengane yabo. ;cause;Ingane yavuka ikhala ngenxa yephupho elibi. ;Ingane yayesaba ukubheka ngaphansi kombhede wayo. ;0
+Lona wesifazane wakhuluma ngolimi lwezandla. ;cause;Wazalwa ngaphambi kwesikhathi. ;Wazalwa eyisithulu. ;1
+Kwaba nesomiso kule ndawo. ;effect;Amanzi angcoliswa. ;Izitshalo zafa. ;1
+Ikati laxosha inyoni. ;effect;Le nyoni yindiza yahamba. ;Le nyoni yabamba isibungu. ;0
+Le ntombazane yashintsha isikole. ;cause;Isikole siphumile ehlobo. ;Wathuthela edolobheni elisha. ;1
+Umnikazi wale fektri wenqaba ukukhuphula amaholo ezisebenzi. ;effect;Umnikazi wamisa umphathi omusha. ;Izisebenzi zaqala ukubhikisha. ;1
+Umholi wabangela ukuba amaqembu agxambukelayo ezweni lakubo abe izitha zakhe. ;effect;Abaqine kakhulu bamthonya. ;Ama-extremist ambulala. ;1
+Ngahamba ngigqoke ngingenalutho ogwini. ;effect;Isihlabathi sanamathela ezinyaweni zami. ;Amagagasi ayeshaya ogwini. ;0
+Ngavuka phakathi nobusuku ngigodola. ;effect;Ngagqoka ama-sweatpants. ;Ngaphuza ingilazi yamanzi. ;0
+Unina wayithulisa indodana yakhe. ;cause;Indodana yakhe yavele yahleka. ;Indodana yakhe yakhononda. ;1
+Ijean yami yayigqekeziwe. ;cause;Ngazivala izikhindi. ;Ngakhukhuleka emgwaqweni. ;1
+Umfana wayegqoke ama-brace. ;effect;Unomgodi. ;Amazinyo akhe aqonde ngqo. ;1
+Ngisebenze ejimini izolo. ;effect;Ngavuka namuhla nginezinhlungu zemisipha. ;Ngavuka namuhla nginomphimbo obuhlungu. ;0
+Le ntombazane yayihlebela emuva naphambili etafuleni lokudla kwasemini. ;effect;Abanye abafundi bahlala phansi etafuleni lokudla kwasemini. ;Abanye abafundi ababesetafuleni lokudla kwasemini bazizwa behlukanisiwe. ;1
+Ingane yawela phezu kwe-trampoline. ;effect;Yaphinde yagijimela phezulu emoyeni. ;Wanquma ukuzama ukuguqula izinyawo. ;0
+Ngafaka incwadi ebhokisini leposi. ;effect;Iposikhungo saletha incwadi. ;Iposikhungo saphuthumisa incwadi. ;0
+Lo mdlali wayethembele kuye. ;effect;Wabheja yonke imali yakhe. ;Waya ekhaya engenamali. ;0
+Umlilo wehlathi wanda. ;cause;Umoya waba namandla. ;Abaqhumisi baboshwa. ;0
+Ingane yalimaza idolo layo. ;effect;Unina wamthumela ekamelweni lakhe. ;Unina wabopha isilonda. ;1
+Le ndoda yasinda esifweni esibulalayo. ;cause;Wasayina incwadi yakhe yesivumelwano. ;Wathola isitho somzimba. ;1
+Ngaphuza ikhofi elalishuba. ;effect;Ngaziluma ulimi. ;Ngishise ulimi lwami. ;1
+Umhleli wamxosha umlobi. ;cause;Umbhali wayezigwema izinkolelo-ze ezindabeni zakhe. ;Umbhali waphuthelwa isikhathi esibalulekile. ;1
+Ngazizwa ngikhathele. ;cause;Ngalala usuku lonke. ;Ngafunda usuku lonke. ;1
+Udokotela wahlonza isiguli. ;cause;Wachaza izimpawu zesiguli. ;Wayinika amaphilisi isiguli. ;0
+Ngaziklebhula isikhumba. ;cause;Kwakuthuthumela. ;Kwakungithukuthelisa. ;1
+Le ndoda yahlinzwa ngokushesha. ;cause;Wafutheka. ;Wahlaselwa isifo senhliziyo. ;1
+Imisipha yesandla sayo yaqhuma. ;cause;Wagoba izingalo zakhe. ;Wazihlikihla izingalo. ;0
+Le ndoda yaphakamisa izimpaphe. ;cause;Wamangala. ;Wazizwa edikibele. ;0
+Ngazithethelela iziphambeko zengisebenza naye. ;cause;Ngangikholelwa ukuthi izinhloso zakhe zazizinhle. ;Ngangikholelwa ukuthi yena wayazi kangcono. ;0
+Le ndoda yayeka ukubhema. ;effect;Waqala ukuvivinya umzimba ngokwengeziwe. ;Waqala ukuvuka ekuseni kakhulu. ;0
+Lona wesifazane wamshaya ngempama umhlaseli wakhe ekhaleni. ;effect;Umzimba womhlaseli waphela nya. ;Umhlaseli waqala ukopha. ;1
+Umcibisholo awuzange uyifinyelele. ;cause;Le ndoda yayingaqondi kahle. ;Le ndoda yayisilahlekelwa umdlalo. ;0
+Umninikhaya wacela ukuba kufike umuntu ozobulala izinambuzane endlini yakhe. ;cause;Wathola amagundane egumbini elingaphansi. ;Wayegcina ikamu lezimpawu ekamelweni lakhe. ;0
+Ngasikisela isivakashi sami ukuba siphume siyodla isidlo sakusihlwa. ;cause;Ngangikhathele kakhulu ukuba ngilungiselele noma yini. ;Isivakashi sami sahlala isikhathi eside kunesasifanele. ;0
+Le ntombazane yabamba umfowabo efunda idayari yayo. ;effect;Waqala ukufihla idayari. ;Unayo incwadi entsha. ;0
+Lona wesifazane wayengenayo imali yokuqasha indlu. ;effect;Wayesebenza isikhathi esengeziwe. ;Wayeka emsebenzini. ;0
+Isandla sengane sabuyela emuva ngokushesha. ;cause;Wathinta isitofu esishisayo. ;Wathinta ikhanda lenja. ;0
+Le nkampani yayifuna ukubona ukuthi amakhasimende ayethokoze kangakanani. ;effect;Banikeza amakhasimende amasha isaphulelo. ;Basakaza inhlolovo kumakhasimende. ;1
+Iphahla lokhuni laklwebheka. ;cause;Umfana waphonsa imicamelo esohlalweni. ;Umfana wadonsa isihlalo phansi. ;1
+Ngavikela ubuso bami. ;cause;Isitha sami sangihleka usulu. ;Isitha sami saphakamisa isibhakela. ;1
+Lesi sithombe esidumile sashiswa. ;cause;Lashaywa umbani. ;Abantu babefika bezokuhlonipha. ;0
+Ngashiya izithelo etafuleni. ;effect;Izithelo ziveza imbewu. ;Izimpukane zahlasela izithelo. ;1
+Le ntombazane ibhale ibhalende yalimala. ;cause;Wakhombisa izinzwane zakhe. ;Waphotha iqakala. ;1
+Izintambo zezicathulo zengane zazikhululeka. ;cause;Wafunda ukuzibopha. ;Wayegijima egcekeni lokudlala. ;1
+Le ncwadi yangithakazelisa kakhulu. ;effect;Ngayibuyisela incwadi. ;Ngangingasasiboni isikhathi. ;1
+Le ndoda yayinezinkolelo ezifana nezabazali bayo. ;cause;Abazali bakhe bamthonya. ;Abazali bakhe bamlahla. ;0
+Kancane kancane imoto yayibambezela yaze yema. ;cause;Yaphela uphethiloli. ;Umshayeli walala. ;0
+Le ndoda yadla u-ayisikhilimu elangeni. ;effect;I-ayisikhilimu yalahlekelwa ukunambitheka kwayo. ;U-ayisikhilimu waconsa usuka esigabeni. ;1
+Ngabeka imidwebo egumbini. ;cause;Ikhaphethi lalibonakala lingcolile. ;Izindonga zazibukeka zingenalutho. ;1
+Ngahamba emsebenzini ekuseni. ;cause;Nganginenkinga yekhanda. ;Umphathi wami waba nomhlangano. ;0
+Le nja yonakalisa ukhaphethi. ;effect;Umnikazi wasithethisa. ;Umnikazi wanika umdlwane isiphuzo. ;0
+Ngaxolisa kumngane wami. ;effect;Umngane wami wangithethelela. ;Umngane wami wathukuthela wagan' unwabu. ;0
+Le ndoda yabonakala esixukwini. ;cause;Wayethwele ubhaka. ;Wayegqoke ivesti elishaywe nge-neon. ;1
+Lofakazi waqamba amanga ngaphansi kwesifungo. ;effect;Waqeda ubufakazi bakhe. ;Wayebekwe icala lokuqamba amanga. ;1
+Lona wesifazane wageza izinwele zakhe. ;cause;Wayefuna ukubukeka okusha. ;Wayefuna ukufana nabanye. ;0
+Laba bantu abafudukayo babanjwa behlala ngokungemthetho kuleli. ;effect;Bathola umsebenzi. ;Badingiswa. ;1
+Isikhulumi saxoxa ihlaya. ;effect;Izilaleli zahleka. ;Izilaleli zasukuma. ;0
+Ngabheka elangeni. ;effect;Ilanga langenza ngaba impumputhe. ;Ilanga lasithena isikhumba sami. ;0
+Nganginesithukuthezi. ;effect;Ngabubula. ;Ngahhewula. ;1
+Kwakunzima ukusika le-steak. ;cause;Le nsimbi yayingabambeki. ;Le nyama yayiluhlaza. ;0
+Lona wesifazane wabhalisa ukubhidlika kwezimali. ;cause;Wathola imali yesondlo. ;Waba nesikweletu esikhulu. ;1
+Izibani ezazisendlini yomngane wami zazikhanyisile. ;effect;Ngangizibuza ukuthi uphumile yini. ;Nganquma ukumvakashela. ;1
+Ngafaka imbali ngaphansi kwempumulo yami. ;effect;Amacembe asuka embali. ;Ngabona iphunga lale mbali. ;1
+Lona wesifazane wafikelwa umuzwa wokukhumbula. ;cause;Wahlangana nomngane wakhe ayefunda naye ebuntwaneni. ;Wamemeza izingane zakhe. ;0
+Umfundi wahlehlisa umsebenzi. ;effect;Wafaka iphepha ngaphambi kwesikhathi. ;Wanikeza iphepha elingaphelele. ;1
+Imoto yami yaphuka. ;effect;Ngaya enxanxatheleni yezitolo. ;Ngabiza umakhenikha. ;1
+Ngalilahla lelo bhukwana. ;cause;Kwakungaziwa ukuthi ubani. ;Kwakungafundeki. ;1
+Le nyoni yashaya amaphiko ayo. ;effect;Yayibeka amaqanda. ;Lanyukela phezulu. ;1
+Ngapaka emotweni emgwaqweni. ;cause;Igalaji lalivulwe. ;Igalaji laligcwele. ;1
+Lesi sigebengu sasibhekise isibhamu esithunjweni saso. ;effect;Lesi sigebengu sabeka phansi isibhamu. ;Isisulu saphakamisa izandla. ;1
+Ngangibheke phambili kule mpelasonto. ;cause;Ngangihlele ukuya emngcwabeni kamalume. ;Ngangihlele ukuya emshadweni womngane wami. ;1
+Ngangingasasiboni isikhathi. ;cause;Ngangiphupha ngivuke. ;Ngangikhungatheka. ;0
+Le dokhumenti yayishicilelwe ngendlela engafundeki. ;cause;Umshini wokunyathelisa wawusuphelelwe uyinki. ;Iphepha laliphelile. ;0
+Inkundla yezemidlalo yadlala iculo lesizwe. ;effect;Abalandeli baphendukela ebhandeni. ;Abalandeli bagxumela enkundleni. ;0
+Ukucwiliswa kwakunambitheka okungajwayelekile. ;effect;Ngayisebenzisa. ;Ngibeke usawoti kuwo. ;1
+Ngabeka ithawula lephepha phezu kokugeleza. ;effect;Ithawula lamunca uketshezi. ;Ukuchitheka kwashiya insalela enamathelayo. ;0
+Lona wesifazane waphazanyiswa phakathi nokufunda incwadi yakhe. ;effect;Wabeka uphawu ekhasini lakhe. ;Waphinde wayifunda. ;0
+Indiza yabhekana nokudlidliza okuthile. ;effect;Le ndoda yaqinisa ibhande layo lokuphepha. ;Le ndoda yabheka ngaphandle ngefasitela. ;0
+Umfana waqhaqhazela. ;cause;Le ntombazane ayizange imlalele. ;Le ntombazane yamshaya. ;1
+Odokotela banikeza isiguli isitho sobuso. ;cause;Bamnquma umlenze. ;Babelokhu beqapha izimpawu zakhe ezibalulekile. ;0
+Umfana waluma indololwane yentombazane. ;effect;Wamncenga. ;Wamphakamisa. ;1
+Ngacela iseluleko kumngane wami. ;cause;Ngangiyazisa imibono yakhe. ;Ngangazi ukuthi ngilungile. ;0
+Umfana walinyaza odakeni. ;effect;Udaka lwabambelela ezicathulweni zakhe. ;Udaka lwamshaya ebusweni. ;0
+Leli dolobha lafikelwa iqhwa elingamasentimitha amaningi. ;effect;Izikole zavalwa. ;Abantu babecasha ngaphansi komhlaba. ;0
+Isisebenzi saphela isikhathi. ;effect;Waya ekhaya ngalolo suku. ;Wasongela ngokuyeka emsebenzini. ;0
+Lesi sihlahla salimaza indlu. ;cause;Umuthi wawa phezu kophahla. ;Isihlahla sasinethunzi egcekeni elingemuva. ;0
+Izinkuni zahlukana phakathi. ;cause;Ngafaka izinkuni esithandweni somlilo. ;Ngajikijela isikela phansi ehlathini. ;1
+Umkhaya wahalalisela lo mbhangqwana. ;cause;Lo mbhangqwana wamemezela ukuthi uyahlukana. ;Lo mbhangqwana wamemezela ukuthi uzoba nomntwana. ;1
+Le ntombazane yathumelela umfana ikhadi lomhla ka-Valentine. ;cause;Wayemthanda. ;Wamanga. ;0
+Ngaqunga ikhanda lapho umngane wami esho lokho. ;cause;Ngangididekile. ;Ngavumelana naye. ;1
+Abangane baphonsa uhlamvu lwemali. ;cause;Babefuna ukuthola indlela yokuxazulula inkinga. ;Babefuna ukwenza isinqumo esilungile. ;1
+Isikhathi sasekhishini saqala ukusebenza. ;effect;Le ndoda yakhipha ukudla yayikubeka esiqandisini. ;Le ndoda yakhipha i-pizza kuhhavini. ;1
+Lona wesifazane wazibekela umgomo wokuvelela. ;effect;Wayeka ukuzikhathaza. ;Wayesebenza kanzima. ;1
+Le ndoda ecebile yafa ngenxa yokuguga. ;effect;Indodana yakhe yaba nezinkinga ezingokomthetho. ;Indodana yakhe yathola ifa lakhe. ;1
+Owesifazane wanyathela amalangabi. ;effect;Amalangabi acima. ;Kwaqhuma intuthu emlilweni. ;0
+Imoto yalo wesifazane yayisesitolo. ;cause;Ilayisense yakhe yokushayela yathathwa. ;Waba sengozini yemoto. ;1
+Ngalala isikhathi eside. ;effect;Ngilungise ukudla kwasekuseni. ;Ngangingayitholi isidlo sasekuseni. ;1
+Umuntu ovelele waphuma emotweni. ;effect;Amakhamera ayembuka. ;Umkhaya wakhe waba khona emhlanganweni wabezindaba. ;0
+Lona wesifazane wahlala isikhathi eside ebhasini. ;effect;Amanzi okugeza aba mancane. ;Amanzi okugeza aphuma kubhavu. ;0
+Lo mfundi waseKolishi wayefuna ukuhlangana nabanye abafundi ekolishi. ;effect;Wajoyina iqembu labazalwane. ;Wenza izifundo zobunjiniyela. ;0
+Ngaphakamisa imicamelo yosofa. ;cause;Ngangifuna imali encane. ;Ngangihlela kabusha igumbi lokuphumula. ;0
+Le nhlanzi yagijimela ngakulo mfana. ;effect;Umfana wabaleka. ;Umfana wakhetha imbali. ;0
+Lona wesifazane watholakala enecala lokwephula umthetho. ;effect;Wagwetshwa ukuba enze umsebenzi womphakathi. ;Wabekwa esitokisini sabagwetshelwe ukufa. ;0
+Ngafaka ushukela etiyeni elishisayo. ;effect;I-tea yayishisa. ;Ushukela wancibilika. ;1
+Lo mlisa wayehamba enqekuzisa. ;cause;Wabuthelwa empini. ;Walimala empini. ;1
+Lesi sigebengu sabaleka emaphoyiseni. ;effect;Amaphoyisa ayelapha isisulu. ;Amaphoyisa ayesukela isigebengu. ;1
+I-laptop ayizange ivule. ;cause;Ngayilahla. ;Ngalilayisha. ;0
+Lona wesifazane waphelelwa indawo ekhabethe lakhe. ;cause;Wazakhela ikhabethe elikhulu. ;Wayelungisa izingubo zakhe. ;0
+Le ndoda yayidabukile. ;cause;Umkakhe wabeletha. ;Umkakhe wamshiya. ;1
+Le ndoda yathola iziqu. ;effect;Wafanelekela umsebenzi ayewufuna. ;Isimemo sakhe somsebenzi sahoxiswa. ;0
+Izwi lale ndoda lalizwakala kahle kulo lonke ihholo. ;cause;Wabingelela izilaleli. ;Wakhuluma emshinini. ;1
+Ngaphonsa uhlamvu lwemali emthonjeni wamanzi. ;effect;Uhlamvu lwemali lwagxila phansi. ;Uhlamvu lwemali lwahlukana phakathi. ;0
+Umdlali ushaya ibhola liye emgodini. ;effect;Ibhola langena emgodini. ;Ibhola laphindela emuva kumdlali. ;0
+Ngaphefumula uthuli olwalusophahleni. ;effect;Nganginesifo sokukhubazeka. ;Ngathimula. ;1
+Umphathi wesitolo wabiza abaqaphi. ;cause;Ikhasimende lasebenzisa imali engekho. ;Ikhasimende lashiya izibani zalo zangaphambili zikhanya. ;0
+Ngikhiphele ngaphandle udoti. ;cause;Imfucumfucu yenza ikhishi linuke kabi. ;Ngingaqondile ngalahla uhlu lwezinto engangizifunile. ;0
+Umkhaya waya e-zoo. ;effect;Izingane zazithanda izilwane. ;Izingane zazigada izilwane. ;0
+Le ndoda yayiphefumula kakhulu. ;cause;Izinso zakhe zazingaphumeleli. ;Amaphaphu akhe ayevalekile. ;1
+Nganginethikithi elengeziwe lekhonsathi. ;effect;Ngabuza umngane wami ukuthi ngingaya kuphi. ;Ngabuza umngane wami ukuthi angathanda yini ukuya. ;1
+Isilungisi sezulu sasendlini saphela. ;effect;Ngikhiphe izingubo zokulala. ;Ngavula amafasitela. ;1
+Umfana unobuhlungu emhlane. ;cause;Isikhwama sakhe sasingavulekile. ;Isikhwama sakhe sasisinda. ;1
+Ngithengele umama isipho. ;cause;Ngambhaka ikhekhe. ;Kwakuwusuku lwakhe lokuzalwa. ;1
+Ama-narcissus ayesensimini ayeshabalele. ;cause;Inyosi yaluma umlimi. ;Izikhova zazikhipha izibani. ;1
+Ngavula umlilo. ;effect;Ilangabi lanyamalala. ;Umlilo wavela lapho. ;1
+Amaqembu aphikisayo afinyelela esivumelwaneni. ;cause;Abazange bafune ukuxoxa enkantolo. ;Babefuna ukulungisa ubuhlobo babo. ;0
+Izingane zayiswa ekhaya lezintandane. ;cause;Abazali babo bafa. ;Abazali babo babebaxhaphaza. ;0
+I-meteorite yawela olwandle. ;effect;Kwaba khona i-tsunami. ;Kwaqala ukuna isichotho. ;0
+Lo muntu owayehamba ngezinyawo wahlangana nenyoka enobuthi. ;effect;Waqala ukuphelelwa amanzi emzimbeni. ;Wethuka. ;1
+I-oven yashisa. ;cause;Ngavula i-oven. ;Ngafaka isidlo kuhhavini. ;0
+Ngacindezela ucezu lukathayela. ;effect;Ilamula laba nesikhunta. ;Ilamula lafafazwa. ;1
+Leli zwe lathola izindawo ezintsha. ;effect;Izwe lashiya izwe. ;Izwe laqala ukulawula izwe. ;1
+Ingilazi yawa etafuleni. ;effect;Lalichotshozwe phansi. ;Laliwela enqwabeni yezingubo zokugeza. ;0
+Itafula laqhaqhazela. ;cause;Ifulethi lalingalingani. ;Umhlabathi wawushelela. ;0
+Ubaba wabanjwa indodana yakhe iqamba amanga. ;effect;Indodana yakhe yavuma iqiniso. ;Uyise wayemethemba indodana yakhe. ;0
+Ikhanda lalo muntu laligcwele ubuhlungu. ;effect;Wathatha isiraphu yokukhwehlela. ;Wathatha i-aspirin. ;1
+Isitimela sancipha. ;cause;Yayisondela esiteshini. ;Kwakusemuva kakhulu esimisweni. ;0
+Le ndoda yabhekana nokwelashwa. ;cause;Isifo sengqondo sasikhona emndenini wakhe. ;Watholakala enesifo sokucindezeleka. ;1
+Lona wesifazane wabamba umphimbo wakhe. ;cause;Wayegwinya ukudla kwakhe. ;Wabulawa ukudla. ;1
+Lona wesifazane wayegula emphinjeni. ;effect;Izwi lakhe lalizwakala linomsindo. ;Wayekhuluma ngezwi elihlukile. ;0
+Inja yagqolozela isitshulu esinomsoco esasisetafuleni. ;effect;Yayikhala. ;Yazilahla phansi. ;0
+Ibhizinisi lalo wesifazane laphumelela. ;effect;Waxosha izisebenzi zakhe. ;Waba yisicebi. ;1
+Abafundi baphuma ekilasini. ;cause;Kwazwakala insimbi. ;Uthisha wayinika umsebenzi wesikole. ;0
+Lona wesifazane wathi wabona isipoki. ;effect;Abangane bakhe babonisa ukungabaza. ;Abantu abajwayelene naye babehlobene naye. ;0
+Le ndoda yalahlekelwa ukuzwa. ;cause;Cishe waminza olwandle. ;Cishe wabulawa ukuqhuma. ;1
+Ingane yayidedela intambo yebhaluni. ;effect;Ibhaluni laqhuma. ;Ibhaluni laphakama. ;1
+Le ndoda yalahlekelwa ikhono layo lokukhuluma. ;cause;Waba nesifo sohlangothi. ;Wathatha umoya ojulile. ;0
+Lona wesifazane wakhubeka emgwaqweni. ;cause;Kwakunengxibongo kukhonkolo. ;Wezwa igama lakhe libizwa. ;0
+Le ndoda yaziphonsa ebhulohweni. ;effect;Umsizi wasemabhodini wagxumela ngaphakathi ngemva kwakhe. ;Le ndoda yagcobisa umsizi. ;1
+Ngathatha imithi elwa namagciwane. ;effect;Ukutheleleka kwami sekuphelile. ;Ukutheleleka kwami kwasakazeka. ;0
+Isiginali yezimoto yaphenduka yaba phuzi. ;effect;Umshayeli wacindezela ibhuleki. ;Umshayeli washaya uphondo. ;0
+Isitsha sepulasitiki sencibilika. ;cause;Ngacwilisa isitsha emanzini afudumele. ;Ngabeka isitsha esitofini esishisayo. ;1
+Imoto yabhodlozwa. ;cause;Umshayeli washaya isigxobo sefoni. ;Umshayeli weqa isibani esibomvu. ;0
+Umfana wafunda ubusuku bonke. ;effect;Akazange abhale isivivinyo. ;Wasithola isivivinyo. ;1
+Umfana omncane wanamathela emaphethelweni echibini. ;cause;Wayesaba ukufunda ukubhukuda. ;Umsizi wokuphepha wayesebenza. ;0
+Ngabeka isandla sami esifubeni sami. ;effect;Ngazizwa inhliziyo yami ishaya. ;Inhliziyo yami yashaya ngamandla. ;0
+Isakhiwo esizungeze ihhovisi lami sasisakhiwa. ;effect;Ihhovisi lami laligcwele phama. ;Ihhovisi lami lalinomsindo. ;1
+Lo mkhaya wawufuna ukwazi omakhelwane bawo abasha. ;effect;Umkhaya wamema omakhelwane ukuba bazodla isidlo sakusihlwa. ;Lo mkhaya wawubingelela omakhelwane usegcekeni lawo. ;0
+Amanzi agelezela phezulu evela echibini. ;cause;Umbhukudi wagxumela echibini. ;Umbhukudi wagxumela echibini. ;0
+Ngilume ucezu lwekhekheba. ;effect;Ngigwinye imbewu ngephutha. ;Ngathola iphutha lokushayeka kwezinyo lami. ;0
+Umfana wakhubeka. ;cause;Ijazi lakhe lalingakakhishwanga uziphu. ;Izintambo zakhe zezicathulo zazingaboshelwe. ;1
+Lona wesifazane wafaka izikhwama zezindlebe. ;cause;Wayedukiswa umsindo. ;Wazimbelwa izindlebe. ;0
+Ngaphinda ngagcwalisa ibhodlela lami lamanzi. ;cause;Ngaphuza wonke amanzi ayekuyo. ;Ngangiyigcina esiqandisini. ;0
+Lo mbukiso wethelevishini wavinjelwa. ;cause;Yayinezilimi ezingcolile. ;Lalinomlando oyinkimbinkimbi. ;0
+Umkhumbi waphahlazeka. ;effect;Abasebenzi bayo bagwinywa. ;Abasebenzi bahlangana nezigebengu zasolwandle. ;0
+Umfana wahlatshwa umxhwele yilombuzo. ;effect;Wayeseyixazululile le mfihlo. ;Wacela ukusikisela. ;1
+Kwakhala ucingo. ;effect;Le ndoda yavala ucingo. ;Le ndoda yaphendula ucingo. ;1
+Lona wesifazane wayegqolozele mina. ;effect;Ngambamba. ;Ngazizwa ngingakhululekile. ;1
+Leli qembu lashiya umnyuziyamu. ;cause;Bathatha izithombe zezinto ezibonisiwe. ;Babuka zonke izinto ezibonisiwe. ;1
+Le ndoda yaqala ukuphikisana nami. ;effect;Umngane wami wangethula kulo muntu. ;Umngane wami wangimela. ;1
+Isondo lebhayisikili lami laliphahlazekile. ;effect;Ngafaka umoya esondweni. ;Ngashintsha igiya ebhayisikilini. ;0
+Le ntombazane yayibukeka iphaphathekile. ;effect;Uyise wamfundela indaba. ;Uyise wayithinta ebunzini. ;1
+Ipeni laphelelwa uyinki. ;effect;Ngasebenzisa ipensela. ;Ngabhalisa ngegama lami. ;0
+Le ndoda yenqatshelwa ukuthola imali-mboleko. ;cause;Wayenezikweletu. ;Waqala ibhizinisi. ;0
+Le ntombazane yahlala ekhaya ingayi esikoleni. ;cause;Wayenesifo sezinkukhu. ;Wayejabulela ukufunda izibalo. ;0
+Isikhwama sikadoti sasigcwele. ;effect;Ngayiyisa emgqonyeni kadoti. ;Ngayilahla phansi esinkini. ;0
+Ngasusa uginindela. ;cause;Engihlala naye endlini wathela uphuzo oludakayo. ;Inja yami iyachachamba. ;1
+Le ndoda yacasuka. ;effect;Wavala i-computer yakhe. ;Waphonsa isihlalo ngaphesheya kwegumbi. ;1
+Le ntombazane yaphonsa igatsha emlilweni. ;effect;Ihlumela lashiswa. ;Umlilo wacima. ;0
+Le ndoda yaphuma eshaweni. ;cause;Amanzi ashisayo ayesephelile. ;Wayengakwazi ukuthola ithawula. ;0
+Abazali babefuna ukuba izingane zabo ziye ekolishi. ;effect;Babeka eceleni imali yokonga imali yokufunda. ;Bakhuthaza izingane zabo ukuba zidlale ngaphandle. ;0
+Le ndoda yakhumula izintambo zezicathulo zayo. ;effect;Izicathulo zaxegeka. ;Izicathulo zaqala ukuguguka. ;0
+Le ndoda yadla ingxenye yesidlo sokuqala. ;effect;Wafaka izinsalela esiqandisini. ;Wayelondoloze iresiphi. ;0
+I-ankle yami yayivuvukile. ;effect;Ngabeka iqhwa phezu kwalo. ;Ngaligcoba nge-lotion. ;0
+Umnyango wehhovisi lami wawungavulekile. ;effect;Ngakhuluma nosebenza naye etafuleni lami. ;Ngayizwa ingxoxo eyayisemphemeni ongaphambili. ;1
+Kwadingeka ngilinde emgqeni. ;effect;Ngahlala phansi. ;Ngafunda umagazini. ;1
+Le ndoda yabhekisisa le nyoni. ;effect;Le nhlanzi yahamba. ;Le nhlanzi yahlala imile. ;0
+Le ndoda yabhala incwadi yokugcina. ;cause;Wayesefa. ;Wayengumfelokazi. ;0
+Umgijimi wezwa ukuthi umgijimi wakhe wayemfica. ;effect;Waphuma emncintiswaneni. ;Washeshisa ijubane lakhe. ;1
+Ngacabanga ngokucophelela ngale nkinga. ;effect;Ngacela iseluleko. ;Ngathola ikhambi. ;1
+Umhambi wahamba phezu kwebhuloho elintantayo elintengantengayo. ;effect;Wayethukile. ;Wajabula kakhulu. ;0
+Le ndoda yayilindele ukunqoba kweqembu. ;effect;Wahlangana nabangane bakhe ukuze abuke umdlalo. ;Wenza ukubheja nabangane bakhe. ;1
+Umfana wayengakwazi ukulala. ;effect;Wabeka iwashi lakhe elivusa amadlingozi. ;Wayebala izimvu. ;1

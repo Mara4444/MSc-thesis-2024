@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+A termék buborékfóliába volt csomagolva. ;cause;Törékeny volt. ;Kicsi volt. ;0
+Kiürítettem a zsebemet. ;effect;Megtaláltam egy jegyet. ;Találtam egy fegyvert. ;0
+A termeszek megszállták a házat. ;effect;A termeszek eltűntek a házból. ;A termeszek átették a fafajtákat a házban. ;1
+Az utazók elérték a határt. ;effect;Az őrjárat ellenőrzi az útleveleket. ;Az őrjárat ügynöke csempészettel vádolta őket. ;0
+Az irodát bezárták. ;cause;Az ünnep volt. ;Nyár volt. ;0
+A lánynak elfogyott az energiája. ;cause;Damát játszott. ;Húzott a kötélből. ;1
+A nő elvesztette a helyét a sorban. ;cause;Több ember lépett a sorba. ;Kiment a sorból. ;1
+A lány megcsípte az orrát. ;cause;A baba a szájpadra nyálasodott. ;A baba bepiszkálta a pelenkáját. ;1
+A zenekar eljátssza a slágerüket. ;effect;A közönség a zenével együtt tapsolt. ;A közönség udvariasan hallgatott csendben. ;0
+A lány meg akarta köszönni a matektanárának. ;effect;A lány az iskolán kívül maradt, hogy elvégezze a büntetését. ;A lány hozott a tanárnak egy almát. ;1
+A fiatal tábornokokat megijesztette. ;cause;A táborvezetők egy kísértet-történetet mesélték el nekik. ;Marshmallows-t sütöttek a tűzön. ;0
+A férfi beverte a fejét. ;effect;Elveszett a gondolataiba. ;- Megrázkódtatás. ;1
+A csekk, amit írtam, visszautasított. ;cause;A bankszámlám üres volt. ;Megérdemeltem a fizetésemelést. ;0
+A fickó e-mail üzenete tele volt spammel. ;effect;Törölte a spam-et. ;Egy tömeges e-mailt küldött. ;0
+A tengerészt karanténba helyezték. ;cause;A betegségnek volt kitéve. ;Meggyógyult a betegségtől. ;0
+A lány megjegyezte a kódot. ;cause;Magának is elmondta. ;Elfelejtette leírni. ;0
+Beöntöttem a vizet a pohárba. ;effect;A víz csillapította a szomjúságomat. ;A pohár tele lett. ;1
+A férfi csendben maradt, amikor a barátja befejezte a beszédet. ;cause;Támogatni akarta a barátját. ;A barátja szavaira gondolt. ;1
+A baleset az én hibám volt. ;effect;Bűntudatom volt. ;- Feljelentést tettem. ;0
+A lánc szétment. ;cause;A lánc egy gumiabroncs körül volt tekerve. ;Elromlott a láncszem. ;1
+A pár úgy döntött, hogy kompromisszumot köt. ;cause;Elegük lett a vitából. ;Kerülte a problémáról való beszélgetést. ;0
+A nő úgy döntött, hogy indul a közhivatalba. ;effect;Felbérelt egy kampánymenedzsert. ;Tanúskodott a bíróságon. ;0
+Az ember a hideg időjárás miatt utazott. ;effect;Meleg ruhákat pakolt a bőröndjébe. ;Egy nagy bőröndgel utazott. ;0
+A diák tudta a kérdésre adott választ. ;effect;Felemelte a kezét. ;Elcseszte. ;0
+A férfi szemei könnyekbe fulladtak. ;cause;Por került a szemébe. ;A szemére védőszemüveget tett. ;0
+A játékos öt meccset nyert egymás után. ;effect;Az ellenfele csalással vádolta meg. ;Az ellenfele sajnálta. ;0
+A tanár széttépte a diák vizsgáját. ;cause;Megkapta a diákot csalás közben. ;A tanuló válaszai helytelenek voltak. ;0
+Megálltam, hogy ne beszéljek. ;cause;Elvesztettem a hangom. ;Kifulladtam a lélegzetemből. ;1
+A fagyasztott étel felolvadt. ;cause;A mikrohullámú sütőbe tettem. ;Műanyag csomagolással borítottam. ;0
+A munkavállaló betegnek tetteti magát. ;cause;Gyomorkrampója volt. ;Egy szabadnapot akart. ;1
+A lány a medencébe esett. ;cause;A medencén futott. ;Leugrott a ugródeszkáról. ;1
+Elárulták a mozijegyeket. ;cause;A film nyitó napja volt. ;A film rossz kritikákat kapott. ;0
+A férfi lefogyott. ;effect;Az emberek elszigetelték. ;Az emberek dicsérik. ;1
+A lány kezei hólyagokkal lettek. ;cause;Leírt egy levelet. ;Felfüggedt egy kötélre. ;1
+A cirkuszi előadó egy egykerekű kerékpáron zsonglőrködött. ;effect;A közönség megdöbbent és tapsolt. ;Az akrobata a trapézison lógt. ;0
+Elvesztettem a türelmemet. ;cause;A barátom megvárakoztatott. ;A barátom időben érkezett. ;0
+A háborúzó országok békét akartak. ;effect;Nukleáris fegyvereket fejlesztettek. ;Megállapodást kötöttek. ;1
+Az ember alvószert vett be. ;effect;Álmos lett. ;Lázas volt. ;0
+A nő beleütközött a kanapéba. ;effect;Elcsúszott a kanapé lába. ;Megsérítette a térdét. ;1
+A fiú szorította a ballont. ;effect;A lufi megrepedt. ;A lufi elrepült. ;0
+A vendégek a szállodai szobájukban szálltak be. ;effect;Kinyitották a bőröndjüket. ;Elmentek a reptérre. ;0
+Megharaptam a barackot. ;effect;A barack meg van zúzva. ;Kiöntött a gyümölcslé. ;1
+A kezem ragadós lett. ;cause;Megettem egy fánkot. ;Édeskedtem a cukorkát. ;0
+Én nyomtam az ajtót. ;effect;Az ajtó kinyílt. ;Az ajtó zárva. ;0
+A aktivisták bojkottálták a termékeket. ;cause;A termékeket minőségbiztosításra vizsgálták. ;A termékeket gyermekmunkával gyártották. ;1
+Lyukat fúrtam a falba. ;effect;Egy egér mászott ki a lyukból. ;A por kifújta a lyukat. ;1
+A nő irigyelte a húgát. ;cause;A húga boldog volt. ;A húga elvált. ;0
+Borral öntöttem az ingem. ;effect;Felvettem egy kötényt. ;Átöltöttem az ingem. ;1
+A pénztáros kinyitotta a kasszát. ;cause;A vevő átkutatta a tárcáját. ;A vevő átadta a pénzét. ;1
+Az utcai zenész vonzott egy tömeget. ;effect;Az emberek aprót adtak neki. ;Elküldte a tömeget. ;0
+A kisfiú sírt a bébiszitterének. ;cause;Hiányoztak a szülei. ;Étkezés volt. ;0
+A pilóta radara viharra jelez. ;effect;A pilóta elhajózott a vihar elől. ;A pilóta átrepült a viharon. ;0
+A fa levette a leveleket. ;effect;A levelek színeket öltöttek. ;A levelek a földön halmozódtak fel. ;1
+A fiú rossz hangulatban volt. ;effect;Elhatározta, hogy kártyáz a húgával. ;Úgy döntött, hogy egy viccet játszik a húgával. ;1
+A gyermek panaszkodott, hogy mosdóba kell mennie. ;effect;Az apja adott neki egy üdítőt inni. ;Az apja megállította az autót egy benzinkútnál. ;1
+A gyerek halét szórta a tartályba. ;effect;A hal kiugrott a tartályból. ;A hal az étel felé úszott. ;1
+A nő politikai nézetei megváltoztak. ;effect;Megváltotta a párttagságát. ;Tiltakozott. ;0
+A fürdőszobai mosogató el volt dugva. ;effect;Kinyitottam a csapot. ;Beöntöttem benne szennyvíztisztítót. ;1
+Az utasok lementek a vonatról. ;cause;A vonat megérkezett az állomásra. ;A vonat sípolást adott. ;0
+A férfi lenyomta a boríték nedves lapját. ;effect;Pecsétet tett a borítékra. ;Bezárta a borítékot. ;1
+A barátok elvesztették a kapcsolatot. ;cause;Élvezték egymás társaságát. ;Más városokba költöztek. ;1
+A könyvelő rosszul kezelte a cég pénzét. ;effect;Kirúgták a pozíciójából. ;Szülésznapi szabadságra ment. ;0
+Megnéztem az órát. ;cause;Hallottam, hogy tik-tik az óra. ;Csak meg akartam nézni az időt. ;1
+A kezem összehúzódott. ;cause;Kézzel írtam az esszét. ;A feleségem és én kéz a kézben tartottuk egymást. ;0
+A csavar meghúzódott. ;cause;Kicseréltem a csavarral. ;Megfordítottam a csavarkulcsot. ;1
+A pár aláírt egy bérleti szerződést egy lakásért. ;effect;A pár beköltözik a lakásba. ;A város elítélte a lakást. ;0
+A nő kint ült a verandán. ;cause;A naplementét akarta nézni. ;Azt hitte, villámot látott. ;0
+A férfi mentőmellényt viselt a vízben. ;cause;Nem tudott úszni. ;A víz sekély volt. ;0
+A nő betűt hibázott a szövegfeldolgozóban. ;effect;Törölte a dokumentumot. ;Megnyomta a háttérkulcsot. ;1
+A lány a barátaival dicsekedett. ;cause;Rossz jegyet kapott. ;Nyert egy versenyt. ;1
+A gyep sáros volt. ;cause;Az éjszaka folyamán esett. ;Tele volt gyomokkal. ;0
+A nő elaludt. ;cause;Egy szállodában töltötte az éjszakát. ;Elfelejtette beállítani az ébresztőóráját. ;1
+A férfi felvette a naptejet. ;cause;Az árnyékban ült. ;Elment a tengerpartra. ;1
+A kutatók bizonyították az elméletet. ;effect;A kutatók visszavonták az elméletet. ;Az egyének elfogadták az elméletet. ;1
+A szurkolók a meccsen bujkáltak. ;cause;A játék továbblépett. ;A bíró rossz döntést hozott. ;1
+Beírtam a kombinációt a zárba. ;effect;Bezártam a zárat. ;A zár kinyílt. ;1
+A tömeg fokozódott. ;effect;Az apa pénzt adott a fiának. ;Az apa megragadta a fia kezét. ;1
+A hó elzárta a felhajtót. ;effect;Hólabdá alakítottam a havat. ;Eltakarítottam a havat. ;1
+A kajakosok evezettek. ;effect;A kajak elért a partot. ;A kajak egy hullámba ütközött. ;0
+A lány elvesztette a motorral való irányítást. ;effect;Elengedte a kormányt. ;Egy kerítésbe ütközött. ;1
+Bekapcsoltam a ventilátorot. ;effect;Vízre verték a bőröm. ;Éreztem, ahogy a hűvös levegő áthalad rajtam. ;1
+A szörfösök visszatértek a partra. ;cause;Át voltak áztatva. ;Látott egy cápát. ;1
+Kihúztam a fürdőkád lecsapóját. ;effect;A víz lecsapott a kádból. ;A víz a padlóra csöpögött. ;0
+A férj bűntudatot érezett, amiért megcsalta a feleségét. ;effect;Hűtlenséggel vádolta meg. ;Bevallotta a hűtlenségét. ;1
+A plakátot bepiszkálta a tinta. ;cause;Megvártam, hogy megszáradjon a tintája. ;Vízzel öntöttem a plakátot. ;1
+A gyerek sikoltozva ébredt fel. ;cause;Rémálma volt. ;Megpisilt az ágyban. ;0
+A fiú felrakta a lábát az asztalra. ;effect;Az apja leült az asztalhoz. ;Az apja tanította. ;1
+A barátom a fejét rám fordította. ;cause;Kiáltottam a nevét. ;Megmozdítottam a karomat. ;0
+A kormány elnyomta a polgárait. ;effect;A polgárok lázadást indítottak. ;A szavazói nyilvántartásba vettek. ;0
+A fiú elveszett az erdőben. ;effect;Felállított egy sátrat. ;Segítségért kiáltott. ;1
+A nő külföldre utazott. ;cause;Meg akart tanulni rajzolni. ;Más kultúrákról akart tanulni. ;1
+A férfi féltékeny volt a munkatársa iránt. ;cause;A munkatársa előléptették. ;A munkatársa sokáig dolgozott. ;0
+A férfi idegenek szemtanúja volt. ;cause;Hallucinált. ;Meditált. ;0
+A férfi haja szőke lett. ;cause;Fehérítőt tett bele. ;Bevette a sampont. ;0
+A művész új művet alkotott. ;cause;Kritikálta a korábbi munkáját. ;Egy ihletést érezett. ;1
+A fiú elköltözik otthonról. ;cause;Elbocsátották a hadseregből. ;Egyetemre ment. ;1
+A könyvek leesnek a könyvespolcról. ;cause;A polcok porral voltak borítva. ;A földrengés megrázta a könyvespolcot. ;1
+A házamban leállt az áram. ;effect;Felkapcsoltam a lámpát. ;Átállítom a kapcsolót. ;1
+A hullámvasútnál voltunk. ;cause;Ijesztőnek tűnt. ;Jó mókának tűnt. ;1
+A zacskó kukorica elkezdett kitörni. ;cause;Valamit beleöntöttem a zsákba. ;Megmelegítettem a mikrohullámú sütőben. ;1
+Egy fa esett le az áramvezetékre. ;effect;A környéken leállt az áram. ;Az előrejelzés szerint erős szél fog. ;0
+A szónok politikusan helytelen megjegyzéseket tett. ;effect;Untatta a közönséget. ;Megsértette a közönséget. ;1
+Megszúrtam magam a tűvel. ;effect;Egy verejtékperla csöpögött az arcomról. ;Egy csepp vér alakult az ujjamra. ;1
+A hal lebegett a tartály felszínén. ;cause;Éhes volt. ;Halott volt. ;1
+A férfi hangja horognak hangzott. ;cause;Megfázott. ;Abbahagyták a dohányzást. ;0
+A lift ajtaja kinyílt. ;cause;A lift a kijelölt emeletre érkezett. ;A lift a két emelet között ragadt. ;0
+A tinédzser kisurrant a házból. ;cause;Hazudott a szüleinek. ;A szülei büntetést szabtak ki. ;1
+A fürdő elárasztott. ;cause;Túláradt a vécén. ;Elromlott a fűtő. ;0
+A kiskutya a gazdája mellett maradt. ;cause;A tulajdonos nyakörvet tett a kiskutyának. ;A tulajdonos pórázon tartotta a kiskutyát. ;1
+A férfi megragadta a tükörképét. ;cause;A hatalmas fa alatt állt. ;A nyugodt tó felett állt. ;1
+Lemaradtam a barátnőm hívásáról. ;effect;Visszahívtam. ;Vacsoráztam vele. ;0
+A család átkutatta a környéket. ;cause;A kutyájuk elfutott otthonról. ;Drága ékszerek tűntek el az otthonukból. ;0
+Láttam a leheletemet, amikor kiégettem. ;cause;Hideg volt az idő. ;A mellkasom szorult. ;0
+A dolgozók szakszervezetet alapítottak. ;cause;Jobb munkakörülményeket akartak. ;A munkáltató emelte a fizetésüket. ;0
+Almáskenyéret sütöttem. ;effect;Egy rothadó szag töltötte be a konyhát. ;Egy meleg illat töltötte be a konyhát. ;1
+A nő küzdött, hogy járjon. ;cause;Magas sarkú cipőt viselt. ;Levette a cipőjét. ;0
+A gőz a víz edényéből emelkedett. ;cause;A víz forrott. ;Én fedeztem a pénzt. ;0
+Az összes zoknim a mosodában volt. ;effect;Sándalokat hordtam. ;Csizmát hordtam. ;0
+A politikus érvelését abszurdnak tartották. ;effect;Elvesztette a szavazók támogatását. ;A korrupció vádjával. ;0
+Mindenki nem helyeselte a pár eljegyzését. ;effect;A pár terhes lett. ;A pár elfutott. ;1
+Az épületet a milliomosnak szentelték. ;cause;A milliomos azt akarta, hogy az épületet lebontják. ;A milliomos adta a pénzt, hogy megépítsék. ;1
+Az eladó társa lopással vádolta a lányt. ;cause;Az eladó látta, hogy a lány árut tett a táskájába. ;Az eladó segített a lánynak megtalálni a tárcát, amit szeretett. ;0
+Az ország hadat üzent a szomszédos területnek. ;effect;Katonákat küldtek a harcba. ;A katonák újra összejöttek a családjukkal. ;0
+A bíróság megerősítette a vitatott ítéletet. ;effect;A bíróság előtt lázadás tört ki. ;Egy pár esküt tett a bíróság előtt. ;0
+A lány égető szagot érzett. ;cause;Kivette a süteményt a korsóból. ;A süteményeket a sütőben hagyta. ;1
+Esett a vihar. ;effect;A vihar egyre rosszabb lett. ;Befutottam. ;1
+Az épületet kiürítették. ;cause;A lift nem működött. ;Felment a tűzjelző. ;1
+Az apa ellenszenves volt a fia alkoholismusa miatt. ;effect;Az apa sört vett a fiának. ;Az apa kidobta a fiát a házból. ;1
+Az ügyvéd felment a lépcsőn az irodájába. ;cause;A titkárnő hazament. ;A lift nem működött. ;1
+A férfi bosszantotta a barátját. ;cause;A barátja félbeszakította. ;A barátja vett neki ebédet. ;0
+A lány átadta a pénzét a pénztárosnak. ;effect;A pénztáros odaadta a lánynak a visszajárót. ;A pénztáros elfelejtette a számlát adni a lánynak. ;0
+A nőt kerekesszékbe helyezték. ;cause;Megsérült egy balesetben. ;Egy hordágyban lépett be a kórházba. ;0
+A polgárok a nemzeti zászlót felfüggesztették az otthonaik előtt. ;cause;Az ország ünnepelte a függetlenségét. ;Az ország gazdasági nehézségekkel küzdött. ;0
+A csapat elvesztette a bajnokságot. ;effect;Csalódást okoztak a rajongóiknak. ;Inspirálták a rajongóikat. ;0
+A barátom rámutatott, hogy a fogaim között ragadt az étel. ;effect;Szégyelltem magam. ;Büszke voltam rá. ;0
+A fiú nem sikerült a történelem vizsgáján. ;cause;Figyelmes volt az órákban. ;Elfelejtette tanulni. ;1
+A belvárosi épület összeomlott. ;cause;Földrengés érte a várost. ;A bűnözés aránya a városban emelkedett. ;0
+A férfi barátnője szakított vele. ;effect;Könyörgött, hogy vegye vissza. ;Bemutatta a szüleinek. ;0
+A két gyerek egyszerre nyúlt le, hogy visszaszerezze a labdát. ;effect;A labda elforgott. ;Összeütöttek a fejük. ;1
+A mosómedve átkutatta a szemetesedényt. ;cause;Karton volt a szemetesben. ;A szemetes teteje le volt zárva. ;1
+A fiú megélesítette a ceruzát. ;cause;Olcsó volt. ;Unalmas volt. ;1
+A pénztáros megtagadta a nőnek a ruháért a visszatérítést. ;cause;Elvesztette a számláját. ;Nem volt jó a ruhám. ;0
+A bőrömön lévő karcolás mély volt. ;effect;Gyorsan meggyógyult. ;Egy sebhely maradt. ;1
+A vonaton az utasok furcsa tekinteteket vetettek rá. ;cause;A földet bámulta. ;Magával beszélt. ;1
+A gyermek apró darabokat hagyott a padlón. ;effect;A hangyák a morzsákra másztak. ;A gyermek elhelyezte a kenyeret. ;0
+A nő egy zsebkendőt adott a nővérének. ;cause;A nő húga összecsukta a kezét. ;A nő húga sírni kezdett. ;1
+Az ember elvette a pénzét. ;cause;A szája megrepedt. ;Aggódott a rossz lehelet miatt. ;1
+A pár korán elment a műsorra. ;cause;A színház környékén várták a forgalmat. ;Megvan a színházhoz vezető út. ;0
+A nő otthon maradt a munkából. ;effect;A főnöke dicsérte. ;A munkatársa fedezte. ;1
+A férfi aláírta az aktivisták petícióját. ;cause;Támogatta az ügyüket. ;Őrülteknek nevezte őket. ;0
+A színész szíve remegett a fellépése előtt. ;cause;Színpánta volt. ;Megjegyezte a szövegét. ;0
+Eltévedtem. ;effect;Megszámoltam a pénzemet. ;Kinyitottam egy térképet. ;1
+A érett gyümölcsök a napfényben maradtak. ;effect;Megették. ;Összepirult. ;1
+Elromlott az autó. ;cause;Bekapcsoltam a gyújtót. ;Túlmelegedett a motor. ;1
+A férfi megsértette a hátát. ;effect;Pszichiáterhez ment. ;Több napig ágyban maradt. ;1
+Tűzöt gyújtottam a kandallóban. ;cause;Elfogyott a tűzifű. ;Hideg volt a házban. ;1
+A nő leállt a futásról. ;cause;- A oldalán görcsöt kapott. ;Megkapta a második lélegzetet. ;0
+Kopogtam a szomszéd ajtaján. ;effect;A szomszédunk behívott. ;A szomszéd elhagyta a házát. ;0
+A nő csalódottan sóhajtott. ;cause;A férje félreértette a gondjait. ;A férje búcsúcsókot adott neki. ;0
+A tanár dicsérte a tanulót. ;cause;A tanuló helyesen válaszolt a kérdésre. ;A diák habozott a kérdés megválaszolásában. ;0
+A nőnek elfogyott a tojása. ;effect;A farmon van. ;Elment a szupermarketbe. ;1
+Találkoztam egy régi barátommal. ;effect;Egy titkot fedtem fel neki. ;Megöleltem. ;1
+A nő elkerülte, hogy a tóba menjen. ;cause;Elkapott egy halat. ;Szennyezettnek tűnt. ;1
+A diák ázottan ázottan érkezett az osztályba. ;cause;Eltört az esernyője. ;Ellopták a biciklijét. ;0
+A kurzor a számítógép képernyőjén megmozdult. ;cause;A felhasználó rákattintott az egérre. ;A felhasználó elmozdította az egeret. ;1
+A sofőr elkerült. ;cause;Baleset történt a főúton. ;Követte az előtte lévő teherautót. ;0
+A nedves ruhát a ruhavezetékre akasztottam. ;effect;A vászon ruhák megszáradtak. ;A vászonfesték. ;0
+A nő felvette a szemüvegét. ;cause;A napfény fényes volt. ;Hívott egy taxit. ;0
+Az ember a éjszakai égboltot bámulta. ;cause;Azt kívánta, bár nyár lenne. ;Azt gondolta, hogy gyönyörű. ;1
+Ki voltam merülve. ;effect;Korán lefeküdtem. ;Egész éjjel fent voltam. ;0
+A férfi a borbélyhoz ment. ;cause;A haja is kinőtt. ;A haja egyre hosszabb lett. ;1
+A fiú gonosz trükköket játszott az új osztálytársa ellen. ;cause;A fiú üdvözölte az új osztálytársat. ;A fiú nem kedvelte az új osztálytársat. ;1
+Egy pohár tejet akartam. ;cause;Süteményt ettem. ;Kenyeret sütöttem. ;0
+Esni kezdett. ;effect;A sofőr felkapcsolta a fényszórót. ;A sofőr visszafordította az autót. ;0
+Az épület parkolója üres volt. ;effect;Az utca túloldalán parkoltam. ;A bejáratnál parkoltam. ;1
+Az író elmaradt a tervezet benyújtásának határidejéről. ;cause;Írói blokkban volt. ;Ő szerkesztette a vázlatot. ;0
+A társ letette a telefont. ;cause;Kérdeztem, hogy beszéljek egy felügyelővel. ;Megadtam a személyi számomat. ;0
+A szél áthatott a nyitott ablakon. ;effect;Kihallgattak. ;A függönyök remegtek. ;1
+A házamban leállt az áram. ;cause;Kihúztam a lámpát. ;Elégett egy biztosíték. ;1
+A súlyemelő morgott. ;cause;Megszúrt az izmait a tükörben. ;Felemelte a rúdot a feje fölé. ;1
+A diák megpróbálta fejben kiszámolni. ;effect;Kiszedte a számológépét. ;Összezavarodott. ;1
+A baba elaludt. ;cause;Az apa pelenkát cserélt a babának. ;Az apa finoman megrázta a babát. ;1
+A lány a fiúra dobta a vízballont. ;effect;A fiú agyrázkódást kapott. ;A fiú áztatta magát. ;1
+A fényképész elfelejtette használni a fényképezőgép villanását. ;effect;A képek elmosódtak. ;A képeken mindenki nem akart mosolyogni. ;0
+Elutasítottam a meghívást a szülinapi buliba. ;cause;Magányos voltam. ;Nem voltam a városban. ;1
+- Gyakoroltam. ;cause;Energiásnak éreztem magam. ;- Féltem. ;0
+Kihúztam a nedves szivacsot. ;effect;Vízbe szívódott. ;Víz szivárgott ki belőle. ;1
+A nyaralók kompot vettek a nyaralóhelyre. ;cause;A szállás foglalt volt. ;A nyaraló egy szigeten volt. ;1
+A tinédzser tetoválást csinált. ;cause;Félt a tűktől. ;Fel akart lázadni. ;1
+Egy ismeretlen autó parkolt a házam előtt. ;effect;Gyanakodtam. ;Hívtam a rendőrséget. ;0
+A bűnöző megadta magát. ;cause;A bizonyítékok rájuk mutattak. ;Nem volt bizonyíték ellene. ;0
+A súlyzó férfi úgy döntött, hogy lefogy. ;effect;Leállt a cukorkáról. ;Került a koffeint. ;0
+A lány a jégen lépett. ;effect;Elcsúszott. ;Reszketett. ;0
+A nőnek gyűrűi voltak a szemei alatt. ;cause;Egész éjjel fenn volt. ;Letette a fiát az ágyba. ;0
+A láva a vulkánból áramlott. ;cause;A vulkán kitört. ;A vulkán alvó volt. ;0
+A nő cipőjét vette fel. ;cause;Mindenkit ismerett a partin. ;El akart menni a bulitól. ;1
+Fizettem a járókelőnek. ;effect;Átengedett a tollban. ;A járóhídon tartotta meg. ;0
+A vezérigazgató csődbe ment. ;cause;Eladta a cég részvényeit. ;Elpocsékolta a vagyonát. ;1
+Az ember elment az orvoshoz. ;cause;Az orvos szabadságon volt. ;A férfi betegnek érezte magát. ;1
+Az ablakon léptem ki a hálószobámból. ;cause;A ház lángokban állt. ;A ház üres volt. ;0
+A fiú ujjai szilánkokká váltak. ;cause;Hosszú ideig zuhanyozott. ;Szappannal köpötte a kezét. ;0
+Ki köpöm a tejet. ;cause;A tej savanyú volt. ;Száraz volt a szám. ;0
+Lekésem a buszt. ;effect;Korán mentem dolgozni. ;Elkéstem a munkából. ;1
+A teherautó összeütközött az autóval. ;effect;A teherautó felgyorsult. ;A kocsi összetört. ;1
+A csapat a saját javára alakította a versenyt. ;effect;Megnyerték. ;Kihagyták. ;0
+A szódás üveg sípolt. ;cause;Átfordítottam az üveget. ;Lefordítottam a kupakot. ;1
+A fiút kizárták a házából. ;effect;Egy nyitott ablakon keresztül mászott be. ;Felmászott a tetőre. ;0
+Kihallgattak. ;effect;A látogató kopogtatott az ajtón. ;A nő a kulcslyukon keresztül nézett be az ajtón. ;1
+A férfi bepiszkálta az öltönyét. ;effect;A tisztítóba vitték. ;A szekrényébe akasztotta. ;0
+A lány megnyomta a fogkrém csövet. ;effect;A fogkrém a csövből csöpögött ki. ;A lány kiöntötte a fogkrémet. ;0
+A háborúban civil halálesetek száma megugrott. ;effect;A pacifisták tüntetést tartottak. ;A pacifisták felvonulást tartottak. ;0
+A lány kihúzta a szalagot a hajától. ;cause;Ő kötötte a szalagot. ;A szalag gyerekesnek tűnt. ;1
+A férfi műtétet végzett. ;effect;Megöregedett. ;Fiatalabbnak tűnt. ;1
+Egy kis tyúk jött ki a tojásból. ;cause;A tojás kikelt. ;Megtörtem a tojást. ;0
+A fogoly éhen halt. ;effect;Meghalt. ;Elmenekült. ;0
+A férfi elvesztette az egyensúlyát a létrán. ;effect;Felmászott a létrán. ;Leesett a létráról. ;1
+A gyerek röpögött. ;cause;Egy kortyot üdítőt ivott. ;Kinyitotta a szódát. ;0
+Hideg áramlás jött be az ablakon. ;effect;Én pihentem. ;Reszketek. ;1
+A diák ösztöndíjat kapott, hogy egyetemre menjen. ;cause;Az osztálytársai tisztelték. ;Jó jegyeit szerezte. ;1
+A lány gúnyolódott a fiúval. ;cause;A szomszédja volt. ;Be volt zúgva. ;1
+Az éhes csavargó ellopta az ételt. ;cause;Szánalmat keltett. ;Nem volt pénze. ;1
+Felhívtam a barátomat, hogy beszélgessünk. ;cause;Magányt akartam. ;Magányosnak éreztem magam. ;1
+Az a férfi kinyújtotta a kezét. ;effect;Megfogtam a kezét. ;Megpofoztam. ;0
+Meghúztam magam. ;cause;A tűzijátékok a levegőben indultak. ;A frisbi a fejem felé ugrott. ;1
+A lány megharapta a körmeit. ;cause;Aggódott. ;Meglepődött. ;0
+Megfordítottam a naptárat. ;cause;Megjelöltem egy találkozót a naptárban. ;Egy új hónap kezdete volt. ;1
+A férj rájött, hogy a feleségének viszonya van valakivel. ;effect;Kirúgta az ügyvédjét. ;Elválást kért. ;1
+A lány elejtette a gumibalt. ;effect;A labda ugrott. ;A labda ragyogott. ;0
+A lány hibázott a vizsgán. ;effect;Megtalálta a választ. ;Kitörölte a válaszát. ;1
+A játékos elkapta az ellenfelét. ;effect;Az ellenfele elkapta a passzot. ;Az ellenfele a földre esett. ;1
+Én szedtem a paradicsomot a szőlőről. ;cause;Éretettek voltak. ;Megöntöttem őket. ;0
+A férfi romantikus akart lenni. ;effect;A volt barátnőjével ebédelt. ;Csokoládét vett a barátnőjének. ;1
+A termométer higanyértéke emelkedett. ;cause;Elhagytam a hőmérőt. ;Az idő melegebb lett. ;1
+Egy tornádó jött át a városon. ;effect;A bíróság teteje felrobbant. ;A főút veszélyesen jeges lett. ;0
+A diákot segítő tanárnak nevezték. ;effect;A jegyei javultak. ;Csalás volt a vizsgán. ;0
+Kényelmesen éreztem magam. ;cause;Letérdeltem a földre. ;Beburkoltam magam egy takaróba. ;1
+Megtisztítottam a követ. ;effect;Elcsúszott. ;Csillogott. ;1
+Cukrot tettem a kávéba. ;effect;A kávé erős illatú volt. ;A kávé édes volt. ;1
+Az ember átfésülte a papírokat. ;effect;Megvágta magát egy papírral. ;Szétzúzta a papírokat. ;0
+A kalapáccsal ütöttem a szögbe. ;effect;A szög belemerült a fába. ;A szög rozsdásodott. ;0
+A hal megharapta a kötelet. ;effect;A halász a halat a vízbe szorította. ;A halász újra eldobja a kötelet. ;0
+A tinédzser szégyellte az iskolát. ;cause;- Van egy pattanása. ;Levette a fogszabályzót. ;0
+Az arckifejezésem felgyulladt. ;cause;Jó híreket kaptam. ;Elvesztettem a türelmemet. ;0
+Egy törülközővel töröltem a kezem. ;cause;A törülköző nedves volt. ;A kezem nedves volt. ;1
+A férfi elvesztette az egyensúlyát a székben. ;cause;A szék megrándult alatta. ;Festéket öntött a székre. ;0
+A csapattársak egymás hibáját terhelték. ;cause;Elvesztették a játékot. ;Az edzőjük lemondta a gyakorlást. ;0
+Bocsánatot kértem. ;cause;Bántam a hibámat. ;Elértem a célomat. ;0
+A nő unatkozott a társával. ;cause;Kérdezett tőle magáról. ;Folyamatosan beszélt magáról. ;1
+A lány mosolyt vetett. ;effect;Vörös lett az arcán. ;Megjelentek a gödrök. ;1
+Az ellenséges hajó felrobbant. ;cause;A bányánál ment át. ;A kikötőbe hajózott. ;0
+A férfi meglőtte a lábát. ;cause;Egy tólyába ment be. ;Üvegtörésen lépett. ;1
+A nyomozók leporolták a helyszínt ujjlenyomatok után. ;effect;Megtalálták a gyilkos személyazonosságát. ;A fegyver a helyszínen volt. ;0
+Sok volt a forgalom az autópályán. ;effect;Egy kis kanyarral mentem. ;- Kérdeztem, hogy vigyenek. ;0
+A nemzet gazdasága hanyatlott. ;effect;Sokan megbetegedtek. ;Sokan munkanélküliek voltak. ;1
+A határőr fütyülte a gyerekeket. ;cause;Épp az ellenkező forgalomba akartak menni. ;Felismeri őket a szomszédból. ;0
+Megfordítottam a szemem a barátomra. ;cause;Ő mondta el az igazat. ;Egy szarkasztikus megjegyzést tett. ;1
+A kocsiban kifogyott a benzin. ;effect;A sofőr az úton ragadt. ;A sofőr felvette egy stopposat. ;0
+A nőnek megkezdődött a szülés. ;effect;A baba megszületett. ;A nőnek reggeli rosszul volt. ;0
+A férfi sapkája elfújta. ;cause;Levette a kalapot. ;Szeles volt odakint. ;1
+A lány részt vett egy osztálytársa születésnapi buliján. ;cause;Meghívót kapott. ;Vett egy ajándékot. ;0
+A fiú homlokát forrónak éreztem. ;effect;Az anyja mérte a lázát. ;Az anyja a parkba vitte. ;0
+A férfi kölnivel permetezte magát. ;cause;Meg akarta nyűgözni a randit. ;Gélt tett a hajába. ;0
+A házban leállt az áram. ;effect;Egy zseblámpát kerestem. ;Fogtam egy lapátot. ;0
+A család egy nagyobb házba költözött. ;cause;A fia lediplomázott a középiskolából. ;Az anya ikreket szült. ;1
+A maratonfutó lassú ütemben haladt. ;cause;Meg akarta spórolni az energiájával. ;Látta a célvonalat. ;0
+A fiú rúgta az automatát. ;cause;A gép kiöntötte a visszajárót. ;A zsák csipsz ragadt. ;1
+A barátom kutyája meghalt. ;effect;Megfordítottam a szemem rá. ;Megöleltem. ;1
+Az üzletember hitelkártyáját visszautasították. ;effect;Írt egy adóslevelet. ;Készpénzzel fizetett. ;1
+Az az átkozott ember. ;cause;Levágták a körmeit. ;Megütötte a lábujját. ;1
+Az ember büszke volt a testvérére. ;cause;A bátyja vitába keveredett a szüleikkel. ;A bátyját bevették a jogi egyetemre. ;1
+A lány a Naprendszerről akart tanulni. ;effect;A könyvtárba ment. ;A csillagokat nézte. ;0
+A plakát a falra ragadt. ;cause;Az ajtó fölé helyeztem a plakátot. ;Lecsatoltam a plakát hátuljára. ;1
+Az ügyfél jóváhagyta az építész tervét az épületre. ;effect;Az építész építette az épületet. ;Az építész kiigazította a terveket. ;0
+Az ember elejtette a kanalat. ;cause;A keze remegett. ;Megnyalta a kanalat. ;0
+A cég vezérigazgatója lemondott. ;effect;Az igazgatóság feloszlatta a céget. ;Az igazgatótanács megtalálta a helyettesét. ;1
+Késve érkeztem az előadásra. ;effect;A hátsó sorban ültem. ;Közelítettem a pódiumhoz. ;0
+A férfit kiengedték a börtönből. ;cause;A családja fizette az óvadékát. ;Megtámadott egy börtönfőt. ;0
+A család elvesztette mindenét. ;cause;Eladták a házukat. ;A házukban tűz ütött ki. ;1
+A dobozra léptem. ;effect;A doboz újrahasznosított. ;A doboz összetört. ;1
+A lány csatlakozott a vitaképző csapathoz. ;effect;Megtanult számítógépet használni. ;Megtanulta a kommunikációs készségeket. ;1
+A hangulatom javult. ;cause;Zenehallgatás. ;Elmosogattam. ;0
+A jótékonysági szervezet célja, hogy pénzt gyűjtsön. ;effect;Etették a hajléktalanokat. ;- Megrendeztek egy aukciót. ;1
+A hullámvasút leugrott a meredek lejtőn. ;effect;Az utasok nevetgéltek. ;Az utasok sikoltoztak. ;1
+Dühös voltam. ;effect;Megnéztem a postaládát, amikor elmentem a házból. ;Amikor elindultam, becsuktam az ajtót. ;1
+Az ember meg akarta nézni a napfelkeltét. ;effect;Északra utazott. ;Korán kelt fel. ;1
+Összehajtottam a papírt. ;effect;Újrahasznosítottam a papírt. ;A papír összehajtogott. ;1
+A nemzet egy természeti katasztrófát szenvedett el. ;effect;Más országok vezetői szövetséget kötöttek. ;Más országok vezetői segélyeket küldtek. ;1
+A fiú ruhái áztatták. ;cause;Kiugrott a medencéből. ;Beleesett a medencébe. ;1
+A diák sietett, hogy befejezze a könyvet. ;cause;Vissza kellett volna adnunk a könyvtárba. ;Egy barátjától kölcsönvette. ;0
+A bűnözőt kivégezték. ;cause;Börtönbe került. ;Gyilkosságért ítélték el. ;1
+A napfény belépett a szobába. ;cause;Kinyitottam a függönyt. ;Kinyitottam az ajtót. ;0
+Meghúztam a csaló haját. ;effect;Lejött a parókája. ;- Kopaszodott. ;0
+A szerkesztő átírott egy mondatot a kéziratban. ;cause;Meggyőzőnek találta a kéziratot. ;Nem tartotta világosnak az ítéletet. ;1
+A nő törölte a hitelkártyáját. ;cause;Rájött, hogy hiányzik a kártya. ;Rájött, hogy lejárt a kártya. ;0
+A férfi és a nő egymásba szerettek. ;effect;Egyetemen jártak. ;Összeházasodtak. ;1
+A zene túl gyenge volt, hogy halljam. ;effect;Felhangosítottam. ;Saját dalom van. ;0
+A fiú haja felállt. ;cause;A lány megzavarta. ;A lány húzta ki. ;0
+A bogarat elnyomták. ;cause;Beszpréztem magam rovarellenzővel. ;Megtámadtam a bogarat. ;1
+Kinyitottam a szemem. ;cause;Felkeltem. ;Én pihentem. ;0
+A szomszéd zenéje hangosan csengett. ;effect;Megkértem, hogy csökkentsék le. ;Kértem tőle, hogy kölcsönvegyem a CD-t. ;0
+A férfi családja szegénységben élt. ;cause;Takarékos volt a keresetével. ;A minimálbér alatt keresett. ;1
+A diák egyetemet végzett. ;effect;Munkát keresett. ;Egy hobbival foglalkozott. ;0
+A művész sárga festéket kevert kék festékbe. ;effect;A festék mindenhol leperzselődött. ;A festék zöld lett. ;1
+Megváltoztattam a beszélgetés témáját. ;cause;Elfogyott a beszélgetés témája. ;A beszélgetés feszült lett. ;1
+A bátyámat kiengedték a kórházból. ;effect;Üdvözöltem őt otthon. ;Én meg hideg vállon néztem rá. ;0
+Felment a függöny a színpadon. ;effect;A darab nyitó jelenete elkezdődött. ;A darab színészei kiléptek a színpadról. ;0
+A túsz a rabló parancsára adta magát. ;cause;A rabló azzal fenyegetőzött, hogy bántja a túszot. ;A rabló egyedül hagyta a túszot. ;0
+Egy nagy robbanás visszhangzott a színpadon. ;cause;A zenész megütötte a lábát. ;A zenész dobolt. ;1
+A szülők siettek a gyermekük hálószobájába. ;cause;A gyerek sírva ébredt fel egy rémálomból. ;A gyerek félt az ágy alá nézni. ;0
+A nő jeles nyelven kommunikált. ;cause;Koraszülött volt. ;Süketnek született. ;1
+Szárazság volt a régióban. ;effect;A víz szennyezett lett. ;A termés elpusztult. ;1
+A macska üldözte a madarat. ;effect;A madár elrepült. ;A madár elkapott egy férget. ;0
+A lány iskolát váltott. ;cause;A nyárra kiengedték az iskolát. ;Új városba költözött. ;1
+A gyár tulajdonosa megtagadta a dolgozók béremelését. ;effect;A tulajdonos új menedzsert nevezett ki. ;A dolgozók sztrájkoltak. ;1
+A vezető ellenségeskedett a szélsőségesekkel az országában. ;effect;A szélsőségesek befolyásolták. ;A szélsőségesek meggyilkolták. ;1
+mezítláb sétáltam a parton. ;effect;Homok ragadt a lábamra. ;A hullámok a part mentén csapódtak össze. ;0
+Éjszaka felébredtem, és fáztam. ;effect;Felvettem a sportnadrágot. ;Megittam egy pohár vizet. ;0
+Az anya elhallgattatta a fiát. ;cause;A fia mosolygott. ;A fia sírt. ;1
+Egy lyuk a farmeremben. ;cause;Felhúztam a farmereket. ;Megbotlottam a járdán. ;1
+A fiú fogszabályzót viselt. ;effect;- Károsodás. ;A fogai egyenesebbek lettek. ;1
+Tegnap edzettem az edzőteremben. ;effect;Ma izomfájással ébredtem. ;Ma torokfájással ébredtem. ;0
+A lányok egymás között suttogtak az ebédlőasztalnál. ;effect;Más diákok leültek az ebédlőasztalhoz. ;A többi diák az ebédlőasztalnál úgy érezte, hogy ki vannak téve. ;1
+A gyerek a trambulinra szállt. ;effect;Visszatért a levegőbe. ;Úgy döntött, megpróbál egy flipet csinálni. ;0
+A levelet a postaládába tettem. ;effect;A posta szállította a levelet. ;A posta felgyorsította a levelet. ;0
+A szerencsejátékos magabiztos volt. ;effect;Az összes pénzét fogadta. ;Pénz nélkül ment haza. ;0
+Az erdőtüz terjedt. ;cause;A szél egyre erősebb lett. ;A gyújtogatókat elfogták. ;0
+A gyerek megvágta a térdét. ;effect;Az anyja elküldte a szobájába. ;Az anyja kötözött a sebet. ;1
+A férfi túlélte a halálos betegséget. ;cause;Aláírta a végrendeletét. ;Szervátültetést kapott. ;1
+Megszívtam a forró kávét. ;effect;Megharaptam a nyelvem. ;Megégettem a nyelvem. ;1
+A szerkesztő kirúgta az írót. ;cause;Az író elkerülte a részrehajlást a történeteiben. ;Az író elfelejtette a fontos határidőt. ;1
+Ki voltam merülve. ;cause;Egész nap aludtam. ;Egész nap tanultam. ;1
+Az orvos diagnosztizálta a beteget. ;cause;Ő azonosította a beteg tüneteit. ;A betegnek tablettákat írt fel. ;0
+Megkarcoltam a bőrömet. ;cause;Izzadt volt. ;Viszketett. ;1
+A férfit sürgősségi műtétre vitték. ;cause;Elvesztette a feszültségét. ;Szívrohamot kapott. ;1
+A férfi karja izmai kitágultak. ;cause;Meghajlította a karját. ;Megmasszírozta a karját. ;0
+A férfi felemelte a szemöldökét. ;cause;Meglepődött. ;Elcsüggedt. ;0
+Elnéztem a kollégám hibáját. ;cause;Azt hittem, jó szándékai vannak. ;Azt hittem, ő tudja. ;0
+A férfi abbahagyta a dohányzást. ;effect;Többet kezdett edzeni. ;Korábban kezdett felébredni. ;0
+A nő orrbaverte a támadóját. ;effect;A támadó teste élettelen lett. ;A támadó elkezdett vérzni. ;1
+A dart elhibázta a célpontot. ;cause;A férfi nem célzott jól. ;A férfi elvesztette a játékot. ;0
+A háztulajdonos kérte, hogy egy rovarirtó jöjjön a házába. ;cause;Patkányokat talált a pincében. ;A szobájában egy hangyafarmot tartott. ;0
+Javasoltam a vendégemnek, hogy menjünk el vacsorázni. ;cause;Túl fáradt voltam, hogy bármit is előkészítsek. ;A vendégem túl sokáig maradt. ;0
+A lány rajtakapta a bátyját, amint a naplóját olvassa. ;effect;Elkezdte elrejteni a naplót. ;Új naplót írt. ;0
+A nőnek nem volt elég pénze a lakbérre. ;effect;Túlórázik. ;- Elmondta a munkáját. ;0
+A gyermek keze gyorsan visszahúzódott. ;cause;Megérintette a forró kályhát. ;Megsimogatta a kiskutyát. ;0
+A cég meg akarta mérni az ügyfelek elégedettségét. ;effect;Lecsökkentést ajánlottak az új ügyfeleknek. ;Egy felmérést osztottak ki az ügyfeleknek. ;1
+A fa padló megkarcolódott. ;cause;A fiú ledobta a párnákat a kanapéról. ;A fiú egy széket húzott a padlón. ;1
+Elzártam az arcom. ;cause;Az ellenségem gúnyolt engem. ;Az ellenségem megütötte a kezem. ;1
+A híres szobor leégett. ;cause;Villámütés érte. ;Az emberek eljöttek, hogy tiszteljék. ;0
+A gyümölcsöt az asztalon hagytam. ;effect;A gyümölcs vetőmagot ad. ;A legyek elárasztották a gyümölcsöt. ;1
+A balerina eltörte a kötőzsinórt. ;cause;A lábujját mutatta. ;Megcsavarta a bokáját. ;1
+A gyermek cipőfűzői megnyíltak. ;cause;Megtanulta, hogyan kössék össze. ;A játszótéren futott. ;1
+Elbűvölő volt a könyv. ;effect;Visszaadtam a könyvet. ;Elvesztettem az időérzékemet. ;1
+A férfi hasonló hitű volt, mint a szülei. ;cause;A szülei befolyásolták. ;A szülei megtagadták. ;0
+A kocsi fokozatosan lelassult, és megállt. ;cause;Elfogyott a benzin. ;A sofőr elaludt. ;0
+A férfi a napfényben evett a fagyit. ;effect;A fagylalt elvesztette az ízét. ;A fagylalt a kúpból cseppent. ;1
+A szobában felfüggesztettem a műalkotásokat. ;cause;A szőnyeg piszkosnak tűnt. ;A falak meztelenek voltak. ;1
+Korán elmentem a munkából. ;cause;Fáj a fejem. ;A főnököm megbeszélést tartott. ;0
+A kiskutya bepiszkálta a szőnyeget. ;effect;A tulajdonos megvádolta a kiskutyát. ;A gazdája meglepetést adott a kiskutyának. ;0
+Elnézést kértem a barátomtól. ;effect;A barátom megbocsátott. ;A barátom dühös lett. ;0
+A férfi kitűnt a tömegből. ;cause;Egy hátizsákot hordott. ;Neon mellényben volt. ;1
+A tanú eskü alatt hazudott. ;effect;Befejezte a vallomását. ;Hamis tanúskodásért vádolták. ;1
+A nő festette a haját. ;cause;Új kinézetet akart. ;Be akart illeszkedni. ;0
+A bevándorlókat illegálisan tartózkodásuk miatt kapták el az országban. ;effect;Munkát találtak. ;Deportálták őket. ;1
+A közszolgálati szónok viccet mondott. ;effect;A közönség nevetett. ;A közönség felállt. ;0
+A napba néztem. ;effect;A nap megvakított. ;A nap leégette a bőrömet. ;0
+Unatkoztam. ;effect;- Szívtam. ;Kápoltam. ;1
+A steaket nehéz volt levágni. ;cause;A kés tompa volt. ;A steak nyers volt. ;0
+A nő csődöt jelentett. ;cause;A nő tartásdíjat kapott. ;Nagy adósságokat szedett fel. ;1
+A barátom lakásában égett a fény. ;effect;Kíváncsi voltam, hogy kijött-e. ;Úgy döntöttem, meglátogatom. ;1
+A virágot az orrom alá tettem. ;effect;A szirmok leestek a virágból. ;Éreztem a virág illatát. ;1
+A nő nosztalgikus volt. ;cause;Találkozott egy gyerekkori barátjával. ;Kiabált a gyerekeivel. ;0
+A diák elhalasztotta a dolgozatot. ;effect;Korán benyújtotta a dolgozatot. ;Nem teljes egészében küldte be a dolgozatot. ;1
+Elromlott az autóm. ;effect;Elmentem a plázába. ;Hívtam egy szerelőt. ;1
+Eldobtam a levelet. ;cause;Névtelen volt. ;Olvashatatlan volt. ;1
+A madár megpörgette a szárnyait. ;effect;Tojást rakott. ;Felfelé emelkedett. ;1
+A kocsifelhajtón parkoltam. ;cause;A garázs nyitva volt. ;A garázs tele volt. ;1
+A bűnöző a fegyverét az áldozatára célozta. ;effect;A bűnöző letette a fegyvert. ;Az áldozat felemelte a kezét. ;1
+Alig vártam a hétvégét. ;cause;A nagybátyám temetésén akartam részt venni. ;A barátom esküvőjére terveztem elmenni. ;1
+Elvesztettem az időérzékemet. ;cause;Csak álmodtam. ;Émelygésem volt. ;0
+A dokumentum olvashatatlanul nyomtatott. ;cause;A nyomtatóból kifogyott a tinta. ;A nyomtatásból kifogyott a papír. ;0
+A stadionban a nemzeti himnusz szólt. ;effect;A rajongók a zászló felé fordultak. ;A szurkolók a pályára rohantak. ;0
+A lemosás íze nyálas volt. ;effect;Én szolgáltam fel. ;Sóval töltöttem. ;1
+A papír törülközőt a vízre tettem. ;effect;A törülköző felszívta a folyadékot. ;A kiömlés ragadós maradványokat hagyott. ;0
+A nőt félbeszakították, miközben éppen a könyvét olvasta. ;effect;Megjelölte az oldalát. ;Újra elolvasta a könyvet. ;0
+A repülőgép turbulenciába ütközött. ;effect;A férfi meghúzta a biztonsági övét. ;Az ember kinézett az ablakon. ;0
+A fiú megremegett. ;cause;A lány nem vette figyelembe. ;A lány megcsípte. ;1
+Az orvosok művégtagot adtak a betegnek. ;cause;Amputálták a lábát. ;Figyelték az életjeleit. ;0
+A fiú megcsípte a lány könyökét. ;effect;A nő vállrahúzta a kezét. ;Elhúzta tőle a karját. ;1
+Megkérdeztem a barátomat tanácsért. ;cause;Értékeltem a véleményét. ;Tudtam, hogy igazam van. ;0
+A fiú sárba lépett. ;effect;A sár ragadt a cipőjéhez. ;A sár az arcába ütötte. ;0
+A városba több centiméternyi hó esett. ;effect;Az iskolák bezártak. ;Az emberek a föld alá bújtak. ;0
+A munkavállaló műszakja véget ért. ;effect;Haza ment a nap folyamán. ;Fenyegetett, hogy felmond. ;0
+A fa megsértette a házat. ;cause;A fa a tetőre esett. ;A fa árnyékolta a hátsó kertet. ;0
+A fa kettéhasadt. ;cause;A kandallóba raktam a fát. ;Leütöttem a fejszét a fára. ;1
+A család gratulált a párnak. ;cause;A pár bejelentette, hogy elválnak. ;A pár bejelentette, hogy gyermekük lesz. ;1
+A lány Valentin-tárgyat küldött a fiúnak. ;cause;Kedvelte őt. ;Megcsókolta. ;0
+A barátom vallomása után bólogattam. ;cause;Össze voltam zavarodva. ;Egyetértek vele. ;1
+A barátok egy érmét dobtak. ;cause;Meg akartak találni egy kompromisszumot. ;Tisztességes döntést akartak hozni. ;1
+A konyhában lecsapott az időzítő. ;effect;A férfi kipakolta a bevásárlást a hűtőbe. ;A férfi kivette a pizzát a sütőből. ;1
+A nő nagyra törő célt tűzött ki. ;effect;- Elcsendesedett. ;Keményen dolgozott. ;1
+A gazdag ember öregség miatt halt meg. ;effect;A fia jogi problémákba keveredett. ;A fia örökölte a vagyonát. ;1
+A nő a lángokba lépett. ;effect;A lángok kialszanak. ;A lángokból füst kelt fel. ;0
+A nő kocsija a szerelőben volt. ;cause;A jogosítványát visszavonták. ;Autóbalesetet szenvedett. ;1
+Átalsztam a riasztón. ;effect;Csináltam reggelit. ;Kihagytam a reggelit. ;1
+A közszereplő kiszállt a limuzinból. ;effect;A kamerák a felé irányultak. ;A családja is ott volt a sajtótájékoztatón. ;0
+A nő a kádban hever. ;effect;A fürdővíz lágy lett. ;A fürdővíz lecsapott a kádból. ;0
+A főiskolai hallgató más diákokkal akart találkozni a campuson. ;effect;Egy testvériséghez csatlakozott. ;Mérnöki diplomája volt. ;0
+Felhúztam a kanapé párnát. ;cause;Pénzt keresek. ;Átrendeztem a nappaliban. ;0
+A darázs a fiú felé repült. ;effect;A fiú elfutott. ;A fiú szedett egy virágot. ;0
+A nőt bűnösnek találták egy kis bűncselekményben. ;effect;Közszolgálati szolgálatra ítélték. ;A halálsorba került. ;0
+Beforrtam a cukrot a forró teába. ;effect;A tea gőzölgött. ;A cukor feloldódott. ;1
+A veterán sántikálva járt. ;cause;A háborúba vezették. ;Megsebesült a csatában. ;1
+A bűnöző elfutott a rendőrség elől. ;effect;A rendőrség ellátta az áldozatot. ;A rendőrség üldözte a bűnözőt. ;1
+A laptop nem kapcsolódott be. ;cause;Elhagytam. ;Fel is töltöttem. ;0
+A nőnek kifogyt a helye a szekrényében. ;cause;Széles ruházati teret szerzett. ;Összehajtotta a ruháit. ;0
+A férfi összetört szívvel volt. ;cause;A felesége megszülte. ;A felesége elhagyta. ;1
+Az ember diplomát szerzett. ;effect;Képessé vált arra a munkára, amit akart. ;A munka ajánlatát visszavonták. ;0
+A férfi hangja világosan sugárzott az egész előadóteremben. ;cause;Üdvözölte a közönséget. ;Beszélt a mikrofonba. ;1
+Egy érmét dobtam a vízforrásba. ;effect;Az érme a fenekére süllyedt. ;Az érme kettéhasadt. ;0
+A játékos a lyuk felé ütötte a labdát. ;effect;A labda a lyukba ment. ;A labda visszahúzódott a játékoshoz. ;0
+A padláson belélegeztem a port. ;effect;Sziklászom volt. ;Megfulladtam. ;1
+A bolti pénztáros hívta a biztonságiakat. ;cause;A vevő hamis pénzt használt. ;A vevő bekapcsolta a fényszóróját. ;0
+Kivittem a szemetet. ;cause;A szemét miatt a konyha rossz illatot kapott. ;Véletlenül kidobtam a bevásárló listámat. ;0
+A család az állatkertbe ment. ;effect;A gyerekek csodálták az állatokat. ;A gyerekek üldözték az állatokat. ;0
+A férfi hangosan lélegzett. ;cause;A veséje megállt. ;A tüdeje el volt tömörülve. ;1
+Volt egy extra jegyem a koncertre. ;effect;Megkérdeztem a barátomat, hogy merre lehet menni. ;Megkérdeztem a barátomat, hogy szeretne-e menni. ;1
+A házban elromlott a légkondicionáló. ;effect;Hoztam takarókat. ;Kinyitottam az ablakokat. ;1
+A fiú hátfájása van. ;cause;A hátizsákja nyitva volt. ;A hátizsákja nehéz volt. ;1
+Ajándékot vettem anyámnak. ;cause;Csináltam neki egy tortát. ;A születésnapján. ;1
+A kertben a narcisszeket megsemmisítették. ;cause;Egy méh megcsípte a kertészt. ;A mókusok kiásták a gyümölcsököt. ;1
+Megütöttem a gyufát. ;effect;A láng elhalványult. ;A gyufa lángot hozott. ;1
+A vitás felek megállapodást kötöttek. ;cause;Nem akartak vitázni a bíróságon. ;Meg akarták javítani a személyes kapcsolatukat. ;0
+A gyerekeket árvaházba küldték. ;cause;A szüleik meghaltak. ;A szüleik elkényeztették őket. ;0
+Egy meteorit landolt az óceánban. ;effect;Tsunami történt. ;Esni kezdett az eső. ;0
+A túrázó egy mérges kígyóval találkozott. ;effect;Dehidrációba került. ;- Rettegett. ;1
+A sütő forróvá vált. ;cause;Bekapcsoltam a sütőt. ;A tányér a sütőbe került. ;0
+Megszorítottam a citromos szál. ;effect;A citrom penészes lett. ;A citromos szpray. ;1
+Az ország új területeket fedezett fel. ;effect;Az ország elhagyta a földet. ;Az ország gyarmatosította a földet. ;1
+A pohár leesett az asztaltól. ;effect;A padlóra repedt. ;Egy rakás mosogatásba esett. ;0
+Az asztal megrándult. ;cause;A padló egyenetlen volt. ;A padló csúszós volt. ;0
+Az apa rávette a fiát, hogy hazudik. ;effect;A fia bevallotta az igazságot. ;Az apa bízott a fiában. ;0
+A férfi feje fájt. ;effect;Hányolószirupot vett be. ;Aszpirint vett be. ;1
+A vonat lelassult. ;cause;Az állomás felé közeledett. ;Elmaradt a menetrend. ;0
+A férfi terápián ment keresztül. ;cause;A mentális betegségek a családjában is megvoltak. ;Depresszióban szenved. ;1
+A nő megragadta a torkát. ;cause;Elnyelte az ételét. ;Megfulladt az ételből. ;1
+A nőnek torokfájása volt. ;effect;A hangja durva volt. ;Akcentussal beszélt. ;0
+A kutya a táblázaton lévő gyümölcsös steakre nézett. ;effect;Szalogott. ;Leült. ;0
+A nő üzletének sikerrel járt. ;effect;Kirúgta a dolgozóit. ;Gazdag lett. ;1
+A diákok kiléptek az osztályteremből. ;cause;A harang csörgött. ;A tanár házi feladatot adott. ;0
+A nő azt állította, hogy szellemet látott. ;effect;Ismerői kételkedést fejeztek ki. ;A rokonai ismerik őt. ;0
+A férfi elvesztette a hallását. ;cause;Majdnem megfulladt az óceánban. ;Majdnem meghalt egy robbanásban. ;1
+A gyerek elengedte a ballon-szálakat. ;effect;A lufi leeresztett. ;A lufi felrepült a levegőbe. ;1
+Az ember elvesztette a beszédképességét. ;cause;Megütötte a szívét. ;Mély lélegzetet vett. ;0
+A nő megbotlott a járdán. ;cause;Volt egy repedés a cementben. ;Hallotta, hogy a nevét hívják. ;0
+A férfi egy ágyú golyót dobott a medencébe. ;effect;A mentő utána ugrott be. ;A férfi áztatta a mentőket. ;1
+Antibiotikumot vettem be. ;effect;A fertőzésem meggyógyult. ;A fertőzésem elterjedt. ;0
+A közlekedési lámpa sárgára váltott. ;effect;A sofőr meghúzta a fékeket. ;A sofőr dudált. ;0
+A műanyag tartály megolvadt. ;cause;Meleg vízbe áztattam a tartályt. ;A forró kályhára tettem a tartályt. ;1
+A kocsi megdugult. ;cause;A sofőr egy telefonoszlopot ütött el. ;A sofőr átment a piroson. ;0
+A fiú egész éjjel tanult. ;effect;Kihagyta a vizsgát. ;Átment a vizsgán. ;1
+A kisfiú a medence szélére kapaszkodott. ;cause;Félt úszni tanulni. ;A mentőő szolgálatban volt. ;0
+A kezemet a mellkasomra tettem. ;effect;Éreztem a szívverésemet. ;A szívverésem felgyorsult. ;0
+Az irodám melletti épület építés alatt állt. ;effect;Az irodámban sok volt. ;Az irodám zajos volt. ;1
+A család megismerni akarta az új szomszédaikat. ;effect;A család meghívta a szomszédokat vacsorára. ;A család a kertjéből integetett a szomszédoknak. ;0
+A medencéből felcsapott a víz. ;cause;A úszó beleugrott a medencébe. ;A úszó lebegett a medencében. ;0
+Megharaptam egy szelet görögdinnyét. ;effect;Véletlenül lenyeltem egy magot. ;Véletlenül eltört a fogam. ;0
+A fiú megbotlott. ;cause;A zakója nyitva volt. ;A cipőfűzői meg voltak oldva. ;1
+A nő füldugót tett bele. ;cause;Zavarba hozta a hang. ;A füleit is átkapták. ;0
+Újra töltöttem a vizes üvegemet. ;cause;Megittam az összes vizet. ;A hűtőben tartottam. ;0
+A televíziós műsort cenzúrázták. ;cause;Szemérmes szavak voltak benne. ;Bonyolult a cselekmény. ;0
+A hajó elpusztult. ;effect;A legénység megfulladt. ;A legénység kalózokkal találkozott. ;0
+A fiú megdöbbent a rejtvény miatt. ;effect;Megoldotta a rejtvényt. ;Egy nyomot kért. ;1
+Felcsörgött a telefon. ;effect;A férfi letette a telefont. ;A férfi felvette a telefont. ;1
+A nő rám bámult. ;effect;Megöleltem. ;Nem éreztem jól magam. ;1
+A csoport elhagyta a múzeumot. ;cause;Lefényképezték a kiállítást. ;Megnézték az összes kiállítást. ;1
+Az ember vitába kezdett velem. ;effect;A barátom mutatta be a férfit. ;A barátom kiállt mellettem. ;1
+A motorom gumiabroncsja ki volt törve. ;effect;Léget pumpáltam a gumira. ;Átváltottam a sebességet a motoron. ;0
+A lány sápadtnak tűnt. ;effect;Az apja mesét olvasott neki. ;Az apja megérintette a homlokát. ;1
+A tolla kifogyott a tintából. ;effect;Egy ceruzát használtam. ;Aláírtam a nevemet. ;0
+A férfit nem engedtek kölcsönbe. ;cause;Adós volt. ;Elkezdett egy üzletet. ;0
+A lány otthon maradt az iskolából. ;cause;Húsvázas volt. ;Élvezte a matek tanulását. ;0
+A szemetes zsák tele volt. ;effect;A kukába vittem. ;A mosogatóba dobtam. ;0
+Leporoltam a szőnyeget. ;cause;A szobatársam kiöntött egy kis puncsot. ;A kutyám hajlik. ;1
+Az ember elvesztette a feszültségét. ;effect;Kikapcsolta a számítógépét. ;Egy széket dobott át a szobán. ;1
+A lány bedobott egy szálkaágat a tűzre. ;effect;A szál megégett. ;A tűz kioltódott. ;0
+A férfi kiment a zuhanyzóból. ;cause;A meleg víz eltűnt. ;Nem talált törülközőt. ;0
+A szülők azt akarták, hogy a gyermekeik főiskolára menjenek. ;effect;Elszántak egy pénzt a tandíjra. ;Arra ösztönözték a gyermekeiket, hogy játszanak odakint. ;0
+A férfi levette a cipőfűzőjét. ;effect;A cipő meglazult. ;A cipő elhasználódott. ;0
+Az ember megette a főétel felét. ;effect;Meghűtötte a maradékot. ;Megmentette a receptet. ;0
+A bokám duzzadt. ;effect;Ledobtam rá. ;Lotionot öntöttem rá. ;0
+Az irodám ajtaja nyitva volt. ;effect;Beszéltem a kollégámmal az asztalomnál. ;Hallottam a beszélgetést a folyosón. ;1
+Sorban kellett várnom. ;effect;Leültem. ;Átnéztem egy magazint. ;1
+A férfi a légyre nézett. ;effect;A légy elfújta a szót. ;A légy megállt. ;0
+Az ember végrendeletet írt. ;cause;Haldoklott. ;Özvegy volt. ;0
+A futó érezte, hogy a versenytársa eléri őt. ;effect;Kivonult a versenyből. ;Felgyorsította a lépését. ;1
+Gondosan átgondoltam a problémát. ;effect;- Tanácst kértem. ;Találtam egy megoldást. ;1
+Az utazó a remegő függőhíd fölött sétált. ;effect;Rettegett. ;Boldogulást érez. ;0
+Az ember előre látta a csapat győzelmét. ;effect;Találkozott a barátaival, hogy nézze a meccset. ;Fogadást kötött a barátaival. ;1
+A fiú nem tudott elaludni. ;effect;Beállította az ébresztőóráját. ;Ő megnézte a birkákat. ;1

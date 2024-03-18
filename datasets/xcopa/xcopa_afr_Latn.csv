@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Die item is in borrelfolie verpak. ;cause;Dit was broos. ;Dit was klein. ;0
+Ek het my sakke leeggemaak. ;effect;Ek het 'n kaartjie-stoppie gekry. ;Ek het 'n wapen gevind. ;0
+Termiete het die huis binnegeval. ;effect;Die termiete het uit die huis verdwyn. ;Die termiete het deur die hout in die huis gevoer. ;1
+Die reisigers het die grens bereik. ;effect;Die patrollieagent het hulle paspoorte nagegaan. ;Die patrollieagent het hulle van smokkel beskuldig. ;0
+Die kantoor was gesluit. ;cause;Dit was 'n vakansie. ;Dit was somer. ;0
+Die meisie het nie meer energie gehad nie. ;cause;Sy het damme gespeel. ;Sy het met tou gespring. ;1
+Die vrou het haar plek in die tou verloor. ;cause;Meer mense het in die ry ingekom. ;Sy het uit die lyn gestap. ;1
+Die meisie het haar neus vasgeknyp. ;cause;Die baba het op haar bib gespoeg. ;Die baba het haar luier vuil gemaak. ;1
+Die groep het hulle trefferliedjie gespeel. ;effect;Die gehoor het saam met die musiek geklap. ;Die gehoor het beleefd in stilte geluister. ;0
+Die meisie wou haar wiskundeonderwyser bedank. ;effect;Die meisie het ná skool vir die straf bly. ;Die meisie het vir die onderwyser 'n appel gebring. ;1
+Die jong kampeerders was bang. ;cause;Hulle kampbegeleider het vir hulle 'n spookverhaal vertel. ;Hulle het marshmallows op die kampvuur gebraai. ;0
+Die man het sy kop geslaan. ;effect;Hy het in sy gedagtes verdwaal. ;Hy het 'n skok gekry. ;1
+Die tjek wat ek geskryf het, is teruggeslaan. ;cause;My bankrekening was leeg. ;Ek het 'n salarisverhoging verdien. ;0
+Die man se posbus was vol strooipos. ;effect;Hy het die strooipos verwyder. ;Hy het 'n massa-e-pos gestuur. ;0
+Die matroos is in kwarantyn geplaas. ;cause;Hy is aan die siekte blootgestel. ;Hy het van die siekte herstel. ;0
+Die meisie het die kode uit haar kop geleer. ;cause;Sy het dit vir haarself opgesê. ;Sy het vergeet om dit neer te skryf. ;0
+Ek het die water in die glas gegooi. ;effect;Die water het my dors geslaan. ;Die glas het vol geword. ;1
+Die man het stilgebly toe sy vriend klaar gepraat het. ;cause;Hy wou sy vriend se ondersteuning aanbied. ;Hy het gedink aan sy vriend se woorde. ;1
+Die ongeluk was my skuld. ;effect;Ek het skuldig gevoel. ;Ek het aanklagte ingedien. ;0
+Die ketting het uitmekaar geval. ;cause;Die ketting was om 'n band toegedraai. ;Daar was 'n gebroke skakel in die ketting. ;1
+Die egpaar het besluit om 'n kompromie te sluit. ;cause;Hulle het moeg geword om te stry. ;Hulle het die probleem vermy om te bespreek. ;0
+Die vrou het besluit om vir 'n openbare amp te gaan staan. ;effect;Sy het 'n veldtogbestuurder gehuur. ;Sy het in die hof getuig. ;0
+Die man het verwag dat dit koud sou wees op sy reis. ;effect;Hy het warm klere in sy koffer gepak. ;Hy het met 'n groot koffer gereis. ;0
+Die student het die antwoord op die vraag geken. ;effect;Hy het sy hand opgelig. ;Hy het afgedank. ;0
+Die man se oë het gewater. ;cause;Stof het in sy oë gekom. ;Hy het 'n beskermende bril oor sy oë gesit. ;0
+Die speler het vyf wedstryde agtereenvolgens gewen. ;effect;Haar teenstander het haar daarvan beskuldig dat sy bedrieg het. ;Haar teenstander het jammer gevoel vir haar. ;0
+Die onderwyser het die student se eksamen geskeur. ;cause;Hy het die student betrap terwyl hy bedrieg het. ;Die student se antwoorde was verkeerd. ;0
+Ek het stilgehou om op te hou praat. ;cause;Ek het my stem verloor. ;Ek het nie asem kon haal nie. ;1
+Die bevrore kos het ontdooi. ;cause;Ek het dit in die mikrogolfoond gesit. ;Ek het dit met plastiek toegedraai. ;0
+Die werknemer het siek gemaak. ;cause;Hy het maagkrampe gehad. ;Hy wou 'n dag vry hê. ;1
+Die meisie het in die swembad geland. ;cause;Sy het op die swembad dek gehardloop. ;Sy het van die springplank af gespring. ;1
+Die fliekkaartjies is uitverkoop. ;cause;Dit was die openingsdag vir die fliek. ;Die film het swak resensies gekry. ;0
+Die man het gewig verloor. ;effect;Mense het hom geïsoleer. ;Mense het hom geprys. ;1
+Die meisie se hande het blase geword. ;cause;Sy het 'n brief getik. ;Sy het op 'n tou geklim. ;1
+Die sirkusperformer het gesonguleer terwyl hy op 'n eenwiel gery het. ;effect;Die gehoor het in verbasing gejuig. ;Die akrobat het van' n trapezium af geswaai. ;0
+Ek het my geduld verloor. ;cause;My vriend het my laat wag. ;My vriend het betyds aangekom. ;0
+Die oorlogvoerende lande wou vrede hê. ;effect;Hulle het kernwapens ontwikkel. ;Hulle het 'n verdrag onderhandel. ;1
+Die man het slaapmedikasie geneem. ;effect;Hy het lomerig geword. ;Hy het koors gehad. ;0
+Die vrou het teen die bank gestamp. ;effect;Die been van die bank het los geword. ;Sy het haar knie gebreek. ;1
+Die seun het die ballon vasgepers. ;effect;Die ballon het gebars. ;Die ballon het weggevlieg. ;0
+Hulle het in hulle hotelkamer ingetrek. ;effect;Hulle het hulle koffers uitgepak. ;Hulle het na die lughawe gegaan. ;0
+Ek het in die perske gebyt. ;effect;Die perske is gebreek. ;Sap uitgestort. ;1
+My hande het klewerig geword. ;cause;Ek het 'n donut geëet. ;Ek het 'n soetgees gehad. ;0
+Ek het die deur gedruk. ;effect;Die deur het oopgegaan. ;Die deur is gesluit. ;0
+Aktiviste het die produkte geboikot. ;cause;Die produkte is getoets vir gehalteversekering. ;Die produkte is deur kinderarbeid vervaardig. ;1
+Ek het 'n gat in die muur geboor. ;effect;'n Muis het uit die gat gekruip. ;Stof het uit die gat geblaas. ;1
+Die vrou was afgunstig op haar suster. ;cause;Haar suster was gelukkig. ;Haar suster het geskei. ;0
+Ek het wyn op my hemp gemors. ;effect;Ek het 'n voorskoot aangetrek. ;Ek het my hemp verander. ;1
+Die kassier het die kasregister oopgemaak. ;cause;Die kliënt het sy beursie deursoek. ;Die klant het haar geld gegee. ;1
+Die straatmusiekant het' n skare aangetrek. ;effect;Mense het hom geld gegee. ;Hy het die skare weggestuur. ;0
+Die seuntjie het na sy oppasser toe gehuil. ;cause;Hy het sy ouers gemis. ;Dit was snack tyd. ;0
+Die vlieënier se radar het 'n storm opgemerk. ;effect;Die vlieënier het van die storm af weggeseil. ;Die vlieënier het deur die storm gevlieg. ;0
+Die boom het sy blare laat val. ;effect;Die blare het kleure aangeneem. ;Die blare het op die grond opgehoop. ;1
+Die seun was in 'n kwaadwillige bui. ;effect;Hy het besluit om 'n kaartspel met sy suster te speel. ;Hy het besluit om 'n grap met sy suster te maak. ;1
+Die kind het gekla dat hy badkamer toe moes gaan. ;effect;Sy pa het hom 'n koeldrank gegee om te drink. ;Sy pa het die motor by 'n vulstasie gestop. ;1
+Die kind het visvoer in die tenk gestort. ;effect;Die vis het uit die tenk gespring. ;Die vis het na die kos toe geswem. ;1
+Die vrou se politieke beskouings het verander. ;effect;Sy het haar party se lidmaatskap verander. ;Sy het 'n protes aangevoer. ;0
+Die badkamer wasbak was verstop. ;effect;Ek het die kraan oopgemaak. ;Ek het dreinreiniger daarin gegooi. ;1
+Die passasiers het van die trein afgeklim. ;cause;Die trein het by die stasie aangekom. ;Die trein het sy fluitjie geblaas. ;0
+Die man druk op die klam flap van die koevert. ;effect;Hy het 'n seël op die koevert gesit. ;Hy het die koevert toegemaak. ;1
+Die vriende het nie meer kontak gehad nie. ;cause;Hulle het mekaar se geselskap geniet. ;Hulle het na verskillende stede getrek. ;1
+Die rekenmeester het die maatskappy se fondse verkeerd bestuur. ;effect;Sy is van haar posisie ontslaan. ;Sy het met kraamverlof gegaan. ;0
+Ek het na die horlosie gekyk. ;cause;Ek het die klok hoor tik. ;Ek wou die tyd kyk. ;1
+My hand het krampe gekry. ;cause;Ek het die opstel met die hand geskryf. ;Ek en my vrou het hande aan hande gehou. ;0
+Die bout het gespan. ;cause;Ek het die bout vervang. ;Ek het die sleutel gedraai. ;1
+Die egpaar het 'n huurkontrak vir 'n woonstel geteken. ;effect;Die egpaar het in die woonstel ingetrek. ;Die stad het die woonstel verbied. ;0
+Die vrou het buite op die stoep gesit. ;cause;Sy wou die sonsondergang sien. ;Sy het gedink sy het 'n weerlig gesien. ;0
+Die man het 'n reddingsbaadjie in die water gedra. ;cause;Hy kon nie swem nie. ;Die water was vlak. ;0
+Die vrou het 'n tikfout in die woordverwerker gemaak. ;effect;Sy het die dokument uitgevee. ;Sy druk die agterste sleutel. ;1
+Die meisie het met haar vriende gespog. ;cause;Sy het 'n slegte graad gekry. ;Sy het 'n wedstryd gewen. ;1
+Die grasperk was modderig. ;cause;Dit het oornag gegooi. ;Dit was vol onkruid. ;0
+Die vrou het oorgeslaap. ;cause;Sy het die nag in 'n hotel oorgebly. ;Sy het vergeet om haar wekker in te stel. ;1
+Die man het sonbrandmiddel aangetrek. ;cause;Hy het in die skaduwee gesit. ;Hy het na die strand gegaan. ;1
+Die navorsers het die teorie bewys. ;effect;Die navorsers het die teorie teruggetrek. ;Individue het die teorie aanvaar. ;1
+Die ondersteuners by die wedstryd het gejuig. ;cause;Die wedstryd het in verlenging begin. ;Die skeidsregter het 'n slegte besluit geneem. ;1
+Ek het my kombinasie op die slot ingevoer. ;effect;Ek het die slot gesluit. ;Die slot het oopgeslaan. ;1
+Die skare het al hoe meer saamgestem. ;effect;Die vader het vir sy seun geld gegee. ;Die vader het sy seun se hand gegryp. ;1
+Die sneeu het die oprit geblokkeer. ;effect;Ek het die sneeu in 'n sneeubal versamel. ;Ek het die sneeu uit die pad geskuif. ;1
+Die kajakryers het hulle roeiers gery. ;effect;Die kajak het die strand bereik. ;Die kajak het 'n golf getref. ;0
+Die meisie het beheer oor haar fiets verloor. ;effect;Sy het die stuur losgelaat. ;Sy het in 'n heining gekraak. ;1
+Ek het die fan aan. ;effect;Water het op my vel gesprinkel. ;Ek het gevoel hoe koel lug oor my kom. ;1
+Die branderplankryers het na die strand teruggekeer. ;cause;Hulle was nat. ;Hulle het 'n haai gesien. ;1
+Ek het die afvoerprop in die bad gehaal. ;effect;Die water het uit die bad gestort. ;Die water het op die vloer gespat. ;0
+Die man het skuldig gevoel omdat hy sy vrou bedrieg het. ;effect;Hy het haar van ontrouheid beskuldig. ;Hy het sy ontrouheid aan haar bely. ;1
+Die ink op die plakkaat is gesmeer. ;cause;Ek het gewag totdat die ink droog is. ;Ek het water op die plakkaat gemors. ;1
+Die kind het skree wakker geword. ;cause;Hy het 'n nagmerrie gehad. ;Hy het in die bed gepynig. ;0
+Die seun het sy voete op die tafel gesit. ;effect;Sy pa het by die tafel gaan sit. ;Sy pa het hom 'n les geleer. ;1
+My vriend het sy kop in my rigting gedraai. ;cause;Ek het sy naam uitgeroep. ;Ek het met my arms gewaai. ;0
+Die regering het sy burgers onderdruk. ;effect;Die burgers het in opstand gekom. ;Die burgers het geregistreer om te stem. ;0
+Die seun was in die bos verdwaal. ;effect;Hy het 'n tent opgeslaan. ;Hy het om hulp geskree. ;1
+Die vrou het oorsee gereis. ;cause;Sy wou leer hoe om te teken. ;Sy wou van ander kulture leer. ;1
+Die man was jaloers op sy werksmaat. ;cause;Sy werksmaat het 'n bevordering gekry. ;Sy werksmaat het laat gewerk. ;0
+Die man het buitelanders gesien. ;cause;Hy het hallusinasies gehad. ;Hy het gemediteer. ;0
+Die man se hare het blou geword. ;cause;Hy het bleikmiddel daarin gesit. ;Hy het sjampoe daarin gesit. ;0
+Die kunstenaar het nuwe werk geskep. ;cause;Sy het haar vorige werk gekritiseer. ;Sy het 'n beroerte van inspirasie. ;1
+Die seun het van die huis af weggetrek. ;cause;Hy is uit die weermag ontslaan. ;Hy was op pad universiteit toe. ;1
+Boeke het uit die boekrak geval. ;cause;Die rakke was met stof bedek. ;'n Aardbewing het die boekrak geskud. ;1
+Die elektrisiteit in my huis het af. ;effect;Ek het 'n lig aangesteek. ;Ek het die stroomafbreker teruggesit. ;1
+Ons het op die berg- en berghelling gery. ;cause;Dit het eng gelyk. ;Dit het lekker gelyk. ;1
+Die sak popcorn het begin pop. ;cause;Ek het botter in die sak gegooi. ;Ek het dit in die mikrogolfoond verhit. ;1
+'n Boom het op die kraglyn geval. ;effect;Die elektrisiteit in die buurt het uitgegaan. ;Die voorspelling het sterk winde voorspel. ;0
+Die spreker het polities onkorrekte opmerkings gemaak. ;effect;Hy het die gehoor verveeld. ;Hy het die gehoor beledig. ;1
+Ek het myself met die speld gesteek. ;effect;'n Sweetdruppel het van my gesig af gestort. ;'n Druppel bloed het op my vinger gevorm. ;1
+Die vis het op die oppervlak van die tenk geswem. ;cause;Dit was honger. ;Dit was dood. ;1
+Die man se stem het hees geklink. ;cause;Hy het verkoue gehad. ;Hy het ophou rook. ;0
+Die hysbakdeure het oopgegaan. ;cause;Die hysbak het by die aangewese vloer aangekom. ;Die hysbak het tussen die verdiepings vasgeval. ;0
+Die tiener het uit die huis gesluip. ;cause;Hy het vir sy ouers gelieg. ;Sy ouers het hom huis toe gestuur. ;1
+Die badkamer is oorstroom. ;cause;Die toilet het oorstroom. ;Die waterverwarmer het gebreek. ;0
+Die hondjie het naby sy eienaar gebly. ;cause;Die eienaar het 'n kraag aan die hondjie gesit. ;Die eienaar het die hondjie aan 'n leiband gehou. ;1
+Die man het sy weerspieëling gesien. ;cause;Hy het onder die uitgestrekte boom gestaan. ;Hy het oor die rustige meer gestaan. ;1
+Ek het my vriendin se telefoonoproep gemis. ;effect;Ek het haar terug gebel. ;Ek het haar vir aandete ontmoet. ;0
+Die gesin het die omgewing deursoek. ;cause;Hulle hond het van die huis af weggehardloop. ;Duur juweliersware het uit hulle huis verdwyn. ;0
+Ek het my asem gesien toe ek uitasem. ;cause;Die weer was koud. ;My bors het styf gevoel. ;0
+Die werknemers het 'n vakbond gevorm. ;cause;Hulle wou beter werksomstandighede hê. ;Hulle werkgewer het hulle salarisse verhoog. ;0
+Ek het 'n appeltert gebak. ;effect;'n Rotgeur het die kombuis gevul. ;'n Warm aroma het die kombuis gevul. ;1
+Die vrou het gesukkel om te loop. ;cause;Sy het hoë hakke gedra. ;Sy het haar skoene uitgetrek. ;0
+Stoom het uit die pot water opgekom. ;cause;Die water het gekook. ;Ek het die pot bedek. ;0
+Al my sokkies was in die wasgoedwinkel. ;effect;Ek het sandale gedra. ;Ek het stewels gedra. ;0
+Die politikus se argument is as absurd beskou. ;effect;Hy het die steun van kiesers verloor. ;Hy is van korrupsie beskuldig. ;0
+Almal het die paartjie se verlowing afgekeur. ;effect;Die egpaar het swanger geword. ;Die egpaar het weggeloop. ;1
+Die gebou is aan die miljoenêr gewy. ;cause;Die miljoenêr wou hê dat die gebou afgebreek moet word. ;Die miljoenêr het die fondse bygedra om dit te bou. ;1
+Die verkoopsgenoot het die meisie daarvan beskuldig dat sy gesteel het. ;cause;Die verkoopspersoon het gesien hoe die meisie goedere in haar beursie sit. ;Die verkoopspersoon het die meisie gehelp om die beursie te vind waarvan sy gehou het. ;0
+Die land het die oorlog teen die naburige gebied verklaar. ;effect;Soldate is uitgestuur om te veg. ;Soldate is met hulle gesinne herenig. ;0
+Die hof het die omstrede uitspraak gehandhaaf. ;effect;'n Onluste het voor die hofsaal uitgebreek. ;'n Paartjie het voor die hof geloftes afgelê. ;0
+Die meisie het iets wat brand, geruik. ;cause;Sy het die koekies uit die pot gehaal. ;Sy het die koekies in die oond gelos. ;1
+Dit het soos 'n stortreën begin reën. ;effect;Die storm het vererger. ;Ek het haastig ingegaan. ;1
+Die gebou is ontruim. ;cause;Die hysbak het opgehou werk. ;Die brandalarm het afgetrek. ;1
+Die vader het sy seun se alkoholisme gehaat. ;effect;Die pa het vir sy seun 'n bier gekoop. ;Die vader het sy seun uit die huis gegooi. ;1
+Die prokureur het die trappe na haar kantoor opgegaan. ;cause;Die sekretaresse het vir die dag huis toe gegaan. ;Die hysbak was nie in werking nie. ;1
+Die man het sy vriend geïrriteer. ;cause;Sy vriend het hom onderbreek. ;Sy vriend het vir hom middagete gekoop. ;0
+Die meisie het haar geld aan die kassier gegee. ;effect;Die kassier het die meisie haar wisselgeld gegee. ;Die kassier het vergeet om die meisie 'n kwitansiekoers te gee. ;0
+Die vrou is in 'n rolstoel gesit. ;cause;Sy is verlam ná 'n ongeluk. ;Sy het in 'n draagbaar die hospitaal ingekom. ;0
+Burgers het die nasionale vlag buite hulle huise opgehang. ;cause;Die land het sy onafhanklikheid herdenk. ;Die land het ekonomiese probleme ondervind. ;0
+Die span het die toernooi verloor. ;effect;Hulle het hulle aanhangers teleurgestel. ;Hulle het hulle aanhangers geïnspireer. ;0
+My vriend het daarop gewys dat ek kos tussen my tande gehad het. ;effect;Ek het skaam gevoel. ;Ek was trots. ;0
+Die seun het nie sy geskiedeniseksamen geslaag nie. ;cause;Hy het aandag gegee in die klas. ;Hy het vergeet om te studeer. ;1
+Die gebou in die middestad het ineengestort. ;cause;'n Aardbewing het die stad getref. ;Misdaadsyfers in die stad het toegeneem. ;0
+Die man se vriendin het met hom gebreek. ;effect;Hy het haar gesmeek om hom terug te neem. ;Sy het hom aan haar ouers voorgestel. ;0
+Die twee kinders het gelyktydig die bal probeer haal. ;effect;Die bal het weggerol. ;Hulle koppe het mekaar geklop. ;1
+Die wasbeer het die vullisbak deursoek. ;cause;Daar was karton in die asblik. ;Die deksel was van die asblik af. ;1
+Die seun het die potlood geslyp. ;cause;Dit was goedkoop. ;Dit was saai. ;1
+Die kassier het die vrou geweier om die geld terug te betaal vir die rok. ;cause;Sy het haar kwitansies verloor. ;Die rok het nie pas nie. ;0
+Die skrape op my vel was diep. ;effect;Dit het vinnig genees. ;Dit het 'n litteken agtergelaat. ;1
+Die man het vreemde blikke van passasiers in die trein ontvang. ;cause;Hy het na die grond gekyk. ;Hy het met homself gepraat. ;1
+Die kind het kruimels op die vloer gelaat. ;effect;Miere het na die kruimels gekruip. ;Die kind het die brood weggegooi. ;0
+Die vrou het haar suster 'n sakdoek gegee. ;cause;Die vrou se suster het haar hande saamgevou. ;Die vrou se suster het begin huil. ;1
+Die man het 'n muntstuk geneem. ;cause;Sy lippe was geskeur. ;Hy was bekommerd oor slegte asem. ;1
+Die egpaar het vroeg vertrek vir die vertoning. ;cause;Hulle het die verkeer rondom die teater verwag. ;Hulle het die pad na die teater. ;0
+Die vrou het nie by die werk gebly nie. ;effect;Haar baas het haar geprys. ;Haar werksmaat het haar gedek. ;1
+Die man het die aktiviste se petisie onderteken. ;cause;Hy het hulle saak ondersteun. ;Hy het hulle as kranksinnig bestempel. ;0
+Die akteur se hart het gevlieg voor sy optrede. ;cause;Hy het verhoogvrees gehad. ;Hy het sy woorde uit sy kop geleer. ;0
+Ek was verlore. ;effect;Ek het my kontant getel. ;Ek het 'n kaart uitgerol. ;1
+Die ryp vrugte het in die son gebly. ;effect;Dit is geëet. ;Dit het versmoor. ;1
+Die motor het gebreek. ;cause;Ek het die ontsteking aangeskakel. ;Die enjin het oorverhit. ;1
+Die man het sy rug seergemaak. ;effect;Hy het 'n psigiater gaan sien. ;Hy het 'n paar dae lank in die bed gebly. ;1
+Ek het 'n vuur in die kaggel aangesteek. ;cause;Ek het nie meer hout gehad nie. ;Dit was koud in die huis. ;1
+Die vrou het opgehou hardloop. ;cause;Sy het 'n kramp in haar sy gekry. ;Sy het 'n tweede asem gekry. ;0
+Ek het aan my buurman se deur geklop. ;effect;My buurman het my ingenooi. ;My buurvrou het haar huis verlaat. ;0
+Die vrou het van frustrasie gesug. ;cause;Haar man het haar bekommernisse verkeerd verstaan. ;Haar man het haar met 'n afskeidskus gegroet. ;0
+Die onderwyser het die student geprys. ;cause;Die student het die vraag korrek beantwoord. ;Die student het gehuiwer om die vraag te beantwoord. ;0
+Die vrou het geen eiers meer gehad nie. ;effect;Sy het na die plaas gegaan. ;Sy het na die supermark gegaan. ;1
+Ek het 'n ou vriend ontmoet. ;effect;Ek het 'n geheim aan hom bekend gemaak. ;Ek het hom 'n drukkie gegee. ;1
+Die vrou het geweier om in die meer te gaan. ;cause;Sy het 'n vis gevang. ;Dit het besmet gelyk. ;1
+Die student het nat na die klas aangekom. ;cause;Sy sambreel was stukkend. ;Sy fiets is gesteel. ;0
+Die wyser op die rekenaarskerm het beweeg. ;cause;Die gebruiker het op die muis geklik. ;Die gebruiker het die muis verskuif. ;1
+Die bestuurder het 'n ompad geneem. ;cause;Daar was 'n ongeluk op die hoofweg. ;Sy het die vragmotor voor haar gevolg. ;0
+Ek het die nat linne op die buitenshuise waslyn gehang. ;effect;Die linne het droog geword. ;Die linne vlek. ;0
+Die vrou het haar sonbril aangetrek. ;cause;Die sonlig was helder. ;Sy het 'n taxi geroep. ;0
+Die man het na die naghemel gekyk. ;cause;Hy wens dit was somer. ;Hy het gedink dit is pragtig. ;1
+Ek was uitgeput. ;effect;Ek het vroeg gaan slaap. ;Ek het die hele nag wakker gebly. ;0
+Die man het na die kapper gegaan. ;cause;Hy het sy hare laat groei. ;Sy hare het lank geword. ;1
+Die seun het sy nuwe klasmaat op die verkeerde manier uitgebuit. ;cause;Die seun het die nuwe klasmaat verwelkom. ;Die seun het nie van die nuwe klasmaat gehou nie. ;1
+Ek het 'n glas melk gesoek. ;cause;Ek het koekies geëet. ;Ek het brood gebak. ;0
+Dit het begin reën. ;effect;Die bestuurder het die hoofligte aangesteek. ;Die bestuurder het die motor in die agterste rigting geskuif. ;0
+Die parkeerterrein van die gebou was leeg. ;effect;Ek het oorkant die straat geparkeer. ;Ek het naby die ingang geparkeer. ;1
+Die skrywer het haar sperdatum vir die voorlegging van die konsep gemis. ;cause;Sy het 'n skrywersblok gehad. ;Sy het die konsep geredigeer. ;0
+Die medewerker het opgehang. ;cause;Ek het gevra om met 'n toesighouer te praat. ;Ek het my identifikasie nommer gegee. ;0
+Die wind het deur die oop venster geblaas. ;effect;Die deurbel het geklink. ;Die gordyne het geskud. ;1
+Die elektrisiteit in my huis het af. ;cause;Ek het die lamp uitgekap. ;Ek het 'n lont geblaas. ;1
+Die gewigopteller het gegrom. ;cause;Hy het sy spiere in die spieël gebreek. ;Hy het die balk oor sy kop opgelig. ;1
+Die student het die berekeninge in sy kop probeer doen. ;effect;Hy het 'n sakrekenaar uitgetrek. ;Hy het verward geraak. ;1
+Die baba het aan die slaap geraak. ;cause;Die pa het die baba se luier verander. ;Die vader het die baba saggies geskud. ;1
+Die meisie het die waterballon na die seun gegooi. ;effect;Die seun het 'n skok gekry. ;Die seun het nat geword. ;1
+Die fotograaf het vergeet om die flits op die kamera te gebruik. ;effect;Die foto's het vaag geblyk. ;Almal op die foto's het geweier om te glimlag. ;0
+Ek het die uitnodiging na die verjaardagpartytjie afgekeur. ;cause;Ek was eensaam. ;Ek was nie in die stad nie. ;1
+Ek het oefeninge gedoen. ;cause;Ek het energiek gevoel. ;Ek was bang. ;0
+Ek het die nat spons uitgedruk. ;effect;Dit het water opgeneem. ;Water het daaruit uitgelek. ;1
+Die vakansiegangers het' n veerboot na die oord geneem. ;cause;Die oord was vol. ;Die oord was op 'n eiland. ;1
+Die tiener het 'n tatoeëermerk gekry. ;cause;Sy was bang vir naalde. ;Sy wou in opstand kom. ;1
+'n Onbekende motor wat voor my huis geparkeer is. ;effect;Ek het agterdogtig geword. ;Ek het die polisie gebel. ;0
+Die misdadiger het homself oorgegee. ;cause;Die bewyse het hom in die saak betrek. ;Daar was geen bewyse teen hom nie. ;0
+Die swaargewig man het besluit om gewig te verloor. ;effect;Hy het van die lekkers ontslae geraak. ;Hy het kafeïen vermy. ;0
+Die meisie het op die ys getrap. ;effect;Sy het glip. ;Sy het getrek. ;0
+Die vrou het ringetjies onder haar oë gehad. ;cause;Sy het die hele nag wakker gebly. ;Sy het haar seun bed toe gesit. ;0
+Lava het uit die vulkaan gevloei. ;cause;Die vulkaan het uitgebars. ;Die vulkaan was slapend. ;0
+Die vrou het haar skoene aangetrek. ;cause;Sy het almal op die partytjie geken. ;Sy wou die partytjie verlaat. ;1
+Ek het die tolhuis bediende betaal. ;effect;Sy het my deur die tolhokkie laat gaan. ;Sy het my by die tolhuis laat wag. ;0
+Die uitvoerende hoof het bankrot geraak. ;cause;Hy het sy maatskappy-aandeel verkoop. ;Hy het sy fortuin vermors. ;1
+Die man het na die dokter toe gegaan. ;cause;Die dokter was op verlof. ;Die man het siek gevoel. ;1
+Ek het my slaapkamer deur die venster verlaat. ;cause;Die huis het gebrand. ;Die huis was leeg. ;0
+Die seun se vingers het afgekap. ;cause;Hy het lank gedoucheer. ;Hy het sy hande met seep gespuit. ;0
+Ek spuit die melk uit. ;cause;Die melk het suur gesmaak. ;My mond was droog. ;0
+Ek het die bus gemis. ;effect;Ek was vroeg by die werk. ;Ek was laat vir werk. ;1
+Die vragmotor het met die motor gebots. ;effect;Die vragmotor het versnel. ;Die motor is gebreek. ;1
+Die span het die wedstryd in hulle guns gemanipuleer. ;effect;Hulle het gewen. ;Hulle het uitgetree. ;0
+Die soda bottel het gesis. ;cause;Ek het die bottel omgedraai. ;Ek het die pet afgedraai. ;1
+Die seun is uit sy huis toegesluit. ;effect;Hy het deur 'n oop venster ingekruip. ;Hy het op die dak geklim. ;0
+Die deurbel het geklink. ;effect;Die besoeker het op die deur geklop. ;Die vrou het deur die sleutelgat in die deur gekyk. ;1
+Die man het sy pak gevlek. ;effect;Hy het dit in die stomerij laat skoonmaak. ;Hy het dit in sy kas opgehang. ;0
+Die meisie het die buis tandpasta uitgedruk. ;effect;Die tandpasta het uit die buis gespuit. ;Die meisie het die tandepasta uitgespuit. ;0
+Die aantal burgerlike sterftes weens die oorlog het toegeneem. ;effect;Pasifiste het 'n protes gehou. ;Pasifiste het 'n optog gehou. ;0
+Die meisie het die lint uit haar hare geruk. ;cause;Sy het die lint vasgemaak. ;Die lint het kinderig gelyk. ;1
+Die man het plastiese chirurgie ondergaan. ;effect;Hy het oud geword. ;Hy het jonger gelyk. ;1
+Uit die eier het 'n jong hoender gekom. ;cause;Die eier het uitgebroei. ;Ek het die eier gebreek. ;0
+Die gevangene het honger gesterf. ;effect;Hy is dood. ;Hy het gevlug. ;0
+Die man het sy balans op die leer verloor. ;effect;Hy het op die leer geklim. ;Hy het van die leer af geval. ;1
+Die kind het geborsel. ;cause;Hy het 'n sluk soda gedrink. ;Hy het die soda blik oopgemaak. ;0
+'n Koue stroom het deur die venster ingekom. ;effect;Ek het ontspan. ;Ek het geskrik. ;1
+Die student het 'n beurs ontvang om universiteit toe te gaan. ;cause;Haar klasmaats het haar gerespekteer. ;Sy het goeie grade gekry. ;1
+Die meisie het die seun uitgelag. ;cause;Sy het langs hom gewoon. ;Sy was verlief op hom. ;1
+Die honger swerwer het kos gesteel. ;cause;Hy het mense tot jammerte aangetrek. ;Hy het nie geld gehad nie. ;1
+Ek het my vriend gebel om te gesels. ;cause;Ek wou privaatheid hê. ;Ek het eensaam gevoel. ;1
+Die man het sy hand na my uitgestrek. ;effect;Ek het sy hand geskud. ;Ek het hom geslaan. ;0
+Ek het weggekruip. ;cause;Die vuurwerke het in die lug opgeblaas. ;Die frisbee het na my kop toe gevlieg. ;1
+Die meisie het haar naels gebyt. ;cause;Sy was bekommerd. ;Sy was verbaas. ;0
+Ek het die bladsy op die kalender omgedraai. ;cause;Ek het 'n afspraak op die kalender gemerk. ;Dit was die begin van 'n nuwe maand. ;1
+Die man het uitgevind dat sy vrou' n verhouding met' n ander man het. ;effect;Hy het sy prokureur afgedank. ;Hy het vir egskeiding aansoek gedoen. ;1
+Die meisie het die rubberbal laat val. ;effect;Die bal het gespring. ;Die bal het gloei. ;0
+Die meisie het 'n fout gemaak by haar eksamen. ;effect;Sy het die antwoord raai. ;Sy het haar antwoord uitgewis. ;1
+Die speler het sy teenstander aangepak. ;effect;Sy teenstander het die pas gevang. ;Sy teenstander het op die grond geval. ;1
+Ek het die tamaties van die wingerdstokke gepluk. ;cause;Hulle was ryp. ;Ek het hulle natgemaak. ;0
+Die man wou romanties optree. ;effect;Hy het sy eks-vriendin vir middagete ontmoet. ;Hy het vir sy vriendin sjokolade gekoop. ;1
+Die kwik in die termometer het gestyg. ;cause;Ek het die termometer laat val. ;Die weer het warmer geword. ;1
+'n Tornado het deur die dorp gekom. ;effect;Die dak van die hofgebou het afgegaan. ;Die snelweg het gevaarlik ys geword. ;0
+Die student het onderrig ontvang. ;effect;Sy punte het verbeter. ;Hy het op die eksamen gekap. ;0
+Ek het gemaklik gevoel. ;cause;Ek het op die grond gekniel. ;Ek het myself in 'n kombers toegedraai. ;1
+Ek het die klip gepoleer. ;effect;Dit het glad geword. ;Dit het blink geword. ;1
+Ek het suiker by die koffie gevoeg. ;effect;Die koffie het sterk geruik. ;Die koffie het soet gesmaak. ;1
+Die man het deur die koerante geskuif. ;effect;Hy het 'n papier sny. ;Hy het die koerante geskeur. ;0
+Ek het die spyker met die hamer geslaan. ;effect;Die spyker het in die hout gesink. ;Die spyker het roes geword. ;0
+Die vis het die lyn gebyt. ;effect;Die visserman het die vis in die water gesleep. ;Die visser gooi die lyn weer uit. ;0
+Die tiener was skaam om skool toe te gaan. ;cause;Sy het 'n puistjie. ;Sy het haar braces afgetrek. ;0
+My gesigsuitdrukking het opgelig. ;cause;Ek het goeie nuus ontvang. ;Ek het my geduld verloor. ;0
+Ek het my hande met 'n handdoek afgedroog. ;cause;Die handdoek was nat. ;My hande was nat. ;1
+Die man het sy balans op die stoel verloor. ;cause;Die stoel het onder hom geskud. ;Hy het verf op die stoel gemors. ;0
+Die spanmaats het mekaar die skuld gegee. ;cause;Hulle het hulle spel verloor. ;Hulle afrigter het die oefening gekanselleer. ;0
+Ek het om vergifnis gevra. ;cause;Ek het my fout betreur. ;Ek het my doel bereik. ;0
+Die vrou het haar afspraakjie verveeld. ;cause;Hy het haar vrae oor haarself gevra. ;Hy het onophoudelik oor homself gepraat. ;1
+Die meisie het 'n glimlag laat skyn. ;effect;Haar wange het rooi geword. ;Haar kuiltjies het verskyn. ;1
+Die vyand se skip het opgeblaas. ;cause;Dit het oor die myn gegaan. ;Dit het in die hawe ingeseil. ;0
+Die man het sy voet deurboor. ;cause;Hy het in 'n plas geloop. ;Hy het op gebreekte glas gestap. ;1
+Die speurders het die misdaadplek vir vingerafdrukke deursoek. ;effect;Hulle het die moordenaar se identiteit ontdek. ;Hulle het die wapen by die misdaadplek gevind. ;0
+Daar was baie verkeer op die snelweg. ;effect;Ek het 'n ompad geneem. ;Ek het gevra vir 'n rit. ;0
+Die land se ekonomie het agteruitgegaan. ;effect;Baie mense het siek geword. ;Baie mense het werkloosheid ondervind. ;1
+Die kruisingswag het haar fluitjie by die kinders geblaas. ;cause;Hulle was op die punt om in die tegendeel verkeer in te loop. ;Sy het hulle uit haar omgewing herken. ;0
+Ek het my oë op my vriend gedraai. ;cause;Hy het my die waarheid vertel. ;Hy het 'n sarkastiese opmerking gemaak. ;1
+Die motor het sonder brandstof gebly. ;effect;Die bestuurder was op die pad vas. ;Die bestuurder het 'n lifter opgetel. ;0
+Die vrou het geboorte gegee. ;effect;Die baba is gebore. ;Die vrou het oggendkwaak gehad. ;0
+Die man se hoed is weggewaai. ;cause;Hy het die hoed afgetrek. ;Dit was winderig buite. ;1
+Die meisie het haar klasmaat se verjaardagpartytjie bygewoon. ;cause;Sy het 'n uitnodiging ontvang. ;Sy het 'n geskenk gekoop. ;0
+Die seun se voorkop was warm. ;effect;Sy ma het sy temperatuur geneem. ;Sy ma het hom na die park geneem. ;0
+Die man het homself met waterstof gespuit. ;cause;Hy wou sy afspraakjie beïndruk. ;Hy het gel in sy hare gesit. ;0
+Die elektrisiteit in die huis het af. ;effect;Ek het na 'n flitslig gesoek. ;Ek het 'n graaf opgetel. ;0
+Die gesin het na 'n groter huis getrek. ;cause;Die seun het sy hoërskoolopleiding voltooi. ;Die moeder het aan 'n tweeling geboorte gegee. ;1
+Die marathonloper het stadig geloop. ;cause;Sy wou haar energie bespaar. ;Sy het die eindstreep gesien. ;0
+Die seun het die verkoopmasjien geskop. ;cause;Die masjien het die geld uitgestort. ;Die sakkie chips was vas. ;1
+My vriend se hond het gesterf. ;effect;Ek het my oë op hom gerol. ;Ek het hom 'n drukkie gegee. ;1
+Die sakeman se kredietkaart is verwerp. ;effect;Hy het 'n skuldbewys geskryf. ;Hy het kontant betaal. ;1
+Die man vervloek. ;cause;Hy het sy naels geknip. ;Hy het sy teen gestamp. ;1
+Die man was trots op sy broer. ;cause;Sy broer het met hulle ouers in 'n argument beland. ;Sy broer is in die regskool aanvaar. ;1
+Die meisie wou meer oor die sonnestelsel leer. ;effect;Sy het na die biblioteek gegaan. ;Sy het na die sterre gekyk. ;0
+Die plakkaat het aan die muur vasgeval. ;cause;Ek het die plakkaat bo die deur geplaas. ;Ek het die plakkaat agterop vasgemaak. ;1
+Die kliënt het die argitek se planne vir die gebou goedgekeur. ;effect;Die argitek het die gebou gebou. ;Die argitek het die planne aangepas. ;0
+Die man het sy lepel laat val. ;cause;Sy hand het geskud. ;Hy het die lepel gelik. ;0
+Die uitvoerende hoof van die maatskappy het bedank. ;effect;Die direksie het die maatskappy ontbind. ;Die direksie het sy plaasvervanger gevind. ;1
+Ek het laat by die lesing aangekom. ;effect;Ek het in die agterste ry gaan sit. ;Ek het die verhoog genader. ;0
+Die man is uit die tronk vrygelaat. ;cause;Sy familie het sy borgtog betaal. ;Hy het 'n medegevangene aangeval. ;0
+Die gesin het al hulle besittings verloor. ;cause;Hulle het hulle huis verkoop. ;Hulle huis het afgebrand. ;1
+Ek het op die aluminium blik gestamp. ;effect;Die blikkie is herwin. ;Die blikkie is verpletter. ;1
+Die meisie het by die debat span aangesluit. ;effect;Sy het geleer om' n rekenaar te gebruik. ;Sy het kommunikasievaardighede geleer. ;1
+My gemoedstoestand het verbeter. ;cause;Ek het na musiek geluister. ;Ek het die skottelgoed gewas. ;0
+Die liefdadigheidsorganisasie het 'n doel gestel om geld in te samel. ;effect;Hulle het die haweloses gevoed. ;Hulle het 'n veiling gehou. ;1
+Die berg- en berghut het die steil val afgestort. ;effect;Die passasiers het gegiggel. ;Die passasiers het geskree. ;1
+Ek was woedend. ;effect;Ek het die posbus nagegaan toe ek die huis verlaat het. ;Ek het die deur toe ek die huis verlaat het, gesluit. ;1
+Die man wou die sonsopkoms sien. ;effect;Hy het noord gereis. ;Hy het vroeg opgestaan. ;1
+Ek het die koerant gevou. ;effect;Ek het die papier herwin. ;Die papier het gevou. ;1
+Die nasie het 'n natuurramp verduur. ;effect;Leiers van ander lande het 'n alliansie gevorm. ;Leiers van ander lande het noodhulp gestuur. ;1
+Die seun se klere het nat geword. ;cause;Hy het uit die swembad geklim. ;Hy het in die swembad geval. ;1
+Die student het haastig die boek voltooi. ;cause;Dit moes na die biblioteek terugbesorg word. ;Hy het dit by 'n vriend geleen. ;0
+Die misdadiger is tereggestel. ;cause;Hy is in die tronk gegooi. ;Hy is skuldig bevind aan moord. ;1
+Sonlig het die kamer binnegekom. ;cause;Ek het die gordyne oopgemaak. ;Ek het die deur oopgemaak. ;0
+Ek het die bedrieër se hare geskeur. ;effect;Haar pruik het afgeklim. ;Sy het kaal geword. ;0
+Die redakteur het 'n sin in die manuskrip omgeskryf. ;cause;Hy het die manuskrip boeiend gevind. ;Hy het die vonnis onduidelik geag. ;1
+Die vrou het haar kredietkaartrekening gekanselleer. ;cause;Sy het besef dat die kaartjie weg is. ;Sy het besef dat die kaart verval het. ;0
+Die man en vrou het verlief geraak. ;effect;Hulle het universiteit toe gegaan. ;Hulle het getrou. ;1
+Die musiek was te swak om te hoor. ;effect;Ek het die volume verhoog. ;Ek het my eie liedjie geskryf. ;0
+Die seun se hare het opgestaan. ;cause;Die meisie het dit verwar. ;Die meisie het dit getrek. ;0
+Die fout is verpletter. ;cause;Ek het myself met insekdwelm gespuit. ;Ek het op die bug gestap. ;1
+Ek het my oë oopgemaak. ;cause;Ek het wakker geword. ;Ek het ontspan. ;0
+My buurman se musiek het hard geblaas. ;effect;Ek het hom gevra om dit af te skakel. ;Ek het hom gevra om die CD van hom te leen. ;0
+Die man se gesin het in armoede gelewe. ;cause;Hy was spaarsamig met sy inkomste. ;Hy het minder as die minimumloon verdien. ;1
+Die student het die universiteit voltooi. ;effect;Hy het werk gesoek. ;Hy het 'n stokperdjie aangeneem. ;0
+Die kunstenaar het geel verf met blou verf gemeng. ;effect;Die verf het oral gespat. ;Die verf het groen geword. ;1
+Ek het die onderwerp van gesprek verander. ;cause;Ek het nie meer dinge gehad waaroor ek kon praat nie. ;Die gesprek het gespanne geraak. ;1
+My broer is uit die hospitaal ontslaan. ;effect;Ek het hom terug by die huis verwelkom. ;Ek het hom nie aandag gegee nie. ;0
+Die gordyn op die verhoog het opgegaan. ;effect;Die openingstoneel van die toneelstuk het begin. ;Die akteurs in die toneelstuk het die verhoog verlaat. ;0
+Die gyselaar het hom aan die ontvoerder se opdragte onderwerp. ;cause;Die ontvoerder het gedreig om die gyselaar seer te maak. ;Die ontvoerder het die gyselaar alleen gelaat. ;0
+'n Geklank het oor die verhoog weergalm. ;cause;Die musikant het op sy voet geklap. ;Die musikant het op die trom gedruk. ;1
+Die ouers het na hulle kind se slaapkamer gehardloop. ;cause;Die kind het skree uit 'n nagmerrie wakker geword. ;Die kind was bang om onder haar bed te kyk. ;0
+Die vrou het met gebaretaal gekommunikeer. ;cause;Sy is te vroeg gebore. ;Sy is doof gebore. ;1
+Daar was 'n droogte in die streek. ;effect;Die water het besmet geraak. ;Die gewasse het vergaan. ;1
+Die kat het die voël gejaag. ;effect;Die voël het weggevlieg. ;Die voël het 'n wurm gevang. ;0
+Die meisie het van skool verander. ;cause;Skool het vir die somer uit. ;Sy het na 'n nuwe dorp getrek. ;1
+Die fabriek eienaar het geweier om die werknemers se lone te verhoog. ;effect;Die eienaar het 'n nuwe bestuurder aangestel. ;Die werknemers het in staking gegaan. ;1
+Die leier het die ekstremiste in sy land gehaat. ;effect;Die ekstremiste het hom beïnvloed. ;Die ekstremiste het hom vermoor. ;1
+Ek het kaalvoet op die strand geloop. ;effect;Ek het sand aan my voete gekry. ;Golwe het langs die strand neergestort. ;0
+Ek het in die middel van die nag wakker geword met 'n koue gevoel. ;effect;Ek het sweatpants aangetrek. ;Ek het 'n glas water gedrink. ;0
+Die moeder het haar seun stilgemaak. ;cause;Haar seun het 'n lelike glimlag gegee. ;Haar seun het gehuil. ;1
+'n Gat in my jeans. ;cause;Ek het die jeans vasgemaak. ;Ek het op die sypaadjie gestruikel. ;1
+Die seun het 'n brace gedra. ;effect;Hy het 'n holte. ;Sy tande het reguit geword. ;1
+Ek het gister by die gimnasium gewerk. ;effect;Ek het vandag met spierpyn wakker geword. ;Ek het vandag met 'n seer keel wakker geword. ;0
+Die meisie heen en weer gefluister aan mekaar by die middagete tafel. ;effect;Ander studente het by die middagete-tafel gaan sit. ;Ander studente by die middagete het uitgesluit gevoel. ;1
+Die kind het op die trampolien geland. ;effect;Sy het weer in die lug opgekom. ;Sy het besluit om 'n draai te probeer maak. ;0
+Ek het die brief in die posbus gesit. ;effect;Die poskantoor het die brief afgelewer. ;Die poskantoor het die brief versnel. ;0
+Die dobbelaar was selfversekerd. ;effect;Hy het al sy geld gewed. ;Hy het blut huis toe gegaan. ;0
+Die bosbrand het versprei. ;cause;Die winde het sterker geword. ;Die brandstigters is in hegtenis geneem. ;0
+Die kind het sy knie geskil. ;effect;Sy ma het hom na sy kamer gestuur. ;Sy ma het 'n verband op die wond gesit. ;1
+Die man het die dodelike siekte oorleef. ;cause;Hy het sy testament onderteken. ;Hy het 'n orgaantransplantasie ontvang. ;1
+Ek het 'n sluk van die brandende koffie geneem. ;effect;Ek het my tong gebyt. ;Ek het my tong verbrand. ;1
+Die redakteur het die skrywer afgedank. ;cause;Die skrywer het vermy om in haar verhale bevooroordeeld te wees. ;Die skrywer het 'n belangrike sperdatum gemis. ;1
+Ek was uitgeput. ;cause;Ek het die hele dag geslaap. ;Ek het die hele dag lank gestudeer. ;1
+Die dokter het die pasiënt gediagnoseer. ;cause;Sy het die pasiënt se simptome geïdentifiseer. ;Sy het pille aan die pasiënt voorgeskryf. ;0
+Ek het my vel gekrap. ;cause;Dit was sweet. ;Dit het gejuig gevoel. ;1
+Die man het 'n noodoperasie ondergaan. ;cause;Hy het sy humeur verloor. ;Hy het 'n hartaanval gehad. ;1
+Die man se arm spiere uitgestrek. ;cause;Hy het sy arms gevou. ;Hy het sy arms gemasker. ;0
+Die man het sy wenkbroue opgetrek. ;cause;Hy was verbaas. ;Hy was ontmoedig. ;0
+Ek het my kollega se fout verskoon. ;cause;Ek het geglo dat sy bedoelings goed was. ;Ek het geglo dat hy beter weet. ;0
+Die man het ophou rook. ;effect;Hy het meer begin oefen. ;Hy het vroeër begin wakker word. ;0
+Die vrou het haar aanvaller in die neus geslaan. ;effect;Die aanvaller se liggaam het leweloos geword. ;Die aanvaller het begin bloei. ;1
+Die pyl het die teiken gemis. ;cause;Die man se teiken was verkeerd. ;Die man het die spel verloor. ;0
+Die huiseienaar het gevra dat' n uitroeier na sy huis toe kom. ;cause;Hy het rotte in die kelder ontdek. ;Hy het 'n mierplaas in sy kamer gehou. ;0
+Ek het vir my gas voorgestel dat ons uitgaan om te eet. ;cause;Ek was te moeg om enigiets voor te berei. ;My gas het te lank gebly. ;0
+Die meisie het haar broer haar dagboek sien lees. ;effect;Sy het die dagboek begin wegsteek. ;Sy het 'n nuwe dagboek gekry. ;0
+Die vrou het nie genoeg geld gehad om huur te betaal nie. ;effect;Sy het oortyd gewerk. ;Sy het haar werk verlaat. ;0
+Die kind se hand het vinnig teruggeval. ;cause;Hy het aan die warm stoof geraak. ;Hy het die hondjie se kop gestamp. ;0
+Die maatskappy wou die kliëntetevredenheid meet. ;effect;Hulle het 'n afslag vir nuwe kliënte aangebied. ;Hulle het 'n opname onder kliënte versprei. ;1
+Die houtvloer is gekrap. ;cause;Die seun het die kussings van die bank af gegooi. ;Die seun het 'n stoel oor die vloer gesleep. ;1
+Ek het my gesig beskerm. ;cause;My vyand het my gespot. ;My vyand het 'n vuis opgetrek. ;1
+Die beroemde standbeeld is afgebrand. ;cause;Dit is deur weerlig getref. ;Mense het gekom om dit te vereer. ;0
+Ek het die vrugte op die tafel gelos. ;effect;Die vrugte werp sade af. ;Vlieë het die vrugte verswelg. ;1
+Die ballerina het 'n ligament geskeur. ;cause;Sy het met haar tone gewys. ;Sy het haar enkel verwring. ;1
+Die kind se skoenveters het losgekom. ;cause;Hy het geleer hoe om dit te maak. ;Hy het op die speelgrond rondgehardloop. ;1
+Ek het die boek aangetrokke gevoel. ;effect;Ek het die boek teruggegee. ;Ek het die tyd verloor. ;1
+Die man het soortgelyke oortuigings as sy ouers gehad. ;cause;Sy ouers het hom beïnvloed. ;Sy ouers het hom verwerp. ;0
+Die motor het geleidelik vertraag totdat dit stilgehou het. ;cause;Dit het nie meer brandstof gehad nie. ;Die bestuurder het aan die slaap geraak. ;0
+Die man het die roomys in die son geëet. ;effect;Die roomys het sy smaak verloor. ;Die roomys het uit die kegel gedrup. ;1
+Ek het kunswerke in die kamer opgehang. ;cause;Die mat het vuil gelyk. ;Die mure het kaal gelyk. ;1
+Ek het vroeg by die werk uitgegaan. ;cause;Ek het 'n hoofpyn gehad. ;My baas het 'n vergadering gehou. ;0
+Die hondjie het die mat besmet. ;effect;Die eienaar het die hondjie geskree. ;Die eienaar het die hondjie 'n lekkerny gegee. ;0
+Ek het my vriend om verskoning gevra. ;effect;My vriend het my vergewe. ;My vriend het woedend geword. ;0
+Die man het in die skare uitgestaan. ;cause;Hy het 'n rugsak gedra. ;Hy het 'n neonvest gedra. ;1
+Die getuie het onder eed gelieg. ;effect;Hy het sy getuienis voltooi. ;Hy is van meineed aangekla. ;1
+Die vrou het haar hare geverf. ;cause;Sy wou 'n nuwe voorkoms hê. ;Sy wou by die gemeenskap inpas. ;0
+Die immigrante is betrap omdat hulle onwettig in die land woon. ;effect;Hulle het werk gekry. ;Hulle is gedeporteer. ;1
+Die openbare spreker het' n grap gemaak. ;effect;Die gehoor het gelag. ;Die gehoor het opgestaan. ;0
+Ek het in die son gekyk. ;effect;Die son het my verblind. ;Die son het my vel gebrand. ;0
+Ek het verveeld gevoel. ;effect;Ek het gesnuif. ;Ek het gegee. ;1
+Die biefstuk was moeilik om te sny. ;cause;Die mes was dof. ;Die biefstuk was rou. ;0
+Die vrou het bankrotskap verklaar. ;cause;Sy het onderhoudsgeld ontvang. ;Sy het groot skuld opgedoen. ;1
+Die ligte in my vriend se woonstel was aan. ;effect;Ek het gewonder of hy uit is. ;Ek het besluit om hom te besoek. ;1
+Ek het die blom onder my neus gesit. ;effect;Die blomblare het van die blom af gekom. ;Ek het die blom se reuk opgetel. ;1
+Die vrou het nostalgies gevoel. ;cause;Sy het 'n jeugvriend raakgeloop. ;Sy het op haar kinders geskree. ;0
+Die student het die opstel uitgestel. ;effect;Hy het die vraestel vroeg ingedien. ;Hy het die papier onvolledig ingedien. ;1
+My motor het gebreek. ;effect;Ek was by die winkelsentrum. ;Ek het 'n werktuigkundige gebel. ;1
+Ek het die briefie weggegooi. ;cause;Dit was anoniem. ;Dit was onleesbaar. ;1
+Die voël het met sy vlerke geslaan. ;effect;Dit het eiers gelê. ;Dit het opwaarts opgevaar. ;1
+Ek het in die oprit geparkeer. ;cause;Die motorhuis was oop. ;Die motorhuis was vol. ;1
+Die misdadiger het die geweer op sy slagoffer gerig. ;effect;Die misdadiger het die geweer neergesit. ;Die slagoffer het sy hande opgetel. ;1
+Ek het na die naweek uitgesien. ;cause;Ek het beplan om my oom se begrafnis by te woon. ;Ek het beplan om my vriend se troue by te woon. ;1
+Ek het die tyd verloor. ;cause;Ek het daggedroom. ;Ek was naar. ;0
+Die dokument is onleesbaar uitgedruk. ;cause;Die drukker het min ink gehad. ;Die afdruk was sonder papier. ;0
+Die nasionale volkslied is in die stadion gespeel. ;effect;Die ondersteuners het na die vlag gedraai. ;Die ondersteuners het na die veld toe gehardloop. ;0
+Die dip het na niks gelyk nie. ;effect;Ek het dit bedien. ;Ek het sout daarin gesit. ;1
+Ek het die papierhanddoek op die storting gesit. ;effect;Die handdoek het die vloeistof geabsorbeer. ;Die lek het 'n klewerige residu agtergelaat. ;0
+Die vrou is te midde van haar boek gelees toe sy onderbreek word. ;effect;Sy het haar bladsy gemerk. ;Sy het die boek weer gelees. ;0
+Die vliegtuig het 'n bietjie turbulensie ondervind. ;effect;Die man het sy veiligheidsgordel vasgemaak. ;Die man het by die venster uitgekyk. ;0
+Die seun het geskrik. ;cause;Die meisie het hom geïgnoreer. ;Die meisie het hom geskop. ;1
+Die dokters het die pasiënt 'n kunslike ledemaat gegee. ;cause;Hulle het haar been geamputeer. ;Hulle het haar lewensfunksies gemonitor. ;0
+Die seun het die meisie se elmboog vasgeknyp. ;effect;Sy skud haar skouers vir hom. ;Sy ruk haar arm van hom af. ;1
+Ek het my vriend om raad gevra. ;cause;Ek het sy mening waardeer. ;Ek het geweet ek was reg. ;0
+Die seun het in die modder getrap. ;effect;Die modder het aan sy skoene vasgeval. ;Die modder het hom in die gesig getref. ;0
+Die dorp het 'n paar sentimeter sneeu ontvang. ;effect;Skole is gesluit. ;Mense het ondergronds weggekruip. ;0
+Die werknemer se skof is verby. ;effect;Hy het vir die dag huis toe gegaan. ;Hy het gedreig om die werk te verlaat. ;0
+Die boom het die huis beskadig. ;cause;Die boom het op die dak geval. ;Die boom het die agterplaas in skaduwee gehou. ;0
+Die hout het in twee geskeur. ;cause;Ek het die hout in die kaggel gestapel. ;Ek het die byl teen die hout geswaai. ;1
+Die gesin het die egpaar gelukgewens. ;cause;Die egpaar het aangekondig dat hulle uitmekaar gaan. ;Die egpaar het aangekondig dat hulle 'n baba gaan hê. ;1
+Die meisie het die seun 'n Valentynskaartjie gestuur. ;cause;Sy het hom geken. ;Sy het hom gesoen. ;0
+Ek het met my kop geknik toe my vriend se verklaring gehoor is. ;cause;Ek was verward. ;Ek het met hom saamgestem. ;1
+Die vriende het 'n muntstuk op die kop geslinger. ;cause;Hulle wou 'n kompromie vind. ;Hulle wou 'n regverdige besluit neem. ;1
+Die timer in die kombuis het afgetakel. ;effect;Die man het die kruideniersware in die yskas gelos. ;Die man het die pizza uit die oond gehaal. ;1
+Die vrou het 'n ambisieuse doelwit gestel. ;effect;Sy het afgetrek. ;Sy het hard gewerk. ;1
+Die ryk man het van ouderdom gesterf. ;effect;Sy seun het in regsprobleme beland. ;Sy seun het sy fortuin geërf. ;1
+Die vrou het op die vlamme gestamp. ;effect;Die vlamme het uitgegaan. ;Rook het uit die vlamme opgekom. ;0
+Die vrou se motor was in die werkplek. ;cause;Haar rybewys is ingetrek. ;Sy het 'n motorongeluk gehad. ;1
+Ek het deur my wekker geslaap. ;effect;Ek het ontbyt gemaak. ;Ek het ontbyt gemis. ;1
+Die openbare figuur het uit die limousine gestap. ;effect;Kameras het in sy rigting geblink. ;Sy familie het die perskonferensie bygewoon. ;0
+Die vrou het lank in die bad gebly. ;effect;Die badwater het louwarm geword. ;Die badwater het uit die bad gestort. ;0
+Die universiteitstudent wou ander studente op die kampus ontmoet. ;effect;Hy het by 'n broederskap aangesluit. ;Hy het ingenieurswese as hoofvak gestudeer. ;0
+Ek het die bank kussings opgetel. ;cause;Ek was op soek na los geld. ;Ek het die sitkamer weer opgestel. ;0
+Die wespe het na die seun toe gevlieg. ;effect;Die seun het weggehardloop. ;Die seun het 'n blom gepluk. ;0
+Die vrou is skuldig bevind aan 'n misdryf. ;effect;Sy is gevonnis om gemeenskapsdiens te verrig. ;Sy is in die doodstraf geplaas. ;0
+Ek het die suiker in die warm tee geroer. ;effect;Die tee het gestop. ;Die suiker het opgelos. ;1
+Die veteraan het met 'n hinkende voet geloop. ;cause;Hy is vir die oorlog opgeroep. ;Hy is in 'n geveg beseer. ;1
+Die misdadiger het van die polisie af weggehardloop. ;effect;Die polisie het die slagoffer versorg. ;Die polisie het die misdadiger gejaag. ;1
+Die skootrekenaar wou nie aanskakel nie. ;cause;Ek het dit laat val. ;Ek het dit gelaai. ;0
+Die vrou het nie meer plek in haar kas gehad nie. ;cause;Sy het 'n uitgebreide klerekas verkry. ;Sy het haar wasgoed gevou. ;0
+Die man se hart was gebreek. ;cause;Sy vrou het geboorte gegee. ;Sy vrou het hom verlaat. ;1
+Die man het 'n graad verwerf. ;effect;Hy het gekwalifiseer vir die werk wat hy wou hê. ;Sy werksaanbod is teruggetrek. ;0
+Die man se stem het duidelik deur die hele saal gereeld gehoor. ;cause;Hy het die gehoor gegroet. ;Hy het in die mikrofoon gepraat. ;1
+Ek het 'n muntstuk in die fontein van water gegooi. ;effect;Die munt het tot op die bodem gesink. ;Die muntstuk het in twee gebreek. ;0
+Die speler het die bal na die gat toe geslaan. ;effect;Die bal het in die gat gegaan. ;Die bal het teruggetrek na die speler. ;0
+Ek het die stof op die zolder ingeasem. ;effect;Ek het hik. ;Ek het gesneeu. ;1
+Die winkelkassier het sekuriteit gebel. ;cause;Die kliënt het vals geld gebruik. ;Die kliënt het sy hoofligte aan laat. ;0
+Ek het die vullis uitgetrek. ;cause;Die vullis het die kombuis sleg laat ruik. ;Ek het per ongeluk my inkopielys weggegooi. ;0
+Die gesin het na die dieretuin gegaan. ;effect;Die kinders het die diere bewonder. ;Die kinders het die diere gejaag. ;0
+Die man se asemhaling was hard. ;cause;Sy niere het gesak. ;Sy longe was verstop. ;1
+Ek het 'n ekstra kaartjie vir die konsert gehad. ;effect;Ek het my vriend gevra vir aanwysings na die plek. ;Ek het my vriend gevra of hy belangstel om te gaan. ;1
+Die lugversorger in die huis het gebreek. ;effect;Ek het komberse gebring. ;Ek het die vensters oopgemaak. ;1
+Die seun se rug is seer. ;cause;Sy rugsak was oop. ;Sy rugsak was swaar. ;1
+Ek het vir my ma 'n geskenk gekoop. ;cause;Ek het vir haar 'n koek gebak. ;Dit was haar verjaardag. ;1
+Die narcissen in die tuin is vernietig. ;cause;'n Bye het die tuinier gebyt. ;Eekhoorns het die bolle opgegrawe. ;1
+Ek het die wedstryd geskop. ;effect;Die vlam het uitgegaan. ;Die vuurhoutjie het 'n vlam gevorm. ;1
+Die betwiste partye het 'n skikking bereik. ;cause;Hulle wou nie in die hof debatteer nie. ;Hulle wou hulle persoonlike verhouding herstel. ;0
+Die kinders is na 'n weeshuis gestuur. ;cause;Hulle ouers is dood. ;Hulle ouers het hulle bederf. ;0
+'n Meteoriet het in die oseaan geland. ;effect;Daar was 'n tsoenami. ;Dit het begin hagel. ;0
+Die stapper het' n giftige slang teëgekom. ;effect;Sy het uitgedroog. ;Sy het paniekerig geraak. ;1
+Die oond het warm geword. ;cause;Ek het die oond aan. ;Ek het die skottel in die oond gesit. ;0
+Ek het die suurlemoenskil uitgedruk. ;effect;Die suurlemoen het gesmelt. ;Die suurlemoenspuit. ;1
+Die land het nuwe grondgebied ontdek. ;effect;Die land het die land verlaat. ;Die land het die land gekoloniseer. ;1
+Die glas het van die tafel af geval. ;effect;Dit het oor die hele vloer gebreek. ;Dit het in 'n stapel wasgoed beland. ;0
+Die tafel het geskud. ;cause;Die vloer was ongelyk. ;Die vloer was glad. ;0
+Die vader het sy seun betrap terwyl hy gelieg het. ;effect;Sy seun het die waarheid bely. ;Die vader het sy seun vertrou. ;0
+Die man se kop het van pyn gebars. ;effect;Hy het hoesstroop geneem. ;Hy het aspirien geneem. ;1
+Die trein het vertraag. ;cause;Dit het die stasie genader. ;Dit was agter met die skedule. ;0
+Die man het terapie ondergaan. ;cause;Geestesongesteldheid het in sy familie ontstaan. ;Hy is gediagnoseer met depressie. ;1
+Die vrou het haar keel vasgehou. ;cause;Sy het haar kos ingesluk. ;Sy het in haar kos gestik. ;1
+Die vrou het 'n seer keel gehad. ;effect;Haar stem het rasperig geklink. ;Sy het met 'n aksent gepraat. ;0
+Die hond het die sappige biefstuk op die tafel dopgehou. ;effect;Dit het gespoeg. ;Dit lê neer. ;0
+Die vrou se besigheid het sukses behaal. ;effect;Sy het haar werknemers afgedank. ;Sy het ryk geword. ;1
+Die studente het die klaskamer verlaat. ;cause;Die klokkie het gebel. ;Die onderwyser het huiswerk gegee. ;0
+Die vrou het beweer dat sy 'n spook gesien het. ;effect;Haar kennisse het skeptisisme uitgespreek. ;Haar kennisse het met haar verwantskap gehad. ;0
+Die man het sy gehoor verloor. ;cause;Hy het byna in die see verdrink. ;Hy is byna dood in 'n ontploffing. ;1
+Die kind het die ballon tou losgelaat. ;effect;Die ballon het leeggegooi. ;Die ballon het in die lug opgestaan. ;1
+Die man het sy spraakvermoë verloor. ;cause;Hy het 'n beroerte gehad. ;Hy het diep asemgehaal. ;0
+Die vrou het op die sypaadjie gestruikel. ;cause;Daar was 'n kraak in die sement. ;Sy het gehoor hoe haar naam genoem word. ;0
+Die man het 'n kanonbal in die swembad gegooi. ;effect;Die lewensredder het agter hom aan ingespring. ;Die man het die reddingswag natgemaak. ;1
+Ek het antibiotika geneem. ;effect;My infeksie het verdwyn. ;My infeksie het versprei. ;0
+Die verkeerslig het geel geword. ;effect;Die bestuurder het op die rem gedruk. ;Die bestuurder het op sy hoorn geblaas. ;0
+Die plastiek houer het gesmelt. ;cause;Ek het die houer in warm water geweek. ;Ek het die houer op die warm stoof gesit. ;1
+Die motor is gebreek. ;cause;Die bestuurder het teen 'n telefoonpaal gekraak. ;Die bestuurder het by 'n rooi lig verbygery. ;0
+Die seun het die hele nag gestudeer. ;effect;Hy het die eksamen gemis. ;Hy het die eksamen geslaag. ;1
+Die jong seun het aan die rand van die swembad vasgeklou. ;cause;Hy was bang om te leer swem. ;Die lewensredder was op diens. ;0
+Ek het my hand op my bors gesit. ;effect;Ek het my hart gevoel klop. ;My hartklop het vinniger geword. ;0
+Die gebou langs my kantoor was in aanbou. ;effect;My kantoor was oorvol. ;My kantoor was lawaaierig. ;1
+Die gesin wou hulle nuwe bure leer ken. ;effect;Die gesin het die bure vir aandete genooi. ;Die gesin het van hulle tuin af vir die bure gebel. ;0
+Water het uit die swembad gestort. ;cause;Die swemmer het in die swembad gespring. ;Die swemmer het in die swembad geswem. ;0
+Ek het in 'n stukkie waatlemoen gebyt. ;effect;Ek het per ongeluk 'n saadjie ingesluk. ;Ek het per ongeluk my tand gebreek. ;0
+Die seun het gestruikel. ;cause;Sy baadjie was oopgesluit. ;Sy skoenveters was los. ;1
+Die vrou het oorproppe in haar oor gesit. ;cause;Sy is deur geraas afgelei. ;Sy het haar ore deurboor. ;0
+Ek het my waterbottel weer volgemaak. ;cause;Ek het al die water daarin gedrink. ;Ek het dit in die yskas gehou. ;0
+Die televisieprogram is gesensor. ;cause;Dit het vulgêre taal bevat. ;Dit het 'n ingewikkelde intrige gehad. ;0
+Die skip het vergaan. ;effect;Die bemanning het verdrink. ;Die bemanning het seerowers teëgekom. ;0
+Die seun was verstom oor die raaisel. ;effect;Hy het die raaisel opgelos. ;Hy het 'n wenk gevra. ;1
+Die telefoon het gebel. ;effect;Die man het die telefoon opgehang. ;Die man het die telefoon opgetel. ;1
+Die vrou het na my gekyk. ;effect;Ek het haar omhels. ;Ek het ongemaklik gevoel. ;1
+Die groep het die museum verlaat. ;cause;Hulle het foto's van die uitstallings geneem. ;Hulle het al die uitstallings bekyk. ;1
+Die man het met my begin stry. ;effect;My vriend het my aan die man voorgestel. ;My vriend het my verdedig. ;1
+Die band op my fiets was plat. ;effect;Ek het lug in die band gepomp. ;Ek het ratte op die fiets geskakel. ;0
+Die meisie het bleek gelyk. ;effect;Haar pa het vir haar 'n storie gelees. ;Haar pa het haar voorkop aangeraak. ;1
+Die pen het sonder ink gebly. ;effect;Ek het 'n potlood gebruik. ;Ek het my naam onderteken. ;0
+Die man se lening is geweier. ;cause;Hy was in die skuld. ;Hy het 'n besigheid begin. ;0
+Die meisie het nie skool toe gegaan nie. ;cause;Sy het waterpokkies gehad. ;Sy het dit geniet om wiskunde te leer. ;0
+Die vullissak was vol. ;effect;Ek het dit na die vullisbak geneem. ;Ek het dit in die wasbak gegooi. ;0
+Ek het die mat skoongemaak. ;cause;My kamermaat het punch gemors. ;My hond verloor hare. ;1
+Die man het sy humeur verloor. ;effect;Hy het sy rekenaar afgeskakel. ;Hy het 'n stoel oor die kamer gegooi. ;1
+Die meisie het 'n takkie in die kampvuur gegooi. ;effect;Die takkie het gebrand. ;Die vuur het uitgegaan. ;0
+Die man het uit die stort gekom. ;cause;Die warm water was weg. ;Hy kon nie 'n handdoek vind nie. ;0
+Die ouers wou hê dat hulle kinders universiteit toe moes gaan. ;effect;Hulle het 'n spaarfonds vir onderrig opsygesit. ;Hulle het hulle kinders aangemoedig om buite te speel. ;0
+Die man het sy skoene losgemaak. ;effect;Die skoene het los geword. ;Die skoene het verslete geword. ;0
+Die man het die helfte van die voorgereg geëet. ;effect;Hy het die oorblyfsels in die yskas gesit. ;Hy het die resep gespaar. ;0
+My enkel was geswel. ;effect;Ek het ys daarop gesit. ;Ek het lotion daarop geruik. ;0
+My kantoordeur was oop. ;effect;Ek het met my kollega by my lessenaar gepraat. ;Ek het die gesprek in die saal gehoor. ;1
+Ek moes in die ry wag. ;effect;Ek het gaan sit. ;Ek het 'n tydskrif deurgekyk. ;1
+Die man het die vlieg aangeraak. ;effect;Die vlieg het weggebuig. ;Die vlieg het stilgebly. ;0
+Die man het 'n testament geskryf. ;cause;Hy was besig om te sterf. ;Hy was 'n weduwee. ;0
+Die hardloper het gevoel dat sy mededinger hom inhaal. ;effect;Hy het uit die wedloop getree. ;Hy het sy tempo versnel. ;1
+Ek het die probleem deeglik oorweeg. ;effect;Ek het raad gevra. ;Ek het 'n oplossing gekry. ;1
+Die reisiger het op die wankelrige hangbrug geloop. ;effect;Hy was verskrik. ;Hy was in ekstase. ;0
+Die man het die span se oorwinning verwag. ;effect;Hy het sy vriende ontmoet om na die wedstryd te kyk. ;Hy het 'n weddenskap met sy vriende gemaak. ;1
+Die seun kon nie aan die slaap raak nie. ;effect;Hy het sy wekker ingestel. ;Hy het skape getel. ;1

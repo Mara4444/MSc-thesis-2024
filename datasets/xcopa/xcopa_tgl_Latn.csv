@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Ang bagay ay nakabalot sa bubble wrap. ;cause;Ito'y mahina. ;Maliit ito. ;0
+Binuksan ko ang aking mga bulsa. ;effect;Nakuha ko ang isang tiket na stub. ;Natagpuan ko ang isang baril. ;0
+Napasok ang mga termitas sa bahay. ;effect;Nawala ang mga termitas sa bahay. ;Ang mga termitas ay kumakain sa kahoy sa bahay. ;1
+Nakarating sa hangganan ang mga manlalakbay. ;effect;Sinuri ng patrol agent ang kanilang mga pasaporte. ;Inakusahan sila ng patrol agent na nag-smuggling. ;0
+Sarado na ang opisina. ;cause;Isang bakasyon iyon. ;Tag-init na iyon. ;0
+Wala nang lakas ang dalaga. ;cause;Naglaro siya ng dam. ;Tumalon siya sa lubid. ;1
+Nawala ang posisyon ng babae sa hanay. ;cause;Marami pang tao ang pumasok sa linya. ;Lumabas siya sa linya. ;1
+Pinilit ng dalaga ang kanyang ilong. ;cause;Nag-sweat ang sanggol sa kanyang bib. ;Nakapag-aaksaya ang sanggol sa diaper niya. ;1
+Nagpatugtog ang banda ng kanilang hit song. ;effect;Sumaya ang mga tagapakinig sa musika. ;Ang mga tagapakinig ay may kagalang-galang na nakikinig nang tahimik. ;0
+Nais ng dalaga na pasalamatan ang kaniyang guro sa matematika. ;effect;Ang batang babae ay nanatili pagkatapos ng paaralan para sa pag-aaresto. ;Nagdala ang dalaga ng mansanas sa guro. ;1
+Natakot ang mga kabataang nakakampe. ;cause;Ang kanilang tagapayo sa kampo ay nagkuwento sa kanila ng kuwento ng multo. ;Nag-toast sila ng marshmallows sa apoy ng kampo. ;0
+Naigo ang ulo ng lalaki. ;effect;Nawala siya sa pag-iisip. ;Nakuha niya ang isang pag-aaklas sa utak. ;1
+Ang tseke na isinulat ko ay hindi na-refund. ;cause;Ang aking bank account ay walang laman. ;Nakatanggap ako ng pagtaas ng suweldo. ;0
+Ang inbox ng e-mail ng lalaki ay puno ng spam. ;effect;Ini-delete niya ang spam. ;Nagpadala siya ng isang malaking email. ;0
+Ang marinero ay nasa kuwarentena. ;cause;Siya ay nahaharap sa sakit. ;Siya ay gumaling sa sakit. ;0
+Naalala ng dalaga ang code. ;cause;Binanggit niya ito sa kaniyang sarili. ;Nakalimutan niyang isulat ito. ;0
+Inibuhos ko ang tubig sa baso. ;effect;Ang tubig ay nagpahinga sa aking uhaw. ;Ang baso ay naging puno. ;1
+Ang lalaki ay nanatiling tahimik nang matapos na magsalita ang kaniyang kaibigan. ;cause;Nais niyang suportahan ang kaniyang kaibigan. ;Iniisip niya ang mga salita ng kaniyang kaibigan. ;1
+Ako ang may kasalanan sa aksidente. ;effect;Nadama kong may kasalanan ako. ;Nag-file ako ng mga paratang. ;0
+Nabulag ang kadena. ;cause;Ang kadena ay nakabalot sa isang gulong. ;May isang nasira na link sa kadena. ;1
+Nagpasiya ang mag-asawa na kumpromisyo. ;cause;Napagod na sila sa pagtatalo. ;Hindi nila pinag-usapan ang problema. ;0
+Nagpasya ang babae na tumakbo para sa pampublikong opisina. ;effect;Nag-upa siya ng isang tagapangasiwa ng kampanya. ;Nagpatotoo siya sa korte. ;0
+Inaasahan ng lalaki na malamig ang panahon sa kaniyang paglalakbay. ;effect;Naglagay siya ng mainit na damit sa kaniyang maleta. ;Naglakbay siya na may malaking maleta. ;0
+Alam ng estudyante ang sagot sa tanong. ;effect;Itinaas niya ang kaniyang kamay. ;Nagkamali siya. ;0
+Nag-uulan ang mga mata ng lalaki. ;cause;May alikabok sa kaniyang mga mata. ;Nagsuot siya ng mga salamin sa mata. ;0
+Nanalo ang manlalaro ng limang laro sa isang hilera. ;effect;Inakusahan siya ng kaniyang kalaban na nag-iimbestiga. ;Naaawa sa kaniya ang kaniyang kalaban. ;0
+Sinira ng guro ang eksaminasyon ng estudyante. ;cause;Nakuha niya ang estudyante na nag-iimpake. ;Mali ang mga sagot ng estudyante. ;0
+Nagpahinga ako para tumigil sa pag-uusap. ;cause;Nawala ang boses ko. ;Nawala ang hininga ko. ;1
+Ang frozen na pagkain ay nag-ihaw. ;cause;Inilagay ko ito sa microwave. ;Inilibing ko ito ng plastik na papel. ;0
+Nagpanggap na may sakit ang empleyado. ;cause;Nagkaroon siya ng mga cramp sa tiyan. ;Gusto niyang magpahinga. ;1
+Ang babae ay bumagsak sa pool. ;cause;Tumakbo siya sa pool deck. ;Lumipad siya sa diving board. ;1
+Ang mga tiket ng sine ay nabili na. ;cause;Ito ay araw ng pagbubukas ng pelikula. ;Ang pelikula ay nakatanggap ng hindi magandang mga pagsusuri. ;0
+Nawala ang timbang ng lalaki. ;effect;Inihiwalay siya ng mga tao. ;Piniyesta siya ng mga tao. ;1
+Nagkaroon ng mga bula ang mga kamay ng dalaga. ;cause;Nag-type siya ng isang liham. ;Sumakay siya sa isang lubid. ;1
+Ang artista sa sirko ay nag-juggled habang sumasakay sa isang unicycle. ;effect;Naging masayang-masaya ang mga tagapakinig. ;Ang akrobata ay nag-swing mula sa isang trapezoid. ;0
+Nawala ang pasensya ko. ;cause;Pinahintay ako ng aking kaibigan. ;Ang aking kaibigan ay dumating nang tama. ;0
+Nais ng mga nagdidigma na bansa ang kapayapaan. ;effect;Nag-unlad sila ng mga sandatang nuklear. ;Nag-uusap sila tungkol sa isang kasunduan. ;1
+Kinuha ng lalaki ang gamot na para matulog. ;effect;Siya'y naging pagod. ;Nagkaroon siya ng lagnat. ;0
+Ang babae ay bumagsak sa sofa. ;effect;Ang paa ng sopa ay naglaya. ;Nasugatan ang kanyang tuhod. ;1
+Pinipis ng bata ang balon. ;effect;Nag-pop ang balon. ;Lumipad ang balon. ;0
+Sila'y mga manlalakbay na nag-check in sa kanilang silid sa hotel. ;effect;Binuksan nila ang kanilang mga maleta. ;Nagpunta sila sa paliparan. ;0
+Nakipag-usap ako sa kanya. ;effect;Ang peach ay na-bruise. ;Nagbubo ang juice. ;1
+Naging malagkit ang aking mga kamay. ;cause;Kumain ako ng donut. ;Ako'y mahilig sa matamis. ;0
+Hinubad ko ang pinto. ;effect;Nagbukas ang pinto. ;Nakapag-lock ang pinto. ;0
+Ang mga aktibista ay nag-boycott ng mga produkto. ;cause;Ang mga produkto ay sinuri para sa pagtiyak ng kalidad. ;Ang mga produkto ay ginawa sa pamamagitan ng paggawa ng mga bata. ;1
+Nag-drill ako ng butas sa dingding. ;effect;Isang daga ang lumabas sa butas. ;Naglabas ang alikabok sa butas. ;1
+Nainggit ang babae sa kaniyang kapatid. ;cause;Tuwang-tuwa ang kaniyang kapatid na babae. ;Nagdiborsiyo ang kaniyang kapatid na babae. ;0
+Nagbubo ako ng alak sa aking kamiseta. ;effect;Nagsuot ako ng apron. ;Binago ko ang aking shirt. ;1
+Binuksan ng cashier ang cash register. ;cause;Sinuri ng customer ang wallet niya. ;Binigyan siya ng customer ng pera. ;1
+Ang musikero sa kalye ay nakaakit ng maraming tao. ;effect;Binigyan siya ng pera ng mga tao. ;Pinaalis niya ang mga tao. ;0
+Umiiyak ang batang lalaki sa kanyang nanonood. ;cause;Naawa siya sa kaniyang mga magulang. ;Panahon na ng meryenda. ;0
+Ang radar ng piloto ay nakumpirma ng isang bagyo. ;effect;Ang piloto ay lumakad palayo sa bagyo. ;Ang piloto ay lumipad sa bagyo. ;0
+Ang puno ay nag-aalis ng mga dahon nito. ;effect;Naging kulay ang mga dahon. ;Ang mga dahon ay nagtitipon sa lupa. ;1
+Ang batang lalaki ay nasa masamang kalagayan. ;effect;Nagdesisyon siyang maglaro ng card kasama ang kaniyang kapatid na babae. ;Nagdesisyon siyang maglaro ng isang komedya sa kaniyang kapatid na babae. ;1
+Nagreklamo ang bata na kailangan niyang pumunta sa banyo. ;effect;Binigyan siya ng kaniyang ama ng isang soda na inumin. ;Pinasara ng kaniyang ama ang kotse sa isang gas station. ;1
+Isinabubo ng bata ang pagkain ng isda sa tangke. ;effect;Tumalon ang isda sa tangke. ;Lumangoy ang isda patungo sa pagkain. ;1
+Nagbago ang pananaw ng babae sa pulitika. ;effect;Binago niya ang kaniyang pagkakapareho sa partido. ;Nagprotesta siya. ;0
+Ang lababo sa banyo ay nakulong. ;effect;Binuksan ko ang gripo. ;Inibuhos ko ang drain cleaner dito. ;1
+Bumaba na ang mga pasahero sa tren. ;cause;Dumating ang tren sa istasyon. ;Nagsiwit ang tren. ;0
+Pinipilit ng lalaki ang basahang lapag ng sobre. ;effect;Naglagay siya ng selyo sa sobre. ;Isinara niya ang sobre. ;1
+Nawala ang ugnayan ng mga kaibigan. ;cause;Nag-enjoy sila sa pakikisama ng isa't isa. ;Nag-alis sila sa iba't ibang lunsod. ;1
+Ang accountant ay hindi nagamit ang pondo ng kumpanya. ;effect;Siya'y pinalayas mula sa kaniyang posisyon. ;Nag-leave siya dahil sa pagiging ina. ;0
+Tumingin ako sa orasan. ;cause;Narinig ko ang pagtiktik ng orasan. ;Gusto kong tingnan ang oras. ;1
+Nag-cramp ang kamay ko. ;cause;Isinulat ko ang sanaysay nang kamay. ;Kami ng aking asawa ay nagkamay-kamay. ;0
+Nag-tigil ang bolt. ;cause;Binago ko ang bolt. ;Iniikot ko ang susi. ;1
+Nag-sign ang mag-asawa ng lease para sa isang apartment. ;effect;Lumipat ang mag-asawa sa apartment. ;Ang bayan ay nagparusa sa apartment. ;0
+Ang babae ay nakaupo sa labas sa porch. ;cause;Gusto niyang manood ng paglubog ng araw. ;Akala niya ay nakita niya ang kidlat. ;0
+Nagsuot ang lalaki ng lifejacket sa tubig. ;cause;Hindi siya marunong lumangoy. ;Mababa ang tubig. ;0
+Nagkamali ang babae sa pag-type sa word processor. ;effect;Inilipat niya ang dokumento. ;Pinilit niya ang backspace key. ;1
+Nagpapahirap ang dalaga sa kaniyang mga kaibigan. ;cause;Naka-grade siya ng masama. ;Nanalo siya sa isang paligsahan. ;1
+Ang hardin ay mabahong. ;cause;Nag-ulan nang malakas sa buong gabi. ;Ito'y puno ng mga damo. ;0
+Natulog ang babae. ;cause;Nagpa-night siya sa isang hotel. ;Nakalimutan niyang i-set ang kanyang alarm clock. ;1
+Nagsuot ng sunscreen ang lalaki. ;cause;Umupo siya sa lilim. ;Pumunta siya sa baybayin. ;1
+Pinatunayan ng mga mananaliksik ang teorya. ;effect;Inihinto ng mga mananaliksik ang teoriya. ;Tinanggap ng mga indibiduwal ang teoriyang ito. ;1
+Nag-uuhok ang mga tagahanga sa laro. ;cause;Nag-overtime ang laro. ;Ang referee ay gumawa ng isang masamang desisyon. ;1
+Isinulat ko ang aking kombinasyon sa kandado. ;effect;Pinutol ko ang kandado. ;Nagbukas ang kandado. ;1
+Naging mas malakas ang mga tao. ;effect;Binigyan ng ama ang anak niya ng pera. ;Kinuha ng ama ang kamay ng kaniyang anak. ;1
+Ang niyebe ay nagsasara sa daanan. ;effect;Pinagtipon ko ang niyebe sa isang bola ng niyebe. ;Inilabas ko ang niyebe sa daan. ;1
+Ang mga kayaker ay nag-aayuno ng kanilang mga balutang. ;effect;Nakarating sa baybayin ang kayak. ;Ang kayak ay nahulog sa alon. ;0
+Nawala ang kontrol ng dalaga sa kaniyang bisikleta. ;effect;Iniwan niya ang handlebar. ;Nakipag-crash siya sa isang bakod. ;1
+Sinubukang ko ang fan. ;effect;Ang tubig ay nabuhos sa aking balat. ;Naramdaman ko ang malamig na hangin na dumadaan sa akin. ;1
+Bumalik sa baybayin ang mga surfer. ;cause;Sila'y nahuhumog. ;Nakita nila ang isang pating. ;1
+Inilabas ko ang drain plug sa bathtub. ;effect;Ang tubig ay lumabas sa banyo. ;Ang tubig ay tumulo sa sahig. ;0
+Ang asawang lalaki ay nadama ang pagkakasala dahil sa pagkunwari sa kaniyang asawa. ;effect;Inakusahan niya siya ng panghihina. ;Isinumbong niya sa kaniya ang kaniyang panghihina. ;1
+Ang tinta sa poster ay nahuhulog. ;cause;Hinintay ko na magtuyo ang tinta. ;Nagbubo ako ng tubig sa poster. ;1
+Nagising ang bata na umiiyak. ;cause;Nagkaroon siya ng pangarap. ;Nag-uumi siya sa kama. ;0
+Itinaas ng bata ang kanyang mga paa sa mesa. ;effect;Umupo sa mesa ang kaniyang ama. ;Ang kaniyang ama ay nag-aral sa kaniya. ;1
+Itinuring ng aking kaibigan ang kaniyang ulo sa aking direksiyon. ;cause;Sinisigaw ko ang pangalan niya. ;Iniyakan ko ang aking mga kamay. ;0
+Pinipilit ng pamahalaan ang mga mamamayan nito. ;effect;Nag-alsa ang mga mamamayan. ;Ang mga mamamayan ay nakarehistro upang bumoto. ;0
+Nawala ang bata sa kagubatan. ;effect;Nagpatayo siya ng tolda. ;Sumisigaw siya para humingi ng tulong. ;1
+Naglakbay ang babae sa ibang bansa. ;cause;Gusto niyang matuto magdibuho. ;Gusto niyang matuto tungkol sa ibang kultura. ;1
+Ang lalaki ay nainggit sa kaniyang katrabaho. ;cause;Ang kaniyang katrabaho ay pinalakas. ;Nagtatrabaho nang huli ang kaniyang katrabaho. ;0
+Ang lalaki ay nakasaksi ng mga dayuhan. ;cause;Nag-hallucinate siya. ;Nagmumuni-muni siya. ;0
+Naging blonde ang buhok ng lalaki. ;cause;Naglagay siya ng bleach dito. ;Naglagay siya ng shampoo dito. ;0
+Ang artista ay lumikha ng bagong gawa. ;cause;Kinritikada niya ang kanyang naunang trabaho. ;Naramdaman niya ang isang pag-atake ng inspirasyon. ;1
+Lumipat na ang anak mula sa bahay. ;cause;Siya ay pinaalis sa militar. ;Siya ay papasok sa kolehiyo. ;1
+Ang mga aklat ay nahulog sa bookshelf. ;cause;Ang mga istante ay punô ng alikabok. ;Nagpalakpak ang bookshelf nang mag-alinig. ;1
+Ang kuryente sa aking bahay ay tumigil. ;effect;Nagpalit ako ng ilaw. ;Binuhay ko ang circuit breaker. ;1
+Nagsakay kami sa roller coaster. ;cause;Nakakatakot ang hitsura nito. ;Mukhang masaya. ;1
+Nagsimula nang mag-pop ang sako ng popcorn. ;cause;Nagbubuhos ako ng mantikilya sa bag. ;Pinasunog ko ito sa microwave. ;1
+Isang puno ang bumagsak sa linya ng kuryente. ;effect;Nawala ang kuryente sa kapitbahayan. ;Inihula ng hula ang malakas na hangin. ;0
+Ang tagapagsalita ay gumawa ng mga komento na hindi tama sa pulitika. ;effect;Pinipisil niya ang mga tagapakinig. ;Nakapinsala siya sa mga tagapakinig. ;1
+Sinaksak ko ang aking sarili sa pin. ;effect;Isang butil ng pawis ang tumulo sa aking mukha. ;Isang patak ng dugo ang nabuo sa aking daliri. ;1
+Ang isda ay lumulutang sa ibabaw ng tangke. ;cause;Gutom ito. ;Ito ay patay na. ;1
+Ang tinig ng lalaki ay parang maingay. ;cause;Siya ay may lagnat. ;Tumigil na siya sa paninigarilyo. ;0
+Nagbukas ang mga pinto ng elevator. ;cause;Dumating ang elevator sa itinalagang palapag. ;Ang elevator ay nahuli sa pagitan ng mga palapag. ;0
+Ang tin-edyer ay lumabas sa bahay. ;cause;Nagsinungaling siya sa kanyang mga magulang. ;Pinatay siya ng kaniyang mga magulang. ;1
+Nagbaha ang banyo. ;cause;Nag-overflow ang banyo. ;Nasira ang heater ng tubig. ;0
+Ang tuta ay nanatili sa tabi ng may-ari nito. ;cause;Ang may-ari ay nag-iipon ng kuleryo sa tuta. ;Ang may-ari ay nag-iingat sa aso. ;1
+Ang lalaki ay nakakuha ng kaniyang pagmumula. ;cause;Tumayo siya sa ilalim ng malaking punong kahoy. ;Tumayo siya sa tahimik na lawa. ;1
+Naligtaan ko ang tawag sa telepono ng aking kasintahan. ;effect;Tinawagan ko siya. ;Nakilala ko siya sa hapunan. ;0
+Sinuri ng pamilya ang kapitbahayan. ;cause;Tumakas ang aso nila sa bahay. ;Ang mamahaling alahas ay nawawala sa kanilang tahanan. ;0
+Nakita ko ang aking hininga nang ako'y huminga. ;cause;Ang panahon ay malamig. ;Naramdaman ko ang pagkadikit ng aking dibdib. ;0
+Nagbuo ng unyon ang mga empleyado. ;cause;Nais nila ang mas mabuting mga kalagayan sa pagtatrabaho. ;Pinalaki ng kanilang amo ang kanilang suweldo. ;0
+Nagluto ako ng apple pie. ;effect;Ang amoy ng pagkalot ay pumuno sa kusina. ;Isang mainit na amoy ang pumuno sa kusina. ;1
+Nagpupumilit ang babae na lumakad. ;cause;Nagsuot siya ng mataas na takong. ;Inilabas niya ang kanyang sapatos. ;0
+Nag-init ang singaw mula sa palayok ng tubig. ;cause;Nagulo ang tubig. ;Tinatakpan ko ang bote. ;0
+Lahat ng aking mga medyas ay nasa laundry. ;effect;Nagsuot ako ng sandalyas. ;Nagsuot ako ng mga sapatos. ;0
+Ang argumento ng pulitiko ay itinuring na walang kabuluhan. ;effect;Nawala ang suporta ng mga botante. ;Siya ay inakusahan ng katiwalian. ;0
+Hindi sinang-ayunan ng lahat ang pakikipag-ugnayan ng mag-asawa. ;effect;Nagdadalang-tao ang mag-asawa. ;Nag-iwan ang mag-asawa. ;1
+Ang gusali ay inialay sa milyonaryo. ;cause;Nais ng milyonaryo na sirain ang gusali. ;Nagbigay ang milyonaryo ng pondo upang ito ay maitatayo. ;1
+Inakusahan ng kasamahan sa pagbebenta ang dalaga na nagnanakaw. ;cause;Nakita ng sales associate ang batang babae na naglalagay ng merchandise sa kaniyang bag. ;Tinulungan ng sales associate ang batang babae na mahanap ang bag na gusto niya. ;0
+Ang bansa ay nagdeklara ng digmaan sa kalapit na teritoryo. ;effect;Ang mga sundalo ay ipinadala upang lumaban. ;Ang mga sundalo ay muling nakasama sa kanilang mga pamilya. ;0
+Pinatunayan ng korte ang kontrobersyal na hatol. ;effect;Nagsimula ang isang kaguluhan sa harap ng korte. ;Nagpalit ng panata ang isang mag-asawa sa harap ng korte. ;0
+May amoy ng nasusunog ang dalaga. ;cause;Kinuha niya ang mga cookies sa bote. ;Iniwan niya ang mga cookies sa oven. ;1
+Malakas ang ulan. ;effect;Naging mas malakas ang bagyo. ;Nagmadali akong pumasok. ;1
+Ang gusali ay pinaalis. ;cause;Tumigil sa pag-andar ang elevator. ;Nag-alarm ang alarma sa sunog. ;1
+Nagalit ang ama sa alkoholismo ng kaniyang anak. ;effect;Binili ng ama ang kanyang anak ng beer. ;Inilayas ng ama ang kaniyang anak sa bahay. ;1
+Sumakay ang abugado sa hagdan patungo sa kaniyang opisina. ;cause;Umuwi na ang sekretarya sa araw na iyon. ;Ang elevator ay hindi gumagana. ;1
+Nainis ang lalaki sa kaniyang kaibigan. ;cause;Pinasara siya ng kaniyang kaibigan. ;Ang kaibigan niya ang nag-alay sa kanya ng tanghalian. ;0
+Ibinigay ng dalaga ang pera sa cashier. ;effect;Binigyan ng cashier ang batang babae ng kanyang pera. ;Nakalimutan ng cashier na bigyan ang dalaga ng resibo. ;0
+Ang babae ay inilagay sa isang wheelchair. ;cause;Siya ay nabalian sa isang aksidente. ;Pumasok siya sa ospital sa isang baril. ;0
+Ang mga mamamayan ay nagbitay ng pambansang bandila sa labas ng kanilang mga tahanan. ;cause;Ang bansa ay nagdiriwang ng kalayaan nito. ;Ang bansa ay nakaharap sa kahirapan sa ekonomiya. ;0
+Nawala ang koponan sa paligsahan. ;effect;Nakapagbibida sila sa kanilang mga tagahanga. ;Sila'y nagbigay-inspirasyon sa kanilang mga tagahanga. ;0
+Ipinahiwatig ng aking kaibigan na may pagkain na nakulong sa aking ngipin. ;effect;Ako'y nahihiya. ;Naramdaman ko ang pagmamalaki. ;0
+Hindi nakapasa ang bata sa eksamin sa kasaysayan. ;cause;Siya'y nakikinig sa klase. ;Nakalimutan niyang mag-aral. ;1
+Nagbagsak ang gusali sa gitna ng bayan. ;cause;Isang lindol ang sumiklab sa lunsod. ;Dumami ang bilang ng krimen sa lunsod. ;0
+Naghiwalay ang nobya ng lalaki sa kaniya. ;effect;Humihingi siya sa kaniya na tanggapin siya. ;Ipinabatid niya ito sa kaniyang mga magulang. ;0
+Sabay-sabay na lumapit ang dalawang bata upang kunin ang bola. ;effect;Ang bola ay nag-rol ng layo. ;Nag-umpisa ang kanilang mga ulo. ;1
+Sinasamsam ng rakun ang basurahan. ;cause;May karton sa basurahan. ;Ang takip ay nasa basurahan. ;1
+Pinasigla ng bata ang lapis. ;cause;Ito ay mura. ;Ito'y walang-kahulugan. ;1
+Itinanggi ng cashier ang babayi na bayaran ang damit. ;cause;Nawala ang resibo niya. ;Hindi naitutugma ang damit. ;0
+Malalim ang gulo sa aking balat. ;effect;Mabilis itong gumaling. ;Nag-iwan ito ng isang marka. ;1
+Ang lalaki ay nakatanggap ng kakaibang mga tingin mula sa mga pasahero sa tren. ;cause;Nakatitig siya sa lupa. ;Nag-uusap siya sa sarili niya. ;1
+Nag-iwan ng mga hiwa ang bata sa sahig. ;effect;Ang mga langgam ay lumulutang sa mga hiwa. ;Iniwan ng bata ang tinapay. ;0
+Binigyan ng babae ang kaniyang kapatid na babae ng isang tissue. ;cause;Ang kapatid na babae ng babae ay nag-ipon ng mga kamay. ;Nagsimula nang umiyak ang kapatid na babae ng babae. ;1
+Kinuha ng lalaki ang isang mint. ;cause;Ang kaniyang mga labi ay napunit. ;Nag-aalala siya tungkol sa masamang hininga. ;1
+Ang mag-asawa ay maaga nang umalis para sa palabas. ;cause;Inaasahan nila ang trapiko sa paligid ng teatro. ;May mga direksyon sila papunta sa teatro. ;0
+Ang babae ay nanatili sa bahay mula sa trabaho. ;effect;Pinuri siya ng kaniyang boss. ;Tinaguyod siya ng kaniyang katrabaho. ;1
+Ang lalaki ay pumirma sa petisyon ng mga aktibista. ;cause;Sinuportahan niya ang kanilang mga layunin. ;Sinabi niya na mga baliw sila. ;0
+Ang puso ng aktor ay tumatakbo bago ang kanyang pagganap. ;cause;Siya ay natatakot sa entablado. ;Naalala niya ang kaniyang mga talata. ;0
+Ako'y nawala. ;effect;Binilang ko ang aking pera. ;Nag-iwan ako ng mapa. ;1
+Ang mga hinog na prutas ay nanatili sa araw. ;effect;Ito ay kinain. ;Nag-uubog ito. ;1
+Nagbabagsak ang kotse. ;cause;Binuksan ko ang pagsisimula. ;Nag-overheat ang makina. ;1
+Nasaktan ang lalaki sa likod. ;effect;Siya'y pumaroon sa isang sikyatrista. ;Ilang araw siyang nakahiga. ;1
+Nagpalit ako sa apoy sa kamalig. ;cause;Wala na akong kahoy. ;Malamig sa loob ng bahay. ;1
+Tumigil ang babae sa pag-jogging. ;cause;May cramp siya sa kanyang gilid. ;Siya ay nagkaroon ng ikalawang hangin. ;0
+Tinuktok ko ang pinto ng aking kapitbahay. ;effect;Pinapasok ako ng aking kapitbahay. ;Ang aking kapitbahay ay umalis sa bahay niya. ;0
+Nagbuntong hininga ang babae. ;cause;Hindi nauunawaan ng kaniyang asawa ang kaniyang mga alalahanin. ;Nagpaalam sa kaniya ang kaniyang asawa. ;0
+Pinuri ng guro ang estudyante. ;cause;Tama ang sagot ng estudyante sa tanong. ;Nag-atubiling sagutin ng estudyante ang tanong. ;0
+Wala nang itlog ang babae. ;effect;Pumunta siya sa bukid. ;Pumunta siya sa supermarket. ;1
+Nakilala ko ang isang matandang kaibigan. ;effect;Isiniwalat ko sa kanya ang isang lihim. ;Binibigkis ko siya. ;1
+Hindi pumasok sa lawa ang babae. ;cause;Nakapanghuli siya ng isda. ;Mukhang kontaminado. ;1
+Ang estudyante ay dumating sa klase na pawis. ;cause;Nasira ang payong niya. ;Ang kanyang bisikleta ay ninakaw. ;0
+Lumipat ang cursor sa computer screen. ;cause;Ang gumagamit ay nag-click sa mouse. ;Inilipat ng gumagamit ang mouse. ;1
+Nag-ikot ang tsuper. ;cause;Isang aksidente ang naganap sa pangunahing daan. ;Sinundan niya ang trak na nasa unahan niya. ;0
+Inibit ko ang basahang tela sa lapon ng damit sa labas. ;effect;Ang tela ay naglalaho. ;Ang tela ay may mga mantsa. ;0
+Ang babae ay nagsuot ng mga salamin. ;cause;Ang liwanag ng araw ay maliwanag. ;Nag-hire siya ng taxi. ;0
+Tumingin ang lalaki sa langit sa gabi. ;cause;Nais niyang tag-init na. ;Sa palagay niya ay maganda ito. ;1
+Ako'y pagod na pagod. ;effect;Maaga akong nakatulog. ;Nagising ako sa buong gabi. ;0
+Nagpunta ang lalaki sa barbero. ;cause;Lumalaki na ang buhok niya. ;Lalong lumalaki ang kaniyang buhok. ;1
+Naglaro ang bata ng masamang mga pakikipagsapalaran sa kaniyang bagong kaklase. ;cause;Binati ng bata ang bagong kaklase. ;Hindi nagustuhan ng bata ang bagong kaklase. ;1
+Gusto ko ng isang baso ng gatas. ;cause;Kumain ako ng cookies. ;Nagluluto ako ng tinapay. ;0
+Nagsimulang umulan. ;effect;Sinindi ng tsuper ang mga ilaw ng harap. ;Binago ng tsuper ang kotse. ;0
+Ang parking lot ng gusali ay walang tao. ;effect;Nagparking ako sa kabilang daan ng kalye. ;Nagparking ako malapit sa pasukan. ;1
+Nalampasan ng manunulat ang deadline para sa pagsusumite ng draft. ;cause;Siya ay may block ng manunulat. ;Siya ang nag-edit ng draft. ;0
+Inalis na sa akin ng kasamahan ko. ;cause;Humiling ako na makipag-usap sa isang superbisor. ;Ibinigay ko ang aking numero ng pagkakakilanlan. ;0
+Ang hangin ay sumipsip sa bukas na bintana. ;effect;Nag-ring ang doorbell. ;Nagkurap ang mga kurtina. ;1
+Ang kuryente sa aking bahay ay tumigil. ;cause;Inilabas ko ang lampara. ;Na-blown ko ang isang fuse. ;1
+Nagngungol ang weightlifter. ;cause;Pinapayagan niya ang kaniyang mga kalamnan sa salamin. ;Itinaas niya ang bar sa ibabaw ng kaniyang ulo. ;1
+Sinubukan ng estudyante na gawin ang matematika sa kaniyang ulo. ;effect;Kinuha niya ang isang calculator. ;Nalilito siya. ;1
+Natulog ang sanggol. ;cause;Binago ng ama ang pampalasa ng sanggol. ;Maingat na inuyog ng ama ang sanggol. ;1
+Itinapon ng dalaga ang balon ng tubig sa batang lalaki. ;effect;Ang bata ay nagkaroon ng concussion. ;Nalamig ang bata. ;1
+Nakalimutan ng litratista na gamitin ang flash sa camera. ;effect;Ang mga larawan ay naging maliwanag. ;Ang lahat ng nasa mga larawan ay tumanggi na ngumiti. ;0
+Hindi ako tumanggap ng imbitasyon sa birthday party. ;cause;Ako'y nag-iisa. ;Wala ako sa bayan. ;1
+Nag-ehersisyo ako. ;cause;Naramdaman ko ang lakas. ;Natakot ako. ;0
+Inihihigpit ko ang basahang espongha. ;effect;Nakatupok ito ng tubig. ;Lumabas ang tubig mula rito. ;1
+Sumakay ng bangka ang mga bakasyunaryo patungo sa resort. ;cause;Ang resort ay naka-book. ;Ang resort ay nasa isang isla. ;1
+May tattoo ang tinedyer. ;cause;Natatakot siya sa mga karayom. ;Gusto niyang maghimagsik. ;1
+Isang di-kilala na kotse na naka-parking sa labas ng aking bahay. ;effect;Naging mapaghihinala ako. ;Tinawagan ko ang pulisya. ;0
+Nagbigay ng sarili ang kriminal. ;cause;Ang ebidensiya ay nag-aakalang siya ang may kasalanan. ;Walang ebidensiya laban sa kaniya. ;0
+Nagpasya ang matitinding lalaki na magbawas ng timbang. ;effect;Hindi na siya nag-iinom ng tamis. ;Hindi siya umiinom ng kape. ;0
+Lumakad ang dalaga sa yelo. ;effect;Nag-slide siya. ;Nagkulang siya. ;0
+Ang babae ay may mga singsing sa ilalim ng kaniyang mga mata. ;cause;Nagising siya sa buong gabi. ;Inihiga niya ang kaniyang anak. ;0
+Nag-agos ang lawa mula sa bulkan. ;cause;Sumiklab ang bulkan. ;Ang bulkan ay hindi nag-aandar. ;0
+Isinulong ng babae ang kaniyang sapatos. ;cause;Kilala niya ang lahat sa party. ;Gusto niyang umalis sa party. ;1
+Binayaran ko ang tagapag-alaga sa tollbooth. ;effect;Pinapasa niya ako sa toll booth. ;Inihinto niya ako sa tollbooth. ;0
+Ang ehekutibo ay nagbankrupt. ;cause;Ibinebenta niya ang stock ng kaniyang kumpanya. ;Isinabog niya ang kaniyang kayamanan. ;1
+Nagpakonsulta sa doktor ang lalaki. ;cause;Ang doktor ay nagbabakasyon. ;Nagkasakit ang lalaki. ;1
+Lumabas ako sa aking silid-tulugan sa pamamagitan ng bintana. ;cause;Nagdilaab ang bahay. ;Walang tao sa bahay. ;0
+Ang mga daliri ng batang lalaki ay naging prunny. ;cause;Matagal siyang nag-shower. ;Pinapayuhan niya ang kanyang mga kamay ng sabon. ;0
+Inilagay ko ang gatas. ;cause;Masam ang lasa ng gatas. ;Ang aking bibig ay tuyo. ;0
+Nawala ako sa bus. ;effect;Mas maaga akong pumasok sa trabaho. ;Nahuli ako sa trabaho. ;1
+Ang trak ay nag-umpisa sa kotse. ;effect;Nagmadali ang trak. ;Naputol ang kotse. ;1
+Ang koponan ay nag-aayos ng paligsahan para sa kanilang kapakinabangan. ;effect;Nanalo sila. ;Sila'y tumigil. ;0
+Nag-aahon ang bote ng soda. ;cause;Inibalik ko ang bote. ;Inilipat ko ang cap. ;1
+Ang batang lalaki ay naka-lock sa labas ng kaniyang bahay. ;effect;Lumapit siya sa loob sa pamamagitan ng bukas na bintana. ;Sumakay siya sa bubong. ;0
+Nag-ring ang doorbell. ;effect;Tinuktok ng bisita ang tuktok sa pinto. ;Ang babae ay tumingin sa butas ng susi sa pinto. ;1
+Ang lalaki ay nagsuot ng kulay sa kanyang kasuotan. ;effect;Nag-clean na siya. ;Inibit niya ito sa kanyang closet. ;0
+Pinipis ng dalaga ang tubo ng toothpaste. ;effect;Ang toothpaste ay lumabas sa tubo. ;Inibubo ng dalaga ang toothpaste. ;0
+Ang mga namatay na sibilyan sa digmaan ay dumami. ;effect;Nagsagawa ng protesta ang mga pasipisista. ;Nagsagawa ng parada ang mga pasipisista. ;0
+Hinugot ng dalaga ang ribbon sa kanyang buhok. ;cause;Inibit niya ang ribbon. ;Ang ribbon ay mukhang babyish. ;1
+Ang lalaki ay nagkaroon ng plastic surgery. ;effect;Siya ay tumanda. ;Mukhang mas bata pa siya. ;1
+Isang sanggol na manok ang lumabas sa itlog. ;cause;Ang itlog ay lumukso. ;Nakipag-break ako sa itlog. ;0
+Nagutom ang bilanggo. ;effect;Namatay siya. ;Tumakas siya. ;0
+Nawala ang timbang ng lalaki sa hagdan. ;effect;Tumayo siya sa hagdan. ;Nahulog siya sa hagdan. ;1
+Nag-burp ang bata. ;cause;Kinuha niya ang isang sip ng soda. ;Binuksan niya ang lata ng soda. ;0
+Isang malamig na hangin ang pumasok sa bintana. ;effect;Ako'y nagpahinga. ;Ako'y nanginig. ;1
+Nakatanggap ang estudyante ng isang scholarship upang makapagtungo sa kolehiyo. ;cause;Pinarangalan siya ng kaniyang mga kaklase. ;Magaling siyang nag-aral. ;1
+Pinilit ng dalaga ang batang lalaki. ;cause;Kasama niya ang bahay nila. ;Siya ay na-crush sa kanya. ;1
+Ang gutom na bakla ay nagnanakaw ng pagkain. ;cause;Siya'y nag-udyok ng awa. ;Wala siyang pera. ;1
+Tinawagan ko ang aking kaibigan upang makipag-usap. ;cause;Gusto ko ng pribadong buhay. ;Naramdaman kong nag-iisa ako. ;1
+Ang lalaki ay nagbigay sa akin ng kamay. ;effect;Nag-aahon ako sa kanya. ;Sinampal ko siya. ;0
+Nag-iwan ako. ;cause;Ang mga paputok ay naglunsad sa himpapawid. ;Ang frisbee ay lumipad patungo sa aking ulo. ;1
+Kinagat ng dalaga ang kanyang mga kuko. ;cause;Nag-aalala siya. ;Nagulat siya. ;0
+Binago ko ang pahina sa kalendaryo. ;cause;May appointment ako sa kalendaryo. ;Ito ay simula ng isang bagong buwan. ;1
+Natuklasan ng asawa na may pakikipagtalik ang kaniyang asawa. ;effect;Pinaalis niya ang kaniyang abugado. ;Nag-file siya ng divorce. ;1
+Nahulog ng dalaga ang bola ng goma. ;effect;Nag-bounce ang bola. ;Nagniningning ang bola. ;0
+Nagkamali ang dalaga sa kanyang eksaminasyon. ;effect;Nahulaan na niya ang sagot. ;Pinawi niya ang sagot niya. ;1
+Tinalo ng manlalaro ang kalaban niya. ;effect;Nakuha ng kaniyang kalaban ang pas. ;Ang kaniyang kalaban ay bumagsak. ;1
+Kinuha ko ang mga kamatis mula sa puno ng ubas. ;cause;Sila'y hinog na. ;Ako ang nag-aari sa kanila. ;0
+Nais ng lalaki na kumilos nang romantikong paraan. ;effect;Nakilala niya ang kanyang dating kasintahan sa tanghalian. ;Binili niya ang tsokolate para sa kanyang kasintahan. ;1
+Tumaas ang mercury sa thermometer. ;cause;Nahulog ko ang thermometer. ;Naging mainit ang panahon. ;1
+Isang bagyo ang sumapit sa bayan. ;effect;Ang bubong ng korte ay bumagsak. ;Ang haywey ay naging mapanganib na nag-iis. ;0
+Ang estudyante ay nakatanggap ng tutoring. ;effect;Lumaki ang kaniyang mga marka. ;Nag-iwan siya sa eksamin. ;0
+Ako'y kumportable. ;cause;Lumuhod ako sa lupa. ;Binalot ko ang aking sarili sa isang kumot. ;1
+Pinatuyo ko ang bato. ;effect;Naging makinis ito. ;Naging makintab ito. ;1
+Nagdagdag ako ng asukal sa kape. ;effect;Malakas ang amoy ng kape. ;Masarap ang kape. ;1
+Ang lalaki ay nag-iimbak sa mga papeles. ;effect;Nakaputol siya sa papel. ;Sinira niya ang mga papeles. ;0
+Sinaksak ko ang kuko sa martilyo. ;effect;Ang kuko ay tumulo sa kahoy. ;Ang kuko ay nagkadunot. ;0
+Pinipis ng isda ang linya. ;effect;Ang mangingisda ay nag-aakit ng isda. ;Ang mangingisda ay nag-aayos ng linya. ;0
+Nakakahiya ang tin-edyer na pumunta sa paaralan. ;cause;May pimple siya. ;Kinuha niya ang kanyang mga braces off. ;0
+Naging masaya ang ekspresyon ng aking mukha. ;cause;Nakatanggap ako ng mabuting balita. ;Nawala ang pasensya ko. ;0
+Pinipis ko ang aking mga kamay gamit ang towel. ;cause;Malamig ang tuwalya. ;Ang aking mga kamay ay basa. ;1
+Nawala ang timbang ng lalaki sa upuan. ;cause;Nag-uugaling ang upuan sa ilalim niya. ;Nagbubo siya ng pintura sa banyo. ;0
+Ang mga kasamahan sa koponan ay nag-aabisuhan. ;cause;Nawala nila ang kanilang laro. ;Binawi ng kanilang coach ang pagsasanay. ;0
+Humingi ako ng kapatawaran. ;cause;Nagsisisi ako sa aking pagkakamali. ;Nakamit ko ang aking layunin. ;0
+Ang babae ay nauuwi sa kaniyang kasama. ;cause;Nagtanong siya sa kaniya tungkol sa kaniyang sarili. ;Walang tigil na pinag-uusapan niya ang tungkol sa kaniyang sarili. ;1
+Nagngiti ang dalaga. ;effect;Nag-aubog ang kaniyang mga pisngi. ;Ang mga dimples niya ay lumitaw. ;1
+Ang barko ng kaaway ay bumagsak. ;cause;Nakapasa ito sa minahan. ;Naglayag ito papunta sa daungan. ;0
+Ang lalaki ay tumulak sa kanyang paa. ;cause;Naglakad siya sa isang palayok. ;Lumakad siya sa mga putol na salamin. ;1
+Sinuri ng mga detektib ang eksena ng krimen para sa mga fingerprint. ;effect;Natuklasan nila ang pagkakakilanlan ng mamamatay-tao. ;Natagpuan nila ang baril sa lugar ng krimen. ;0
+Maraming trapiko sa haywey. ;effect;Nag-ikot ako. ;Nagtanong ako para sa isang pagsakay. ;0
+Ang ekonomiya ng bansa ay bumagsak. ;effect;Maraming tao ang nagkasakit. ;Maraming tao ang nakaharap sa kawalan ng trabaho. ;1
+Ang bantay sa daanan ay nagsiwit sa mga bata. ;cause;Handa na silang lumakad sa lumalapit na trapiko. ;Kilala niya sila mula sa kanilang kapitbahayan. ;0
+Nag-ikot-ikot ako ng mga mata sa aking kaibigan. ;cause;Sinabi niya sa akin ang katotohanan. ;Nagsalita siya ng nakakatawa. ;1
+Wala nang gasolina ang kotse. ;effect;Ang tsuper ay nabaril sa daan. ;Ang tsuper ay pumili ng isang autostopist. ;0
+Nagpasubo ang babae. ;effect;Ang sanggol ay ipinanganak. ;Ang babae ay may sakit sa umaga. ;0
+Ang sombrero ng lalaki ay nawasak. ;cause;Inilabas niya ang sombrero. ;Malakas ang hangin sa labas. ;1
+Dumalo ang dalaga sa birthday party ng kaklase niya. ;cause;Nakatanggap siya ng imbitasyon. ;Bumili siya ng regalo. ;0
+Ang noo ng batang lalaki ay mainit. ;effect;Sinukat ng kaniyang ina ang kaniyang temperatura. ;Dinala siya ng kaniyang ina sa parke. ;0
+Nag-spray ang lalaki ng cologne sa sarili. ;cause;Gusto niyang mapahanga ang kaniyang kausap. ;Naglagay siya ng gel sa kanyang buhok. ;0
+Ang kuryente sa bahay ay tumigil. ;effect;Naghanap ako ng isang flashlight. ;Kinuha ko ang isang pala. ;0
+Lumipat ang pamilya sa isang mas malaking bahay. ;cause;Ang anak ay nagtapos sa hayskul. ;Ang ina ay nagpasilang ng kambal. ;1
+Ang marathon runner ay nanatiling mabagal. ;cause;Gusto niyang mag-iingat ng kaniyang lakas. ;Nakita niya ang linya ng pagtatapos. ;0
+Sinaksak ng bata ang vending machine. ;cause;Ang makina ay tumulo ng pera. ;Ang bag ng chips ay natigil. ;1
+Namatay ang aso ng aking kaibigan. ;effect;Inilipat ko ang aking mga mata sa kaniya. ;Binibigkis ko siya. ;1
+Ang credit card ng negosyante ay tinanggihan. ;effect;Nag-ulat siya ng isang utang. ;Nagbayad siya ng cash. ;1
+Ang tao ay sumpa. ;cause;Pinutol niya ang kanyang mga kuko. ;Napatumba niya ang kanyang daliri. ;1
+Ipinagmamalaki ng lalaki ang kaniyang kapatid. ;cause;Nag-aaway ang kaniyang kapatid sa kanilang mga magulang. ;Ang kaniyang kapatid ay tinanggap sa paaralan ng batas. ;1
+Nais ng dalaga na malaman ang tungkol sa solar system. ;effect;Pumunta siya sa aklatan. ;Tumingin siya sa mga bituin. ;0
+Ang poster ay naka-tap sa dingding. ;cause;Inilagay ko ang poster sa itaas ng pintuan. ;Naglagay ako ng tape sa likod ng poster. ;1
+Pinapayagan ng kliyente ang mga plano ng arkitekto para sa gusali. ;effect;Ang arkitekto ang nagtayo ng gusali. ;Binago ng arkitekto ang mga plano. ;0
+Nahulog ng lalaki ang kutsara niya. ;cause;Nanginginig ang kaniyang kamay. ;Sinapol niya ang kutsara. ;0
+Nagbitiw ang CEO ng kompanya. ;effect;Binuksan ng lupon ng mga direktor ang kompanya. ;Natagpuan ng lupon ng mga direktor ang kapalit niya. ;1
+Nahuli ako sa lektyur. ;effect;Umupo ako sa likuran. ;Lumapit ako sa podium. ;0
+Ang lalaki ay pinalaya mula sa bilangguan. ;cause;Binayaran ng kaniyang pamilya ang kaniyang kahilingan. ;Sinaktan niya ang isang kasamahan sa bilangguan. ;0
+Nawala ang lahat ng pag-aari ng pamilya. ;cause;Ibinebenta nila ang kanilang bahay. ;Nagsunog ang kanilang bahay. ;1
+Tinamaan ko ang lata ng aluminyo. ;effect;Ang lata ay na-recycle. ;Naputol ang lata. ;1
+Ang batang babae ay sumali sa koponan ng debate. ;effect;Natuto siyang gumamit ng computer. ;Natuto siyang makipag-usap. ;1
+Naging mas masaya ako. ;cause;Nakikinig ako ng musika. ;Ako ang naghuhugas ng pinggan. ;0
+Ang charity ay nagtakda ng tunguhin na magtipon ng pera. ;effect;Pinapakain nila ang mga walang tirahan. ;Nagsagawa sila ng alokasyon. ;1
+Ang roller coaster ay tumalon sa matarik na baba. ;effect;Nagngiti ang mga pasahero. ;Sumisigaw ang mga pasahero. ;1
+Galit ako. ;effect;Sinuri ko ang mailbox nang umalis ako sa bahay. ;Sinira ko ang pinto nang lumabas ako sa bahay. ;1
+Nais ng lalaki na panoorin ang pagsikat ng araw. ;effect;Naglakbay siya patungo sa hilaga. ;Maaga siyang nagising. ;1
+Inilipat ko ang papel. ;effect;Binago ko ang papel. ;Nag-aaklas ang papel. ;1
+Ang bansa ay nagtiis ng isang likas na sakuna. ;effect;Ang mga pinuno ng ibang bansa ay nakipagkasundo. ;Nagpadala ng emergency relief ang mga pinuno ng ibang bansa. ;1
+Ang damit ng bata ay nahuhumog. ;cause;Lumabas siya sa pool. ;Nahulog siya sa pool. ;1
+Nagmadali ang estudyante na tapusin ang aklat. ;cause;Ito'y dapat ibalik sa aklatan. ;Hiniram niya ito sa isang kaibigan. ;0
+Ang kriminal ay pinatay. ;cause;Siya'y ibinilanggo. ;Siya ay nahatulan ng pagpatay. ;1
+Ang liwanag ng araw ay pumasok sa silid. ;cause;Binuksan ko ang mga kurtina. ;Binuksan ko ang pinto. ;0
+Hinawakan ko ang buhok ng impostor. ;effect;Ang kanyang wig ay bumaba. ;Naging butil siya. ;0
+Binago ng editor ang isang pangungusap sa manuskrito. ;cause;Nakita niya na kapana-panabik ang manuskrito. ;Hindi niya tinukoy ang pangungusap. ;1
+Kinansela ng babae ang kaniyang credit card account. ;cause;Napagtanto niya na nawawala ang card. ;Napagtanto niya na expired na ang card. ;0
+Nagkaroon ng pag-ibig ang lalaki at babae. ;effect;Nag-aral sila sa kolehiyo. ;Nagpakasal sila. ;1
+Ang musika ay masyadong mahina upang marinig. ;effect;Pinalakas ko ang lakas ng tunog. ;Nagkompos ng aking sariling awit. ;0
+Ang buhok ng bata ay nakatayo. ;cause;Ang batang babae ay nag-aaksaya nito. ;Ang babae ang nag-aalis nito. ;0
+Ang bug ay nawasak. ;cause;Sinispray ko ang aking sarili ng repellent sa insekto. ;Tinakpan ko ang bug. ;1
+Binuksan ko ang aking mga mata. ;cause;Nagising ako. ;Ako'y nagpahinga. ;0
+Ang musika ng aking kapitbahay ay malakas. ;effect;Hiniling ko sa kanya na i-turn down ito. ;Hiniling ko na pautangin ko ang CD sa kanya. ;0
+Ang pamilya ng lalaki ay mahihirap. ;cause;Siya ay mapagkukunan sa kaniyang kinikita. ;Siya ay kumikita ng mas mababa sa minimum na suweldo. ;1
+Ang estudyante ay nagtapos sa unibersidad. ;effect;Naghanap siya ng trabaho. ;Nagkaroon siya ng libangan. ;0
+Pinaghalong-halong ng artist ang dilaw na pintura sa asul na pintura. ;effect;Ang pintura ay nag-iipon sa lahat ng dako. ;Naging berde ang pintura. ;1
+Binago ko ang paksa ng usapan. ;cause;Wala na akong masasabi. ;Naging mahigpit ang pag-uusap. ;1
+Ang aking kapatid ay pinalabas na mula sa ospital. ;effect;Tinanggap ko siya sa bahay. ;Hindi ko siya pinansin. ;0
+Ang kurtina sa entablado ay bumangon. ;effect;Nagsimula ang unang eksena ng dula. ;Lumabas sa entablado ang mga artista sa palabas. ;0
+Ang hostage ay sumuko sa mga utos ng kidnaper. ;cause;Nagbanta ang kidnaper na saktan ang hostage. ;Iniwan ng kidnaper ang hostage nang mag-isa. ;0
+Isang pagsabog ang sumisigaw sa entablado. ;cause;Pinigil ng musikero ang kanyang paa. ;Pinihit ng musikero ang tambol. ;1
+Nagmadali ang mga magulang sa silid-tulugan ng kanilang anak. ;cause;Nagising ang bata na umiiyak mula sa isang bangungot. ;Natatakot ang bata na tumingin sa ilalim ng kama niya. ;0
+Ang babae ay nakikipag-usap sa pamamagitan ng wikang isinasign. ;cause;Siya ay ipinanganak nang maaga. ;Ipinanganak siyang bingi. ;1
+Nagkaroon ng tagtuyot sa rehiyon. ;effect;Ang tubig ay naging kontaminado. ;Ang mga pananim ay namatay. ;1
+Sinusundan ng pusa ang ibon. ;effect;Lumipad ang ibon. ;Ang ibon ay nakakuha ng isang bulate. ;0
+Nagpalitan ng paaralan ang dalaga. ;cause;Ang paaralan ay nag-iwan para sa tag-init. ;Lumipat siya sa isang bagong bayan. ;1
+Tumanggi ang may-ari ng pabrika na itaas ang suweldo ng mga empleyado. ;effect;Nagtalaga ang may-ari ng bagong manager. ;Nag-strike ang mga empleyado. ;1
+Ang pinuno ay nakipaglaban sa mga ekstremistong nasa kaniyang bansa. ;effect;Siya'y naiimpluwensiyahan ng mga ekstremistang iyon. ;Pinatay siya ng mga ekstremist. ;1
+Naglakad ako ng walang suot sa baybayin. ;effect;Ang buhangin ay sumiping sa aking mga paa. ;Ang mga alon ay sumasabog sa baybayin. ;0
+Nagising ako sa kalagitnaan ng gabi na malamig. ;effect;Nagsuot ako ng sweatpants. ;Uminom ako ng isang baso ng tubig. ;0
+Pinatigil ng ina ang kaniyang anak. ;cause;Ang kaniyang anak ay nagngiti. ;Nag-aahon ang kaniyang anak. ;1
+Isang butas na pinutol sa aking jeans. ;cause;Binuksan ko ang jeans. ;Natumba ako sa palapag. ;1
+May braces ang bata. ;effect;May ulod siya. ;Ang kanyang mga ngipin ay naging tuwid. ;1
+Nag-ehersisyo ako sa gym kahapon. ;effect;Nagising ako ngayon na may sakit sa kalamnan. ;Nagising ako ngayon na may sakit sa lalamunan. ;0
+Ang batang babae ay nagbulong-bulong sa isa't isa sa hapag-kainan. ;effect;Ang iba pang mga estudyante ay umupo sa hapag-kainan. ;Ang iba pang mga estudyante sa hapunan ay nadama na sila'y pinabayaan. ;1
+Lumipad ang bata sa trampolin. ;effect;Bumalik siya sa hangin. ;Nagpasya siyang subukan ang pag-flip. ;0
+Inilagay ko ang sulat sa mailbox. ;effect;Isinampa ng post office ang sulat. ;Pinabilis ng post office ang sulat. ;0
+Ang manlalaro ay may tiwala. ;effect;Inilagay niya ang lahat ng kaniyang pera. ;Bumalik siya sa bahay na walang pera. ;0
+Nagpalawak ang sunog sa kagubatan. ;cause;Lalong lumakas ang hangin. ;Ang mga nag-aapoy ay nahuli. ;0
+Sinira ng bata ang kaniyang tuhod. ;effect;Isinugo siya ng kaniyang ina sa kaniyang silid. ;Nag-bandage ang kaniyang ina sa sugat. ;1
+Nakaligtas ang lalaki sa nakamamatay na sakit. ;cause;Pinasayin niya ang kanyang testamento. ;Siya ay nakatanggap ng transplant ng organo. ;1
+Kinuha ko ang isang sip ng nag-iinit na kape. ;effect;Pinutol ko ang aking dila. ;Sinunog ko ang aking dila. ;1
+Pinaalis ng editor ang manunulat. ;cause;Hindi nag-aalinlangan ang manunulat sa kaniyang mga kuwento. ;Nawala sa manunulat ang isang mahalagang deadline. ;1
+Ako'y pagod na pagod. ;cause;Natulog ako buong araw. ;Nag-aral ako buong araw. ;1
+Ang doktor ang nag-diagnose sa pasyente. ;cause;Naila niya ang mga sintomas ng pasyente. ;Nagreseta siya ng mga tablet sa pasyente. ;0
+Sinaksak ko ang aking balat. ;cause;Ito ay pawis. ;Naramdaman ko itong pangit. ;1
+Ang lalaki ay sumailalim sa emergency na operasyon. ;cause;Nawala ang kanyang pag-aalaga. ;Nagkaroon siya ng atake sa puso. ;1
+Ang mga kalamnan ng kamay ng lalaki ay nag-bulge. ;cause;Inilipat niya ang kaniyang mga kamay. ;Pinipisil niya ang kaniyang mga kamay. ;0
+Itinaas ng lalaki ang kaniyang mga kulot. ;cause;Nagulat siya. ;Nadismaya siya. ;0
+Hinayaan ko ang pagkakamali ng aking kasamahan. ;cause;Naniniwala ako na mabuti ang kaniyang mga layunin. ;Naniniwala ako na alam niya ang mas mabuti. ;0
+Tumigil na ang lalaki sa paninigarilyo. ;effect;Nagsimula siyang mag-ehersisyo nang higit. ;Mas maaga na siyang nagising. ;0
+Tinamaan ng babae ang kanyang mananakop sa ilong. ;effect;Ang katawan ng nag-atake ay wala nang buhay. ;Nagsimula nang dumugo ang nag-atake. ;1
+Ang dart ay hindi nakunan ang mata ng toro. ;cause;Ang lalaki ay hindi naka-aim. ;Ang lalaki ay nawawalan ng laro. ;0
+Hinihiling ng may-ari ng bahay na dumalaw sa kaniyang bahay ang isang tagapag-alis ng mga peste. ;cause;Natuklasan niya ang mga daga sa basement. ;Nag-iingat siya ng isang farm ng mga langgam sa kaniyang silid. ;0
+Inirerekumenda ko sa aking bisita na mag-dinner tayo. ;cause;Sobrang pagod ako para maghanda ng anumang bagay. ;Ang aking bisita ay hindi na welcome. ;0
+Nakita ng dalaga ang kapatid na lalaki na nagbabasa ng kaniyang talaarawan. ;effect;Nagsimula siyang itago ang diary. ;May bagong diary siya. ;0
+Ang babae ay kulang sa pera para sa upa. ;effect;Nagtrabaho siya ng overtime. ;Iniwan niya ang trabaho niya. ;0
+Mabilis na tumigil ang kamay ng bata. ;cause;Hinagkan niya ang mainit na kalan. ;Pinakapatong niya ang ulo ng tuta. ;0
+Nais ng kompanya na sukatin ang kasiyahan ng mga customer. ;effect;Nag-alok sila ng diskwento sa mga bagong customer. ;Nagbigay sila ng survey sa mga customer. ;1
+Ang sahig ay nag-scrab. ;cause;Itinapon ng bata ang mga kusinang nasa sofa. ;Nag-drag ang bata ng upuan sa sahig. ;1
+Inihihinto ko ang aking mukha. ;cause;Tinutuya ako ng aking kaaway. ;Ang aking kaaway ay nag-iipon ng pisngi. ;1
+Ang bantog na estatwa ay nasunog. ;cause;Ito'y sinaktan ng kidlat. ;Ang mga tao ay pumupunta upang sambahin ito. ;0
+Iniwan ko ang prutas sa labas sa mesa. ;effect;Ang bunga ay nagbubunga ng mga buto. ;Ang mga langaw ay sumasabu sa prutas. ;1
+Ang ballerina ay nagsubo ng ligamento. ;cause;Ipinakita niya ang kanyang mga daliri ng paa. ;Nakipoot siya ng bukol. ;1
+Ang tali ng sapatos ng bata ay naka-untie. ;cause;Natutunan niya kung paano ito ikakabit. ;Naglalakad siya sa palaruan. ;1
+Na-enchant ako sa aklat. ;effect;Ibinalik ko ang aklat. ;Nawala ang pananaw ko sa oras. ;1
+Ang lalaki ay may mga paniniwala na katulad ng mga paniniwala ng kaniyang mga magulang. ;cause;Siya ay naiimpluwensiyahan ng kaniyang mga magulang. ;Iniwan siya ng kaniyang mga magulang. ;0
+Unti-unti nang huminto ang kotse. ;cause;Wala na siyang gasolina. ;Natulog ang tsuper. ;0
+Kumain ang lalaki ng ice cream sa araw. ;effect;Nawala ang lasa ng ice cream. ;Ang sorbetes ay tumulo mula sa cones. ;1
+Nagbitay ako ng mga likhang sining sa silid. ;cause;Mukhang marumi ang karpet. ;Ang mga pader ay tila walang laman. ;1
+Maaga akong umalis sa trabaho. ;cause;Nagkasakit ang ulo ko. ;Nagkaroon ng pulong ang aking boss. ;0
+Ang tuta ay nag-aaklas sa karpet. ;effect;Pinasisihan ng may-ari ang tuta. ;Nagbigay ng regalo ang may-ari sa aso. ;0
+Humingi ako ng paumanhin sa aking kaibigan. ;effect;Pinatawad ako ng aking kaibigan. ;Nagagalit ang aking kaibigan. ;0
+Ang lalaki ay nakatayo sa gitna ng karamihan. ;cause;Nagdala siya ng isang backpack. ;Nagsuot siya ng neon vest. ;1
+Nagsinungaling ang saksi sa ilalim ng panunumpa. ;effect;Natapos niya ang kaniyang patotoo. ;Siya ay inakusahan ng pagsaksi ng kasinungalingan. ;1
+Pinintahan ng babae ang kanyang buhok. ;cause;Gusto niyang magbago ang hitsura. ;Gusto niyang maging bahagi ng karamihan. ;0
+Ang mga imigrante ay nahuli na ilegal na naninirahan sa bansa. ;effect;Nakuha nila ang trabaho. ;Sila'y pinaalis. ;1
+Nagbiro ang tagapagsalita sa publiko. ;effect;Natawa ang mga tagapakinig. ;Tumayo ang mga tagapakinig. ;0
+Tumingin ako sa araw. ;effect;Nabulag ako ng araw. ;Ang araw ay nag-iinit sa aking balat. ;0
+Ako'y nauuwi. ;effect;Nag-sniff ako. ;Nag-yawn ako. ;1
+Mahirap i-cut ang steak. ;cause;Ang kutsilyo ay walang-kahulugan. ;Ang steak ay hilaw. ;0
+Ang babae ay nagdeklara ng pagkabangkaruta. ;cause;Nakatanggap siya ng suweldo. ;Nagkaroon siya ng malaking utang. ;1
+Nagpalit ang ilaw sa apartment ng aking kaibigan. ;effect;Nagtataka ako kung wala na siya. ;Nagpasya akong dumalaw sa kaniya. ;1
+Inilagay ko ang bulaklak sa ilalim ng aking ilong. ;effect;Ang mga petal ay bumagsak sa bulaklak. ;Narinig ko ang amoy ng bulaklak. ;1
+Ang babae ay nadarama ang nostalhiya. ;cause;Nakilala niya ang kaibigan niya noong bata pa. ;Sumisigaw siya sa kaniyang mga anak. ;0
+Nag-aantala ang estudyante sa papel. ;effect;Mas maaga niyang isinumite ang papel. ;Hindi kumpleto ang isinumite niya na papel. ;1
+Nag-break ang kotse ko. ;effect;Pumunta ako sa mall. ;Tinawagan ko ang mekaniko. ;1
+Iniwan ko ang sulat. ;cause;Ito ay hindi nakikilalang-tao. ;Hindi ito mababasa. ;1
+Nagpatakbo ang ibon ng mga pakpak. ;effect;Naglagay ito ng itlog. ;Lumapit ito sa itaas. ;1
+Nagparking ako sa daanan. ;cause;Bukas ang garahe. ;Ang garahe ay puno. ;1
+Itinutok ng kriminal ang baril sa biktima. ;effect;Inihulog ng kriminal ang baril. ;Itinaas ng biktima ang kaniyang mga kamay. ;1
+Hinihintay ko ang katapusan ng linggo. ;cause;Plano kong dumalo sa libing ng aking tiyuhin. ;Plano kong dumalo sa kasal ng aking kaibigan. ;1
+Nawala ang pananaw ko sa oras. ;cause;Nag-isip ako nang nakaisip. ;Naaliw ako. ;0
+Ang dokumento ay naka-print na hindi mababasa. ;cause;Ang printer ay kulang ng tinta. ;Wala nang papel ang print. ;0
+Ang estadyum ay nag-play ng pambansang awit. ;effect;Lumingon ang mga tagahanga sa watawat. ;Ang mga tagahanga ay nagmamadali sa larangan. ;0
+Ang lasa ng dip ay walang lasa. ;effect;Ako ang naglingkod nito. ;Naglagay ako ng asin dito. ;1
+Inilagay ko ang papel na tuwalya sa nagbubo. ;effect;Ang tuwalya ay sumipsip ng likido. ;Ang pagbubo ay nag-iwan ng matigas na natitirang laman. ;0
+Ang babae ay pinigilan sa gitna ng pagbabasa ng kaniyang aklat. ;effect;Pinaki-bookmark niya ang kaniyang pahina. ;Binasa niya ulit ang aklat. ;0
+Ang eroplano ay tumama sa ilang mga kaguluhan. ;effect;Pinihit ng lalaki ang kaniyang sinturon. ;Tumingin sa bintana ang lalaki. ;0
+Nag-aalala ang bata. ;cause;Hindi siya pinansin ng dalaga. ;Sinaksak siya ng dalaga. ;1
+Binigyan ng mga doktor ang pasyente ng artipisyal na kamay. ;cause;Pinaputol nila ang kaniyang binti. ;Sinusubaybayan nila ang kaniyang mga vital signs. ;0
+Sinaksak ng lalaki ang siko ng babae. ;effect;Nag-aaksaya siya sa kanya. ;Inilayo niya ang kanyang kamay sa kanya. ;1
+Humingi ako ng payo sa aking kaibigan. ;cause;Pinahahalagahan ko ang kaniyang opinyon. ;Alam ko na tama ako. ;0
+Nag-sandal ang bata sa putik. ;effect;Ang putik ay nakulong sa kaniyang sapatos. ;Sinaktan siya ng putik sa mukha. ;0
+Ang bayan ay tumanggap ng ilang pulgada ng niyebe. ;effect;Ang mga paaralan ay sarado. ;Nagtatago ang mga tao sa ilalim ng lupa. ;0
+Tapos na ang shift ng empleyado. ;effect;Umuwi siya sa bahay sa araw na iyon. ;Nagbanta siyang magbitiw sa trabaho. ;0
+Sinira ng puno ang bahay. ;cause;Ang puno ay bumagsak sa bubong. ;Ang puno ay naglililim sa bakuran. ;0
+Ang kahoy ay namaghati sa kalahati. ;cause;Inilagay ko ang kahoy sa apoy. ;Inilagay ko ang wasay sa puno. ;1
+Nagpapasalamat ang pamilya sa mag-asawa. ;cause;Ang mag-asawa ay nag-anunsyo na sila ay naghiwalay. ;Ang mag-asawa ay nag-anunsyo na sila'y magkakaroon ng isang sanggol. ;1
+Nagpadala ang dalaga ng valentine sa batang lalaki. ;cause;Nagustuhan niya siya. ;Hinila niya ito. ;0
+Tumango ako sa pahayag ng aking kaibigan. ;cause;Nalilito ako. ;Pumayag ako sa kaniya. ;1
+Nag-flipped ang mga kaibigan ng barya. ;cause;Nais nilang makahanap ng isang kompromiso. ;Nais nilang gumawa ng isang patas na pasiya. ;1
+Nag-off ang timer sa kusina. ;effect;Inilabas ng lalaki ang mga pagkain sa refrigerator. ;Kinuha ng lalaki ang pizza sa oven. ;1
+Ang babae ay nagtakda ng ambisyong tunguhin. ;effect;Nag-iwan siya ng timbang. ;Nagtrabaho siya nang husto. ;1
+Ang mayamang lalaki ay namatay dahil sa katandaan. ;effect;Ang kaniyang anak ay nagkaroon ng legal na problema. ;Ang kaniyang anak ang namana ng kaniyang kayamanan. ;1
+Ang babae ay tumakbo sa apoy. ;effect;Ang apoy ay nagsipag. ;Umapaw ang usok mula sa mga apoy. ;0
+Ang kotse ng babae ay nasa shop. ;cause;Ang lisensya niya sa pagmamaneho ay inalis. ;Nagkaroon siya ng aksidente sa kotse. ;1
+Natulog ako sa aking alarma. ;effect;Naghanda ako ng almusal. ;Nawala ako sa almusal. ;1
+Ang publikong pigura ay lumabas sa limousine. ;effect;Ang mga kamera ay nag-flash sa kaniyang direksiyon. ;Ang kaniyang pamilya ay dumalo sa press conference. ;0
+Nag-iingat ang babae sa banyo. ;effect;Ang tubig sa paliguan ay naging malamig. ;Ang tubig sa paliguan ay lumabas sa banyo. ;0
+Nais ng estudyante na makilala ang iba pang mga estudyante sa kampus. ;effect;Sumama siya sa isang fraternity. ;Nag-aral siya ng engineering. ;0
+Itinaas ko ang mga sulok ng sopa. ;cause;Naghahanap ako ng maliit na pera. ;Nag-aayos ako ng living room. ;0
+Lumipad ang wasp patungo sa batang lalaki. ;effect;Tumakas ang bata. ;Kumuha ng bulaklak ang bata. ;0
+Ang babae ay nasumpungan na nagkasala ng isang maling gawa. ;effect;Siya'y hinatulan na magsagawa ng serbisyo sa komunidad. ;Siya'y inilagay sa death row. ;0
+Inilagay ko ang asukal sa mainit na tsaa. ;effect;Ang tsaa ay nag-aabong. ;Ang asukal ay natunaw. ;1
+Ang beterano ay naglalakad na may pag-aakyat. ;cause;Siya'y inanyayahan para sa digmaan. ;Nasugatan siya sa labanan. ;1
+Tumakas ang kriminal mula sa pulisya. ;effect;Ang pulis ay nag-asikaso sa biktima. ;Sinundan ng pulisya ang kriminal. ;1
+Hindi nag-on ang laptop. ;cause;Nahulog ko ito. ;Ini-charge ko ito. ;0
+Wala nang lugar ang babae sa kanyang aparador. ;cause;Nagkaroon siya ng malawak na wardrobe. ;Inilipat niya ang kaniyang laundry. ;0
+Ang lalaki ay nasira ang puso. ;cause;Ang kaniyang asawa ay nag-anak. ;Iniwan siya ng kaniyang asawa. ;1
+Ang lalaki ay nakakuha ng isang degree. ;effect;Siya'y naging kuwalipikado para sa trabaho na kaniyang nais. ;Ang kaniyang alok sa trabaho ay tinanggal. ;0
+Malinaw na nakarinig ang tinig ng lalaki sa buong auditorium. ;cause;Binigyan niya ng pagbati ang mga tagapakinig. ;Nagsalita siya sa mikropono. ;1
+Nagtapon ako ng barya sa bukal ng tubig. ;effect;Ang barya ay lumubog sa ilalim. ;Ang barya ay bumagsak sa kalahati. ;0
+Tinalo ng manlalaro ang bola patungo sa butas. ;effect;Ang bola ay pumasok sa butas. ;Bumalik ang bola sa manlalaro. ;0
+Hinihinga ko ang alikabok sa loft. ;effect;Nag-hick-up ako. ;Nag-ihihi. ;1
+Tinawagan ng cashier ng tindahan ang seguridad. ;cause;Gumamit ang kliyente ng pekeng pera. ;Iniwan ng customer ang mga ilaw ng kaniyang harapan. ;0
+Inilabas ko ang basura. ;cause;Ang basura ay nakapapaamoy ng kusina. ;Hindi sinasadyang itinapon ko ang aking listahan ng mga bagay na dapat bilhin. ;0
+Nagpunta ang pamilya sa zoo. ;effect;Nagugustuhan ng mga bata ang mga hayop. ;Sinusundan ng mga bata ang mga hayop. ;0
+Ang paghinga ng lalaki ay malakas. ;cause;Ang kaniyang mga bato ay nabigo. ;Ang kaniyang mga baga ay napunit. ;1
+May extra ticket ako para sa konsyerto. ;effect;Tinanong ko ang aking kaibigan kung saan pupunta ang venue. ;Tinanong ko ang aking kaibigan kung interesado siyang pumunta. ;1
+Ang air conditioner sa bahay ay nasira. ;effect;Kinuha ko ang mga kumot. ;Binuksan ko ang mga bintana. ;1
+Masakit ang likod ng bata. ;cause;Bukas ang kanyang backpack. ;Mabigat ang kaniyang backpack. ;1
+Binili ko ang aking ina ng isang regalo. ;cause;Nagluto ako ng cake para sa kanya. ;Ito ay ang kanyang kaarawan. ;1
+Ang mga daffodils sa hardin ay nawasak. ;cause;Sinaksak ng bubuyog ang hardinero. ;Ang mga tuwalya ay naghukay ng mga bula. ;1
+Nakapag-iwan ako ng match. ;effect;Ang apoy ay nagpalabas. ;Ang sugat ay nagdulot ng apoy. ;1
+Nagtagumpay ang mga partido sa pagtatalo. ;cause;Ayaw nilang makipag-usap sa korte. ;Nais nilang ayusin ang kanilang personal na kaugnayan. ;0
+Ang mga bata ay ipinadala sa isang tirahan ng mga ulila. ;cause;Ang kanilang mga magulang ay namatay. ;Ang kanilang mga magulang ay nag-aabuso sa kanila. ;0
+Isang meteorite ang bumagsak sa karagatan. ;effect;Nagkaroon ng tsunami. ;Nagsimula itong umulan ng ulan. ;0
+Nakatagpo ang hiker ng isang nakakalason na ahas. ;effect;Naging dehydrated siya. ;Nag-panic siya. ;1
+Naging mainit ang hurno. ;cause;Sinagot ko ang oven. ;Inilagay ko ang plato sa oven. ;0
+Pinutukan ko ang lemon wedge. ;effect;Nag-aamoy ang lemon. ;Ang lemon ay sumipsip. ;1
+Ang bansa ay nakatagpo ng bagong lupain. ;effect;Iniwan ng bansa ang lupa. ;Ang bansa ang nagkolonya sa lupa. ;1
+Ang baso ay bumagsak sa mesa. ;effect;Nagbuburak ito sa buong sahig. ;Ito'y napunta sa isang bunton ng damit. ;0
+Nag-uyog ang mesa. ;cause;Ang sahig ay hindi patas. ;Ang sahig ay makalisid. ;0
+Nakapigil ang ama sa pagsisinungaling ng kaniyang anak. ;effect;Ang kaniyang anak ay nagsisiapat ng katotohanan. ;Nagtiwala ang ama sa kaniyang anak. ;0
+Ang ulo ng lalaki ay tumitibok sa kirot. ;effect;Kinuha niya ang sirop sa ubo. ;Kinuha niya ang aspirin. ;1
+Nagpabagal ang tren. ;cause;Papalapit ito sa istasyon. ;Ito ay nahuli sa iskedyul. ;0
+Nagkaroon ng therapy ang lalaki. ;cause;Ang sakit sa isip ay nakakaramdam sa kaniyang pamilya. ;Na-diagnose siyang may depresyon. ;1
+Kinupkop ng babae ang kaniyang lalamunan. ;cause;Tinupok niya ang kaniyang pagkain. ;Nakapag-iipon siya sa kanyang pagkain. ;1
+Ang babae ay may sakit sa lalamunan. ;effect;Ang boses niya ay parang masungit. ;Nagsalita siya nang may accent. ;0
+Pinatingin ng aso ang makatuyong steak sa mesa. ;effect;Nag-swallow ito. ;Ito'y nakahiga. ;0
+Nagtagumpay ang negosyo ng babae. ;effect;Pinaalis niya ang kaniyang mga empleyado. ;Naging mayaman siya. ;1
+Lumabas ang mga estudyante sa silid-aralan. ;cause;Tumunog ang kampana. ;Binigyan ng guro ng homework. ;0
+Sinabi ng babae na nakakita siya ng multo. ;effect;Ang mga kakilala niya ay nag-alinlangan. ;Ang mga kakilala niya ay may kaugnayan sa kaniya. ;0
+Nawala ang pandinig ng lalaki. ;cause;Halos nalunod siya sa karagatan. ;Halos napatay siya sa isang pagsabog. ;1
+Iniwan ng bata ang tali ng balon. ;effect;Nag-deflate ang balon. ;Ang balon ay tumataas sa himpapawid. ;1
+Nawala ang kakayahan ng lalaki na magsalita. ;cause;Nagkaroon siya ng stroke. ;Huminga siya nang malalim. ;0
+Ang babae ay natitisod sa gilid ng kalsada. ;cause;May isang bitak sa semento. ;Narinig niyang tinawag ang kaniyang pangalan. ;0
+Ang lalaki ay nag-iwan ng bola sa pool. ;effect;Sumakay ang lifeguard pagkatapos niya. ;Pinasukan ng lalaki ang lifeguard. ;1
+Kinuha ko ang mga antibiotic. ;effect;Naging maayos na ang aking impeksiyon. ;Ang aking impeksiyon ay kumalat. ;0
+Naging dilaw ang ilaw ng trapiko. ;effect;Pinilit ng tsuper ang preno. ;Nag-trompeta ang tsuper. ;0
+Ang plastik na lalagyan ay natunaw. ;cause;Inilamig ko ang lalagyan sa mainit na tubig. ;Inilagay ko ang lalagyan sa mainit na kalan. ;1
+Ang kotse ay na-dent. ;cause;Ang tsuper ay sumaksak sa isang poste ng telepono. ;Nag-iwan ng pulang ilaw ang tsuper. ;0
+Nag-aral ang bata sa buong gabi. ;effect;Hindi siya sumali sa eksaminasyon. ;Nalampasan niya ang eksaminasyon. ;1
+Ang batang lalaki ay tumigil sa gilid ng pool. ;cause;Natatakot siyang matuto ng paglangoy. ;Nagde-dewi ang lifeguard. ;0
+Inilagay ko ang aking kamay sa aking dibdib. ;effect;Naramdaman ko ang pagtibok ng puso ko. ;Nagmadali ang aking pagtibok ng puso. ;0
+Ang gusali na katabi ng aking opisina ay nasa ilalim ng konstruksiyon. ;effect;Napakarami sa aking opisina. ;Maingay ang aking opisina. ;1
+Nais ng pamilya na makilala ang kanilang mga bagong kapitbahay. ;effect;Inanyayahan ng pamilya ang mga kapitbahay sa hapunan. ;Nag-aalsa ang pamilya sa mga kapitbahay mula sa kanilang bakuran. ;0
+Nag-spray ang tubig mula sa pool. ;cause;Lumulunod ang manlalangoy sa pool. ;Lumulutang ang manlalangoy sa pool. ;0
+Nakipagkahoy ako sa isang piraso ng karel. ;effect;Hindi sinasadyang nilunok ko ang isang buto. ;Hindi sinasadyang naputol ang aking ngipin. ;0
+Nagtaksil ang bata. ;cause;Ang kanyang jaket ay unzipped. ;Ang mga tali ng sapatos niya ay hindi naka-untie. ;1
+Naglagay ang babae ng mga earplug. ;cause;Nalilito siya sa ingay. ;Nakapagbubukod siya ng mga tainga. ;0
+Binuhusan ko ang aking bote ng tubig. ;cause;Ininom ko ang lahat ng tubig na nasa loob nito. ;Iniingatan ko ito sa ref. ;0
+Ang palabas sa telebisyon ay sinensurahan. ;cause;May nakasulat na marumi. ;Ito'y may kumplikadong paksang-sala. ;0
+Ang barko ay nawasak. ;effect;Nabubulok ang mga tripulante. ;Nakatagpo ang mga tripulante ng mga pirata. ;0
+Nagulat ang bata sa palaisipan. ;effect;Nakapag-ayos siya ng palaisipan. ;Nagtanong siya ng pahiwatig. ;1
+Nag-ring ang telepono. ;effect;Inakyat ng lalaki ang telepono. ;Sinagot ng lalaki ang telepono. ;1
+Tumitingin sa akin ang babae. ;effect;Hinalikan ko siya. ;Hindi ako komportable. ;1
+Ang grupo ay umalis sa museo. ;cause;Nag-i-picture sila ng mga exhibit. ;Nakita nila ang lahat ng eksibit. ;1
+Nag-aaway ang lalaki sa akin. ;effect;Inilagay ako ng aking kaibigan sa lalaking iyon. ;Sinuportahan ako ng aking kaibigan. ;1
+Ang gulong ng aking bisikleta ay may flat. ;effect;Pinapasok ko ang hangin sa gulong. ;Nagpalitan ako ng gear sa bisikleta. ;0
+Mukhang maputi ang babae. ;effect;Nagbasa sa kaniya ang kaniyang ama ng isang kuwento. ;Hinaplos ng kaniyang ama ang kaniyang noo. ;1
+Wala nang tinta ang bolpen. ;effect;Gumamit ako ng lapis. ;Pinirmahan ko ang aking pangalan. ;0
+Ang lalaki ay tinanggihan para sa isang pautang. ;cause;Siya ay may utang. ;Nagsimula siya ng negosyo. ;0
+Ang batang babae ay nanatili sa bahay mula sa paaralan. ;cause;May chicken pox siya. ;Nagustuhan niya ang pag-aaral ng matematika. ;0
+Ang sako ng basura ay puno. ;effect;Dinala ko ito sa basurahan. ;Inihagis ko ito sa lababo. ;0
+Sinasaksak ko ang alpombra. ;cause;Nagbubo ang punch ng kasama ko sa kuwarto. ;Ang aso ko ay nag-aalis ng buhok. ;1
+Nawala ang pag-iisip ng lalaki. ;effect;Pinatay niya ang computer niya. ;Nagtapon siya ng upuan sa buong silid. ;1
+Nagtapon ng sanga ang dalaga sa apoy. ;effect;Nagsunog ang sanga. ;Namatay ang apoy. ;0
+Lumabas ang lalaki sa shower. ;cause;Wala na ang mainit na tubig. ;Hindi niya mahanap ang towel. ;0
+Nais ng mga magulang na mag-aral ang kanilang mga anak sa kolehiyo. ;effect;Nagtabi sila ng pondo para sa tuition. ;Pinasigla nila ang kanilang mga anak na maglaro sa labas. ;0
+Binuksan ng lalaki ang tali ng sapatos niya. ;effect;Ang sapatos ay nag-alis. ;Ang sapatos ay nag-aaksaya. ;0
+Kinain ng lalaki ang kalahati ng pangunahing pagkain. ;effect;Inilamig niya ang mga natitirang pagkain. ;Iniligtas niya ang recipe. ;0
+Ang aking bukung-bukong ay namamaga. ;effect;Naglagay ako ng yelo dito. ;Pinipisil ko ito ng lotion. ;0
+Bukas ang pinto ng aking opisina. ;effect;Kinausap ko ang aking kasamahan sa aking desk. ;Narinig ko ang usapan sa hall. ;1
+Kailangan kong maghintay sa linya. ;effect;Umupo ako. ;Nag-iskim ako ng isang magasin. ;1
+Ang lalaki ay tumingin sa langaw. ;effect;Ang langaw ay nag-uusap. ;Ang langaw ay nanatili nang hindi gumagalaw. ;0
+Ang lalaki ay sumulat ng isang testamento. ;cause;Siya ay namamatay. ;Siya ay isang balo. ;0
+Nadama ng tumatakbo na ito na siya'y nahuhuli ng kaniyang kakumpitensya. ;effect;Bumaba siya sa karera. ;Pinabilis niya ang kanyang paglakad. ;1
+Maingat kong pinag-isipan ang problema. ;effect;Humingi ako ng payo. ;May naisip akong solusyon. ;1
+Ang manlalakbay ay lumakad sa nagyayabang na hanging bridge. ;effect;Natakot siya. ;Siya'y nadama na siya'y nasasabik. ;0
+Inaasahan ng lalaki ang tagumpay ng koponan. ;effect;Nakatagpo siya ng mga kaibigan upang panoorin ang laro. ;Nagpahiwatig siya sa kanyang mga kaibigan. ;1
+Hindi makatulog ang bata. ;effect;Ini-set niya ang kanyang alarm clock. ;Siya ay nagbilang ng mga tupa. ;1

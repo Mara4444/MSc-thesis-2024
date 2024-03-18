@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Het artikel was verpakt in bubbelfolie. ;cause;Het was kwetsbaar. ;Het was klein. ;0
+Ik heb mijn zakken leeggemaakt. ;effect;Ik heb een kaartje teruggevonden. ;Ik heb een wapen gevonden. ;0
+Termieten vielen het huis binnen. ;effect;De termieten zijn uit het huis verdwenen. ;De termieten hebben het hout in het huis verslonden. ;1
+De reizigers bereikten de grens. ;effect;De agent controleerde hun paspoorten. ;De agent beschuldigde hen van smokkel. ;0
+Het kantoor was gesloten. ;cause;Het was een feestdag. ;Het was zomer. ;0
+Het meisje raakte zonder energie. ;cause;Ze speelde dammen. ;Ze sprong over het touw. ;1
+De vrouw verloor haar plaats in de rij. ;cause;Er kwamen meer mensen in de rij. ;Ze stapte uit de rij. ;1
+Het meisje knijpte haar neus. ;cause;De baby kwijlde op haar broekje. ;De baby heeft haar luier vuil gemaakt. ;1
+De band speelde hun hit. ;effect;Het publiek klapte mee met de muziek. ;Het publiek luisterde beleefd in stilte. ;0
+Het meisje wilde haar wiskundeleraar bedanken. ;effect;Het meisje bleef na schooltijd voor de straf. ;Het meisje bracht de leraar een appel. ;1
+De jonge kampeerders waren bang. ;cause;Hun kampbegeleider vertelde ze een spookverhaal. ;Ze hebben marshmallows op het kampvuur geroosterd. ;0
+De man heeft zijn hoofd gestoten. ;effect;Hij raakte in gedachten verward. ;Hij heeft een hersenschudding. ;1
+De cheque die ik schreef, is niet betaald. ;cause;Mijn bankrekening was leeg. ;Ik heb een salarisverhoging verdiend. ;0
+Zijn e-mailbus zat vol spam. ;effect;Hij heeft de spam verwijderd. ;Hij stuurde een massa e-mail. ;0
+De zeeman was in quarantaine. ;cause;Hij werd blootgesteld aan de ziekte. ;Hij herstelde van de ziekte. ;0
+Het meisje heeft de code onthouden. ;cause;Ze reciteerde het voor zichzelf. ;Ze vergat het op te schrijven. ;0
+Ik heb het water in het glas gegoten. ;effect;Het water deed mijn dorst op. ;Het glas werd vol. ;1
+De man bleef zwijgen toen zijn vriend klaar was met spreken. ;cause;Hij wilde zijn vriend steun bieden. ;Hij dacht na over de woorden van zijn vriend. ;1
+Het ongeluk was mijn schuld. ;effect;Ik voelde me schuldig. ;Ik heb een klacht ingediend. ;0
+De ketting is uit elkaar. ;cause;De ketting was om een band gewikkeld. ;Er was een gebroken schakel in de keten. ;1
+Het echtpaar besloot een compromis te sluiten. ;cause;Ze werden het ruzie maken moe. ;Ze vermijdden het probleem te bespreken. ;0
+De vrouw besloot zich kandidaat te stellen voor een openbaar ambt. ;effect;Ze heeft een campagne manager ingehuurd. ;Ze heeft in de rechtbank getuigd. ;0
+De man verwachtte koud weer op zijn reis. ;effect;Hij heeft warme kleren in zijn koffer gepakt. ;Hij reisde met een grote koffer. ;0
+De student kende het antwoord op de vraag. ;effect;Hij stak zijn hand op. ;Hij is gek geworden. ;0
+De man kreeg tranen in de ogen. ;cause;Er zat stof in zijn ogen. ;Hij heeft een bril over zijn ogen gedaan. ;0
+De speler won vijf wedstrijden op rij. ;effect;Haar tegenstander beschuldigde haar van valsspelen. ;Haar tegenstander had medelijden met haar. ;0
+De leraar scheurde het examen van de student. ;cause;Hij betrapte de student op valsspelen. ;De antwoorden van de student waren onjuist. ;0
+Ik stopte om te stoppen met praten. ;cause;Ik ben mijn stem kwijt. ;Ik raakte buiten adem. ;1
+Het bevroren voedsel ontdooide. ;cause;Ik heb het in de magnetron gedaan. ;Ik heb het bedekt met plastic folie. ;0
+De werknemer deed alsof hij ziek was. ;cause;Hij had buikkrampen. ;Hij wilde een dag vrij. ;1
+Het meisje landde in het zwembad. ;cause;Ze rende op het zwembaddek. ;Ze sprong van het springplank. ;1
+De bioscoopkaartjes zijn uitverkocht. ;cause;Het was de openingsdag van de film. ;De film kreeg slechte recensies. ;0
+De man is afgevallen. ;effect;Mensen hebben hem geïsoleerd. ;Mensen complimenteerden hem. ;1
+Het meisje kreeg blaren in haar handen. ;cause;Ze heeft een brief getypt. ;Ze klom op een touw. ;1
+De circusartiest jongleerde terwijl hij op een eenwieler reed. ;effect;Het publiek juichte in verbazing. ;De acrobat zwaaide van een trapeze. ;0
+Ik verloor mijn geduld. ;cause;Mijn vriend liet me wachten. ;Mijn vriend kwam op tijd. ;0
+De oorlogvoerende landen wilden vrede. ;effect;Ze ontwikkelden kernwapens. ;Ze onderhandelden over een verdrag. ;1
+De man nam slaappillen. ;effect;Hij werd slaperig. ;Hij had koorts. ;0
+De vrouw botste tegen de bank. ;effect;Het been van de bank is losgekomen. ;Ze heeft een kneuzing op haar knie. ;1
+De jongen drukte de ballon. ;effect;De ballon is gesprongen. ;De ballon vloog weg. ;0
+De reizigers checkten in op hun hotelkamer. ;effect;Ze hebben hun koffers uitgepakt. ;Ze zijn naar het vliegveld gegaan. ;0
+Ik beet in de perzik. ;effect;De perzik is gekneusd. ;Het is uitgekomen. ;1
+Mijn handen werden kleverig. ;cause;Ik heb een donut gegeten. ;Ik had een zoete tand. ;0
+Ik duwde de deur. ;effect;De deur ging open. ;De deur is op slot. ;0
+Activisten boycotten de producten. ;cause;De producten zijn getest op kwaliteitsborging. ;De producten werden vervaardigd door kinderarbeid. ;1
+Ik heb een gat in de muur geboord. ;effect;Een muis kroop uit het gat. ;Er kwam stof uit het gat. ;1
+De vrouw voelde jaloezie naar haar zus. ;cause;Haar zus was blij. ;Haar zus is gescheiden. ;0
+Ik heb wijn op mijn shirt gemorst. ;effect;Ik heb een schort aan. ;Ik heb mijn shirt omgekleed. ;1
+De kassier opende de kassa. ;cause;De klant heeft zijn portemonnee doorzocht. ;De klant gaf haar geld. ;1
+De straatmuzikant trok een menigte aan. ;effect;Mensen gaven hem wisselgeld. ;Hij stuurde de menigte weg. ;0
+De kleine jongen huilde naar zijn oppas. ;cause;Hij miste zijn ouders. ;Het was snacktijd. ;0
+De radar van de piloot heeft een storm gedetecteerd. ;effect;De piloot ging weg van de storm. ;De piloot vloog door de storm. ;0
+De boom liet zijn bladeren vallen. ;effect;De bladeren veranderden in kleur. ;De bladeren verzamelden zich op de grond. ;1
+De jongen was in een ondeugende stemming. ;effect;Hij besloot een kaartspel te spelen met zijn zus. ;Hij besloot een grapje te maken met zijn zus. ;1
+Het kind klaagde dat het naar de wc moest. ;effect;Zijn vader gaf hem een frisdrank te drinken. ;Zijn vader stopte de auto bij een tankstation. ;1
+Het kind sprenkelde visvoer in de tank. ;effect;De vis sprong uit de tank. ;De vis zwom naar het voedsel toe. ;1
+De politieke opvattingen van de vrouw veranderden. ;effect;Ze is van partij veranderd. ;Ze was betrokken bij een protest. ;0
+De wastafel was verstopt. ;effect;Ik heb de kraan open gedaan. ;Ik heb er afvoerreiniger in gegooid. ;1
+De passagiers stapten uit de trein. ;cause;De trein kwam aan op het station. ;De trein fluit. ;0
+De man drukte op de vochtige flap van de envelop. ;effect;Hij heeft een stempel op de envelop gezet. ;Hij heeft de envelop gesloten. ;1
+De vrienden verloren contact. ;cause;Ze genoten van elkaars gezelschap. ;Ze verhuisden naar verschillende steden. ;1
+De accountant heeft het geld van het bedrijf verkeerd gebruikt. ;effect;Ze werd ontslagen. ;Ze ging op zwangerschapsverlof. ;0
+Ik keek naar de klok. ;cause;Ik hoorde de klok tikken. ;Ik wilde de tijd controleren. ;1
+Mijn hand kreeg kramp. ;cause;Ik heb het essay met de hand geschreven. ;Mijn vrouw en ik hielden elkaar vast. ;0
+De schroef is gespannen. ;cause;Ik heb de bout vervangen. ;Ik heb de moersleutel gedraaid. ;1
+Het echtpaar tekende een huurcontract voor een appartement. ;effect;Het stel verhuisde naar het appartement. ;De stad heeft het appartement veroordeeld. ;0
+De vrouw zat buiten op de veranda. ;cause;Ze wilde de zonsondergang zien. ;Ze dacht dat ze een bliksem zag. ;0
+De man droeg een reddingsvest in het water. ;cause;Hij kon niet zwemmen. ;Het water was ondiep. ;0
+De vrouw heeft een typefout gemaakt in de tekstverwerker. ;effect;Ze heeft het document verwijderd. ;Ze drukte op de backspace-toets. ;1
+Het meisje schepte op tegen haar vrienden. ;cause;Ze kreeg een slecht cijfer. ;Ze won een wedstrijd. ;1
+Het grasveld was modderig. ;cause;Het regende de hele nacht. ;Het was vol met onkruid. ;0
+De vrouw is in slaap gevallen. ;cause;Ze heeft in een hotel overnacht. ;Ze vergat haar wekker in te stellen. ;1
+De man heeft zonnebrandcrème op. ;cause;Hij zat in de schaduw. ;Hij ging naar het strand. ;1
+De onderzoekers bewezen de theorie. ;effect;De onderzoekers hebben de theorie ingetrokken. ;Individuen accepteerden de theorie. ;1
+De fans bij de wedstrijd booed. ;cause;De wedstrijd ging in de verlenging. ;De scheidsrechter heeft een verkeerde beslissing genomen. ;1
+Ik heb mijn combinatie ingegeven op het slot. ;effect;Ik heb het slot dichtgemaakt. ;Het slot is open. ;1
+De menigte werd intenser. ;effect;De vader gaf zijn zoon wat geld. ;De vader greep zijn zoon bij de hand. ;1
+De sneeuw blokkeerde de oprit. ;effect;Ik verzamelde de sneeuw tot een sneeuwbal. ;Ik heb de sneeuw uit de weg gehaald. ;1
+De kajakers peddelden met hun roeischaal. ;effect;De kajak bereikte de kust. ;De kajak raakte een golf. ;0
+Het meisje verloor de controle over haar fiets. ;effect;Ze liet het stuur los. ;Ze is tegen een hek gereden. ;1
+Ik heb de ventilator aan gezet. ;effect;Water op mijn huid gesprenkeld. ;Ik voelde hoe koele lucht over me heen ging. ;1
+De surfers keerden terug naar het strand. ;cause;Ze waren doorweekt. ;Ze zagen een haai. ;1
+Ik heb de afvoerstop in de badkuip uitgetrokken. ;effect;Het water is uit de badkuip gedrenkt. ;Het water spatte op de vloer. ;0
+De man voelde zich schuldig omdat hij zijn vrouw bedroog. ;effect;Hij beschuldigde haar van ontrouw. ;Hij bekende zijn ontrouw aan haar. ;1
+De inkt op de poster is vervlekt. ;cause;Ik wachtte tot de inkt droog was. ;Ik heb water op de poster gemorst. ;1
+Het kind werd schreeuwend wakker. ;cause;Hij had een nachtmerrie. ;Hij plaste in bed. ;0
+De jongen legde zijn voeten op de tafel. ;effect;Zijn vader ging aan tafel zitten. ;Zijn vader gaf hem een preek. ;1
+Mijn vriend draaide zijn hoofd in mijn richting. ;cause;Ik riep zijn naam. ;Ik zwaaide met mijn armen. ;0
+De regering onderdrukte haar burgers. ;effect;De burgers verrichtten een opstand. ;De burgers die zich hebben geregistreerd om te stemmen. ;0
+De jongen was verdwaald in het bos. ;effect;Hij heeft een tent opgetrokken. ;Hij schreeuwde om hulp. ;1
+De vrouw reisde naar het buitenland. ;cause;Ze wilde leren tekenen. ;Ze wilde andere culturen leren kennen. ;1
+De man was jaloers op zijn collega. ;cause;Zijn collega kreeg een promotie. ;Zijn collega werkte tot laat. ;0
+De man zag aliens. ;cause;Hij had hallucinaties. ;Hij was aan het mediteren. ;0
+Zijn haar werd blond. ;cause;Hij heeft bleekmiddel erin gedaan. ;Hij heeft shampoo erin gedaan. ;0
+De kunstenaar creëerde nieuw werk. ;cause;Ze bekritiseerde haar vorige werk. ;Ze voelde een slag van inspiratie. ;1
+De zoon verhuisde van huis. ;cause;Hij is ontslagen uit het leger. ;Hij ging naar de universiteit. ;1
+Boeken vielen uit de boekenkast. ;cause;De planken waren bedekt met stof. ;Een aardbeving schudde de boekenkast. ;1
+De stroom in mijn huis is uit. ;effect;Ik heb een licht aangestoken. ;Ik heb de stroomonderbreker gereset. ;1
+We reden op de achtbaan. ;cause;Het zag er eng uit. ;Het zag er leuk uit. ;1
+De zak popcorn begon te knallen. ;cause;Ik heb boter in de zak gegooid. ;Ik heb het in de magnetron verwarmd. ;1
+Een boom viel op de elektriciteitsleiding. ;effect;De elektriciteit in de buurt is uit. ;De weersvoorspelling voorspelde zware winden. ;0
+De spreker maakte politiek incorrecte opmerkingen. ;effect;Hij verveelde het publiek. ;Hij beledigde het publiek. ;1
+Ik heb mezelf met de speld gestoken. ;effect;Een druppel zweet druppelde van mijn gezicht. ;Een druppel bloed op mijn vinger. ;1
+De vis zweefde op het oppervlak van de tank. ;cause;Het had honger. ;Het was dood. ;1
+De stem van de man klonk hees. ;cause;Hij was verkouden. ;Hij is gestopt met roken. ;0
+De liftdeuren gingen open. ;cause;De lift kwam aan op de aangewezen verdieping. ;De lift zat vast tussen de verdiepingen. ;0
+De tiener is het huis uit geslopen. ;cause;Hij loog tegen zijn ouders. ;Zijn ouders gaven hem huisarrest. ;1
+De badkamer is overstroomd. ;cause;Het toilet is overstroomd. ;De waterverwarmer is kapot. ;0
+De pup bleef bij zijn eigenaar. ;cause;De eigenaar heeft een kraag om de pup. ;De eigenaar hield de pup aan de lijn. ;1
+De man zag zijn weerspiegeling. ;cause;Hij stond onder de uitgestrekte boom. ;Hij stond boven het rustige meer. ;1
+Ik heb het telefoontje van mijn vriendin gemist. ;effect;Ik heb haar teruggebeld. ;Ik heb met haar gegeten. ;0
+De familie heeft de buurt doorzocht. ;cause;Hun hond is weggelopen. ;Er ontbraken dure sieraden uit hun huis. ;0
+Ik zag mijn ademhaling toen ik uitademde. ;cause;Het was koud. ;Mijn borst voelde strak. ;0
+De werknemers vormden een vakbond. ;cause;Zij wilden betere arbeidsomstandigheden. ;Hun werkgever verhoogde hun loon. ;0
+Ik heb een appeltaart gebakken. ;effect;Een rottende geur vulde de keuken. ;Een warm aroma vulde de keuken. ;1
+De vrouw worstelde om te lopen. ;cause;Ze droeg hoge hakken. ;Ze trok haar schoenen uit. ;0
+Er kwam stoom uit de pot met water. ;cause;Het water kookte. ;Ik heb de pot bedekt. ;0
+Al mijn sokken waren in de was. ;effect;Ik droeg sandalen. ;Ik droeg laarzen. ;0
+Het argument van de politicus werd als absurd beschouwd. ;effect;Hij verloor de steun van de kiezers. ;Hij werd beschuldigd van corruptie. ;0
+Iedereen was het niet eens met de verloving van het paar. ;effect;Het stel werd zwanger. ;Het stel is weggelopen. ;1
+Het gebouw was opgedragen aan de miljonair. ;cause;De miljonair wilde het gebouw afbreken. ;De miljonair heeft de fondsen bijgedragen om het te bouwen. ;1
+De verkoopmedewerker beschuldigde het meisje van diefstal. ;cause;De verkoopmedewerker zag het meisje merchandise in haar tas stoppen. ;De verkoopmedewerker hielp het meisje de tas te vinden die ze leuk vond. ;0
+Het land verklaarde de oorlog aan het naburige grondgebied. ;effect;Soldaten werden uitgezonden om te vechten. ;Soldaten werden herenigd met hun families. ;0
+De rechtbank bevestigde de controversiële uitspraak. ;effect;Er brak een rel los voor het gerechtsgebouw. ;Een stel heeft voor de rechtbank geloften gedaan. ;0
+Het meisje rook iets brandends. ;cause;Ze nam de koekjes uit de pot. ;Ze heeft de koekjes in de oven laten liggen. ;1
+Het regende in stort. ;effect;De storm werd erger. ;Ik rende naar binnen. ;1
+Het gebouw is geëvacueerd. ;cause;De lift is gestopt met werken. ;Het brandalarm ging af. ;1
+De vader was boos op de alcoholisme van zijn zoon. ;effect;De vader kocht zijn zoon een biertje. ;De vader schopte zijn zoon uit het huis. ;1
+De advocaat ging naar haar kantoor. ;cause;De secretaresse is naar huis gegaan. ;De lift was niet in orde. ;1
+De man werd geïrriteerd door zijn vriend. ;cause;Zijn vriend onderbrak hem. ;Zijn vriend kocht hem lunch. ;0
+Het meisje gaf haar geld aan de kassier. ;effect;De kassier gaf het meisje haar wisselgeld. ;De kassier vergat het meisje een bonnetje te geven. ;0
+De vrouw werd in een rolstoel gezet. ;cause;Ze was verlamd bij een ongeluk. ;Ze kwam het ziekenhuis binnen in een brancard. ;0
+Burgers hingen de nationale vlag buiten hun huizen op. ;cause;Het land herdenkte zijn onafhankelijkheid. ;Het land stond voor economische moeilijkheden. ;0
+Het team verloor het toernooi. ;effect;Ze hebben hun fans teleurgesteld. ;Ze inspireerden hun fans. ;0
+Mijn vriend wees erop dat ik eten in mijn tanden had. ;effect;Ik schaamde me. ;Ik voelde me trots. ;0
+De jongen is niet geslaagd voor zijn geschiedenis examen. ;cause;Hij was opmerkzaam in de klas. ;Hij is vergeten te studeren. ;1
+Het gebouw in het centrum is ingestort. ;cause;Een aardbeving trof de stad. ;De criminaliteit in de stad nam toe. ;0
+De vriendin van de man heeft het uitgemaakt. ;effect;Hij smeekte haar om hem terug te nemen. ;Ze stelde hem voor aan haar ouders. ;0
+De twee kinderen reikten tegelijkertijd naar beneden om de bal op te halen. ;effect;De bal rolde weg. ;Hun hoofden botsten. ;1
+De wasbeer heeft de vuilnisbak geplunderd. ;cause;Er zat karton in de vuilnisbak. ;Het deksel was van de vuilnisbak. ;1
+De jongen heeft het potlood geslepen. ;cause;Het was goedkoop. ;Het was saai. ;1
+De kassier weigerde de vrouw een terugbetaling voor de jurk. ;cause;Ze is haar bonnetje kwijt. ;De jurk paste niet. ;0
+De schram in mijn huid was diep. ;effect;Het is snel genezen. ;Het heeft een litteken achtergelaten. ;1
+De man kreeg vreemde blikken van de passagiers in de trein. ;cause;Hij staarde naar de grond. ;Hij praatte tegen zichzelf. ;1
+Het kind liet kruimels op de vloer liggen. ;effect;Mieren kruipen naar de kruimels. ;Het kind legde het brood weg. ;0
+De vrouw gaf haar zuster een zakdoek. ;cause;De zus van de vrouw sloeg haar handen samen. ;De zuster van de vrouw begon te huilen. ;1
+De man nam een munt. ;cause;Zijn lippen waren gescheurd. ;Hij maakte zich zorgen over slechte adem. ;1
+Het stel vertrok vroeg voor de show. ;cause;Ze hadden het verkeer rond het theater verwacht. ;Ze hebben de weg naar het theater. ;0
+De vrouw bleef thuis van haar werk. ;effect;Haar baas prees haar. ;Haar collega heeft haar ingedekt. ;1
+De man tekende de petitie van de activisten. ;cause;Hij steunde hun zaak. ;Hij beschuldigde hen van waanzin. ;0
+Het hart van de acteur was op hol voor zijn optreden. ;cause;Hij had scalphobie. ;Hij heeft zijn tekst onthouden. ;0
+Ik was verdwaald. ;effect;Ik heb mijn geld geteld. ;Ik heb een kaart ontvouwd. ;1
+De rijpe vruchten bleven in de zon hangen. ;effect;Het is opgegeten. ;Het is versleten. ;1
+De auto is kapot. ;cause;Ik heb de ontsteking aangezet. ;De motor oververhitte. ;1
+De man heeft zijn rug bezeerd. ;effect;Hij is naar een psychiater geweest. ;Hij bleef enkele dagen in bed. ;1
+Ik heb een brand in de open haard gestoken. ;cause;Ik had geen brandhout meer. ;Het was koud in het huis. ;1
+De vrouw stopte met joggen. ;cause;Ze heeft kramp in haar zij. ;Ze kreeg een tweede adem. ;0
+Ik klopte op de deur van mijn buurman. ;effect;Mijn buurman nodigde me binnen. ;Mijn buurvrouw is haar huis verlaten. ;0
+De vrouw zuchtte van frustratie. ;cause;Haar man had haar zorgen verkeerd begrepen. ;Haar man kuste haar tot ziens. ;0
+De leraar prees de student. ;cause;De student gaf het juiste antwoord op de vraag. ;De student aarzelde om de vraag te beantwoorden. ;0
+De vrouw had geen eieren meer. ;effect;Ze ging naar de boerderij. ;Ze ging naar de supermarkt. ;1
+Ik ontmoette een oude vriend. ;effect;Ik heb hem een geheim verteld. ;Ik gaf hem een knuffel. ;1
+De vrouw vermijdde het gaan in het meer. ;cause;Ze heeft een vis gevangen. ;Het zag er besmet uit. ;1
+De student kwam nat naar de klas. ;cause;Zijn paraplu was kapot. ;Zijn fiets is gestolen. ;0
+De cursor op het computerscherm bewoog. ;cause;De gebruiker klikte met de muis. ;De gebruiker heeft de muis verplaatst. ;1
+De chauffeur nam een omweg. ;cause;Er is een ongeluk gebeurd op de hoofdweg. ;Ze volgde de truck voor haar. ;0
+Ik hing het natte linnengoed op de waslijn buiten. ;effect;Het linnen is droog. ;Het linnen is bevuild. ;0
+De vrouw zette haar bril op. ;cause;Het zonlicht was helder. ;Ze heeft een taxi gebeld. ;0
+De man staarde naar de nachtelijke hemel. ;cause;Hij wou dat het zomer was. ;Hij vond het prachtig. ;1
+Ik voelde me uitgeput. ;effect;Ik ging vroeg naar bed. ;Ik ben de hele nacht wakker gebleven. ;0
+De man ging naar de kapper. ;cause;Hij liet zijn haar uitgroeien. ;Zijn haar werd lang. ;1
+De jongen speelde gemeen met zijn nieuwe klasgenoot. ;cause;De jongen verwelkomde de nieuwe klasgenoot. ;De jongen vond de nieuwe klasgenoot niet leuk. ;1
+Ik had een drang naar een glas melk. ;cause;Ik at koekjes. ;Ik was brood aan het bakken. ;0
+Het begon te regenen. ;effect;De chauffeur zette de koplampen aan. ;De bestuurder schakelde de auto achteruit. ;0
+De parkeerplaats van het gebouw was leeg. ;effect;Ik heb aan de overkant geparkeerd. ;Ik heb bij de ingang geparkeerd. ;1
+De schrijfster heeft haar deadline voor het indienen van het concept gemist. ;cause;Ze had een schrijversblok. ;Ze heeft het ontwerp bewerkt. ;0
+De medewerker hing op. ;cause;Ik vroeg om een supervisor. ;Ik heb mijn identificatienummer gegeven. ;0
+De wind waaide door het open raam. ;effect;De deurbel ging. ;De gordijnen beefden. ;1
+De stroom in mijn huis is uit. ;cause;Ik heb de lamp uitgekoppeld. ;Ik heb een zekering laten ontploffen. ;1
+De gewichtheffer gromde. ;cause;Hij bewoog zijn spieren in de spiegel. ;Hij tilde de balk over zijn hoofd. ;1
+De student probeerde het in zijn hoofd te berekenen. ;effect;Hij haalde een rekenmachine uit. ;Hij raakte in de war. ;1
+De baby viel in slaap. ;cause;De vader heeft de luier van de baby veranderd. ;De vader schudde de baby zachtjes. ;1
+Het meisje gooide de waterballon naar de jongen. ;effect;De jongen heeft een hersenschudding. ;De jongen is doorweekt. ;1
+De fotograaf vergat de flitser van de camera te gebruiken. ;effect;De foto's waren wazig. ;Iedereen op de foto's weigerde te glimlachen. ;0
+Ik heb de uitnodiging voor het verjaardagsfeestje afgewezen. ;cause;Ik was eenzaam. ;Ik was de stad uit. ;1
+Ik heb getraind. ;cause;Ik voelde me energiek. ;Ik was bang. ;0
+Ik heb de natte spons geperst. ;effect;Het heeft water opgenomen. ;Er lekte water uit. ;1
+De vakantiegangers namen een veerboot naar het resort. ;cause;Het resort was volgeboekt. ;Het resort lag op een eiland. ;1
+De tiener heeft een tatoeage. ;cause;Ze was bang voor naalden. ;Ze wilde rebelleren. ;1
+Een onbekende auto geparkeerd voor mijn huis. ;effect;Ik werd achterdochtig. ;Ik heb de politie gebeld. ;0
+De crimineel gaf zich aan. ;cause;Het bewijs betrof hem. ;Er was geen bewijs tegen hem. ;0
+De dikke man besloot af te vallen. ;effect;Hij heeft geen snoep meer. ;Hij vermijdde cafeïne. ;0
+Het meisje stapte op het ijs. ;effect;Ze gleed. ;Ze beefde. ;0
+De vrouw had ringen onder haar ogen. ;cause;Ze bleef de hele nacht wakker. ;Ze heeft haar zoon naar bed gebracht. ;0
+Lava stroomde uit de vulkaan. ;cause;De vulkaan barstte uit. ;De vulkaan was slapend. ;0
+De vrouw trok haar schoenen aan. ;cause;Ze kende iedereen op het feest. ;Ze wilde het feest verlaten. ;1
+Ik heb de tolkoperateur betaald. ;effect;Ze liet me door de tolkist. ;Ze hield me tegen bij de tol. ;0
+De directeur ging failliet. ;cause;Hij verkocht zijn aandelen. ;Hij verspilde zijn fortuin. ;1
+De man ging naar de dokter. ;cause;De dokter was met verlof. ;De man voelde zich ziek. ;1
+Ik verliet mijn slaapkamer door het raam. ;cause;Het huis stond in brand. ;Het huis was leeg. ;0
+De vingers van de jongen werden afgeknipt. ;cause;Hij nam een lange douche. ;Hij heeft zijn handen met zeep bespuugd. ;0
+Ik spuug de melk uit. ;cause;De melk smaakte zuur. ;Mijn mond was droog. ;0
+Ik heb de bus gemist. ;effect;Ik was vroeg op het werk. ;Ik was te laat voor het werk. ;1
+De vrachtwagen botste met de auto. ;effect;De truck ging sneller. ;De auto is kapot. ;1
+Het team heeft de wedstrijd in hun voordeel vervalst. ;effect;Ze hebben gewonnen. ;Ze zijn gestopt. ;0
+De frisdrankfles zisse. ;cause;Ik heb de fles omgedraaid. ;Ik heb de dop afgedraaid. ;1
+De jongen was uit zijn huis gesloten. ;effect;Hij is door een open raam naar binnen gekropen. ;Hij klom naar het dak. ;0
+De deurbel ging. ;effect;De bezoeker klopte op de deur. ;De vrouw keek door het sleutelgat in de deur. ;1
+De man heeft zijn pak bevlekt. ;effect;Hij heeft het in de stomerij laten doen. ;Hij hing het in zijn kast. ;0
+Het meisje knijpte de tube tandpasta uit. ;effect;De tandpasta sprong uit de buis. ;Het meisje spuugde de tandpasta uit. ;0
+De burgersterfte in de oorlog steeg. ;effect;Pacifisten organiseerden een protest. ;Pacifisten hielden een parade. ;0
+Het meisje rukte het lint uit haar haar. ;cause;Ze heeft het lint vastgebonden. ;Het lint zag er babyachtig uit. ;1
+De man heeft plastische chirurgie gehad. ;effect;Hij is ouder geworden. ;Hij zag er jonger uit. ;1
+Uit het ei kwam een kippenjong. ;cause;Het ei is uitgekomen. ;Ik heb het ei gebroken. ;0
+De gevangene verhongerde. ;effect;Hij is overleden. ;Hij is gevlucht. ;0
+De man verloor zijn evenwicht op de ladder. ;effect;Hij klom de ladder op. ;Hij viel van de ladder. ;1
+Het kind boerde. ;cause;Hij nam een slok frisdrank. ;Hij opende het soda blikje. ;0
+Er kwam een koude luchtstroom door het raam. ;effect;Ik ontspan. ;Ik beefde. ;1
+De student kreeg een beurs om naar de universiteit te gaan. ;cause;Haar klasgenoten hadden respect voor haar. ;Ze had goede cijfers. ;1
+Het meisje maakte de jongen belachelijk. ;cause;Ze woonde naast hem. ;Ze was verliefd op hem. ;1
+De hongerige zwerver stal eten. ;cause;Hij wekte medelijden op. ;Hij had geen geld. ;1
+Ik belde mijn vriend om te praten. ;cause;Ik wilde privacy. ;Ik voelde me eenzaam. ;1
+De man stak zijn hand naar me uit. ;effect;Ik gaf hem de hand. ;Ik sloeg hem. ;0
+Ik heb me verstopt. ;cause;Het vuurwerk ging omhoog. ;De frisbee vloog naar mijn hoofd. ;1
+Het meisje beet in haar nagels. ;cause;Ze was bezorgd. ;Ze was verrast. ;0
+Ik heb de kalender omgedraaid. ;cause;Ik heb een afspraak op de kalender. ;Het was het begin van een nieuwe maand. ;1
+De man ontdekte dat zijn vrouw een affaire had. ;effect;Hij heeft zijn advocaat ontslagen. ;Hij heeft de scheiding aangevraagd. ;1
+Het meisje liet de rubberen bal vallen. ;effect;De bal sprong. ;De bal gloeide. ;0
+Het meisje heeft een fout gemaakt bij haar examen. ;effect;Ze raadde het antwoord. ;Ze heeft haar antwoord gewist. ;1
+De speler tackelde zijn tegenstander. ;effect;Zijn tegenstander pakte de pas. ;Zijn tegenstander viel op de grond. ;1
+Ik heb de tomaten van de wijnstok geplukt. ;cause;Ze waren rijp. ;Ik heb ze water gegeven. ;0
+De man wilde romantisch doen. ;effect;Hij heeft zijn ex-vriendin ontmoet voor de lunch. ;Hij kocht chocolaatjes voor zijn vriendin. ;1
+Het kwik in de thermometer steeg. ;cause;Ik liet de thermometer vallen. ;Het weer werd warmer. ;1
+Een tornado kwam door de stad. ;effect;Het dak van het gerechtsgebouw is opgeblazen. ;De snelweg werd gevaarlijk bevroren. ;0
+De student kreeg bijles. ;effect;Zijn cijfers zijn verbeterd. ;Hij heeft gespijbeld op het examen. ;0
+Ik voelde me op mijn gemak. ;cause;Ik knielde op de grond. ;Ik heb mezelf in een deken gewikkeld. ;1
+Ik heb de steen gepolijst. ;effect;Het werd glad. ;Het werd glanzend. ;1
+Ik heb suiker aan de koffie gedaan. ;effect;De koffie rook sterk. ;De koffie smaakte zoet. ;1
+De man scharrelde door de kranten. ;effect;Hij heeft zich gesneden. ;Hij heeft de kranten versnipperd. ;0
+Ik sloeg de spijker met de hamer. ;effect;De spijker is in het hout geslagen. ;De spijker is roestig geworden. ;0
+De vis heeft de lijn gebeten. ;effect;De visser trok de vis in. ;De visser werpt de lijn opnieuw. ;0
+De tiener schaamde zich om naar school te gaan. ;cause;Ze heeft een puistje. ;Ze heeft haar beugel af. ;0
+Mijn gezichtsuitdrukking verlichtte. ;cause;Ik heb goed nieuws. ;Ik verloor mijn geduld. ;0
+Ik veegde mijn handen af met een handdoek. ;cause;De handdoek was nat. ;Mijn handen waren nat. ;1
+De man verloor zijn evenwicht op de kruk. ;cause;De kruk schudde onder hem. ;Hij heeft verf op de kruk gemorst. ;0
+De teamleden gaven elkaar de schuld. ;cause;Ze hebben hun spel verloren. ;Hun coach heeft de training afgezegd. ;0
+Ik vroeg om vergeving. ;cause;Ik heb spijt van mijn fout. ;Ik heb mijn doel bereikt. ;0
+De vrouw werd verveeld van haar date. ;cause;Hij stelde haar vragen over zichzelf. ;Hij praatte onophoudelijk over zichzelf. ;1
+Het meisje glimlachte. ;effect;Haar wangen waren rood. ;Haar kuiltjes waren te zien. ;1
+Het vijandelijke schip is opgeblazen. ;cause;Het ging over de mijn. ;Het is de haven ingegaan. ;0
+De man heeft zijn voet doorboord. ;cause;Hij liep in een plas. ;Hij stapte op gebroken glas. ;1
+De rechercheurs hebben de plaats delict op vingerafdrukken gezocht. ;effect;Ze ontdekten de identiteit van de moordenaar. ;Ze vonden het wapen op de plaats delict. ;0
+Er was veel verkeer op de snelweg. ;effect;Ik ben een omweg genomen. ;Ik vroeg om een lift. ;0
+De economie van het land daalde. ;effect;Veel mensen werden ziek. ;Veel mensen waren werkloos. ;1
+De grenswachter blies haar fluitje naar de kinderen. ;cause;Ze waren op het punt om tegenover het verkeer te lopen. ;Ze herkende ze van de buurt. ;0
+Ik rolde mijn ogen naar mijn vriend. ;cause;Hij vertelde me de waarheid. ;Hij maakte een sarcastische opmerking. ;1
+De auto raakte zonder benzine. ;effect;De chauffeur was op de weg gestrand. ;De chauffeur heeft een lifter opgehaald. ;0
+De vrouw ging bevallen. ;effect;De baby is geboren. ;De vrouw had ochtendmisselijkheid. ;0
+De hoed van de man is weggeblazen. ;cause;Hij trok de hoed af. ;Het was winderig buiten. ;1
+Het meisje woonde het verjaardagsfeestje van haar klasgenoot bij. ;cause;Ze kreeg een uitnodiging. ;Ze heeft een cadeau gekocht. ;0
+Het voorhoofd van de jongen voelde warm. ;effect;Zijn moeder nam zijn temperatuur. ;Zijn moeder nam hem mee naar het park. ;0
+De man heeft zichzelf besproeid met cologne. ;cause;Hij wilde indruk maken op zijn date. ;Hij heeft gel in zijn haar gedaan. ;0
+De stroom in het huis is uit. ;effect;Ik zocht naar een zaklamp. ;Ik pakte een schop. ;0
+Het gezin verhuisde naar een groter huis. ;cause;De zoon is afgestudeerd aan de middelbare school. ;De moeder baarde tweelingen. ;1
+De marathoner bleef langzaam lopen. ;cause;Ze wilde haar energie besparen. ;Ze zag de finishlijn. ;0
+De jongen schopte de automaat. ;cause;De machine spuugt het wisselgeld uit. ;De zak chips zat vast. ;1
+De hond van mijn vriend is dood. ;effect;Ik rolde mijn ogen naar hem. ;Ik gaf hem een knuffel. ;1
+De kredietkaart van de zakenman werd afgewezen. ;effect;Hij schreef een schuldbekentenis. ;Hij betaalde contant. ;1
+De man vervloekt. ;cause;Hij knipte zijn nagels. ;Hij heeft zijn teen gestoten. ;1
+De man was trots op zijn broer. ;cause;Zijn broer had ruzie met hun ouders. ;Zijn broer is toegelaten tot de rechtenopleiding. ;1
+Het meisje wilde meer over het zonnestelsel te weten komen. ;effect;Ze ging naar de bibliotheek. ;Ze keek naar de sterren. ;0
+De poster hing aan de muur. ;cause;Ik heb de poster boven de deur gezet. ;Ik heb tape op de achterkant van de poster gezet. ;1
+De opdrachtgever keurde de plannen van de architect voor het gebouw goed. ;effect;De architect heeft het gebouw gebouwd. ;De architect heeft de plannen aangepast. ;0
+De man liet zijn lepel vallen. ;cause;Zijn hand trilde. ;Hij likte de lepel. ;0
+De CEO van het bedrijf nam ontslag. ;effect;De raad van bestuur heeft het bedrijf ontbonden. ;De raad van bestuur heeft zijn vervanger gevonden. ;1
+Ik kwam te laat op de lezing aan. ;effect;Ik ging achterin zitten. ;Ik benaderde het podium. ;0
+De man is vrijgelaten uit de gevangenis. ;cause;Zijn familie betaalde zijn borgtocht. ;Hij viel een medegevangene aan. ;0
+Het gezin verloor al hun bezittingen. ;cause;Ze hebben hun huis verkocht. ;Hun huis is in brand gestoken. ;1
+Ik ben op het aluminium blik gestampt. ;effect;Het blikje is gerecycled. ;Het blikje is verpletterd. ;1
+Het meisje ging mee met het debatteam. ;effect;Ze leerde een computer te gebruiken. ;Ze leerde communicatieve vaardigheden. ;1
+Mijn humeur verbeterde. ;cause;Ik luisterde naar muziek. ;Ik heb de afwas gedaan. ;0
+De liefdadigheid heeft een doel gesteld om geld in te zamelen. ;effect;Ze gaven de daklozen eten. ;Ze hielden een veiling. ;1
+De achtbaan stortte in de steile val. ;effect;De passagiers giechelden. ;De passagiers schreeuwden. ;1
+Ik was woedend. ;effect;Ik heb de brievenbus gecontroleerd toen ik het huis verliet. ;Ik sloeg de deur dicht toen ik het huis verliet. ;1
+De man wilde de zonsopgang zien. ;effect;Hij reisde naar het noorden. ;Hij is vroeg opgestaan. ;1
+Ik heb het papier gevouwen. ;effect;Ik heb het papier gerecycled. ;Het papier kreukelde. ;1
+De natie heeft een natuurramp doorstaan. ;effect;Leiders van andere landen vormden een alliantie. ;Leiders van andere landen stuurden noodhulp. ;1
+De kleren van de jongen zijn doorweekt. ;cause;Hij klom uit het zwembad. ;Hij viel in het zwembad. ;1
+De student haastte zich om het boek af te maken. ;cause;Het moest naar de bibliotheek. ;Hij heeft het van een vriend geleend. ;0
+De misdadiger werd geëxecuteerd. ;cause;Hij werd in de gevangenis gegooid. ;Hij werd veroordeeld voor moord. ;1
+Het zonlicht drong de kamer binnen. ;cause;Ik heb de gordijnen opengedaan. ;Ik heb de deur opengedaan. ;0
+Ik trok de bedrieger aan zijn haar. ;effect;Haar pruik kwam eraf. ;Ze werd kaal. ;0
+De redacteur heeft een zin in het manuscript omgezet. ;cause;Hij vond het manuscript boeiend. ;Hij vond de uitspraak onduidelijk. ;1
+De vrouw heeft haar creditcard geannuleerd. ;cause;Ze besefte dat de kaart weg was. ;Ze besefte dat de kaart verlopen was. ;0
+De man en de vrouw werden verliefd. ;effect;Ze zijn naar de universiteit gegaan. ;Ze zijn getrouwd. ;1
+De muziek was te zwak om te horen. ;effect;Ik heb het geluid harder gemaakt. ;Ik heb mijn eigen liedje gecomponeerd. ;0
+Het haar van de jongen stond op. ;cause;Het meisje heeft het verpest. ;Het meisje trok het. ;0
+De bug werd verpletterd. ;cause;Ik heb mezelf besproeid met insectenwerend middel. ;Ik ben op de insect gestapt. ;1
+Ik heb mijn ogen geopend. ;cause;Ik werd wakker. ;Ik ontspan. ;0
+De muziek van mijn buurman was luidruchtig. ;effect;Ik vroeg hem om het te doen zachter. ;Ik vroeg hem de cd te lenen. ;0
+Het gezin van de man leefde in armoede. ;cause;Hij was zuinig met zijn inkomsten. ;Hij verdiende minder dan het minimumloon. ;1
+De student studeerde af aan de universiteit. ;effect;Hij zocht werk. ;Hij nam een hobby aan. ;0
+De kunstenaar mengde gele verf in blauwe verf. ;effect;De verf is overal gespat. ;De verf werd groen. ;1
+Ik veranderde het onderwerp van gesprek. ;cause;Ik had niets meer om over te praten. ;Het gesprek werd gespannen. ;1
+Mijn broer is uit het ziekenhuis ontslagen. ;effect;Ik verwelkomde hem thuis. ;Ik heb hem een koele schouder gegeven. ;0
+Het gordijn op het podium ging omhoog. ;effect;De openingsscene van het toneelstuk begon. ;De acteurs van het toneelstuk verlieten het podium. ;0
+De gijzelaar onderwierp zich aan de opdracht van de ontvoerder. ;cause;De ontvoerder dreigde de gijzelaar te kwetsen. ;De ontvoerder liet de gijzelaar alleen. ;0
+Een knal weergalmde over het podium. ;cause;De muzikant klopte met zijn voet. ;De muzikant sloeg op de trommel. ;1
+De ouders haastten zich naar de slaapkamer van hun kind. ;cause;Het kind werd schreeuwend wakker van een nachtmerrie. ;Het kind was bang om onder haar bed te kijken. ;0
+De vrouw communiceerde met gebarentaal. ;cause;Ze is te vroeg geboren. ;Ze is doof geboren. ;1
+Er was droogte in de regio. ;effect;Het water werd verontreinigd. ;De oogst is omgekomen. ;1
+De kat jaagde de vogel achterna. ;effect;De vogel is weggevlogen. ;De vogel heeft een worm gevangen. ;0
+Het meisje is van school veranderd. ;cause;De school is vrij voor de zomer. ;Ze is verhuisd naar een nieuwe stad. ;1
+De eigenaar van de fabriek weigerde de lonen van de werknemers te verhogen. ;effect;De eigenaar heeft een nieuwe manager aangesteld. ;De werknemers gingen in staking. ;1
+De leider maakte de extremisten in zijn land vijandig. ;effect;De extremisten hebben hem beïnvloed. ;De extremisten hebben hem vermoord. ;1
+Ik liep op blote voeten op het strand. ;effect;Zand aan mijn voeten. ;Golven sloegen tegen de kust aan. ;0
+Ik werd midden in de nacht wakker met een koude. ;effect;Ik heb een joggingbroek aan. ;Ik dronk een glas water. ;0
+De moeder zwijgde haar zoon. ;cause;Haar zoon glimlachte. ;Haar zoon zeurde. ;1
+Een gat in mijn jeans. ;cause;Ik heb de jeans dichtgespannen. ;Ik struikelde over het trottoir. ;1
+De jongen droeg een beugel. ;effect;Hij heeft een gaatje. ;Zijn tanden werden recht. ;1
+Ik heb gisteren in de sportschool getraind. ;effect;Ik werd wakker met spierpijn. ;Ik werd wakker met een zere keel. ;0
+Het meisje fluisterde heen en weer tegen elkaar aan de lunchtafel. ;effect;Andere studenten gingen aan de lunchtafel zitten. ;Andere studenten aan de lunchtafel voelden zich buitengesloten. ;1
+Het kind landde op de trampoline. ;effect;Ze sprong weer in de lucht. ;Ze besloot om te proberen om te draaien. ;0
+Ik heb de brief in de brievenbus gestort. ;effect;De post heeft de brief afgeleverd. ;Het postkantoor versnelde de brief. ;0
+De gokker was zelfverzekerd. ;effect;Hij heeft al z'n geld ingezet. ;Hij ging blut naar huis. ;0
+De bosbrand verspreidde zich. ;cause;De wind werd sterker. ;De brandstichters zijn opgepakt. ;0
+Het kind heeft zijn knie onthoofd. ;effect;Zijn moeder stuurde hem naar zijn kamer. ;Zijn moeder heeft een verband op de wond gedaan. ;1
+De man overleefde de dodelijke ziekte. ;cause;Hij heeft zijn testament getekend. ;Hij heeft een orgaantransplantatie gekregen. ;1
+Ik nam een slok van de gloeiende koffie. ;effect;Ik beet mijn tong. ;Ik heb mijn tong verbrand. ;1
+De redacteur ontsloeg de schrijver. ;cause;De schrijfster vermijdde vooroordelen in haar verhalen. ;De schrijver miste een belangrijke deadline. ;1
+Ik voelde me uitgeput. ;cause;Ik heb de hele dag geslapen. ;Ik heb de hele dag gestudeerd. ;1
+De arts stelde de diagnose. ;cause;Ze identificeerde de symptomen van de patiënt. ;Ze schreef de patiënt pillen voor. ;0
+Ik krabde mijn huid. ;cause;Het was zweterig. ;Het jeukt. ;1
+De man onderging een spoedoperatie. ;cause;Hij verloor zijn geduld. ;Hij heeft een hartaanval gehad. ;1
+De arm spieren van de man uitgestoken. ;cause;Hij buigde zijn armen. ;Hij wrijft zijn armen. ;0
+De man stak zijn wenkbrauwen op. ;cause;Hij was verrast. ;Hij voelde zich ontmoedigd. ;0
+Ik heb de fout van mijn collega vergeven. ;cause;Ik geloofde dat zijn bedoelingen goed waren. ;Ik geloofde dat hij het beter wist. ;0
+De man is gestopt met roken. ;effect;Hij begon meer te bewegen. ;Hij werd eerder wakker. ;0
+De vrouw sloeg haar aanvaller in de neus. ;effect;Het lichaam van de aanvaller werd levenloos. ;De aanvaller begon te bloeden. ;1
+De pijl miste het oog van de stier. ;cause;De man had het niet goed. ;De man verloor het spel. ;0
+De huiseigenaar vroeg of er een uitroeiingsman naar zijn huis kon komen. ;cause;Hij ontdekte ratten in de kelder. ;Hij hield een mierenboerderij in zijn kamer. ;0
+Ik heb mijn gast voorgesteld om uit te gaan eten. ;cause;Ik was te moe om iets voor te bereiden. ;Mijn gast is te lang gebleven. ;0
+Het meisje betrapte haar broer op het lezen van haar dagboek. ;effect;Ze begon het dagboek te verbergen. ;Ze heeft een nieuw dagboek. ;0
+De vrouw had geen geld voor de huur. ;effect;Ze werkte overuren. ;Ze heeft ontslag genomen. ;0
+De hand van het kind keerde snel terug. ;cause;Hij raakte de hete kachel aan. ;Hij klopte het hoofd van de puppy. ;0
+Het bedrijf wilde de klanttevredenheid meten. ;effect;Ze boden korting aan nieuwe klanten. ;Ze hebben een enquête aan klanten verspreid. ;1
+De houten vloer werd gekrabd. ;cause;De jongen gooide de kussens van de bank. ;De jongen sleepte een stoel over de vloer. ;1
+Ik beschermde mijn gezicht. ;cause;Mijn vijand heeft me uitgelachen. ;Mijn vijand heeft een vuist opgetrokken. ;1
+Het beroemde standbeeld is afgebrand. ;cause;Het werd getroffen door de bliksem. ;Mensen kwamen om het te vereren. ;0
+Ik heb het fruit op tafel gelaten. ;effect;De vrucht werpt zaden. ;Vliegen zwermen de vruchten. ;1
+De ballerina heeft een gewrichtsband gescheurd. ;cause;Ze wees met haar tenen. ;Ze heeft haar enkel verstuikt. ;1
+De schoenveters van het kind waren los. ;cause;Hij heeft geleerd hoe ze te binden. ;Hij rende rond op de speelplaats. ;1
+Ik raakte gefascineerd door het boek. ;effect;Ik heb het boek teruggegeven. ;Ik was de tijd kwijt. ;1
+De man had dezelfde overtuigingen als zijn ouders. ;cause;Zijn ouders hebben hem beïnvloed. ;Zijn ouders hebben hem verloochend. ;0
+De auto vertraagde geleidelijk tot ze stilstond. ;cause;De benzine is op. ;De chauffeur viel in slaap. ;0
+De man at het ijs in de zon. ;effect;Het ijs is zijn smaak kwijtgeraakt. ;Het ijs druppelde van de kegel. ;1
+Ik hing kunstwerken in de kamer. ;cause;Het tapijt zag er vies uit. ;De muren zagen er kaal uit. ;1
+Ik ben vroeg weggegaan. ;cause;Ik had hoofdpijn. ;Mijn baas hield een vergadering. ;0
+De pup heeft het tapijt vuil gemaakt. ;effect;De eigenaar schold de pup. ;De eigenaar gaf de pup een traktatie. ;0
+Ik heb mijn excuses aan mijn vriend aangeboden. ;effect;Mijn vriend heeft me vergeven. ;Mijn vriend werd woedend. ;0
+De man stond op in de menigte. ;cause;Hij droeg een rugzak. ;Hij droeg een neonvest. ;1
+De getuige loog onder ede. ;effect;Hij heeft zijn getuigenis afgerond. ;Hij werd beschuldigd van meineed. ;1
+De vrouw heeft haar haar geverfd. ;cause;Ze wilde een nieuwe look. ;Ze wilde zich mengen. ;0
+De immigranten werden betrapt op illegaal verblijf in het land. ;effect;Ze hebben werk gevonden. ;Ze werden gedeporteerd. ;1
+De openbare spreker maakte een grapje. ;effect;Het publiek lachte. ;Het publiek stond op. ;0
+Ik keek in de zon. ;effect;De zon heeft me verblind. ;De zon heeft mijn huid gebakken. ;0
+Ik verveelde me. ;effect;Ik snot. ;Ik gauwde. ;1
+De biefstuk was moeilijk te snijden. ;cause;Het mes was dof. ;De biefstuk was rauw. ;0
+De vrouw heeft faillissement verklaard. ;cause;Ze kreeg alimentatie. ;Ze heeft enorme schulden opgebouwd. ;1
+Het licht in het appartement van mijn vriend stond aan. ;effect;Ik vroeg me af of hij buiten was. ;Ik besloot hem een bezoekje te brengen. ;1
+Ik heb de bloem onder mijn neus gelegd. ;effect;De bloemblaadjes zijn van de bloem afgekomen. ;Ik heb de geur van de bloem opgepikt. ;1
+De vrouw voelde zich nostalgisch. ;cause;Ze kwam een jeugdvriend tegen. ;Ze schreeuwde tegen haar kinderen. ;0
+De student heeft het papier uitgesteld. ;effect;Hij heeft het papier vroeg ingeleverd. ;Hij heeft het stuk onvolledig ingediend. ;1
+Mijn auto is kapot. ;effect;Ik ben naar het winkelcentrum gegaan. ;Ik heb een monteur gebeld. ;1
+Ik heb het briefje weggegooid. ;cause;Het was anoniem. ;Het was onleesbaar. ;1
+De vogel klapte met zijn vleugels. ;effect;Het heeft eieren gelegd. ;Het steeg omhoog. ;1
+Ik heb op de oprit geparkeerd. ;cause;De garage was open. ;De garage was vol. ;1
+De crimineel richtte het pistool op zijn slachtoffer. ;effect;De crimineel legde het wapen neer. ;Het slachtoffer stak zijn handen op. ;1
+Ik keek uit naar het weekend. ;cause;Ik was van plan om naar de begrafenis van mijn oom te gaan. ;Ik was van plan om naar de bruiloft van mijn vriend te gaan. ;1
+Ik was de tijd kwijt. ;cause;Ik was aan het dagdromen. ;Ik was misselijk. ;0
+Het document is onleesbaar afgedrukt. ;cause;De printer had weinig inkt. ;De afdruk was zonder papier. ;0
+Het stadion speelde het volkslied. ;effect;De fans keerden zich naar de vlag. ;De fans stroomden het veld op. ;0
+De dip smaakte saai. ;effect;Ik heb het geserveerd. ;Ik heb zout erin gedaan. ;1
+Ik heb de papieren handdoek op het lek gelegd. ;effect;De handdoek heeft de vloeistof geabsorbeerd. ;Het lek heeft een kleverig residu achtergelaten. ;0
+De vrouw werd onderbroken terwijl ze haar boek aan het lezen was. ;effect;Ze heeft haar pagina als boekmerk gezet. ;Ze las het boek opnieuw. ;0
+Het vliegtuig raakte turbulentie. ;effect;De man trok zijn veiligheidsgordel strak. ;De man keek uit het raam. ;0
+De jongen beefde. ;cause;Het meisje negeerde hem. ;Het meisje heeft hem gestoken. ;1
+De artsen gaven de patiënt een kunstbeen. ;cause;Ze hebben haar been geamputeerd. ;Ze controleerden haar vitale functies. ;0
+De jongen kneep de elleboog van het meisje. ;effect;Ze rukte haar schouders op hem. ;Ze rukte haar arm van hem af. ;1
+Ik vroeg mijn vriend om advies. ;cause;Ik waardeerde zijn mening. ;Ik wist dat ik gelijk had. ;0
+De jongen stapte in de modder. ;effect;De modder zat aan zijn schoenen. ;De modder raakte hem in het gezicht. ;0
+De stad kreeg enkele centimeters sneeuw. ;effect;Scholen gesloten. ;Mensen verstopten zich onder de grond. ;0
+De dienst van de werknemer is afgelopen. ;effect;Hij is naar huis gegaan. ;Hij dreigde met ontslag. ;0
+De boom heeft het huis beschadigd. ;cause;De boom viel op het dak. ;De boom schaduwde de achtertuin. ;0
+Het hout splitste zich in tweeën. ;cause;Ik heb het hout in de open haard gestapeld. ;Ik zwaaide met de bijl naar het hout. ;1
+De familie feliciteerde het echtpaar. ;cause;Het echtpaar kondigde aan dat ze gingen scheiden. ;Het echtpaar kondigde aan dat ze een baby zouden krijgen. ;1
+Het meisje stuurde de jongen een valentijnskaartje. ;cause;Ze vond hem leuk. ;Ze kuste hem. ;0
+Ik knikte met mijn hoofd naar de verklaring van mijn vriend. ;cause;Ik was in de war. ;Ik was het met hem eens. ;1
+De vrienden wierpen een munt. ;cause;Ze wilden een compromis vinden. ;Ze wilden een eerlijke beslissing nemen. ;1
+De timer in de keuken ging af. ;effect;De man gooide de boodschappen in de koelkast. ;De man nam de pizza uit de oven. ;1
+De vrouw stelde zich een ambitieus doel. ;effect;Ze is wat afgestompt. ;Ze heeft hard gewerkt. ;1
+De rijke man stierf van ouderdom. ;effect;Zijn zoon kreeg juridische problemen. ;Zijn zoon erfde zijn fortuin. ;1
+De vrouw trapte op de vlammen. ;effect;De vlammen zijn uit. ;Er kwam rook uit de vlammen. ;0
+De auto van de vrouw was in de garage. ;cause;Haar rijbewijs is ingetrokken. ;Ze heeft een auto-ongeluk gehad. ;1
+Ik heb door mijn wekker geslapen. ;effect;Ik heb ontbijt gemaakt. ;Ik heb ontbijt gemist. ;1
+De publieke figuur stapte uit de limousine. ;effect;De camera's flitsten in zijn richting. ;Zijn familie was aanwezig op de persconferentie. ;0
+De vrouw bleef in de badkuip zitten. ;effect;Het badwater werd lauw. ;Het badwater is uit de badkuip gedrenkt. ;0
+De student wilde andere studenten op de campus ontmoeten. ;effect;Hij ging bij een broederschap. ;Hij studeerde ingenieur. ;0
+Ik heb de kussens van de bank omhoog gehaald. ;cause;Ik zocht wat kleingeld. ;Ik was de woonkamer aan het verbouwen. ;0
+De wesp vloog naar de jongen toe. ;effect;De jongen is weggelopen. ;De jongen plukte een bloem. ;0
+De vrouw werd schuldig bevonden aan een misdrijf. ;effect;Ze werd veroordeeld tot maatschappelijk werk. ;Ze werd ter dood veroordeeld. ;0
+Ik heb de suiker in de warme thee geroerd. ;effect;De thee is gestoomd. ;De suiker is opgelost. ;1
+De veteraan liep met een hink. ;cause;Hij werd opgeroepen voor de oorlog. ;Hij is gewond geraakt in de strijd. ;1
+De crimineel liep weg voor de politie. ;effect;De politie heeft het slachtoffer behandeld. ;De politie achtervolgde de crimineel. ;1
+De laptop ging niet aan. ;cause;Ik liet het vallen. ;Ik heb het opgeladen. ;0
+De vrouw had geen ruimte meer in haar kast. ;cause;Ze heeft een uitgebreide kledingkast. ;Ze vouwde haar was op. ;0
+De man was van slag. ;cause;Zijn vrouw heeft bevallen. ;Zijn vrouw heeft hem verlaten. ;1
+De man behaalde een diploma. ;effect;Hij werd gekwalificeerd voor de baan die hij wilde. ;Zijn baansaanbod werd ingetrokken. ;0
+De stem van de man was duidelijk te horen in de hele zaal. ;cause;Hij begroette het publiek. ;Hij sprak in de microfoon. ;1
+Ik gooide een munt in de fontein. ;effect;De munt zonk tot op de bodem. ;De munt brak in tweeën. ;0
+De speler sloeg de bal naar het gat. ;effect;De bal ging in het gat. ;De bal ging terug naar de speler. ;0
+Ik ademde het stof op zolder in. ;effect;Ik had een hik. ;Ik niesde. ;1
+De kassier van de winkel belde de beveiliging. ;cause;De klant gebruikte vals geld. ;De klant liet zijn koplampen aan. ;0
+Ik heb het vuilnis uitgehaald. ;cause;Het vuilnis maakte de keuken stinken. ;Ik heb per ongeluk mijn boodschappenlijst weggegooid. ;0
+De familie ging naar de dierentuin. ;effect;De kinderen bewonderden de dieren. ;De kinderen jaagden de dieren achterna. ;0
+De ademhaling van de man was luid. ;cause;Zijn nieren waren aan het falen. ;Zijn longen waren verstopt. ;1
+Ik had een extra kaartje voor het concert. ;effect;Ik vroeg mijn vriend naar de plaats van de bijeenkomst. ;Ik vroeg mijn vriend of hij geïnteresseerd was om te gaan. ;1
+De airconditioner in het huis is kapot. ;effect;Ik heb dekens meegenomen. ;Ik heb de ramen geopend. ;1
+De jongen heeft rugpijn. ;cause;Zijn rugzak was open. ;Zijn rugzak was zwaar. ;1
+Ik heb een cadeautje voor mijn moeder gekocht. ;cause;Ik heb een taart voor haar gebakken. ;Het was haar verjaardag. ;1
+De narcissen in de tuin zijn vernietigd. ;cause;Een bij heeft de tuinman gestoken. ;Eekhoorns hebben de bollen opgegraven. ;1
+Ik heb de lucifer geslagen. ;effect;De vlam is uitgestorven. ;De lucifer produceerde een vlam. ;1
+De partijen in het geschil bereikten een schikking. ;cause;Ze wilden niet in de rechtbank debatteren. ;Ze wilden hun persoonlijke relatie herstellen. ;0
+De kinderen werden naar een weeshuis gestuurd. ;cause;Hun ouders zijn dood. ;Hun ouders hebben ze verwend. ;0
+Een meteoriet landde in de oceaan. ;effect;Er was een tsunami. ;Het begon te hagelen. ;0
+De wandelaar kwam een giftige slang tegen. ;effect;Ze werd uitgedroogd. ;Ze raakte in paniek. ;1
+De oven werd heet. ;cause;Ik heb de oven aan. ;Ik heb het gerecht in de oven gezet. ;0
+Ik heb de citroenpoep geperst. ;effect;De citroen is schimmel geworden. ;De citroen gespoten. ;1
+Het land ontdekte nieuwe landen. ;effect;Het land heeft het land verlaten. ;Het land kolonisatie van het land. ;1
+Het glas viel van de tafel. ;effect;Het is over de hele vloer gebroken. ;Het landde in een stapel was. ;0
+De tafel schudde. ;cause;De vloer was niet gelijk. ;De vloer was glad. ;0
+De vader betrapte zijn zoon op liegen. ;effect;Zijn zoon heeft de waarheid bekend. ;De vader vertrouwde zijn zoon. ;0
+Het hoofd van de man bonkte van pijn. ;effect;Hij nam hoestsiroop. ;Hij nam aspirine. ;1
+De trein vertraagde. ;cause;Het naderde het station. ;Het liep achter op schema. ;0
+De man heeft therapie gehad. ;cause;Geestelijke ziekte liep in zijn familie. ;Hij werd gediagnosticeerd met depressie. ;1
+De vrouw greep haar keel vast. ;cause;Ze slikte haar eten in. ;Ze stikte in haar eten. ;1
+De vrouw had keelpijn. ;effect;Haar stem klonk ruw. ;Ze sprak met een accent. ;0
+De hond keek naar de sappige biefstuk op tafel. ;effect;Het droogde. ;Het lag neer. ;0
+De zaak van de vrouw was succesvol. ;effect;Ze ontsloeg haar werknemers. ;Ze werd rijk. ;1
+De studenten verlieten de klas. ;cause;De bel ging. ;De leraar gaf me huiswerk. ;0
+De vrouw beweerde dat ze een geest zag. ;effect;Haar kennissen waren sceptisch. ;Haar kennissen waren verwant aan haar. ;0
+De man verloor zijn gehoor. ;cause;Hij verdronk bijna in de oceaan. ;Hij werd bijna gedood in een explosie. ;1
+Het kind liet de ballonstring los. ;effect;De ballon is leeggelopen. ;De ballon steeg in de lucht. ;1
+De man verloor zijn spraakvermogen. ;cause;Hij heeft een beroerte gehad. ;Hij nam een diepe adem. ;0
+De vrouw struikelde op de stoep. ;cause;Er was een scheur in het cement. ;Ze hoorde haar naam worden genoemd. ;0
+De man heeft een kanonbal in het zwembad gegooid. ;effect;De badmeester sprong achter hem aan. ;De man heeft de badmeester doorweekt. ;1
+Ik nam antibiotica. ;effect;Mijn infectie is genezen. ;Mijn infectie verspreidde zich. ;0
+Het verkeerslicht werd geel. ;effect;De bestuurder drukt op de rem. ;De chauffeur gaf de toeter af. ;0
+De plastic container smolt. ;cause;Ik heb de container in warm water gedaan. ;Ik heb de container op het hete fornuis gezet. ;1
+De auto is in de benen getrapt. ;cause;De chauffeur raakte een telefoonpaal. ;De chauffeur reed over rood. ;0
+De jongen studeerde de hele nacht. ;effect;Hij heeft het examen overgeslagen. ;Hij heeft het examen gehaald. ;1
+De jonge jongen klampte zich vast aan de rand van het zwembad. ;cause;Hij was bang om te leren zwemmen. ;De badmeester was aan het werk. ;0
+Ik legde mijn hand op mijn borst. ;effect;Ik voelde mijn hartslag. ;Mijn hartslag versnelde. ;0
+Het gebouw naast mijn kantoor was in aanbouw. ;effect;Mijn kantoor was vol. ;Mijn kantoor was luidruchtig. ;1
+Het gezin wilde hun nieuwe buren leren kennen. ;effect;De familie nodigde de buren uit voor een etentje. ;Het gezin zwaaide vanuit hun tuin naar de buren. ;0
+Er kwam water uit het zwembad. ;cause;De zwemmer duikte in het zwembad. ;De zwemmer zweefde in het zwembad. ;0
+Ik beet in een sneetje watermeloen. ;effect;Ik heb per ongeluk een zaadje ingeslikt. ;Ik heb per ongeluk mijn tand gebroken. ;0
+De jongen struikelde. ;cause;Zijn jas was losgemaakt. ;Zijn schoenveters waren los. ;1
+De vrouw heeft oordopjes in haar oren gedaan. ;cause;Ze werd afgeleid door lawaai. ;Ze heeft haar oren doorboord. ;0
+Ik heb mijn waterfles weer gevuld. ;cause;Ik heb al het water gedronken. ;Ik heb het in de koelkast bewaard. ;0
+De tv-show werd gecensureerd. ;cause;Het bevatte vulgaire taal. ;Het had een ingewikkelde plot. ;0
+Het schip is verongelukt. ;effect;De bemanning verdronk. ;De bemanning kwam piraten tegen. ;0
+De jongen voelde zich door het raadsel verbijsterd. ;effect;Hij heeft het raadsel opgelost. ;Hij vroeg om een hint. ;1
+De telefoon ging. ;effect;De man hing op. ;De man nam de telefoon op. ;1
+De vrouw staarde me aan. ;effect;Ik omhelsde haar. ;Ik voelde me niet op mijn gemak. ;1
+De groep verliet het museum. ;cause;Ze namen foto's van de tentoonstellingen. ;Ze hebben alle tentoonstellingen bekeken. ;1
+De man begon een discussie met mij. ;effect;Mijn vriend stelde me voor aan de man. ;Mijn vriend stond voor me op. ;1
+De band van mijn fiets was plat. ;effect;Ik heb lucht in de band gepompt. ;Ik heb de versnellingen van de motor veranderd. ;0
+Het meisje zag er bleek uit. ;effect;Haar vader las haar een verhaal voor. ;Haar vader voelde haar voorhoofd. ;1
+De pen raakte zonder inkt. ;effect;Ik heb een potlood gebruikt. ;Ik heb mijn naam getekend. ;0
+De man kreeg geen lening. ;cause;Hij was in de schulden. ;Hij begon een bedrijf. ;0
+Het meisje bleef thuis van school. ;cause;Ze had waterpokken. ;Ze vond het leuk om wiskunde te leren. ;0
+De vuilniszak was vol. ;effect;Ik heb het in de vuilnisbak gezet. ;Ik heb het in de gootsteen gegooid. ;0
+Ik heb het tapijt gevacuümd. ;cause;Mijn kamergenoot heeft punch gemorst. ;Mijn hond verliest haar. ;1
+De man verloor zijn geduld. ;effect;Hij heeft zijn computer uitgeschakeld. ;Hij gooide een stoel over de kamer. ;1
+Het meisje gooide een takje in het kampvuur. ;effect;De tak is verbrand. ;Het vuur ging uit. ;0
+De man kwam uit de douche. ;cause;Het warme water was weg. ;Hij kon geen handdoek vinden. ;0
+De ouders wilden dat hun kinderen naar de universiteit gingen. ;effect;Ze hebben een spaarfonds voor de studie. ;Ze moedigden hun kinderen aan om buiten te spelen. ;0
+De man loste zijn veters. ;effect;De schoenen zijn los. ;De schoenen werden versleten. ;0
+De man at de helft van het voorgerecht op. ;effect;Hij koelde de restjes in. ;Hij heeft het recept bewaard. ;0
+Mijn enkel was gezwollen. ;effect;Ik heb er ijs op gedaan. ;Ik heb er lotion op gedaan. ;0
+Mijn deur stond open. ;effect;Ik heb met mijn collega aan mijn bureau gesproken. ;Ik hoorde het gesprek in de hal. ;1
+Ik moest in de rij wachten. ;effect;Ik nam plaats. ;Ik heb een tijdschrift gelezen. ;1
+De man sloeg de vlieg. ;effect;De vlieg ging weg. ;De vlieg bleef stil. ;0
+De man schreef een testament. ;cause;Hij was stervende. ;Hij was weduwnaar. ;0
+De hardloper voelde dat zijn tegenstander hem inhaalde. ;effect;Hij is uit de race gestapt. ;Hij versnelde zijn tempo. ;1
+Ik heb goed nagedacht over het probleem. ;effect;Ik vroeg om advies. ;Ik heb een oplossing bedacht. ;1
+De reiziger liep over de wankelende hangbrug. ;effect;Hij voelde zich doodsbang. ;Hij voelde zich in extase. ;0
+De man verwachtte de overwinning van het team. ;effect;Hij kwam met zijn vrienden om naar de wedstrijd te kijken. ;Hij heeft een weddenschap met zijn vrienden gemaakt. ;1
+De jongen kon niet in slaap vallen. ;effect;Hij zette zijn wekker. ;Hij telde schapen. ;1

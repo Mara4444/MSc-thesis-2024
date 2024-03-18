@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Der Artikel war in Blasfolie verpackt. ;cause;Es war zerbrechlich. ;Es war klein. ;0
+Ich habe meine Taschen geleert. ;effect;Ich habe einen Fahrkartenstempel gefunden. ;Ich habe eine Waffe gefunden. ;0
+Termiten drangen in das Haus ein. ;effect;Die Termiten verschwanden aus dem Haus. ;Die Termiten fressen das Holz im Haus auf. ;1
+Die Reisenden erreichten die Grenze. ;effect;Der Patrouillenagent überprüfte ihre Pässe. ;Der Patrouillenagent beschuldigte sie des Schmuggelns. ;0
+Das Büro war geschlossen. ;cause;Es war ein Feiertag. ;Es war Sommer. ;0
+Das Mädchen hatte keine Energie mehr. ;cause;Sie spielte Dame. ;Sie hat mit Seil gesprungen. ;1
+Die Frau verlor ihren Platz in der Schlange. ;cause;Es kamen mehr Leute in die Schlange. ;Sie ist aus der Reihe. ;1
+Das Mädchen kneifte sich die Nase. ;cause;Das Baby sabberte auf ihr Schlauch. ;Das Baby hat ihre Windel beschmutzt. ;1
+Die Band spielte ihren Hit. ;effect;Das Publikum klatschte zu der Musik. ;Das Publikum hörte höflich in Stille zu. ;0
+Das Mädchen wollte sich bei ihrem Mathelehrer bedanken. ;effect;Das Mädchen blieb nach der Schule wegen der Nachsitzung. ;Das Mädchen brachte dem Lehrer einen Apfel. ;1
+Die jungen Camper hatten Angst. ;cause;Ihr Campberater erzählte ihnen eine Geistergeschichte. ;Sie haben Marshmallows auf dem Lagerfeuer geröstet. ;0
+Der Mann hat sich den Kopf geschlagen. ;effect;Er verlor sich in Gedanken. ;Er hat eine Gehirnerschütterung. ;1
+Der Scheck, den ich ausgeschrieben habe, ist nicht gezahlt worden. ;cause;Mein Bankkonto war leer. ;Ich habe eine Gehaltserhöhung verdient. ;0
+Sein E-Mail-Posteingang war voller Spam. ;effect;Er hat den Spam gelöscht. ;Er hat eine Massen-E-Mail geschickt. ;0
+Der Seemann wurde in Quarantäne gestellt. ;cause;Er wurde der Krankheit ausgesetzt. ;Er erholte sich von der Krankheit. ;0
+Das Mädchen hat sich den Code auswendig gelernt. ;cause;Sie rezitierte es für sich. ;Sie hat vergessen, es aufzuschreiben. ;0
+Ich schüttete das Wasser in das Glas. ;effect;Das Wasser löschte meinen Durst. ;Das Glas wurde voll. ;1
+Der Mann blieb schweigend, als sein Freund mit dem Sprechen fertig war. ;cause;Er wollte seinem Freund Unterstützung anbieten. ;Er dachte an die Worte seines Freundes. ;1
+Der Unfall war meine Schuld. ;effect;Ich fühlte mich schuldig. ;Ich habe Anzeige erstattet. ;0
+Die Kette ist auseinandergefallen. ;cause;Die Kette war um einen Reifen gewickelt. ;Es gab ein gebrochenes Glied in der Kette. ;1
+Das Ehepaar beschloss, einen Kompromiss zu schließen. ;cause;Sie hatten es satt, sich zu streiten. ;Sie vermieden, das Problem zu diskutieren. ;0
+Die Frau entschied sich, sich für ein öffentliches Amt zu bewerben. ;effect;Sie hat einen Wahlkampfmanager eingestellt. ;Sie hat vor Gericht ausgesagt. ;0
+Der Mann erwartete auf seiner Reise kaltes Wetter. ;effect;Er packte warme Kleidung in seinen Koffer. ;Er reiste mit einem großen Koffer. ;0
+Der Student kannte die Antwort auf die Frage. ;effect;Er hob seine Hand. ;Er hat sich verrückt gemacht. ;0
+Der Mann hatte Tränen in den Augen. ;cause;Er hat Staub in die Augen bekommen. ;Er hat eine Schutzbrille über die Augen gelegt. ;0
+Der Spieler gewann fünf Spiele in Folge. ;effect;Ihr Gegner beschuldigte sie des Betrugs. ;Ihr Gegner hatte Mitleid mit ihr. ;0
+Der Lehrer zerriss die Prüfung des Schülers. ;cause;Er erwischte den Studenten beim Schummeln. ;Die Antworten des Studenten waren falsch. ;0
+Ich habe eine Pause gemacht, um aufzuhören zu reden. ;cause;Ich habe meine Stimme verloren. ;Mir wurde die Luft aus. ;1
+Das gefrorene Essen ist aufgetaut. ;cause;Ich habe es in die Mikrowelle gelegt. ;Ich habe es mit Plastikfolie bedeckt. ;0
+Der Angestellte tat so, als wäre er krank. ;cause;Er hatte Bauchkrämpfe. ;Er wollte einen Tag frei haben. ;1
+Das Mädchen landete im Pool. ;cause;Sie lief auf dem Pooldeck. ;Sie sprang vom Sprungbrett. ;1
+Die Kinokarten sind ausverkauft. ;cause;Es war der Eröffnungstag des Films. ;Der Film erhielt schlechte Kritiken. ;0
+Der Mann hat abgenommen. ;effect;Die Leute haben ihn isoliert. ;Die Leute haben ihm Komplimente gemacht. ;1
+Die Hände des Mädchens wurden zu Blasen. ;cause;Sie hat einen Brief geschrieben. ;Sie kletterte auf ein Seil. ;1
+Der Zirkusartist jonglierte, während er ein Einrad fuhr. ;effect;Das Publikum jubelte vor Erstaunen. ;Der Akrobat schwungen von einem Trapez. ;0
+Ich verlor meine Geduld. ;cause;Mein Freund ließ mich warten. ;Mein Freund kam pünktlich an. ;0
+Die Kriegsstaaten wollten Frieden. ;effect;Sie entwickelten Atomwaffen. ;Sie verhandelten einen Vertrag. ;1
+Der Mann nahm Schlaftabletten. ;effect;Er wurde schläfrig. ;Er hatte Fieber. ;0
+Die Frau stieß gegen das Sofa. ;effect;Das Bein des Sofas ist losgegangen. ;Sie hat sich das Knie verletzt. ;1
+Der Junge drückte den Ballon. ;effect;Der Ballon ist geplatzt. ;Der Ballon ist weggeflogen. ;0
+Die Reisenden haben sich in ihrem Hotelzimmer eingetragen. ;effect;Sie haben ihre Koffer ausgepakt. ;Sie sind zum Flughafen gegangen. ;0
+Ich habe in die Pfirsichbeere gebissen. ;effect;Der Pfirsich ist verletzt. ;Der Saft ist rausgegangen. ;1
+Meine Hände wurden klebrig. ;cause;Ich habe einen Donut gegessen. ;Ich hatte eine Süßigkeitsfreude. ;0
+Ich habe die Tür geschoben. ;effect;Die Tür öffnete sich. ;Die Tür ist abgeschlossen. ;0
+Aktivisten boykottierten die Produkte. ;cause;Die Produkte wurden auf Qualitätssicherung hin geprüft. ;Die Produkte wurden durch Kinderarbeit hergestellt. ;1
+Ich bohrte ein Loch in die Wand. ;effect;Eine Maus kroch aus dem Loch. ;Staub blies aus dem Loch. ;1
+Die Frau fühlte sich neidisch auf ihre Schwester. ;cause;Ihre Schwester war glücklich. ;Ihre Schwester hat sich scheiden lassen. ;0
+Ich habe Wein auf mein Hemd verschüttet. ;effect;Ich habe eine Schürze angezogen. ;Ich habe mein Hemd gewechselt. ;1
+Die Kassiererin öffnete die Registrierkasse. ;cause;Der Kunde durchsuchte seine Brieftasche. ;Der Kunde gab ihr Geld. ;1
+Der Straßenmusiker zog eine Menge an. ;effect;Die Leute gaben ihm Kleingeld. ;Er schickte die Menge weg. ;0
+Der kleine Junge weinte zu seinem Babysitter. ;cause;Er vermisste seine Eltern. ;Es war Snackzeit. ;0
+Das Radar des Piloten hat einen Sturm entdeckt. ;effect;Der Pilot navigierte weg vom Sturm. ;Der Pilot flog durch den Sturm. ;0
+Der Baum verliert seine Blätter. ;effect;Die Blätter wurden farbig. ;Die Blätter sammelten sich auf dem Boden. ;1
+Der Junge war in einer schelmischen Stimmung. ;effect;Er entschied sich, mit seiner Schwester ein Kartenspiel zu spielen. ;Er hat beschlossen, eine Art Scherz mit seiner Schwester zu spielen. ;1
+Das Kind beschwerte sich, dass es auf die Toilette gehen musste. ;effect;Sein Vater gab ihm eine Limonade zu trinken. ;Sein Vater hielt das Auto an einer Tankstelle. ;1
+Das Kind streute Fischfutter in den Tank. ;effect;Der Fisch sprang aus dem Tank. ;Der Fisch schwammte auf das Futter zu. ;1
+Die politischen Ansichten der Frau änderten sich. ;effect;Sie wechselte ihre Parteizugehörigkeit. ;Sie beteiligte sich an einem Protest. ;0
+Das Waschbecken im Badezimmer war verstopft. ;effect;Ich habe den Wasserhahn aufgedreht. ;Ich habe Abflussreiniger hineingegossen. ;1
+Die Passagiere stiegen aus dem Zug. ;cause;Der Zug kam am Bahnhof an. ;Der Zug pfiff. ;0
+Der Mann drückte auf die feuchte Klappe des Umschlags. ;effect;Er hat einen Stempel auf den Umschlag gelegt. ;Er hat den Umschlag verschlossen. ;1
+Die Freunde verloren den Kontakt. ;cause;Sie genossen die Gesellschaft des anderen. ;Sie zogen in verschiedene Städte. ;1
+Der Buchhalter verwaltete die Gelder der Firma falsch. ;effect;Sie wurde von ihrer Position gefeuert. ;Sie ist in Mutterschaftsurlaub. ;0
+Ich schaute auf die Uhr. ;cause;Ich hörte die Uhr ticken. ;Ich wollte die Uhrzeit überprüfen. ;1
+Meine Hand ist verkrampft. ;cause;Ich schrieb den Aufsatz von Hand. ;Meine Frau und ich hielten uns an den Händen. ;0
+Der Schraubenschraubenschraubenschraubenschraubenschraub. ;cause;Ich habe den Schraubenschraubersatz ersetzt. ;Ich habe den Schraubenschlüssel gedreht. ;1
+Das Paar unterschrieb einen Mietvertrag für eine Wohnung. ;effect;Das Paar zog in die Wohnung. ;Die Stadt hat die Wohnung verurteilt. ;0
+Die Frau saß draußen auf der Veranda. ;cause;Sie wollte den Sonnenuntergang sehen. ;Sie dachte, sie hätte einen Blitz gesehen. ;0
+Der Mann trug eine Schwimmweste im Wasser. ;cause;Er konnte nicht schwimmen. ;Das Wasser war flach. ;0
+Die Frau hat einen Schreibfehler im Textverarbeiter gemacht. ;effect;Sie hat das Dokument gelöscht. ;Sie hat den Backspace-Taste gedrückt. ;1
+Das Mädchen prahlte vor ihren Freunden. ;cause;Sie hat eine schlechte Note bekommen. ;Sie hat einen Wettbewerb gewonnen. ;1
+Der Rasen war schlammig. ;cause;Es hat über Nacht geschüttet. ;Es war voller Unkraut. ;0
+Die Frau ist eingeschlafen. ;cause;Sie übernachtete in einem Hotel. ;Sie hat vergessen, ihren Wecker einzustellen. ;1
+Der Mann hat sich Sonnencreme angezogen. ;cause;Er saß im Schatten. ;Er ist zum Strand gegangen. ;1
+Die Forscher bewiesen die Theorie. ;effect;Die Forscher widerriefen die Theorie. ;Die Einzelnen nahmen die Theorie an. ;1
+Die Fans beim Spiel haben gebuht. ;cause;Das Spiel ging in die Verlängerung. ;Der Schiedsrichter hat einen falschen Schlag gemacht. ;1
+Ich habe meine Kombination eingegeben. ;effect;Ich schloss das Schloss. ;Das Schloss ist aufgegangen. ;1
+Die Menge wurde noch stärker. ;effect;Der Vater reichte seinem Sohn etwas Geld. ;Der Vater ergriff die Hand seines Sohnes. ;1
+Der Schnee blockierte die Auffahrt. ;effect;Ich habe den Schnee zu einem Schneeball zusammengefasst. ;Ich schaufelte den Schnee aus dem Weg. ;1
+Die Kajakfahrer paddelten mit ihren Rüdern. ;effect;Das Kajak erreichte das Ufer. ;Das Kajak traf eine Welle. ;0
+Das Mädchen verlor die Kontrolle über ihr Fahrrad. ;effect;Sie hat den Lenker losgelassen. ;Sie ist gegen einen Zaun gefahren. ;1
+Ich habe den Lüfter angeschaltet. ;effect;Wasser auf meine Haut gesprengt. ;Ich spürte kühle Luft über mir. ;1
+Die Surfer kehrten zum Strand zurück. ;cause;Sie waren durchnässt. ;Sie sahen einen Hai. ;1
+Ich habe den Abfluss in der Badewanne ausgeschaltet. ;effect;Das Wasser ist aus der Wanne gefallen. ;Das Wasser spritzte auf den Boden. ;0
+Der Mann fühlte sich schuldig, weil er seine Frau betrogen hatte. ;effect;Er beschuldigte sie der Untreue. ;Er gestand ihr seine Untreue. ;1
+Die Tinte auf dem Plakat ist verschmiert. ;cause;Ich wartete, bis die Tinte trocken war. ;Ich habe Wasser auf das Poster verschüttet. ;1
+Das Kind wachte schreiend auf. ;cause;Er hatte einen Albtraum. ;Er hat das Bett benetzt. ;0
+Der Junge legte seine Füße auf den Tisch. ;effect;Sein Vater setzte sich an den Tisch. ;Sein Vater hat ihm Vorträge gehalten. ;1
+Mein Freund drehte seinen Kopf in meine Richtung. ;cause;Ich rief seinen Namen. ;Ich winkte mit den Armen. ;0
+Die Regierung unterdrückte ihre Bürger. ;effect;Die Bürger machten einen Aufstand. ;Die Bürger haben sich zur Wahl registriert. ;0
+Der Junge war im Wald verloren. ;effect;Er hat ein Zelt aufgeschlagen. ;Er schrie um Hilfe. ;1
+Die Frau reiste ins Ausland. ;cause;Sie wollte malen lernen. ;Sie wollte andere Kulturen kennenlernen. ;1
+Der Mann war eifersüchtig auf seinen Kollegen. ;cause;Sein Kollege wurde befördert. ;Sein Kollege arbeitete bis spät. ;0
+Der Mann hat Aliens gesehen. ;cause;Er hatte Halluzinationen. ;Er meditierte. ;0
+Das Haar des Mannes wurde blond. ;cause;Er hat Bleichmittel hineingetan. ;Er hat Shampoo hineingetan. ;0
+Der Künstler schuf neue Werke. ;cause;Sie kritisierte ihre frühere Arbeit. ;Sie fühlte einen Anschlag der Inspiration. ;1
+Der Sohn zog von zu Hause weg. ;cause;Er wurde aus dem Militär entlassen. ;Er wollte aufs College. ;1
+Bücher fielen aus dem Bücherregal. ;cause;Die Regale waren mit Staub bedeckt. ;Ein Erdbeben erschütterte das Bücherregal. ;1
+Der Strom in meinem Haus ist ausgegangen. ;effect;Ich habe ein Licht angezündet. ;Ich habe den Schaltkreis zurückgesetzt. ;1
+Wir fuhren mit der Achterbahn. ;cause;Es sah beängstigend aus. ;Es sah lustig aus. ;1
+Die Tasche Popcorn begann zu platzen. ;cause;Ich habe Butter in die Tasche gegossen. ;Ich habe es in der Mikrowelle erhitzt. ;1
+Ein Baum fiel auf die Stromleitung. ;effect;Der Strom in der Nachbarschaft ging aus. ;Die Wettervorhersage sagte starke Winde voraus. ;0
+Der Redner machte politisch inkorrekte Kommentare. ;effect;Er langweilte das Publikum. ;Er hat das Publikum beleidigt. ;1
+Ich habe mich mit der Nadel gestochen. ;effect;Ein Schweißkorn tropfte von meinem Gesicht. ;Ein Tropfen Blut bildete sich an meinem Finger. ;1
+Der Fisch schwebte auf der Oberfläche des Tanks. ;cause;Es war hungrig. ;Es war tot. ;1
+Die Stimme des Mannes klang heiser. ;cause;Er hatte eine Erkältung. ;Er hat mit dem Rauchen aufgehört. ;0
+Die Türen des Aufzugs öffneten sich. ;cause;Der Aufzug kam in der vorgesehenen Etage an. ;Der Aufzug steckte zwischen den Etagen fest. ;0
+Der Teenager schlich sich aus dem Haus. ;cause;Er hat seine Eltern angelogen. ;Seine Eltern gaben ihm Hausarrest. ;1
+Das Badezimmer ist überflutet. ;cause;Die Toilette ist überflutet. ;Der Warmwasserbereiter ist kaputt. ;0
+Der Welpe blieb bei seinem Besitzer. ;cause;Der Besitzer hat dem Welpen ein Halsband angelegt. ;Der Besitzer hielt den Welpen an der Leine. ;1
+Der Mann hat sein Spiegelbild erfasst. ;cause;Er stand unter dem ausgedehnten Baum. ;Er stand über dem ruhigen See. ;1
+Ich habe den Anruf meiner Freundin verpasst. ;effect;Ich rief sie zurück. ;Ich traf sie zum Abendessen. ;0
+Die Familie durchsuchte die Nachbarschaft. ;cause;Ihr Hund ist von zu Hause weggelaufen. ;Teure Schmuckstücke fehlten aus ihrem Haus. ;0
+Ich sah meinen Atem, als ich ausatmete. ;cause;Das Wetter war kühl. ;Meine Brust fühlte sich angespannt an. ;0
+Die Angestellten gründeten eine Gewerkschaft. ;cause;Sie wollten bessere Arbeitsbedingungen. ;Ihr Arbeitgeber erhöhte ihre Löhne. ;0
+Ich habe einen Apfelkuchen gebacken. ;effect;Ein fauler Geruch erfüllte die Küche. ;Ein warmer Duft erfüllte die Küche. ;1
+Die Frau kämpfte, um zu gehen. ;cause;Sie trug High Heels. ;Sie zog ihre Schuhe aus. ;0
+Dampf stieg aus dem Wassertopf. ;cause;Das Wasser kochte. ;Ich habe den Topf abgedeckt. ;0
+Alle meine Socken waren in der Wäscherei. ;effect;Ich trug Sandalen. ;Ich trug Stiefel. ;0
+Das Argument des Politikers wurde als absurd angesehen. ;effect;Er verlor die Unterstützung der Wähler. ;Er wurde der Korruption beschuldigt. ;0
+Alle waren gegen die Verlobung des Paares. ;effect;Das Paar wurde schwanger. ;Das Paar ist weggelaufen. ;1
+Das Gebäude war dem Millionär gewidmet. ;cause;Der Millionär wollte, dass das Gebäude abgerissen wird. ;Der Millionär hat die Mittel zum Bau beigesteuert. ;1
+Der Verkaufsmitarbeiter beschuldigte das Mädchen des Diebstahls. ;cause;Der Vertriebsmitarbeiter sah das Mädchen, wie sie Waren in ihre Handtasche steckte. ;Der Vertriebspartner half dem Mädchen, die Tasche zu finden, die ihr gefiel. ;0
+Das Land erklärte dem Nachbargebiet den Krieg. ;effect;Soldaten wurden zum Kampf geschickt. ;Soldaten wurden mit ihren Familien vereint. ;0
+Das Gericht bestätigte das umstrittene Urteil. ;effect;Vor dem Gerichtsgebäude brach ein Aufruhr los. ;Ein Paar hat vor dem Gerichtsgebäude gelobt. ;0
+Das Mädchen hat etwas Brennendes gerochen. ;cause;Sie nahm die Kekse aus dem Glas. ;Sie hat die Kekse im Ofen liegen lassen. ;1
+Es regnete wie aus Eimern. ;effect;Der Sturm wurde schlimmer. ;Ich stürzte mich in den Raum. ;1
+Das Gebäude wurde evakuiert. ;cause;Der Aufzug hat aufgehört zu funktionieren. ;Der Feueralarm ging los. ;1
+Der Vater war verärgert über den Alkoholismus seines Sohnes. ;effect;Der Vater kaufte seinem Sohn ein Bier. ;Der Vater warf seinen Sohn aus dem Haus. ;1
+Die Anwältin ging die Treppe hinauf in ihr Büro. ;cause;Die Sekretärin ist heute nach Hause gegangen. ;Der Aufzug war defekt. ;1
+Der Mann wurde von seinem Freund genervt. ;cause;Sein Freund unterbrach ihn. ;Sein Freund hat ihm ein Mittagessen eingeboten. ;0
+Das Mädchen reichte dem Kassierer ihr Geld. ;effect;Der Kassierer gab dem Mädchen das Wechselgeld. ;Der Kassierer vergaß, dem Mädchen eine Quittung zu geben. ;0
+Die Frau wurde in einen Rollstuhl gesetzt. ;cause;Sie wurde bei einem Unfall gelähmt. ;Sie kam im Krankenhaus auf einer Bahre. ;0
+Die Bürger hängten die Nationalflagge vor ihren Häusern auf. ;cause;Das Land feierte seine Unabhängigkeit. ;Das Land stand wirtschaftlichen Schwierigkeiten gegenüber. ;0
+Das Team verlor das Turnier. ;effect;Sie enttäuschten ihre Fans. ;Sie inspirierten ihre Fans. ;0
+Mein Freund wies darauf hin, dass mir Essen in den Zähnen stecken blieb. ;effect;Ich fühlte mich beschämt. ;Ich war stolz. ;0
+Der Junge fiel bei seiner Geschichtsprüfung durch. ;cause;Er hat im Unterricht aufmerksam gehandelt. ;Er hat vergessen zu lernen. ;1
+Das Gebäude in der Innenstadt ist eingestürzt. ;cause;Ein Erdbeben traf die Stadt. ;Die Kriminalitätsrate in der Stadt stieg. ;0
+Die Freundin des Mannes hat mit ihm Schluss gemacht. ;effect;Er flehte sie an, ihn zurückzunehmen. ;Sie stellte ihn ihren Eltern vor. ;0
+Die beiden Kinder griffen gleichzeitig nach unten, um den Ball zu holen. ;effect;Der Ball rollte weg. ;Ihre Köpfe kollidierten. ;1
+Der Waschbär durchsuchte den Mülleimer. ;cause;Im Mülleimer war Karton. ;Der Deckel war vom Mülltonnen ab. ;1
+Der Junge schärfte den Bleistift. ;cause;Es war billig. ;Es war langweilig. ;1
+Der Kassierer verweigerte der Frau eine Rückerstattung für das Kleid. ;cause;Sie hat ihre Quittung verloren. ;Das Kleid passte nicht. ;0
+Der Kratzer in meiner Haut war tief. ;effect;Es hat sich schnell geheilt. ;Es hat eine Narbe hinterlassen. ;1
+Der Mann erhielt seltsame Blicke von Passagieren im Zug. ;cause;Er starrte auf den Boden. ;Er hat mit sich selbst gesprochen. ;1
+Das Kind hat Krümel auf dem Boden liegen lassen. ;effect;Ameisen kroch bis zu den Krümeln. ;Das Kind legte das Brot weg. ;0
+Die Frau reichte ihrer Schwester ein Taschentuch. ;cause;Die Schwester der Frau schloß die Hände zusammen. ;Die Schwester der Frau begann zu weinen. ;1
+Der Mann hat eine Münze genommen. ;cause;Seine Lippen waren gerissen. ;Er machte sich Sorgen um Mundgeruch. ;1
+Das Paar ging früh zur Show. ;cause;Sie haben den Verkehr um das Theater vorausgesehen. ;Sie haben die Wegbeschreibung zum Theater. ;0
+Die Frau blieb von der Arbeit weg. ;effect;Ihr Chef lobte sie. ;Ihre Kollegin hat sie gedeckt. ;1
+Der Mann unterschrieb die Petition der Aktivisten. ;cause;Er unterstützte ihre Sache. ;Er hat sie als verrückt bezeichnet. ;0
+Das Herz des Schauspielers flatterte vor seiner Aufführung. ;cause;Er hatte Bühnenangst. ;Er hat sich seine Zeilen auswendig gelernt. ;0
+Ich war verloren. ;effect;Ich habe mein Geld gezählt. ;Ich habe eine Karte ausgebreitet. ;1
+Die reifen Früchte blieben in der Sonne. ;effect;Es wurde gefressen. ;Es ist verschrumpelt. ;1
+Das Auto ist kaputt. ;cause;Ich habe die Zündung gedreht. ;Der Motor ist überhitzt. ;1
+Der Mann hat sich den Rücken verletzt. ;effect;Er war bei einem Psychiater. ;Er blieb mehrere Tage im Bett. ;1
+Ich habe ein Feuer im Kamin angezündet. ;cause;Ich hatte kein Feuerholz mehr. ;Es war kalt im Haus. ;1
+Die Frau hörte auf zu joggen. ;cause;Sie hat einen Krampf in der Seite. ;Sie hat einen zweiten Atemzug bekommen. ;0
+Ich klopfte an die Tür meines Nachbarn. ;effect;Mein Nachbar lud mich ein. ;Meine Nachbarin hat ihr Haus verlassen. ;0
+Die Frau seufzte vor Frustration. ;cause;Ihr Mann hatte ihre Sorgen missverstanden. ;Ihr Mann gab ihr einen Abschiedskuss. ;0
+Der Lehrer lobte den Schüler. ;cause;Der Student beantwortete die Frage richtig. ;Der Student zögerte, die Frage zu beantworten. ;0
+Der Frau sind die Eier ausgegangen. ;effect;Sie ist auf die Farm gegangen. ;Sie ist in den Supermarkt gegangen. ;1
+Ich traf einen alten Freund. ;effect;Ich habe ihm ein Geheimnis verraten. ;Ich habe ihn umarmt. ;1
+Die Frau vermied es, in den See zu gehen. ;cause;Sie hat einen Fisch gefangen. ;Es sah kontaminiert aus. ;1
+Der Schüler kam nass in den Unterricht. ;cause;Sein Regenschirm war zerbrochen. ;Sein Fahrrad wurde gestohlen. ;0
+Der Cursor auf dem Computerbildschirm bewegte sich. ;cause;Der Benutzer klickte mit der Maus. ;Der Benutzer hat die Maus verschoben. ;1
+Der Fahrer hat einen Umweg genommen. ;cause;Auf der Hauptstraße ereignete sich ein Unfall. ;Sie folgte dem LKW vor ihr. ;0
+Ich habe die nasse Wäsche an die Wäscheleine gehängt. ;effect;Das Leinen ist getrocknet. ;Das Bettzeug ist befleckt. ;0
+Die Frau zog ihre Brille auf. ;cause;Das Sonnenlicht war hell. ;Sie hat ein Taxi gerufen. ;0
+Der Mann starrte den Nachthimmel an. ;cause;Er wünschte, es wäre Sommer. ;Er fand es wunderschön. ;1
+Ich fühlte mich erschöpft. ;effect;Ich bin früh ins Bett gegangen. ;Ich war die ganze Nacht wach. ;0
+Der Mann ging zum Friseur. ;cause;Er hat sich die Haare wachsen lassen. ;Seine Haare wurden lang. ;1
+Der Junge spielte böse Tricks mit seinem neuen Klassenkameraden. ;cause;Der Junge hieß den neuen Klassenkameraden willkommen. ;Der Junge mochte den neuen Klassenkameraden nicht. ;1
+Ich hatte Lust auf ein Glas Milch. ;cause;Ich aß Kekse. ;Ich habe Brot gebacken. ;0
+Es begann zu regnen. ;effect;Der Fahrer schaltete die Scheinwerfer ein. ;Der Fahrer fuhr den Wagen rückwärts. ;0
+Der Parkplatz des Gebäudes war leer. ;effect;Ich habe auf der anderen Straßenseite geparkt. ;Ich habe in der Nähe des Eingangs geparkt. ;1
+Die Autorin hat die Frist für die Vorlage des Entwurfs verpasst. ;cause;Sie hatte eine Schreibblockade. ;Sie hat den Entwurf bearbeitet. ;0
+Der Partner hat aufgelegt. ;cause;Ich wollte mit einem Vorgesetzten sprechen. ;Ich habe meine Identifikationsnummer angegeben. ;0
+Der Wind blies durch das offene Fenster. ;effect;Die Tür klingelte. ;Die Vorhänge zitterten. ;1
+Der Strom in meinem Haus ist ausgegangen. ;cause;Ich habe die Lampe aus dem Stecker gezogen. ;Ich hab eine Sicherung aufgeblasen. ;1
+Der Gewichtheber knurrte. ;cause;Er beugte seine Muskeln vor dem Spiegel. ;Er hob die Latte über seinen Kopf. ;1
+Der Schüler versuchte, die Rechnung im Kopf zu machen. ;effect;Er hat einen Rechner herausgeholt. ;Er ist durcheinander. ;1
+Das Baby ist eingeschlafen. ;cause;Der Vater wechselte dem Baby die Windel. ;Der Vater schüttelte das Baby sanft. ;1
+Das Mädchen warf den Wasserballon auf den Jungen. ;effect;Der Junge hat eine Gehirnerschütterung. ;Der Junge ist durchnässt. ;1
+Der Fotograf hat vergessen, den Blitz der Kamera zu benutzen. ;effect;Die Fotos waren verschwommen. ;Alle auf den Fotos weigerten sich zu lächeln. ;0
+Ich lehnte die Einladung zur Geburtstagsfeier ab. ;cause;Ich war einsam. ;Ich war nicht in der Stadt. ;1
+Ich habe trainiert. ;cause;Ich fühlte mich energisch. ;Ich hatte Angst. ;0
+Ich drückte den feuchten Schwamm. ;effect;Es hat Wasser aufgenommen. ;Wasser ist aus ihm herausgekommen. ;1
+Die Urlauber fuhren mit der Fähre zum Ferienort. ;cause;Das Resort war ausgebucht. ;Das Resort war auf einer Insel. ;1
+Der Teenager hat ein Tattoo. ;cause;Sie hatte Angst vor Nadeln. ;Sie wollte rebellieren. ;1
+Ein unbekanntes Auto, das vor meinem Haus geparkt hat. ;effect;Ich wurde misstrauisch. ;Ich habe die Polizei gerufen. ;0
+Der Verbrecher hat sich selbst ergeben. ;cause;Die Beweise haben ihn verwickelt. ;Es gab keine Beweise gegen ihn. ;0
+Der übergewichtige Mann beschloss, abzunehmen. ;effect;Er hat die Süßigkeiten ausgeschnitten. ;Er vermied Koffein. ;0
+Das Mädchen trat aufs Eis. ;effect;Sie ist ausgerutscht. ;Sie zitterte. ;0
+Die Frau hatte Ringe unter den Augen. ;cause;Sie war die ganze Nacht wach. ;Sie brachte ihren Sohn ins Bett. ;0
+Lava floss vom Vulkan. ;cause;Der Vulkan brach aus. ;Der Vulkan war schlafend. ;0
+Die Frau zog ihre Schuhe an. ;cause;Sie kannte alle auf der Party. ;Sie wollte die Party verlassen. ;1
+Ich habe den Mautsteuerführer bezahlt. ;effect;Sie hat mich durch die Mautstelle lassen. ;Sie hielt mich an der Mautstelle auf. ;0
+Der Geschäftsführer ging bankrott. ;cause;Er hat seine Aktien verkauft. ;Er hat sein Vermögen verschwendet. ;1
+Der Mann ging zum Arzt. ;cause;Der Arzt war im Urlaub. ;Der Mann fühlte sich krank. ;1
+Ich verließ mein Schlafzimmer durch das Fenster. ;cause;Das Haus stand in Flammen. ;Das Haus war leer. ;0
+Die Finger des Jungen wurden schmal. ;cause;Er hat lange geduscht. ;Er schäumte sich die Hände mit Seife. ;0
+Ich habe die Milch ausgespuckt. ;cause;Die Milch schmeckte sauer. ;Mein Mund war trocken. ;0
+Ich habe den Bus verpasst. ;effect;Ich war früh zur Arbeit. ;Ich war zu spät zur Arbeit. ;1
+Der Lastwagen kollidierte mit dem Auto. ;effect;Der Truck hat beschleunigt. ;Das Auto ist zertrümmert. ;1
+Das Team hat den Wettbewerb zu ihren Gunsten manipuliert. ;effect;Sie haben gewonnen. ;Sie haben abgebrochen. ;0
+Die Soda-Flasche zischte. ;cause;Ich habe die Flasche umgedreht. ;Ich hab die Kappe abgedreht. ;1
+Der Junge wurde aus seinem Haus ausgeschlossen. ;effect;Er ist durch ein offenes Fenster eingeschlichen. ;Er kletterte aufs Dach. ;0
+Die Tür klingelte. ;effect;Der Besucher klopfte an die Tür. ;Die Frau schaute durch das Schlüsselloch in der Tür. ;1
+Der Mann hat seinen Anzug befleckt. ;effect;Er hat es in der Reinigung. ;Er hat es in seinem Schrank aufgehängt. ;0
+Das Mädchen drückte die Tube mit Zahnpasta aus. ;effect;Die Zahnpasta spritzte aus dem Rohr. ;Das Mädchen spuckte die Zahnpasta aus. ;0
+Die Zahl der zivilen Todesopfer stieg. ;effect;Pazifisten organisierten einen Protest. ;Pazifisten hielten eine Parade ab. ;0
+Das Mädchen zog sich das Band aus den Haaren. ;cause;Sie hat das Band gebunden. ;Das Band sah kindisch aus. ;1
+Der Mann hat sich plastisch operiert. ;effect;Er ist gealtert. ;Er sah jünger aus. ;1
+Aus dem Ei entstand ein Kükenbaby. ;cause;Das Ei hat geschlüpft. ;Ich habe das Ei gebrochen. ;0
+Der Gefangene verhungerte. ;effect;Er ist tot. ;Er ist geflohen. ;0
+Der Mann verlor auf der Leiter sein Gleichgewicht. ;effect;Er kletterte die Leiter hoch. ;Er ist von der Leiter gefallen. ;1
+Das Kind rülpste. ;cause;Er nahm einen Schluck Soda. ;Er hat die Limo-Dose geöffnet. ;0
+Ein kalter Zug kam durch das Fenster herein. ;effect;Ich entspannte mich. ;Ich zitterte. ;1
+Der Student erhielt ein Stipendium, um aufs College zu gehen. ;cause;Ihre Klassenkameraden respektierten sie. ;Sie hatte gute Noten. ;1
+Das Mädchen machte sich über den Jungen lustig. ;cause;Sie wohnte neben ihm. ;Sie war in ihn verknallt. ;1
+Der hungrige Landstreicher stahl Essen. ;cause;Er hat Mitleid hervorgerufen. ;Er hatte kein Geld. ;1
+Ich rief meinen Freund an, um zu plaudern. ;cause;Ich wollte Privatsphäre. ;Ich fühlte mich einsam. ;1
+Der Mann reichte mir die Hand. ;effect;Ich schüttelte seine Hand. ;Ich habe ihm eine Ohrfeige gegeben. ;0
+Ich habe mich verkrampft. ;cause;Das Feuerwerk wurde in die Luft geschleudert. ;Der Frisbee schoss mir auf den Kopf zu. ;1
+Das Mädchen biss sich die Nägel. ;cause;Sie war besorgt. ;Sie war überrascht. ;0
+Ich habe die Seite im Kalender umgedreht. ;cause;Ich habe einen Termin im Kalender markiert. ;Es war der Beginn eines neuen Monats. ;1
+Der Mann entdeckte, dass seine Frau eine Affäre hatte. ;effect;Er hat seinen Anwalt gefeuert. ;Er hat die Scheidung eingereicht. ;1
+Das Mädchen hat den Gummiball fallen lassen. ;effect;Der Ball hat gesprungen. ;Der Ball leuchtete. ;0
+Das Mädchen hat bei der Prüfung einen Fehler gemacht. ;effect;Sie hat die Antwort erraten. ;Sie hat ihre Antwort gelöscht. ;1
+Der Spieler hat seinen Gegner tackelt. ;effect;Sein Gegner erwischte den Pass. ;Sein Gegner fiel zu Boden. ;1
+Ich habe die Tomaten aus der Rebe gepflückt. ;cause;Sie waren reif. ;Ich habe sie gegossen. ;0
+Der Mann wollte romantisch sein. ;effect;Er hat seine Ex-Freundin zum Mittagessen getroffen. ;Er hat seiner Freundin Schokolade gekauft. ;1
+Das Quecksilber im Thermometer stieg. ;cause;Ich habe das Thermometer fallen lassen. ;Das Wetter wurde wärmer. ;1
+Ein Tornado kam durch die Stadt. ;effect;Das Dach des Gerichtsgebäudes ist abgeflogen. ;Die Autobahn wurde gefährlich vereist. ;0
+Der Schüler erhielt Nachhilfe. ;effect;Seine Noten haben sich verbessert. ;Er hat bei der Prüfung geschummelt. ;0
+Ich fühlte mich wohl. ;cause;Ich kniete auf den Boden. ;Ich wickelte mich in eine Decke. ;1
+Ich habe den Stein poliert. ;effect;Es wurde rutschig. ;Es wurde glänzend. ;1
+Ich habe Zucker in den Kaffee getan. ;effect;Der Kaffee roch stark. ;Der Kaffee schmeckte süß. ;1
+Der Mann schlurfte in den Zeitungen. ;effect;Er hat sich durch Papier geschnitten. ;Er hat die Papiere zerfetzt. ;0
+Ich habe den Nagel mit dem Hammer geschlagen. ;effect;Der Nagel ist in das Holz eingedrungen. ;Der Nagel ist verrostet. ;0
+Der Fisch hat die Leine gebissen. ;effect;Der Fischer zog den Fisch rein. ;Der Fischer wirft die Leine neu. ;0
+Der Teenager schämte sich, zur Schule zu gehen. ;cause;Sie hat einen Pickel. ;Sie hat ihre Zahnspange abgenommen. ;0
+Mein Gesichtsausdruck erleuchtete. ;cause;Ich habe gute Nachrichten erhalten. ;Ich verlor meine Geduld. ;0
+Ich wischte mir die Hände mit einem Handtuch ab. ;cause;Das Handtuch war nass. ;Meine Hände waren nass. ;1
+Der Mann verlor sein Gleichgewicht auf dem Hocker. ;cause;Der Stuhl wackelte unter ihm. ;Er hat Farbe auf den Hocker verschüttet. ;0
+Die Teamkollegen machten sich gegenseitig die Schuld. ;cause;Sie haben ihr Spiel verloren. ;Ihr Trainer hat das Training abgesagt. ;0
+Ich bat um Vergebung. ;cause;Ich bereute meinen Fehler. ;Ich habe mein Ziel erreicht. ;0
+Die Frau langweilte sich an ihrem Date. ;cause;Er stellte ihr Fragen über sie selbst. ;Er sprach unaufhörlich über sich selbst. ;1
+Das Mädchen lächelte. ;effect;Ihre Wangen wurden rot. ;Ihre Grübchen waren sichtbar. ;1
+Das feindliche Schiff ist gesprengt. ;cause;Es ist über die Mine gefahren. ;Es segelte in den Hafen. ;0
+Der Mann hat sich den Fuß durchbohrt. ;cause;Er ist in eine Pfütze gelaufen. ;Er trat auf Glasstücke. ;1
+Die Detektive haben den Tatort nach Fingerabdrücken durchsucht. ;effect;Sie haben die Identität des Mörders entdeckt. ;Sie fanden die Waffe am Tatort. ;0
+Auf der Autobahn war viel Verkehr. ;effect;Ich habe einen Umweg genommen. ;Ich bat um eine Mitfahrgelegenheit. ;0
+Die Wirtschaft des Landes ging zurück. ;effect;Viele Menschen wurden krank. ;Viele Menschen waren arbeitslos. ;1
+Die Grenzübertrittenschützin hat die Kinder angepfiffen. ;cause;Sie wollten gerade in den Gegenverkehr laufen. ;Sie hat sie aus ihrer Nachbarschaft erkannt. ;0
+Ich drehte meine Augen über meinen Freund. ;cause;Er hat mir die Wahrheit gesagt. ;Er machte eine sarkastische Bemerkung. ;1
+Das Auto hatte keinen Sprit mehr. ;effect;Der Fahrer war auf der Straße gestrandet. ;Der Fahrer hat einen Anhalter abgeholt. ;0
+Die Frau ging in die Wehen. ;effect;Das Baby wurde geboren. ;Die Frau hatte Morgenübelkeit. ;0
+Der Hut des Mannes wurde weggeflogen. ;cause;Er hat den Hut abgenommen. ;Es war windig draußen. ;1
+Das Mädchen besuchte die Geburtstagsfeier ihrer Klassenkameradin. ;cause;Sie hat eine Einladung erhalten. ;Sie hat ein Geschenk gekauft. ;0
+Die Stirn des Jungen war heiß. ;effect;Seine Mutter hat seine Temperatur gemessen. ;Seine Mutter hat ihn in den Park gebracht. ;0
+Der Mann sprühte sich mit Köln. ;cause;Er wollte seinen Date beeindrucken. ;Er hat Gel in seine Haare getan. ;0
+Der Strom im Haus ist ausgegangen. ;effect;Ich suchte nach einer Taschenlampe. ;Ich habe eine Schaufel genommen. ;0
+Die Familie zog in ein größeres Haus. ;cause;Der Sohn hat die Highschool abgeschlossen. ;Die Mutter brachte Zwillinge zur Welt. ;1
+Der Marathonläufer hielt ein langsames Tempo. ;cause;Sie wollte ihre Energie sparen. ;Sie hat die Ziellinie gesehen. ;0
+Der Junge hat den Automaten getreten. ;cause;Die Maschine spuckte das Wechselgeld aus. ;Die Tüte Chips war stecken geblieben. ;1
+Der Hund meines Freundes ist gestorben. ;effect;Ich rollte die Augen. ;Ich habe ihn umarmt. ;1
+Die Kreditkarte des Geschäftsmannes wurde abgelehnt. ;effect;Er hat einen Schuldschein geschrieben. ;Er hat mit Bargeld bezahlt. ;1
+Der Mann verflucht. ;cause;Er hat sich die Nägel geschnitten. ;Er hat sich den Zeh gestoßen. ;1
+Der Mann war stolz auf seinen Bruder. ;cause;Sein Bruder hatte einen Streit mit ihren Eltern. ;Sein Bruder wurde auf die Jura-Schule aufgenommen. ;1
+Das Mädchen wollte etwas über das Sonnensystem erfahren. ;effect;Sie ist in die Bibliothek gegangen. ;Sie schaute in die Sterne. ;0
+Das Poster klebte an der Wand. ;cause;Ich habe das Poster über der Tür aufgestellt. ;Ich habe das Poster mit Klebeband befestigt. ;1
+Der Kunde genehmigte die Pläne des Architekten für das Gebäude. ;effect;Der Architekt baute das Gebäude. ;Der Architekt hat die Pläne angepasst. ;0
+Der Mann ließ seinen Löffel fallen. ;cause;Seine Hand zitterte. ;Er hat den Löffel geleckt. ;0
+Der Geschäftsführer des Unternehmens trat zurück. ;effect;Der Vorstand löste die Firma auf. ;Der Vorstand hat seinen Ersatz gefunden. ;1
+Ich kam zu spät zum Vortrag. ;effect;Ich nahm einen Platz in der hinteren Reihe. ;Ich näherte mich dem Podium. ;0
+Der Mann wurde aus dem Gefängnis entlassen. ;cause;Seine Familie hat seine Kaution bezahlt. ;Er hat einen Mitgefangenen angegriffen. ;0
+Die Familie verlor all ihre Habseligkeiten. ;cause;Sie haben ihr Haus verkauft. ;Ihr Haus ist in Flammen aufgegangen. ;1
+Ich habe auf die Aluminium-Dose getreten. ;effect;Die Dose wurde recycelt. ;Die Dose wurde zerquetscht. ;1
+Das Mädchen trat dem Debatte-Team bei. ;effect;Sie lernte, einen Computer zu benutzen. ;Sie lernte Kommunikationsfähigkeiten. ;1
+Meine Stimmung verbesserte sich. ;cause;Ich hörte Musik. ;Ich habe abgespeist. ;0
+Die Wohltätigkeitsorganisation setzte sich das Ziel, Geld zu sammeln. ;effect;Sie fütterten die Obdachlosen. ;Sie hielten eine Auktion ab. ;1
+Die Achterbahn stürzte den steilen Abfall hinunter. ;effect;Die Passagiere kicherten. ;Die Passagiere schrien. ;1
+Ich war wütend. ;effect;Ich habe den Briefkasten überprüft, als ich das Haus verließ. ;Ich schlug die Tür zu, als ich das Haus verließ. ;1
+Der Mann wollte den Sonnenaufgang sehen. ;effect;Er ist nach Norden gereist. ;Er ist früh aufgestanden. ;1
+Ich hab das Papier gefaltet. ;effect;Ich habe das Papier recycelt. ;Das Papier war gefaltet. ;1
+Die Nation ertrug eine Naturkatastrophe. ;effect;Die Führer anderer Länder schlossen eine Allianz. ;Führer anderer Länder schickten Nothilfe. ;1
+Die Kleidung des Jungen ist durchnässt. ;cause;Er ist aus dem Pool geklettert. ;Er ist ins Becken gefallen. ;1
+Der Student eilte, das Buch zu Ende zu lesen. ;cause;Es sollte in die Bibliothek zurückgegeben werden. ;Er hat es sich von einem Freund geliehen. ;0
+Der Verbrecher wurde hingerichtet. ;cause;Er wurde ins Gefängnis geworfen. ;Er wurde wegen Mordes verurteilt. ;1
+Sonnenlicht drang in den Raum. ;cause;Ich habe die Vorhänge aufgemacht. ;Ich hab die Tür aufgemacht. ;0
+Ich habe den Betrüger am Haar gerissen. ;effect;Ihre Perücke ist ab. ;Sie ist kahl geworden. ;0
+Der Herausgeber hat einen Satz im Manuskript umformuliert. ;cause;Er fand das Manuskript überzeugend. ;Er hielt den Satz für unklar. ;1
+Die Frau hat ihr Kreditkartenkonto gekündigt. ;cause;Sie bemerkte, dass die Karte fehlte. ;Sie hat bemerkt, dass die Karte abgelaufen ist. ;0
+Der Mann und die Frau verliebten sich. ;effect;Sie waren auf dem College. ;Sie haben geheiratet. ;1
+Die Musik war zu schwach, um sie zu hören. ;effect;Ich habe die Lautstärke erhöht. ;Ich habe mein eigenes Lied komponiert. ;0
+Das Haar des Jungen ragte hoch. ;cause;Das Mädchen hat es versaut. ;Das Mädchen hat es gezogen. ;0
+Der Käfer wurde zerquetscht. ;cause;Ich habe mich mit Insektenschutzmittel besprüht. ;Ich bin auf den Käfer getreten. ;1
+Ich öffnete meine Augen. ;cause;Ich bin aufgewacht. ;Ich entspannte mich. ;0
+Die Musik meines Nachbarn war laut. ;effect;Ich bat ihn, es leiser zu machen. ;Ich bat ihn, mir die CD zu leihen. ;0
+Die Familie des Mannes lebte in Armut. ;cause;Er war sparsam mit seinem Einkommen. ;Er verdiente unter dem Mindestlohn. ;1
+Der Student hat seinen Abschluss an der Universität gemacht. ;effect;Er suchte sich einen Job. ;Er hat ein Hobby. ;0
+Der Künstler mischte gelbe Farbe mit blauer Farbe. ;effect;Die Farbe ist überall verteilt. ;Die Farbe wurde grün. ;1
+Ich habe das Gesprächsthema geändert. ;cause;Mir sind die Gesprächsthemen ausgegangen. ;Das Gespräch wurde angespannt. ;1
+Mein Bruder wurde aus dem Krankenhaus entlassen. ;effect;Ich habe ihn wieder zu Hause begrüßt. ;Ich habe ihn kaltgelassen. ;0
+Der Vorhang auf der Bühne ging auf. ;effect;Die Eröffnungsszene des Stücks begann. ;Die Schauspieler des Stücks verließen die Bühne. ;0
+Die Geisel unterwarf sich den Befehlen des Entführers. ;cause;Der Entführer drohte, die Geisel zu verletzen. ;Der Entführer hat die Geisel allein gelassen. ;0
+Ein Boom hallte über die Bühne. ;cause;Der Musiker klopfte mit dem Fuß. ;Der Musiker schlug auf die Trommel. ;1
+Die Eltern eilten ins Schlafzimmer ihres Kindes. ;cause;Das Kind erwachte schreiend aus einem Alptraum. ;Das Kind hatte Angst, unter ihr Bett zu schauen. ;0
+Die Frau kommunizierte in Gebärdensprache. ;cause;Sie wurde vorzeitig geboren. ;Sie ist taub geboren. ;1
+In der Region kam es zu einer Dürre. ;effect;Das Wasser wurde kontaminiert. ;Die Ernte ging verloren. ;1
+Die Katze jagte den Vogel. ;effect;Der Vogel ist weggeflogen. ;Der Vogel hat einen Wurm gefangen. ;0
+Das Mädchen wechselte die Schule. ;cause;Die Schule hat für den Sommer frei. ;Sie zog in eine neue Stadt. ;1
+Der Fabrikbesitzer weigerte sich, die Löhne der Angestellten zu erhöhen. ;effect;Der Besitzer hat einen neuen Manager ernannt. ;Die Angestellten streikten. ;1
+Der Führer hat die Extremisten in seinem Land angegriffen. ;effect;Die Extremisten haben ihn beeinflusst. ;Die Extremisten ermordeten ihn. ;1
+Ich ging barfuß am Strand. ;effect;Sand, der mir an den Füßen klebte. ;Die Wellen stürzten entlang des Uferes. ;0
+Ich bin mitten in der Nacht aufgewacht und hatte es kalt. ;effect;Ich habe eine Jogginghose an. ;Ich trank ein Glas Wasser. ;0
+Die Mutter schwieg ihren Sohn. ;cause;Ihr Sohn grinste. ;Ihr Sohn jammerte. ;1
+Ein Loch in meiner Jeans. ;cause;Ich habe die Jeans angezapft. ;Ich bin auf dem Bürgersteig gestolpert. ;1
+Der Junge trug eine Zahnspange. ;effect;Er hat einen Hohlraum. ;Seine Zähne wurden gerade. ;1
+Ich habe gestern im Fitnessstudio trainiert. ;effect;Ich bin heute mit Muskelkater aufgewacht. ;Ich bin heute mit Halsschmerzen aufgewacht. ;0
+Das Mädchen flüsterte hin und her zu einander am Esstisch. ;effect;Andere Studenten setzten sich an den Mittagstisch. ;Andere Schüler fühlten sich am Mittagstisch ausgeschlossen. ;1
+Das Kind landete auf dem Trampolin. ;effect;Sie sprang wieder in die Luft. ;Sie hat beschlossen, einen Flip zu machen. ;0
+Ich habe den Brief im Briefkasten hinterlegt. ;effect;Die Post hat den Brief geliefert. ;Die Post hat den Brief beschleunigt. ;0
+Der Spieler war zuversichtlich. ;effect;Er hat sein ganzes Geld gesetzt. ;Er ging pleite nach Hause. ;0
+Das Waldbrand breitete sich aus. ;cause;Die Winde wurden stärker. ;Die Brandstifter wurden festgenommen. ;0
+Das Kind hat sich das Knie geschält. ;effect;Seine Mutter schickte ihn in sein Zimmer. ;Seine Mutter hat die Wunde verbunden. ;1
+Der Mann überlebte die tödliche Krankheit. ;cause;Er hat sein Testament unterschrieben. ;Er hat eine Organtransplantation erhalten. ;1
+Ich nahm einen Schluck vom glühend heißen Kaffee. ;effect;Ich habe mich in die Zunge gebissen. ;Ich habe mir die Zunge verbrannt. ;1
+Der Herausgeber hat den Autor gefeuert. ;cause;Die Autorin vermied in ihren Geschichten Vorurteile. ;Der Autor hat eine wichtige Frist verpasst. ;1
+Ich fühlte mich erschöpft. ;cause;Ich habe den ganzen Tag geschlafen. ;Ich habe den ganzen Tag studiert. ;1
+Der Arzt stellte die Diagnose. ;cause;Sie identifizierte die Symptome des Patienten. ;Sie verschrieb dem Patienten Pillen. ;0
+Ich habe mich gekratzt. ;cause;Es war schweißtreibend. ;Es juckte. ;1
+Der Mann wurde dringend operiert. ;cause;Er verlor die Beherrschung. ;Er hatte einen Herzinfarkt. ;1
+Die Armmuskeln des Mannes sind ausgebuht. ;cause;Er beugte seine Arme. ;Er reibt sich die Arme. ;0
+Der Mann hob seine Augenbrauen. ;cause;Er war überrascht. ;Er war entmutigt. ;0
+Ich entschuldigte den Fehler meines Kollegen. ;cause;Ich glaubte, dass seine Absichten gut waren. ;Ich glaubte, er wüsste es besser. ;0
+Der Mann hat mit dem Rauchen aufgehört. ;effect;Er begann mehr Sport zu treiben. ;Er begann früher aufzuwachen. ;0
+Die Frau schlug ihrem Angreifer in die Nase. ;effect;Der Körper des Angreifers wurde leblos. ;Der Angreifer begann zu bluten. ;1
+Der Pfeil verfehlte das Ziel. ;cause;Der Mann hatte ein falsches Ziel. ;Der Mann hat das Spiel verloren. ;0
+Der Hausbesitzer bat um einen Exterminator, zu ihm zu kommen. ;cause;Er entdeckte Ratten im Keller. ;Er hatte eine Ameisenfarm in seinem Zimmer. ;0
+Ich schlug meinem Gast vor, dass wir ausgehen. ;cause;Ich war zu müde, um irgendetwas vorzubereiten. ;Mein Gast ist zu lange geblieben. ;0
+Das Mädchen erwischte ihren Bruder dabei, wie er ihr Tagebuch las. ;effect;Sie begann, das Tagebuch zu verstecken. ;Sie hat ein neues Tagebuch. ;0
+Die Frau hatte nicht viel Geld für die Miete. ;effect;Sie hat Überstunden gemacht. ;Sie hat ihren Job gekündigt. ;0
+Die Hand des Kindes zog sich schnell zurück. ;cause;Er hat den heißen Ofen berührt. ;Er klopfte dem Welpen auf den Kopf. ;0
+Das Unternehmen wollte die Kundenzufriedenheit messen. ;effect;Sie boten neuen Kunden einen Rabatt an. ;Sie verteilten eine Umfrage an die Kunden. ;1
+Der Holzboden wurde zerkratzt. ;cause;Der Junge warf die Kissen von der Couch. ;Der Junge schleppte einen Stuhl über den Boden. ;1
+Ich habe mein Gesicht geschützt. ;cause;Mein Feind verspottete mich. ;Mein Feind hat eine Faust aufgestanden. ;1
+Die berühmte Statue brannte nieder. ;cause;Es wurde vom Blitz getroffen. ;Die Leute kamen, um ihn zu verehren. ;0
+Ich habe das Obst auf dem Tisch liegen lassen. ;effect;Die Früchte vergießen Samen. ;Fliegen schwärmten von der Frucht. ;1
+Die Ballerina hat sich ein Band gerissen. ;cause;Sie zeigte mit den Zehen. ;Sie hat sich den Knöchel verdreht. ;1
+Die Schnürsenkel des Kindes wurden gelöst. ;cause;Er hat gelernt, sie zu binden. ;Er rannte auf dem Spielplatz herum. ;1
+Ich wurde von dem Buch fasziniert. ;effect;Ich habe das Buch zurückgegeben. ;Ich habe die Zeit vergessen. ;1
+Der Mann hatte ähnliche Glaubensansichten wie seine Eltern. ;cause;Seine Eltern haben ihn beeinflusst. ;Seine Eltern haben ihn verleugnet. ;0
+Das Auto verlangsamte allmählich bis zum Anhalten. ;cause;Es ist kein Benzin mehr drin. ;Der Fahrer ist eingeschlafen. ;0
+Der Mann aß das Eis in der Sonne. ;effect;Das Eis hat seinen Geschmack verloren. ;Das Eis tropfte aus dem Kegel. ;1
+Ich habe Kunstwerke im Zimmer aufgehängt. ;cause;Der Teppich sah schmutzig aus. ;Die Wände sahen nackt aus. ;1
+Ich bin früh von der Arbeit gegangen. ;cause;Ich hatte Kopfschmerzen. ;Mein Chef hat ein Meeting abgehalten. ;0
+Der Welpe hat den Teppich verschmutzt. ;effect;Der Besitzer schimpfte den Welpen. ;Der Besitzer schenkte dem Welpen eine Leckerei. ;0
+Ich entschuldigte mich bei meinem Freund. ;effect;Mein Freund hat mir vergeben. ;Mein Freund wurde wütend. ;0
+Der Mann stieg in der Menge hervor. ;cause;Er trug einen Rucksack. ;Er trug eine Neonweste. ;1
+Der Zeuge hat unter Eid gelogen. ;effect;Er hat seine Aussage abgeschlossen. ;Er wurde wegen Meineides angeklagt. ;1
+Die Frau färbte sich die Haare. ;cause;Sie wollte einen neuen Look. ;Sie wollte sich einfügen. ;0
+Die Einwanderer wurden dabei erwischt, dass sie sich illegal im Land aufhielten. ;effect;Sie fanden Arbeit. ;Sie wurden abgeschoben. ;1
+Der Redner machte einen Witz. ;effect;Das Publikum lachte. ;Das Publikum stand auf. ;0
+Ich schaute in die Sonne. ;effect;Die Sonne hat mich geblendet. ;Die Sonne hat meine Haut gebräunt. ;0
+Ich langweilte mich. ;effect;Ich schnaubte. ;Ich gähnte. ;1
+Das Steak war schwer zu schneiden. ;cause;Das Messer war stumpf. ;Das Steak war roh. ;0
+Die Frau erklärte sich bankrott. ;cause;Sie erhielt Unterhaltszahlungen. ;Sie hatte eine riesige Schuld. ;1
+Das Licht in der Wohnung meines Freundes war an. ;effect;Ich fragte mich, ob er draußen ist. ;Ich beschloss, ihn zu besuchen. ;1
+Ich habe mir die Blume unter die Nase gelegt. ;effect;Die Blütenblätter sind von der Blume gefallen. ;Ich habe den Duft der Blume aufgenommen. ;1
+Die Frau fühlte sich nostalgisch. ;cause;Sie traf einen Freund aus der Kindheit. ;Sie schrie auf ihre Kinder. ;0
+Der Student hat die Arbeit aufgeschoben. ;effect;Er hat die Arbeit frühzeitig eingereicht. ;Er hat das Papier unvollständig eingereicht. ;1
+Mein Auto ist kaputt. ;effect;Ich war im Einkaufszentrum. ;Ich habe einen Mechaniker angerufen. ;1
+Ich habe den Brief weggeworfen. ;cause;Es war anonym. ;Es war unleserlich. ;1
+Der Vogel schlug mit den Flügeln. ;effect;Sie hat Eier gelegt. ;Es stieg nach oben. ;1
+Ich habe auf der Auffahrt geparkt. ;cause;Die Garage war offen. ;Die Garage war voll. ;1
+Der Verbrecher richtete die Waffe auf sein Opfer. ;effect;Der Kriminelle hat die Waffe niedergelegt. ;Das Opfer hat die Hände hochgelegt. ;1
+Ich freute mich auf das Wochenende. ;cause;Ich hatte vor, an der Beerdigung meines Onkels teilzunehmen. ;Ich hatte vor, an der Hochzeit meiner Freundin teilzunehmen. ;1
+Ich habe die Zeit vergessen. ;cause;Ich habe geträumt. ;Mir wurde übel. ;0
+Das Dokument wurde unleserlich ausgedruckt. ;cause;Der Drucker hatte keine Tinte mehr. ;Der Druck war ohne Papier. ;0
+Das Stadion spielte die Nationalhymne. ;effect;Die Fans drehten sich zur Flagge. ;Die Fans stürmten auf das Feld. ;0
+Das Dip schmeckte schwach. ;effect;Ich habe es serviert. ;Ich habe Salz hineingetan. ;1
+Ich habe das Papierhandtuch auf den Spalt gelegt. ;effect;Das Handtuch hat die Flüssigkeit aufgenommen. ;Das Verschüttet hat einen klebrigen Rückstand hinterlassen. ;0
+Die Frau wurde mitten im Lesen ihres Buches unterbrochen. ;effect;Sie hat ihre Seite als Lesezeichen gesetzt. ;Sie las das Buch noch einmal. ;0
+Das Flugzeug traf Turbulenzen. ;effect;Der Mann zog seinen Sicherheitsgurt fest. ;Der Mann schaute aus dem Fenster. ;0
+Der Junge zappelte. ;cause;Das Mädchen ignorierte ihn. ;Das Mädchen hat ihn gestochen. ;1
+Die Ärzte gaben dem Patienten ein künstliches Glied. ;cause;Sie haben ihr Bein amputiert. ;Sie haben ihre Vitalwerte überwacht. ;0
+Der Junge kneifte den Ellenbogen des Mädchens. ;effect;Sie zuckte ihm mit den Schultern. ;Sie zog ihren Arm von ihm weg. ;1
+Ich bat meinen Freund um Rat. ;cause;Ich schätzte seine Meinung. ;Ich wusste, dass ich recht hatte. ;0
+Der Junge trat in den Schlamm. ;effect;Der Schlamm klebte an seinen Schuhen. ;Der Schlamm traf ihn ins Gesicht. ;0
+Die Stadt erhielt mehrere Zentimeter Schnee. ;effect;Schulen wurden geschlossen. ;Die Leute versteckten sich unter der Erde. ;0
+Die Schicht des Angestellten ist beendet. ;effect;Er ist heute nach Hause gegangen. ;Er drohte, den Job aufzugeben. ;0
+Der Baum hat das Haus beschädigt. ;cause;Der Baum fiel auf das Dach. ;Der Baum schattete den Hinterhof. ;0
+Das Holz spaltete sich in zwei. ;cause;Ich habe das Holz im Kamin gestapelt. ;Ich schwang die Axt auf das Holz. ;1
+Die Familie gratulierte dem Ehepaar. ;cause;Das Paar gab bekannt, dass sie sich trennen würden. ;Das Paar kündigte an, dass sie ein Baby bekommen würden. ;1
+Das Mädchen schickte dem Jungen eine Valentinskarte. ;cause;Sie mochte ihn. ;Sie hat ihn geküsst. ;0
+Ich nickte mit dem Kopf, als mein Freund das sagte. ;cause;Ich war verwirrt. ;Ich stimmte ihm zu. ;1
+Die Freunde warfen eine Münze. ;cause;Sie wollten einen Kompromiss finden. ;Sie wollten eine faire Entscheidung treffen. ;1
+Der Timer in der Küche ging los. ;effect;Der Mann entladete die Lebensmittel in den Kühlschrank. ;Der Mann nahm die Pizza aus dem Ofen. ;1
+Die Frau setzte sich ein ehrgeiziges Ziel. ;effect;Sie hat sich gelockert. ;Sie hat hart gearbeitet. ;1
+Der reiche Mann starb an Altersschwäche. ;effect;Sein Sohn hatte rechtliche Probleme. ;Sein Sohn erbte sein Vermögen. ;1
+Die Frau trat auf die Flammen. ;effect;Die Flammen sind ausgegangen. ;Rauch erhob sich aus den Flammen. ;0
+Das Auto der Frau war in der Werkstatt. ;cause;Ihr Führerschein wurde entzogen. ;Sie hatte einen Autounfall. ;1
+Ich habe den Wecker durchgeschlafen. ;effect;Ich habe Frühstück gemacht. ;Ich habe das Frühstück verpasst. ;1
+Die Persönlichkeit stieg aus der Limousine. ;effect;Die Kameras bliesen in seine Richtung. ;Seine Familie nahm an der Pressekonferenz teil. ;0
+Die Frau verweilte in der Badewanne. ;effect;Das Badewasser wurde lauwarm. ;Das Badewasser ist aus der Badewanne abgelassen. ;0
+Der Student wollte andere Studenten auf dem Campus treffen. ;effect;Er ist einer Bruderschaft beigetreten. ;Er hat Ingenieurwissenschaften studiert. ;0
+Ich habe die Sofakissen hochgezogen. ;cause;Ich suchte nach Kleingeld. ;Ich habe das Wohnzimmer neu eingerichtet. ;0
+Die Wespe flog auf den Jungen zu. ;effect;Der Junge ist weggelaufen. ;Der Junge pflückte eine Blume. ;0
+Die Frau wurde für schuldig befunden. ;effect;Sie wurde zu Gemeinwohldienst verurteilt. ;Sie wurde in den Todestrakt gesteckt. ;0
+Ich habe den Zucker in den heißen Tee gerührt. ;effect;Der Tee ist gedämpft. ;Der Zucker ist gelöst. ;1
+Der Veteran hinkte. ;cause;Er wurde zum Krieg eingezogen. ;Er wurde im Kampf verletzt. ;1
+Der Verbrecher lief vor der Polizei weg. ;effect;Die Polizei kümmerte sich um das Opfer. ;Die Polizei verfolgte den Verbrecher. ;1
+Der Laptop wollte nicht an. ;cause;Ich habe es fallen lassen. ;Ich habe es aufgeladen. ;0
+Der Frau ging der Platz im Schrank aus. ;cause;Sie hat sich eine umfangreiche Garderobe erworben. ;Sie hat ihre Wäsche gefaltet. ;0
+Der Mann war tief verzweifelt. ;cause;Seine Frau hat gebären. ;Seine Frau hat ihn verlassen. ;1
+Der Mann erhielt einen Abschluss. ;effect;Er wurde für die Arbeit qualifiziert, die er wollte. ;Sein Jobangebot wurde zurückgezogen. ;0
+Seine Stimme war klar im ganzen Saal zu hören. ;cause;Er begrüßte das Publikum. ;Er sprach ins Mikrofon. ;1
+Ich warf eine Münze in den Wasserbrunnen. ;effect;Die Münze sank bis auf den Grund. ;Die Münze zerbrach in zwei Hälften. ;0
+Der Spieler schlug den Ball in Richtung Loch. ;effect;Der Ball ging ins Loch. ;Der Ball zog sich zurück zum Spieler. ;0
+Ich atmete den Staub auf dem Dachboden ein. ;effect;Ich hatte einen Schluckauf. ;Ich habe genestet. ;1
+Die Kassiererin rief die Sicherheit. ;cause;Der Kunde benutzte gefälschtes Geld. ;Der Kunde hat seine Scheinwerfer anlassen. ;0
+Ich habe den Müll rausgebracht. ;cause;Der Müll hat die Küche stinken lassen. ;Ich habe versehentlich meine Einkaufsliste weggeworfen. ;0
+Die Familie ging in den Zoo. ;effect;Die Kinder bewunderten die Tiere. ;Die Kinder jagten die Tiere. ;0
+Der Atem des Mannes war laut. ;cause;Seine Nieren versagten. ;Seine Lungen waren verstopft. ;1
+Ich hatte eine extra Karte für das Konzert. ;effect;Ich fragte meinen Freund nach dem Ort. ;Ich fragte meinen Freund, ob er daran interessiert wäre, zu gehen. ;1
+Die Klimaanlage im Haus ist kaputt. ;effect;Ich habe Decken mitgebracht. ;Ich habe die Fenster geöffnet. ;1
+Der Junge hat Rückenschmerzen. ;cause;Sein Rucksack war offen. ;Sein Rucksack war schwer. ;1
+Ich habe meiner Mutter ein Geschenk gekauft. ;cause;Ich habe ihr einen Kuchen gebacken. ;Es war ihr Geburtstag. ;1
+Die Narzissen im Garten wurden zerstört. ;cause;Eine Biene sticht den Gärtner. ;Eichhörnchen haben die Zwiebeln ausgegraben. ;1
+Ich habe das Streichholz geschlagen. ;effect;Die Flamme ist erloschen. ;Das Streichholz erzeugte eine Flamme. ;1
+Die Streitparteien haben eine Einigung erzielt. ;cause;Sie wollten nicht vor Gericht diskutieren. ;Sie wollten ihre persönliche Beziehung wiederherstellen. ;0
+Die Kinder wurden in ein Waisenhaus geschickt. ;cause;Ihre Eltern sind tot. ;Ihre Eltern haben sie verwöhnt. ;0
+Ein Meteorit landete im Ozean. ;effect;Es kam zu einem Tsunami. ;Es begann zu hageln. ;0
+Der Wanderer stieß auf eine giftige Schlange. ;effect;Sie wurde dehydriert. ;Sie geriet in Panik. ;1
+Der Ofen wurde heiß. ;cause;Ich habe den Ofen angeschaltet. ;Ich habe das Gericht in den Ofen gelegt. ;0
+Ich habe den Zitronenkeil gequetscht. ;effect;Die Zitrone ist schimmelhaft geworden. ;Die Zitronen spritzte. ;1
+Das Land entdeckte neue Länder. ;effect;Das Land hat das Land verlassen. ;Das Land kolonisierte das Land. ;1
+Das Glas fiel vom Tisch. ;effect;Es zerbrach überall auf dem Boden. ;Es landete in einem Stapel Wäsche. ;0
+Der Tisch wackelte. ;cause;Der Boden war uneben. ;Der Boden war rutschig. ;0
+Der Vater erwischte seinen Sohn beim Lügen. ;effect;Sein Sohn hat die Wahrheit gestanden. ;Der Vater vertraute seinem Sohn. ;0
+Der Kopf des Mannes schlug vor Schmerz. ;effect;Er hat Hustensaft genommen. ;Er hat Aspirin genommen. ;1
+Der Zug verlangsamte. ;cause;Es näherte sich der Station. ;Es war hinter dem Zeitplan. ;0
+Der Mann hat eine Therapie gemacht. ;cause;Psychische Erkrankungen waren in seiner Familie vererbt. ;Bei ihm wurde eine Depression diagnostiziert. ;1
+Die Frau packte sich an die Kehle. ;cause;Sie hat ihr Essen geschluckt. ;Sie hat sich mit dem Essen erstickt. ;1
+Die Frau hatte Halsschmerzen. ;effect;Ihre Stimme klang rau. ;Sie sprach mit Akzent. ;0
+Der Hund blickte auf das saftige Steak auf dem Tisch. ;effect;Es sabelte. ;Es lag hin. ;0
+Das Geschäft der Frau war erfolgreich. ;effect;Sie hat ihre Angestellten gefeuert. ;Sie wurde reich. ;1
+Die Schüler verließen das Klassenzimmer. ;cause;Die Glocke läutete. ;Der Lehrer gab ihm Hausaufgaben. ;0
+Die Frau behauptete, sie habe einen Geist gesehen. ;effect;Ihre Bekannten äußerten ihre Skepsis. ;Ihre Bekannten waren mit ihr verwandt. ;0
+Der Mann verlor sein Gehör. ;cause;Er wäre fast im Ozean ertrunken. ;Er wurde beinahe bei einer Explosion getötet. ;1
+Das Kind ließ die Ballonschnur los. ;effect;Der Ballon ist leer. ;Der Ballon stieg in die Luft. ;1
+Der Mann verlor seine Fähigkeit zu sprechen. ;cause;Er hatte einen Schlaganfall. ;Er atmete tief ein. ;0
+Die Frau stolperte auf dem Gehweg. ;cause;Es gab einen Riss im Zement. ;Sie hörte ihren Namen gerufen werden. ;0
+Der Mann hat einen Kanonenball in den Pool geschlagen. ;effect;Der Rettungsschwimmer sprang ihm nach. ;Der Mann hat den Rettungsschwimmer durchnässt. ;1
+Ich habe Antibiotika genommen. ;effect;Meine Infektion ist wieder gesund. ;Meine Infektion hat sich ausgebreitet. ;0
+Die Ampel wurde gelb. ;effect;Der Fahrer drückte auf die Bremse. ;Der Fahrer hupte. ;0
+Der Plastikbehälter schmolz. ;cause;Ich habe den Behälter in warmes Wasser getaucht. ;Ich habe den Behälter auf den heißen Ofen gelegt. ;1
+Das Auto ist geprallt. ;cause;Der Fahrer ist gegen einen Telefonmast gefahren. ;Der Fahrer fuhr bei Rot. ;0
+Der Junge studierte die ganze Nacht. ;effect;Er hat die Prüfung übersprungen. ;Er hat die Prüfung bestanden. ;1
+Der junge Junge klammerte sich an den Rand des Teiches. ;cause;Er hatte Angst, schwimmen zu lernen. ;Der Rettungsschwimmer war im Dienst. ;0
+Ich legte meine Hand auf meine Brust. ;effect;Ich spürte meinen Herzschlag. ;Mein Herz schlug schneller. ;0
+Das Gebäude neben meinem Büro war im Bau. ;effect;Mein Büro war überfüllt. ;Mein Büro war laut. ;1
+Die Familie wollte ihre neuen Nachbarn kennenlernen. ;effect;Die Familie lud die Nachbarn zum Essen ein. ;Die Familie winkte den Nachbarn von ihrem Hof aus zu. ;0
+Wasser spritzte aus dem Pool. ;cause;Der Schwimmer tauchte in den Pool. ;Der Schwimmer schwebte im Pool. ;0
+Ich habe in ein Stück Wassermelone gebissen. ;effect;Ich habe versehentlich einen Samen geschluckt. ;Ich habe mir versehentlich einen Zahn abgebrochen. ;0
+Der Junge ist gestolpert. ;cause;Seine Jacke war aufgerissen. ;Seine Schnürsenkel waren los. ;1
+Die Frau hat Ohrstöpsel angelegt. ;cause;Sie wurde von Lärm abgelenkt. ;Sie hat sich die Ohren durchbohrt. ;0
+Ich habe meine Wasserflasche wieder aufgefüllt. ;cause;Ich habe das ganze Wasser darin getrunken. ;Ich habe es im Kühlschrank aufbewahrt. ;0
+Die Fernsehsendung wurde zensiert. ;cause;Es enthielt vulgäre Sprache. ;Es hatte eine komplizierte Handlung. ;0
+Das Schiff ist gestürzt. ;effect;Die Besatzung ertrank. ;Die Besatzung traf Piraten. ;0
+Der Junge war vom Rätsel verwirrt. ;effect;Er hat das Rätsel gelöst. ;Er wollte einen Hinweis. ;1
+Das Telefon klingelte. ;effect;Der Mann legte auf. ;Der Mann nahm das Telefon. ;1
+Die Frau starrte mich an. ;effect;Ich habe sie umarmt. ;Ich fühlte mich unwohl. ;1
+Die Gruppe verließ das Museum. ;cause;Sie haben die Exponate fotografiert. ;Sie haben sich alle Exponate angesehen. ;1
+Der Mann fing mit mir an zu streiten. ;effect;Mein Freund stellte mich dem Mann vor. ;Mein Freund hat sich für mich eingesetzt. ;1
+Der Reifen meines Fahrrads war platten. ;effect;Ich habe Luft in den Reifen gepumpt. ;Ich habe den Gang gewechselt. ;0
+Das Mädchen sah blass aus. ;effect;Ihr Vater hat ihr eine Geschichte vorgelesen. ;Ihr Vater hat ihre Stirn angefasst. ;1
+Der Stift ist ohne Tinte. ;effect;Ich habe einen Bleistift benutzt. ;Ich habe unterschrieben. ;0
+Der Mann wurde für ein Darlehen verweigert. ;cause;Er hatte Schulden. ;Er hat ein Geschäft gegründet. ;0
+Das Mädchen blieb von der Schule weg. ;cause;Sie hatte Windpocken. ;Sie liebte es, Mathematik zu lernen. ;0
+Der Müllsack war voll. ;effect;Ich habe es in den Müllcontainer gebracht. ;Ich habe es in die Spüle geworfen. ;0
+Ich habe den Teppich gesäubert. ;cause;Mein Mitbewohner hat Punsch verschüttet. ;Mein Hund verliert Haare. ;1
+Der Mann verlor die Beherrschung. ;effect;Er hat seinen Computer ausgeschaltet. ;Er warf einen Stuhl über den Raum. ;1
+Das Mädchen warf einen Zweig ins Lagerfeuer. ;effect;Der Zweig brannte. ;Das Feuer ging aus. ;0
+Der Mann ist aus der Dusche gekommen. ;cause;Das heiße Wasser war weg. ;Er konnte kein Handtuch finden. ;0
+Die Eltern wollten, dass ihre Kinder aufs College gehen. ;effect;Sie haben für die Studiengebühren ein Sparfonds aufgestellt. ;Sie ermutigten ihre Kinder, draußen zu spielen. ;0
+Der Mann löste seine Schnürsenkel. ;effect;Die Schuhe sind gelöst. ;Die Schuhe wurden abgenutzt. ;0
+Der Mann aß die Hälfte des Hauptgerichtes. ;effect;Er hat die Reste gekühlt. ;Er hat das Rezept aufbewahrt. ;0
+Mein Knöchel war geschwollen. ;effect;Ich habe Eis drauf. ;Ich habe Lotion draufgerieben. ;0
+Meine Bürotür war offen. ;effect;Ich habe mit meinem Kollegen am Schreibtisch gesprochen. ;Ich habe das Gespräch im Flur gehört. ;1
+Ich musste anstehen. ;effect;Ich setzte mich. ;Ich habe ein Magazin durchgesehen. ;1
+Der Mann schlug auf die Fliege. ;effect;Die Fliege bummte weg. ;Die Fliege blieb stehen. ;0
+Der Mann hat ein Testament geschrieben. ;cause;Er war im Sterben. ;Er war Witwer. ;0
+Der Läufer spürte, daß sein Konkurrent ihn überholte. ;effect;Er hat sich aus dem Rennen zurückgezogen. ;Er beschleunigte sein Tempo. ;1
+Ich habe das Problem sorgfältig überlegt. ;effect;Ich bat um Rat. ;Ich habe eine Lösung gefunden. ;1
+Der Reisende ging auf der wackeligen Hängebrücke. ;effect;Er fühlte sich erschrocken. ;Er fühlte sich in Ekstase. ;0
+Der Mann sah den Sieg des Teams voraus. ;effect;Er traf seine Freunde, um das Spiel zu sehen. ;Er hat mit seinen Freunden gewettet. ;1
+Der Junge konnte nicht einschlafen. ;effect;Er hat seinen Wecker eingestellt. ;Er zählte Schafe. ;1

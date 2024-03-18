@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Varet var förpackat i bubbelfolie. ;cause;Den var skör. ;Den var liten. ;0
+Jag tömde fickorna. ;effect;Jag hittade en biljett. ;Jag hittade ett vapen. ;0
+Termiter invaderade huset. ;effect;Termiterna försvann från huset. ;Termiterna åt genom träet i huset. ;1
+Resenärerna nådde gränsen. ;effect;Patruljen kontrollerade deras pass. ;Patrullagenten anklagade dem för smuggling. ;0
+Kontoret var stängt. ;cause;Det var en helgdag. ;Det var sommar. ;0
+Flickan var slut på energi. ;cause;Hon spelade dam. ;Hon hoppade rep. ;1
+Kvinnan förlorade sin plats i kön. ;cause;Fler människor kom in i kön. ;Hon gick ut ur kön. ;1
+Flickan klämde i näsan. ;cause;- Barnet salivade på hennes bäb. ;Bebisen smutsade hennes blöja. ;1
+Bandet spelade sin hitlåt. ;effect;Publiken klappade tillsammans med musiken. ;Publiken lyssnade artigt i tystnad. ;0
+Flickan ville tacka sin matte lärare. ;effect;Flickan stannade efter skolan för kvarhållning. ;Flickan tog med ett äpple till läraren. ;1
+De unga campare kände sig rädda. ;cause;Deras lägerledare berättade en spökhistoria. ;De rostade marshmallows på lägerelden. ;0
+Han slog i huvudet. ;effect;Han gick vilse i tankar. ;Han fick en hjärnskakning. ;1
+Checken jag skrev var inte betald. ;cause;Mitt bankkonto var tomt. ;Jag förtjänade en löneförhöjning. ;0
+Mannens e-postlåda var full av skräppost. ;effect;Han raderade spam. ;Han skickade ut massemails. ;0
+- Han satt i karantän. ;cause;Han exponerades för sjukdomen. ;Han återhämtade sig från sjukdomen. ;0
+Flickan memorerade koden. ;cause;Hon reciterade den för sig själv. ;Hon glömde skriva ner det. ;0
+Jag hällde vattnet i glaset. ;effect;Vattnet släckte min törst. ;Glaset blev fullt. ;1
+Mannen förblev tyst när hans vän hade talat färdigt. ;cause;Han ville erbjuda sin vän stöd. ;Han tänkte på sin väns ord. ;1
+Olyckan var mitt fel. ;effect;Jag kände mig skyldig. ;Jag har åtalade. ;0
+Kedjan gick sönder. ;cause;Kedjan var insvept runt ett däck. ;Det var en bruten länk i kedjan. ;1
+Paret beslöt sig för att kompromissa. ;cause;De tröttnade på att gräla. ;De undvek att diskutera problemet. ;0
+Kvinnan bestämde sig för att ställa upp för ett offentligt ämbete. ;effect;Hon anlitade en kampanjchef. ;Hon vittnade i rätten. ;0
+Mannen förutspådde kallt väder på sin resa. ;effect;Han packade varma kläder i resväskan. ;Han reste med en stor resväska. ;0
+Studenten visste svaret på frågan. ;effect;Han räckte upp handen. ;Han gjorde ett dumt fall. ;0
+Mannens ögon flöt. ;cause;Stycket kom in i ögonen. ;Han satte skyddsglasögon över ögonen. ;0
+Spelaren vann fem matcher i rad. ;effect;Hennes motståndare anklagade henne för fusk. ;Hennes motståndare tyckte synd om henne. ;0
+Läraren rev upp elevens examen. ;cause;Han fångade studenten som fuskade. ;Studentens svar var felaktiga. ;0
+Jag stannade för att sluta prata. ;cause;Jag förlorade min röst. ;Jag fick ont om andetag. ;1
+Den frysta maten tinade. ;cause;Jag la den i mikrovågsugnen. ;Jag täckte den med plastfolie. ;0
+Anställd låtsades sjuk. ;cause;Han hade magvärk. ;Han ville ha ledigt. ;1
+Flickan landade i poolen. ;cause;Hon sprang på pooldäcket. ;Hon hoppade från springbrädan. ;1
+Biljetterna är slut. ;cause;Det var premiär för filmen. ;Filmen fick dåliga recensioner. ;0
+Mannen har gått ner i vikt. ;effect;Folk isolerade honom. ;Folk gjorde komplimanger. ;1
+Flickans händer blev blåsade. ;cause;Hon skrev ett brev. ;Hon klättrade upp på ett rep. ;1
+Cirkusartisten jonglerade medan han åkte på en encykel. ;effect;Publiken jublade förvånad. ;Akrobaten svängde från en trapez. ;0
+Jag tappade tålamodet. ;cause;Min vän fick mig att vänta. ;Min vän kom i tid. ;0
+De krigförande länderna ville ha fred. ;effect;De utvecklade kärnvapen. ;De förhandlade fram ett fördrag. ;1
+Mannen tog sömnmedel. ;effect;Han blev sömnig. ;Han hade feber. ;0
+Kvinnan stötte in i soffan. ;effect;Soffans ben lossnade. ;Hon har blåmärken i knät. ;1
+Pojken klämde i ballongen. ;effect;Ballongen knäckte. ;Ballongen flög iväg. ;0
+De checkade in på sitt hotellrum. ;effect;De packade ut sina resväskor. ;De åkte till flygplatsen. ;0
+Jag bet i persikan. ;effect;Persikan är blå. ;- Det spilldes juice. ;1
+Mina händer blev klibbiga. ;cause;Jag åt en munk. ;Jag hade en söt tand. ;0
+Jag tryckte på dörren. ;effect;Dörren öppnades. ;Dörren är låst. ;0
+Aktivister bojkottade produkterna. ;cause;Produkterna har testats för kvalitetssäkring. ;Produkterna tillverkades med barnarbete. ;1
+Jag borrade ett hål i väggen. ;effect;En mus kröp ut ur hålet. ;Damm blåste ut ur hålet. ;1
+Kvinnan kände avundsjuka på sin syster. ;cause;Hennes syster var glad. ;Hennes syster har skilt sig. ;0
+Jag spillde vin på min skjorta. ;effect;Jag tog på mig ett förkläde. ;Jag bytte tröja. ;1
+Kassan öppnade kassaapparatet. ;cause;Kunden genomsökte plånboken. ;Kunden gav henne pengar. ;1
+Gatumusikern lockade till sig en folkmassa. ;effect;Folk gav honom växlar. ;Han skickade bort folkmassan. ;0
+Den lilla pojken grät till sin barnvakt. ;cause;Han saknade sina föräldrar. ;Det var snacktid. ;0
+Pilotens radar upptäckte en storm. ;effect;Piloten seglade bort från stormen. ;Piloten flög genom stormen. ;0
+Trädet tappade blad. ;effect;Bladen blev färgade. ;Bladen samlades på marken. ;1
+Pojken var på ett elakt humör. ;effect;Han bestämde sig för att spela ett kortspel med sin syster. ;Han bestämde sig för att göra ett skämt med sin syster. ;1
+Barnet klagade på att han var tvungen att gå på toa. ;effect;Hans far gav honom en läsk att dricka. ;Hans far stannade bilen vid en bensinstation. ;1
+Barnet ströp fiskmat i tanken. ;effect;Fisken hoppade ut ur tanken. ;Fisken simmade mot maten. ;1
+Kvinnans politiska åsikter förändrades. ;effect;Hon bytte parti. ;Hon deltog i en protest. ;0
+Badrummet var täppt. ;effect;Jag öppnade kranen. ;Jag hällde avloppsrenare i den. ;1
+Passagerarna gick av tåget. ;cause;Tåget kom till stationen. ;Tåget visslade. ;0
+Mannen tryckte ner på den fuktiga fliken på kuvertet. ;effect;Han satte en stämpel på kuvertet. ;Han förseglade kuvertet. ;1
+Vännerna tappade kontakten. ;cause;De tyckte om varandras sällskap. ;De flyttade till olika städer. ;1
+Bokföraren förvaltade företagets medel. ;effect;Hon fick sparken. ;Hon har gått på mammaledighet. ;0
+Jag tittade på klockan. ;cause;Jag hörde klockan ticka. ;Jag ville kolla klockan. ;1
+Min hand kramper. ;cause;Jag skrev uppsatsen för hand. ;Min fru och jag höll varandra i handen. ;0
+Bultarna stramades. ;cause;Jag bytte ut bult. ;Jag vridde på skruvnyckeln. ;1
+Paret tecknade ett hyresavtal för en lägenhet. ;effect;Paret flyttade in i lägenheten. ;Staden fördömde lägenheten. ;0
+Kvinnan satt utanför på verandan. ;cause;Hon ville se solnedgången. ;Hon trodde att hon såg en blixt. ;0
+Mannen hade en livveste på sig i vattnet. ;cause;Han kunde inte simma. ;Vattnet var grunt. ;0
+Kvinnan gjorde ett skrivfel i ordbehandlaren. ;effect;Hon raderade dokumentet. ;Hon tryckte på backspace-knappen. ;1
+Flickan skröt inför sina vänner. ;cause;Hon fick ett dåligt betyg. ;Hon vann en tävling. ;1
+Gräsmattan var lera. ;cause;Det regnade över natten. ;Det var fullt av ogräs. ;0
+Kvinnan sov över. ;cause;Hon övernattade på ett hotell. ;Hon glömde ställa väckarklockan. ;1
+Han satte på sig solkräm. ;cause;Han satt i skuggan. ;Han gick till stranden. ;1
+Forskarna bevisade teorin. ;effect;Forskarna drog tillbaka teorin. ;Individer accepterade teorin. ;1
+Fansen vid matchen buade. ;cause;Matchen gick in i förlängning. ;Domaren tog ett dåligt beslut. ;1
+Jag skrev in min kombination på låset. ;effect;Jag stängde låset. ;Låset öppnades. ;1
+Publiken blev allt starkare. ;effect;Fadern gav sin son lite pengar. ;Fadern tog sin sons hand. ;1
+Snöet blockerade uppfarten. ;effect;Jag samlade snön till en snöboll. ;Jag skövlade bort snön. ;1
+Kajakpaddlarna paddade sina åsar. ;effect;Kajaken nådde stranden. ;Kajaken träffade en våg. ;0
+Flickan förlorade kontrollen över sin cykel. ;effect;Hon släppte handtaget. ;Hon kraschade in i ett staket. ;1
+Jag satte på fläkten. ;effect;Vatten strödd på min hud. ;Jag kände att kall luft passerade över mig. ;1
+Surfarna återvände till stranden. ;cause;De var blöta. ;De såg en haj. ;1
+Jag drog ur avloppsproppen i badkaret. ;effect;Vatten som rinner ut ur badkaret. ;Vattnet sprutade på golvet. ;0
+Mannen kände sig skyldig till att ha varit otrogen mot sin hustru. ;effect;Han anklagade henne för otrohet. ;Han erkände sin otrohet mot henne. ;1
+Bläcket på affischen är smutsat. ;cause;Jag väntade på att bläcket skulle torka. ;Jag spillde vatten på affischen. ;1
+Barnet vaknade skrikande. ;cause;Han hade en mardröm. ;Han kissade i sängen. ;0
+Pojken satte upp fötterna på bordet. ;effect;Hans far satte sig vid bordet. ;Hans far föreläste honom. ;1
+Min vän vände huvudet mot mig. ;cause;Jag ropade hans namn. ;Jag viftade med armarna. ;0
+Regeringen förtryckte sina medborgare. ;effect;Medborgarna gjorde uppror. ;Medborgarna registrerade sig för att rösta. ;0
+Pojken var vilse i skogen. ;effect;Han slog upp ett tält. ;Han skrek om hjälp. ;1
+Kvinnan reste utomlands. ;cause;Hon ville lära sig att rita. ;Hon ville lära sig om andra kulturer. ;1
+Mannen var avundsjuk på sin medarbetare. ;cause;Hans kollega blev befordrad. ;Hans kollega jobbade sent. ;0
+Mannen bevittnade utomjordingar. ;cause;Han hade hallucinationer. ;Han mediterade. ;0
+Mannens hår blev blond. ;cause;Han la blekmedel i den. ;Han la schampo i den. ;0
+Konstnären skapade nya verk. ;cause;Hon kritiserade sitt tidigare arbete. ;Hon kände ett slag av inspiration. ;1
+Sonen flyttade hemifrån. ;cause;Han blev avskedad från militären. ;Han skulle gå på college. ;1
+Böcker föll ur bokhyllan. ;cause;Hylsorna var täckta av damm. ;En jordbävning skakade bokhyllan. ;1
+Strömmen i mitt hus stängdes av. ;effect;Jag tände en lampa. ;Jag har ställt om strömbrytaren. ;1
+Vi åkte berg-och dalbana. ;cause;Det såg läskigt ut. ;Det såg kul ut. ;1
+- Popcornpåsen började knäcka. ;cause;Jag hällde smör i påsen. ;Jag värmde upp den i mikrovågsugnen. ;1
+Ett träd föll på elledningen. ;effect;Strömmen i grannskapet gick. ;- Vi får kraftiga vindar. ;0
+Talaren gjorde politiskt inkorrekta kommentarer. ;effect;Han uttråkade publiken. ;Han förolämpade publiken. ;1
+Jag prickade mig själv med nålen. ;effect;En svettdroppe droppar från mitt ansikte. ;En bloddroppe bildades på mitt finger. ;1
+Fisken flöt på tankens yta. ;cause;Den var hungrig. ;Den var död. ;1
+Mannens röst lät hosta. ;cause;Han var förkyld. ;Han slutade röka. ;0
+Hissdörrarna öppnades. ;cause;Hissen kom fram till den angivna våningen. ;Hissen fastnade mellan våningarna. ;0
+Tonåringen smög ut ur huset. ;cause;Han ljög för sina föräldrar. ;Hans föräldrar gav honom husarrest. ;1
+Badrummet översvämmades. ;cause;Toalettens vatten flöt över. ;Vattenvärmaren gick sönder. ;0
+Valpen stannade nära sin ägare. ;cause;Ägaren satte en krage på valpen. ;Ägaren höll valpen i koppel. ;1
+Mannen fångade hans spegelbild. ;cause;Han stod under ett stort träd. ;Han stod över den lugna sjön. ;1
+Jag missade min flickväns telefonsamtal. ;effect;Jag ringde tillbaka. ;Jag träffade henne på middag. ;0
+Familjen sökte igenom området. ;cause;Deras hund rymde hemifrån. ;Dyrare smycken saknades från deras hem. ;0
+Jag såg min andedräkt när jag andades ut. ;cause;Vädret var kallt. ;Mitt bröst kände mig trångt. ;0
+Anställda bildade en fackförening. ;cause;De ville ha bättre arbetsvillkor. ;Deras arbetsgivare höjde deras löner. ;0
+Jag bakade en äppelpaj. ;effect;En ruttnande lukt fyllde köket. ;En varm doft fyllde köket. ;1
+Kvinnan kämpade för att gå. ;cause;Hon hade höga klackar. ;Hon tog av sig skorna. ;0
+Ånga steg upp ur vattenkrukan. ;cause;Vattnet kokade. ;Jag täckte potten. ;0
+Alla mina strumpor var i tvättstugan. ;effect;Jag hade sandaler på mig. ;Jag hade stövlar på mig. ;0
+Politikerns argument ansågs absurt. ;effect;Han förlorade väljarnas stöd. ;Han anklagades för korruption. ;0
+Alla var emot parets förlovning. ;effect;Paret blev gravida. ;Paret rymde. ;1
+Byggnaden var tillägnad miljonären. ;cause;Miljonären ville att byggnaden skulle rivas. ;Miljonären bidrog med pengar till att bygga den. ;1
+Försäljningsassistenten anklagade flickan för stöld. ;cause;Försäljare såg flickan lägga varor i sin väska. ;Försäljare hjälpte flickan att hitta den handväska hon gillade. ;0
+Landet förklarade krig mot grannlandet. ;effect;Soldater skickades ut för att strida. ;Soldaterna återförenades med sina familjer. ;0
+Domstolen bibehöll det kontroversiella beslutet. ;effect;Ett upplopp bröt ut framför domstolsbyggnaden. ;Ett par utbytt löften framför domstolsbyggnaden. ;0
+Flickan kände lukten av något brinnande. ;cause;Hon tog ut kakorna ur burken. ;Hon lämnade kakor i ugnen. ;1
+Det regnade i stort. ;effect;Stormen blev värre. ;Jag rusade in. ;1
+Byggnaden evakuerades. ;cause;Hissen slutade fungera. ;Brandlarmet gick av. ;1
+Fadern var förbittrad över sin sons alkoholism. ;effect;Fadern köpte en öl till sin son. ;Fadern sparkade ut sin son ur huset. ;1
+Advokaten gick uppför trapporna till sitt kontor. ;cause;Sekreteraren gick hem för dagen. ;Hissen var ur funktion. ;1
+Mannen blev irriterad på sin vän. ;cause;Hans vän avbröt honom. ;Hans vän bjöd honom på lunch. ;0
+Flickan gav sina pengar till kassören. ;effect;Kassören gav flickan bytet. ;Kassan glömde att ge flickan ett kvitto. ;0
+Kvinnan sattes i rullstol. ;cause;Hon blev förlamad i en olycka. ;Hon kom in på sjukhuset i en bår. ;0
+Medborgare hängde upp nationalflaggan utanför sina hem. ;cause;Landet firade sin självständighet. ;Landet stod inför ekonomiska svårigheter. ;0
+Laget förlorade turneringen. ;effect;De besvikna sina fans. ;De inspirerade sina fans. ;0
+Min vän påpekade att jag hade mat fast i tänderna. ;effect;Jag skämdes. ;Jag kände mig stolt. ;0
+Pojken föll på historitekst. ;cause;Han var uppmärksam i klassen. ;Han glömde att studera. ;1
+Byggnaden i centrum kollapsade. ;cause;En jordbävning slog till i staden. ;Brottsligheten i staden ökade. ;0
+Mannens flickvän gjorde slut med honom. ;effect;Han bad henne att ta tillbaka honom. ;Hon presenterade honom för sina föräldrar. ;0
+De två barnen sträckte sig samtidigt ner för att hämta bollen. ;effect;Bollen rullade iväg. ;Deras huvuden kolliderade. ;1
+Tvättbjörnen har genomsökt soptunnan. ;cause;Det fanns papp i soptunnan. ;- Det var inte täckt. ;1
+Pojken vaskade pennan. ;cause;Det var billigt. ;Det var tråkigt. ;1
+Kassören nekade kvinnan en återbetalning för klänningen. ;cause;Hon tappade kvittot. ;Klänningen passade inte. ;0
+Skrapan i min hud var djup. ;effect;Det läkte snabbt. ;Det lämnade ett ärr. ;1
+Mannen fick konstiga blickar från passagerare på tåget. ;cause;Han stirrade på marken. ;Han pratade med sig själv. ;1
+Barnet lämnade smulor på golvet. ;effect;Myror kröp till smulorna. ;Barnet lade undan brödet. ;0
+Kvinnan gav sin syster en vävnad. ;cause;Kvinnans syster fällde händerna. ;Kvinnans syster började gråta. ;1
+Han tog ett myntskål. ;cause;Hans läppar var spruckna. ;Han oroade sig för dålig andedräkt. ;1
+Paret gick tidigt till showen. ;cause;De förutspådde trafiken runt teatern. ;De har fått vägvisningar till teatern. ;0
+Kvinnan stannade hemma från jobbet. ;effect;Hennes chef berömde henne. ;Hennes kollega täckte för henne. ;1
+Mannen skrev på aktivisternas petition. ;cause;Han stödde deras sak. ;Han fördömde dem som galna. ;0
+Skådespelaren var helt galen inför sin roll. ;cause;Han hade sceneskräck. ;Han lärde sig replikerna utantill. ;0
+Jag var vilse. ;effect;Jag räknade mina pengar. ;Jag har ritat ut en karta. ;1
+Den mogna frukten dröjde i solen. ;effect;Den blev uppäten. ;Den krympte. ;1
+Bilen gick sönder. ;cause;Jag satte igång. ;Motorn överhettades. ;1
+Han har ont i ryggen. ;effect;Han gick till en psykiater. ;Han låg i sängen i flera dagar. ;1
+Jag startade en eld i spisen. ;cause;Jag hade slut på ved. ;Det var kallt i huset. ;1
+Kvinnan slutade jogga. ;cause;Hon har fått en kramp i sidan. ;Hon fick en ny andetag. ;0
+Jag knackade på grannens dörr. ;effect;Min granne bjöd in mig. ;Min granne lämnade sitt hus. ;0
+Kvinnan suckade av frustration. ;cause;Hennes man missförstod hennes oro. ;Hennes man kysste henne på farväl. ;0
+Läraren berömde eleven. ;cause;Studenten svarade rätt på frågan. ;Studenten tvekade att svara på frågan. ;0
+Kvinnan hade slut på ägg. ;effect;Hon åkte till gården. ;Hon gick till affären. ;1
+Jag träffade en gammal vän. ;effect;Jag avslöjade en hemlighet för honom. ;Jag gav honom en kram. ;1
+Kvinnan undvek att gå i sjön. ;cause;Hon fångade en fisk. ;Det såg kontaminerat ut. ;1
+Studenten kom till klassen blötvåt. ;cause;Hans paraply var trasigt. ;Hans cykel blev stulen. ;0
+Kursorn på datorskärmen rörde sig. ;cause;Användaren klickade på musen. ;Användaren flyttade musen. ;1
+Föraren tog en omväg. ;cause;En olycka inträffade på huvudvägen. ;Hon följde efter lastbilen framför sig. ;0
+Jag hängde upp det våta linnet på tvättlinan. ;effect;Linen torkat. ;Linen är fläckat. ;0
+Kvinnan satte på sig sina solglasögon. ;cause;Solen var ljus. ;Hon ringde en taxi. ;0
+Mannen stirrade på natthimlen. ;cause;Han önskade att det var sommar. ;Han tyckte att det var vackert. ;1
+Jag kände mig utmattad. ;effect;Jag gick och la mig tidigt. ;Jag var uppe hela natten. ;0
+Mannen gick till frisören. ;cause;Han växte ut håret. ;Hans hår blev långt. ;1
+Pojken lekte med sin nya klasskamrat. ;cause;Pojken välkomnade den nya klasskamraten. ;Pojken tyckte inte om sin nya klasskamrat. ;1
+Jag längtade efter ett glas mjölk. ;cause;Jag åt kakor. ;Jag bakade bröd. ;0
+Det började regna. ;effect;Föraren tände strålkastarna. ;Föraren satte bilen bakåt. ;0
+Parkeringen var tom. ;effect;Jag parkerade tvärs över gatan. ;Jag parkerade nära ingången. ;1
+Författaren missade sin deadline för förslaget. ;cause;Hon hade skrivarblockad. ;Hon redigerade utkastet. ;0
+- Han la på. ;cause;Jag bad om att få tala med en chef. ;Jag gav mitt ID-nummer. ;0
+Vinden blåste genom det öppna fönstret. ;effect;Dörrklockan ringde. ;Gardinerna skakade. ;1
+Strömmen i mitt hus stängdes av. ;cause;Jag kopplade ur lampan. ;Jag sprängde en säkring. ;1
+Viktlyftaren grönskande. ;cause;Han böjde sina muskler i spegeln. ;Han lyfte stängen över huvudet. ;1
+Studenten försökte räkna i huvudet. ;effect;Han tog fram en miniräknare. ;Han blev förvirrad. ;1
+Barnet somnade. ;cause;Fadern bytte barnets blöja. ;Fadern skakade försiktigt barnet. ;1
+Flickan kastade vattenballongen på pojken. ;effect;Pojken fick en hjärnskakning. ;Pojken blev blöt. ;1
+Fotografen glömde att använda blixten på kameran. ;effect;Bilderna blev suddiga. ;Alla på bilderna vägrade att le. ;0
+Jag avböjde inbjudan till födelsedagsfesten. ;cause;Jag var ensam. ;Jag var bortrest. ;1
+Jag tränade. ;cause;Jag kände mig energisk. ;Jag var rädd. ;0
+Jag klämde i den fuktiga svampen. ;effect;Den har tagit upp vatten. ;Vatten sipprade ut ur den. ;1
+Semesternarna tog en färja till orten. ;cause;- Resorten var fullbokad. ;Resorten låg på en ö. ;1
+Tonåringen har en tatuering. ;cause;Hon var rädd för nålar. ;Hon ville göra uppror. ;1
+En okänd bil parkerad utanför mitt hus. ;effect;Jag blev misstänksam. ;Jag ringde polisen. ;0
+Brottslingen överlämnade sig själv. ;cause;Bevisen pekade på honom. ;Det fanns inga bevis mot honom. ;0
+Den tunga mannen bestämde sig för att gå ner i vikt. ;effect;Han skär av godis. ;Han undvek koffein. ;0
+Flickan trampade på isen. ;effect;Hon gled. ;Hon skakade. ;0
+Kvinnan hade ringar under ögonen. ;cause;Hon var uppe hela natten. ;Hon lade sin son till sängs. ;0
+Lava flöt från vulkanen. ;cause;Vulkanen bröt ut. ;Vulkanen var vilande. ;0
+Kvinnan tog på sig skorna. ;cause;Hon kände alla på festen. ;Hon ville lämna festen. ;1
+Jag betalade avgiftsbiträdet. ;effect;Hon lät mig passera genom avgiftsrutan. ;Hon höll mig kvar vid vägtullstationen. ;0
+Chefen gick i konkurs. ;cause;Han sålde sitt företags aktier. ;Han slösade bort sin förmögenhet. ;1
+Mannen gick till doktorn. ;cause;Doktorn var på semester. ;Mannen kände sig sjuk. ;1
+Jag gick ut genom fönstret. ;cause;Huset brann. ;Huset var tomt. ;0
+Pojken fingrar blev prunny. ;cause;Han tog en lång dusch. ;Han skummade sina händer med tvål. ;0
+Jag spottade ut mjölken. ;cause;Mjölken smakade sur. ;Min mun var torr. ;0
+Jag missade bussen. ;effect;Jag var tidigt på jobbet. ;Jag var sen till jobbet. ;1
+Lastbilen kolliderade med bilen. ;effect;Lastbilen accelererade. ;Bilen blev krossad. ;1
+Laget riggade tävlingen till sin fördel. ;effect;De vann. ;De hoppade av. ;0
+Sodavåset siffrade. ;cause;Jag vände på flaskan. ;Jag vridde av locket. ;1
+Pojken var utlåst från sitt hus. ;effect;Han kröp in genom ett öppet fönster. ;Han klättrade upp på taket. ;0
+Dörrklockan ringde. ;effect;Besökaren knackade på dörren. ;Kvinnan tittade in genom låghålet i dörren. ;1
+Mannen fläckade sin kostym. ;effect;Han har städat den. ;Han hängde den i sin garderob. ;0
+Flickan klämde ut tandkrämslangen. ;effect;Tandkrämmen sprutade ut ur röret. ;Flickan spottade ut tandkräm. ;0
+Civila dödsfall i kriget ökade. ;effect;Pacifister protesterade. ;Pacifister höll en parad. ;0
+Flickan drog bandet ur håret. ;cause;Hon band bandet. ;Bandet såg barnsligt ut. ;1
+Han har blivit plastikkirurg. ;effect;Han åldrades. ;Han såg yngre ut. ;1
+En kyckling föddes ur ägget. ;cause;Ägget kläcktes. ;Jag knäckte ägget. ;0
+Fångarna svälte. ;effect;Han dog. ;Han flydde. ;0
+Mannen tappade balansen på stegen. ;effect;Han klättrade uppför stegen. ;Han föll av stegen. ;1
+Barnet brast. ;cause;Han tog en slurk läsk. ;Han öppnade soda burken. ;0
+Ett kallt vindkast kom in genom fönstret. ;effect;Jag slappnade av. ;Jag skakade. ;1
+Studenten fick ett stipendium för att gå på college. ;cause;Hennes klasskamrater respekterade henne. ;Hon fick bra betyg. ;1
+Flickan gjorde narr av pojken. ;cause;Hon bodde bredvid honom. ;Hon var kär i honom. ;1
+Den hungrige vaggaren stal mat. ;cause;Han uppmanade till medlidande. ;Han hade inga pengar. ;1
+Jag ringde min vän för att prata. ;cause;Jag ville vara ensam. ;Jag kände mig ensam. ;1
+Mannen räckte ut handen till mig. ;effect;Jag skakade hans hand. ;Jag slog honom. ;0
+Jag bukade. ;cause;Fyrverkerierna startade i luften. ;Frisbisen svävade mot mitt huvud. ;1
+Flickan bet sig i naglarna. ;cause;Hon var orolig. ;Hon blev förvånad. ;0
+Jag vände bladet på kalendern. ;cause;Jag har markerat ett möte på kalendern. ;Det var början på en ny månad. ;1
+Mannen upptäckte att hans fru hade en affär. ;effect;Han sparkade sin advokat. ;Han har ansökt om skilsmässa. ;1
+Flickan tappade gummibollen. ;effect;Bollen hoppade. ;Bollen glödde. ;0
+Flickan gjorde ett misstag på sin examen. ;effect;Hon gissade svaret. ;Hon raderade sitt svar. ;1
+Spelaren tacklade sin motståndare. ;effect;Hans motståndare fick passet. ;Hans motståndare slog till marken. ;1
+Jag plockade tomaterna från vinstockarna. ;cause;De var mogna. ;Jag vattnade dem. ;0
+Han ville vara romantisk. ;effect;Han träffade sin ex-flickvän på lunch. ;Han köpte choklad till sin flickvän. ;1
+Kvicksilver i termometern steg. ;cause;Jag tappade termometern. ;Vädret blev varmare. ;1
+En tornado kom genom stan. ;effect;Taket på domstolsbyggnaden sprängdes. ;Motorvägen blev farligt isad. ;0
+Studenten fick handledning. ;effect;Hans betyg förbättrades. ;Han fuskade på provet. ;0
+Jag kände mig bekväm. ;cause;Jag knäböjde ner på marken. ;Jag svepte in mig i en filt. ;1
+Jag polerade stenen. ;effect;Det blev halvt slickigt. ;Den blev glänsande. ;1
+Jag lade socker i kaffet. ;effect;Kaffet luktade starkt. ;Kaffet smakade sött. ;1
+Mannen blandade igenom tidningarna. ;effect;Han har skurit sig i papper. ;Han rev papperen i stycken. ;0
+Jag slog i spiken med hammaren. ;effect;Spiken sjönk in i träet. ;Spiken blev rostad. ;0
+Fisken bet i snöret. ;effect;Fiskaren drog in fisken. ;Fiskaren återgjuter snaran. ;0
+Tonåringen skämdes för att gå till skolan. ;cause;Hon har fått en finn. ;Hon tog av sig tandställningen. ;0
+Mitt ansiktsuttryck lyser upp. ;cause;Jag fick goda nyheter. ;Jag tappade tålamodet. ;0
+Jag torkade händerna med en handduk. ;cause;Handduken var våt. ;Mina händer var våta. ;1
+Mannen tappade balansen på stolen. ;cause;Stolen vacklade under honom. ;Han spillde färg på stolen. ;0
+Lagkamraterna gav varandra skulden. ;cause;De förlorade spelet. ;Tränaren avbokade träningen. ;0
+Jag bad om förlåtelse. ;cause;Jag ångrade mitt misstag. ;Jag nådde mitt mål. ;0
+Kvinnan blev uttråkad av sin dejt. ;cause;Han ställde frågor om henne själv. ;Han pratade oupphörligt om sig själv. ;1
+Flickan log. ;effect;Hennes kinder rodnade. ;Hennes gropar kom fram. ;1
+Fiendens skepp sprängdes. ;cause;Den passerade över gruvan. ;Den seglade in i hamnen. ;0
+Han har punkterat foten. ;cause;Han gick in i en pöl. ;Han trampade på glas. ;1
+Kriminalinspektörerna har sökt efter fingeravtryck på brottsplatsen. ;effect;De upptäckte mördarens identitet. ;De hittade vapnet på brottsplatsen. ;0
+Det var mycket trafik på motorvägen. ;effect;Jag tog en omväg. ;Jag bad om skjuts. ;0
+Nationens ekonomi försämrades. ;effect;Många blev sjuka. ;Många människor var arbetslösa. ;1
+Gränsvakten blåste i sin visselpipa på barnen. ;cause;De skulle gå in i motgående trafik. ;Hon kände igen dem från sitt grannskap. ;0
+Jag vände ögonen på min vän. ;cause;Han sa sanningen. ;Han gjorde en sarkastisk kommentar. ;1
+Bilen fick slut på bensin. ;effect;Föraren var fast på vägen. ;Föraren tog en lifter. ;0
+Kvinnan föddes. ;effect;Barnet föddes. ;Kvinnan hade morgonkval. ;0
+Mannens hatt blåste bort. ;cause;Han tog av sig hatten. ;Det var blåsigt ute. ;1
+Flickan var på sin klasskamrats födelsedagsfest. ;cause;Hon fick en inbjudan. ;Hon köpte en present. ;0
+Pojken kände värme i pannan. ;effect;Hans mor tog hans temperatur. ;Hans mor tog med honom till parken. ;0
+Mannen sprutade sig med parfym. ;cause;Han ville imponera på sin dejt. ;Han satte gel i håret. ;0
+Strömmen i huset stängdes av. ;effect;Jag letade efter en ficklampa. ;Jag tog en spade. ;0
+Familjen flyttade till ett större hus. ;cause;Sonen tog examen från gymnasiet. ;Modern födde tvillingar. ;1
+Maratonläparen höll på med långsam takt. ;cause;Hon ville spara på sin energi. ;Hon såg mållinjen. ;0
+Pojken sparkade automat. ;cause;Maskinen spottade ut växeln. ;- Den var fast. ;1
+Min väns hund dog. ;effect;Jag vände ögonen på honom. ;Jag gav honom en kram. ;1
+Affärsmannens kreditkort blev avböjt. ;effect;Han skrev en skuldbrev. ;Han betalade kontant. ;1
+Mannen förbannade. ;cause;Han klippte naglarna. ;Han stötte på tån. ;1
+Mannen kände sig stolt över sin bror. ;cause;Hans bror bråkade med deras föräldrar. ;Hans bror blev antagen på juridikskolan. ;1
+Flickan ville lära sig om solsystemet. ;effect;Hon gick till biblioteket. ;Hon tittade på stjärnorna. ;0
+Postern hängde på väggen. ;cause;Jag placerade affischen ovanför dörren. ;Jag satte tejp på baksidan av affischen. ;1
+Kunden godkände arkitekterns planer för byggnaden. ;effect;Arkitekten konstruerade byggnaden. ;Arkitekten justerade planerna. ;0
+Mannen tappade sin sked. ;cause;Hans hand skakade. ;Han slickade skeden. ;0
+Företagets vd avgick. ;effect;Styrelsen upplöste företaget. ;Styrelsen har hittat en ersättare. ;1
+Jag kom sent till föreläsningen. ;effect;Jag tog en plats i baksidan. ;Jag närmade mig podiet. ;0
+Mannen släpptes från fängelset. ;cause;Hans familj betalade borgen. ;Han attackerade en medfånge. ;0
+Familjen förlorade alla sina ägodelar. ;cause;De sålde sitt hus. ;Deras hus brann. ;1
+Jag trampade på aluminiumburken. ;effect;- Dunken var återvunnen. ;- Kaninen krossades. ;1
+Flickan gick med i debattteamet. ;effect;Hon lärde sig att använda en dator. ;Hon lärde sig att kommunicera. ;1
+Mitt humör förbättrades. ;cause;Jag lyssnade på musik. ;Jag tvättade. ;0
+Välgörenheten satte som mål att samla in pengar. ;effect;De gav mat till de hemlösa. ;De höll en auktion. ;1
+Rullan sjönk nerför den branta backen. ;effect;Passagerarna skrattade. ;Passagerarna skrek. ;1
+Jag var rasande. ;effect;Jag kollade brevlådan när jag lämnade huset. ;Jag slog igen dörren när jag lämnade huset. ;1
+Mannen ville se soluppgången. ;effect;Han reste norrut. ;Han vaknade tidigt. ;1
+Jag vikte papperet. ;effect;Jag återvinning papper. ;Papperet rynkade. ;1
+Nationen genomlevde en naturkatastrof. ;effect;Ledare från andra länder bildade en allians. ;Ledare i andra länder sände nödhjälp. ;1
+Pojken var blöt. ;cause;Han klättrade ut ur poolen. ;Han föll i poolen. ;1
+Studenten skyndade sig att läsa boken färdig. ;cause;Den skulle skickas tillbaka till biblioteket. ;Han lånade den av en vän. ;0
+Brottslingen avrättades. ;cause;Han blev fängslad. ;Han dömdes för mord. ;1
+Solsken kom in i rummet. ;cause;Jag öppnade gardinerna. ;Jag låste upp dörren. ;0
+Jag drog i den bedragarens hår. ;effect;- Hon tog av sig peruken. ;Hon blev skallig. ;0
+Redaktören omformulerade en mening i manuskriptet. ;cause;Han tyckte att manuskriptet var övertygande. ;Han ansåg att domen var oklar. ;1
+Kvinnan har ställt in sitt kreditkort. ;cause;Hon insåg att kortet saknades. ;Hon insåg att kortet var utgånget. ;0
+Mannen och kvinnan blev kära. ;effect;De gick på college. ;De gifte sig. ;1
+Musiken var för svag för att höras. ;effect;Jag höjde volymen. ;Jag skrev min egen låt. ;0
+Pojken hade hår som stod upp. ;cause;Flickan har stört det. ;Flickan drog den. ;0
+- Insekten krossades. ;cause;Jag sprayade mig med insektsmedel. ;Jag trampade på insekten. ;1
+Jag öppnade ögonen. ;cause;Jag vaknade. ;Jag slappnade av. ;0
+Min grannes musik var högljudd. ;effect;Jag bad honom att sänka ljudet. ;Jag bad honom låna CD:n. ;0
+Mannens familj levde i fattigdom. ;cause;Han var sparsam med sina inkomster. ;Han tjänade mindre än minimilön. ;1
+Studenten tog examen från universitetet. ;effect;Han letade efter ett jobb. ;Han tog upp en hobby. ;0
+Konstnären blandade gul färg med blå färg. ;effect;Målen sprutade överallt. ;Färgen blev grön. ;1
+Jag ändrade ämne. ;cause;Jag hade inget att prata om. ;Samtalet blev spänt. ;1
+Min bror har blivit utskriven från sjukhuset. ;effect;Jag välkomnade honom hem. ;Jag var för kall mot honom. ;0
+Gardinen på scenen gick upp. ;effect;Föreställningens öppningsscen började. ;Skådespelarna i pjäsen lämnade scenen. ;0
+Gisslan underkastade sig kidnapparens order. ;cause;Kidnapparen hotade att skada gisslan. ;Kidnapparen lämnade gisslan ensam. ;0
+En bom hördes över scenen. ;cause;Musikern knackade på foten. ;Musikern slog på trumman. ;1
+Föräldrarna skyndade sig till sitt barns sovrum. ;cause;Barnet vaknade skrikandes från en mardröm. ;Barnet var rädd för att titta under sängen. ;0
+Kvinnan kommunicerade med teckenspråk. ;cause;Hon föddes för tidigt. ;Hon föddes döv. ;1
+Det inträffade en torka i regionen. ;effect;Vattnet blev förorenat. ;Skörden dog. ;1
+Katten jagade fågeln. ;effect;Fågeln flög iväg. ;Fågeln fångade en mask. ;0
+Flickan bytte skola. ;cause;Skolan har ledigt för sommaren. ;Hon flyttade till en ny stad. ;1
+Fabrikens ägare vägrade att höja lönerna för de anställda. ;effect;Ägaren har utsett en ny chef. ;Anställda gick i strejk. ;1
+Ledaren antagoniserade extremisterna i sitt land. ;effect;Extremisterna påverkade honom. ;Extremisterna mördade honom. ;1
+Jag gick barfota på stranden. ;effect;Sanden fastnade i mina fötter. ;Vågorna slog samman längs stranden. ;0
+Jag vaknade mitt i natten och kände mig kall. ;effect;Jag tog på mig träningsbyxor. ;Jag drack ett glas vatten. ;0
+Moren tystade sin son. ;cause;Hennes son log. ;Hennes son gnällde. ;1
+Ett hål i mina jeans. ;cause;Jag har dragit upp jeans. ;Jag snubblade på trottoaren. ;1
+Pojken hade tandställning. ;effect;Han har ett hål. ;Hans tänder blev raka. ;1
+Jag tränade i gymmet igår. ;effect;Jag vaknade idag med ont i musklerna. ;Jag vaknade idag med ont i halsen. ;0
+Flickan viskade fram och tillbaka till varandra vid lunchbordet. ;effect;Andra elever satte sig vid lunchbordet. ;Andra elever vid lunchbordet kände sig utestängda. ;1
+Barnet landade på trampolinen. ;effect;Hon hoppade upp i luften igen. ;Hon bestämde sig för att försöka göra en flip. ;0
+Jag lämnade brevet i brevlådan. ;effect;Postkontoret levererade brevet. ;Postkontoret skyndade på brevet. ;0
+Spelaren var självsäker. ;effect;Han satsade alla sina pengar. ;Han gick hem pank. ;0
+Skogsbranden spreds. ;cause;Vindarna blev starkare. ;Brandstiftarna greps. ;0
+Barnet flårade sitt knä. ;effect;Hans mor skickade honom till sitt rum. ;Hans mor la ett bandage på såret. ;1
+Mannen överlevde den dödliga sjukdomen. ;cause;Han skrev på sitt testamente. ;Han fick en organtransplantation. ;1
+Jag tog en klunk av det brännande kaffet. ;effect;Jag bet mig i tungan. ;Jag brände tungan. ;1
+Redaktören sparkade författaren. ;cause;Författaren undvek att vara partisk i sina berättelser. ;Författaren missade en viktig deadline. ;1
+Jag kände mig utmattad. ;cause;Jag sov hela dagen. ;Jag har studerat hela dagen. ;1
+Läkaren ställde diagnosen. ;cause;Hon identifierade patientens symtom. ;Hon skrev ut piller till patienten. ;0
+Jag klådde mig. ;cause;Det var svettat. ;Det klådde. ;1
+Mannen genomgick en akut operation. ;cause;Han tappade humöret. ;Han fick en hjärtattack. ;1
+Mannens armmuskler bullade. ;cause;Han böjde sina armar. ;Han gnuggade sina armar. ;0
+Mannen höjde ögonbrynen. ;cause;Han blev förvånad. ;Han kände sig modfälld. ;0
+Jag ursäktade min kollegas misstag. ;cause;Jag trodde att hans avsikter var goda. ;Jag trodde att han visste bättre. ;0
+Mannen slutade röka. ;effect;Han började träna mer. ;Han vaknade tidigare. ;0
+Kvinnan slog sin angripare i näsan. ;effect;Anfallaren blev livlös. ;- Han började blöda. ;1
+Pilen missade målet. ;cause;Mannen siktade fel. ;Han förlorade spelet. ;0
+Husägaren bad att en avrottningsman skulle komma till hans hus. ;cause;Han upptäckte råttor i källaren. ;Han hade en myrgård i sitt rum. ;0
+Jag föreslog att vi skulle gå ut och äta. ;cause;Jag var för trött för att förbereda något. ;Min gäst stannade för länge. ;0
+Flickan fångade sin bror läsa hennes dagbok. ;effect;Hon började gömma dagboken. ;Hon har en ny dagbok. ;0
+Kvinnan hade ont om pengar till hyran. ;effect;Hon jobbade övertid. ;Hon slutade sitt jobb. ;0
+Barns hand ryckte snabbt tillbaka. ;cause;Han rörde vid den varma spisen. ;Han klappade valpens huvud. ;0
+Företaget ville mäta kundnöjdhet. ;effect;De erbjöd en rabatt till nya kunder. ;De delade ut en enkät till kunderna. ;1
+Trägolvet blev rivet. ;cause;Pojken kastade kuddarna från soffan. ;Pojken drog en stol över golvet. ;1
+Jag skyddade mitt ansikte. ;cause;Min fiende retade mig. ;Min fiende höjde en knytnäve. ;1
+Den berömda statyn brann ner. ;cause;Den träffades av blixten. ;Folk kom för att dyrka den. ;0
+Jag lämnade frukten ute på bordet. ;effect;Frukten ger frön. ;Flugan svärmade på frukten. ;1
+Ballerinan rev ett ligament. ;cause;Hon pekade med tårna. ;Hon vridde sin fotled. ;1
+Barnet fick slippa sina skosnören. ;cause;Han lärde sig att knyta dem. ;Han sprang runt på lekplatsen. ;1
+Jag blev fascinerad av boken. ;effect;Jag lämnade tillbaka boken. ;Jag tappade tidsbegreppet. ;1
+Mannen hade liknande trosuppfattningar som sina föräldrar. ;cause;Hans föräldrar påverkade honom. ;Hans föräldrar avstod från honom. ;0
+Bilen saktade gradvis till ett stopp. ;cause;Den fick slut på bensin. ;Föraren somnade. ;0
+Mannen åt glass i solen. ;effect;Julen förlorade sin smak. ;- Ja, det droppar från konen. ;1
+Jag hängde upp konstverk i rummet. ;cause;Mattan såg smutsig ut. ;Väggarna såg tomma ut. ;1
+Jag lämnade jobbet tidigt. ;cause;Jag hade huvudvärk. ;Min chef höll ett möte. ;0
+Valpen smutsade mattan. ;effect;Ägaren skällde på valpen. ;Ägaren gav valpen en godbit. ;0
+Jag bad min vän om ursäkt. ;effect;Min vän förlät mig. ;Min vän blev rasande. ;0
+Mannen stod ut i mängden. ;cause;Han bar en ryggsäck. ;Han hade en neonväst på sig. ;1
+Vittnet ljög under ed. ;effect;Han avslutade sitt vittnesmål. ;Han åtalades för mened. ;1
+Kvinnan färgade håret. ;cause;Hon ville ha ett nytt utseende. ;Hon ville smälta in. ;0
+Invandrarna greps olagligt bosatta i landet. ;effect;De hittade arbete. ;De deporterades. ;1
+Talaren gjorde ett skämt. ;effect;Publiken skrattade. ;Publiken reste sig upp. ;0
+Jag tittade in i solen. ;effect;Solen gjorde mig blind. ;Solen brände min hud. ;0
+Jag kände mig uttråkad. ;effect;Jag snorkade. ;Jag gäsade. ;1
+Biffen var svår att skära. ;cause;Kniven var tråkig. ;Biffen var rå. ;0
+Kvinnan förklarade sig konkurs. ;cause;Hon fick underhåll. ;Hon fick stora skulder. ;1
+Ljuset i min väns lägenhet var tänt. ;effect;Jag undrade om han var ute. ;Jag bestämde mig för att besöka honom. ;1
+Jag satte blomman under näsan. ;effect;Blomstren föll av. ;Jag kände doften av blomman. ;1
+Kvinnan kände nostalgi. ;cause;Hon träffade en barndomsvän. ;Hon skrek på sina barn. ;0
+Studenten sköt på papperet. ;effect;Han lämnade in papperet tidigt. ;Han lämnade in papperet ofullständigt. ;1
+Min bil gick sönder. ;effect;Jag gick till köpcentret. ;Jag ringde en mekaniker. ;1
+Jag kastade lappen. ;cause;Det var anonymt. ;Det var oläsligt. ;1
+Fågeln flaxade med vingarna. ;effect;Den la ägg. ;Den steg uppåt. ;1
+Jag parkerade på uppfarten. ;cause;Garaget var öppet. ;Garaget var fullt. ;1
+Brottslingen riktade pistolen mot sitt offer. ;effect;Brottslingen lade ner vapnet. ;Offret höjde händerna. ;1
+Jag såg fram emot helgen. ;cause;Jag planerade att gå på min farbrors begravning. ;Jag tänkte gå på min väns bröllop. ;1
+Jag tappade tidsbegreppet. ;cause;Jag drömde. ;Jag var illamående. ;0
+Dokumentet var oläsligt. ;cause;Skrivaren hade ont om bläck. ;Det var slut på papper. ;0
+Stadion spelade nationalsången. ;effect;Fansen vände sig till flaggan. ;Fansen rusade in på planen. ;0
+Dippen smakade blek. ;effect;Jag serverade den. ;Jag satte salt i den. ;1
+Jag satte pappershandduken på spilln. ;effect;Handduken absorberade vätskan. ;- Det är en klibbig rest. ;0
+Kvinnan avbröts mitt i sin bok. ;effect;Hon bokmärkte sin sida. ;Hon läste boken igen. ;0
+Planet träffade turbulens. ;effect;Mannen spände på sitt säkerhetsbälte. ;Mannen tittade ut genom fönstret. ;0
+Pojken flinched. ;cause;Flickan ignorerade honom. ;Flickan stötte honom. ;1
+Läkarna gav patienten en konstgjord lem. ;cause;De amputerade hennes ben. ;De övervakade hennes vitala organ. ;0
+Pojken klämde flickans armbåge. ;effect;Hon ryckte på axlarna mot honom. ;Hon drog bort armen från honom. ;1
+Jag bad min vän om råd. ;cause;Jag värderade hans åsikt. ;Jag visste att jag hade rätt. ;0
+Pojken trampade i lera. ;effect;Mudden fastnade i hans skor. ;Mudden slog honom i ansiktet. ;0
+Staden fick flera centimeter snö. ;effect;Skolorna stängdes. ;Folk gömde sig under jorden. ;0
+Anställdens skift var slut. ;effect;Han åkte hem för dagen. ;Han hotade att sluta. ;0
+Trädet skadade huset. ;cause;Trädet föll på taket. ;Trädet skuggade trädgården. ;0
+Träet splittrades i två. ;cause;Jag staplade veden i spisen. ;Jag svängde yxan ner mot träet. ;1
+Familjen gratulerade paret. ;cause;Paret meddelade att de skulle separera. ;Paret tillkännagav att de skulle få ett barn. ;1
+Flickan skickade en valentinskort till pojken. ;cause;Hon gillade honom. ;Hon kysste honom. ;0
+Jag nickade med huvudet när min vän sa det. ;cause;Jag var förvirrad. ;Jag var överens med honom. ;1
+Vännerna kastade ett mynt. ;cause;De ville hitta en kompromiss. ;De ville fatta ett rättvist beslut. ;1
+Timern i köket gick av. ;effect;Mannen lade ut varorna i kylskåpet. ;Mannen tog ut pizzan ur ugnen. ;1
+Kvinnan satte ett ambitiöst mål. ;effect;Hon slapp av. ;Hon jobbade hårt. ;1
+Den rike mannen dog av ålderdom. ;effect;Hans son fick juridiska problem. ;Hans son ärvde hans förmögenhet. ;1
+Kvinnan trampade på elden. ;effect;Flammorna slocknade. ;Rök steg upp från elden. ;0
+Kvinnans bil var i verkstaden. ;cause;Hennes körkort togs tillbaka. ;Hon hade en bilolycka. ;1
+Jag sov mitt alarm. ;effect;Jag har gjort frukost. ;Jag missade frukosten. ;1
+Den offentliga personen gick ur limousinen. ;effect;Kameran blinkade i hans riktning. ;Hans familj var med på presskonferensen. ;0
+Kvinnan dröjde sig i badkaret. ;effect;Badvattnet blev ljummet. ;Badvattnet dränerades ut ur badkaret. ;0
+Studenten ville träffa andra studenter på campus. ;effect;Han gick med i ett brödraskap. ;Han har ingenjörsexamen. ;0
+Jag lyfte upp soffkuddarna. ;cause;Jag letade efter småpengar. ;Jag ordnade om vardagsrummet. ;0
+Vespen flög mot pojken. ;effect;Pojken sprang iväg. ;Pojken plockade en blomma. ;0
+Kvinnan befanns skyldig till ett brott. ;effect;Hon dömdes till samhällstjänst. ;Hon sattes i dödscellen. ;0
+Jag blandade sockret i det varma teet. ;effect;Teet ångades. ;Sockret har löst sig. ;1
+Veteranen gick med en halt. ;cause;Han blev värvad till kriget. ;Han skadades i strid. ;1
+Brottslingen rymde från polisen. ;effect;Polisen tog hand om offret. ;Polisen jagade brottslingen. ;1
+Den bärbara datorn ville inte slå på. ;cause;Jag tappade den. ;Jag laddade den. ;0
+Kvinnan hade slut på rum i sin garderob. ;cause;Hon hade en omfattande garderob. ;Hon vikte sin tvätt. ;0
+Mannen var hjärtskärt. ;cause;Hans fru födde. ;Hans fru lämnade honom. ;1
+Mannen fick en examen. ;effect;Han blev kvalificerad för det jobb han ville ha. ;Hans jobb erbjudande återkallades. ;0
+Mannens röst kunde höras tydligt i hela salen. ;cause;Han hälsade på publiken. ;Han talade i mikrofonen. ;1
+Jag kastade ett mynt i vattenfontänen. ;effect;Myntets botten sjönk. ;Myntet bröt i två delar. ;0
+Spelaren slår bollen mot hålet. ;effect;Bollen gick in i hålet. ;Bollen drog sig tillbaka till spelaren. ;0
+Jag andades i dammet på vinden. ;effect;Jag hickade. ;Jag nysade. ;1
+Kassan ringde vakterna. ;cause;Kunden använde falska pengar. ;Kunden lämnade sina strålkastare på. ;0
+Jag tog ut soporna. ;cause;Av skräpet luktade köket illa. ;Jag slängde min inköpslista. ;0
+Familjen åkte till djurparken. ;effect;Barnen beundrade djuren. ;Barnen jagade djuren. ;0
+Mannens andning var högljudd. ;cause;Hans njurar sviktade. ;Hans lungor var överbelastade. ;1
+Jag hade en extra biljett till konserten. ;effect;Jag frågade min vän om vägen till platsen. ;Jag frågade min vän om han var intresserad av att gå. ;1
+Luftkonditioneringen i huset gick sönder. ;effect;Jag tog fram filtar. ;Jag öppnade fönstren. ;1
+Pojken har ont i ryggen. ;cause;Hans ryggsäck var öppen. ;Hans ryggsäck var tung. ;1
+Jag köpte en present till min mamma. ;cause;Jag bakade en tårta åt henne. ;Det var hennes födelsedag. ;1
+Narcissor i trädgården förstördes. ;cause;En bi stötte trädgårdsmästaren. ;Ekorrar grävde upp glödlamporna. ;1
+Jag slog i tändstiften. ;effect;Flamman försvann. ;Tändstiften skapade en flamma. ;1
+Parterna i tvisten kom fram till en uppgörelse. ;cause;De ville inte diskutera i rätten. ;De ville reparera sitt personliga förhållande. ;0
+Barnen skickades till ett barnhem. ;cause;Deras föräldrar dog. ;Deras föräldrar bortskämde dem. ;0
+En meteor landade i havet. ;effect;En tsunami inträffade. ;Det började hagla. ;0
+Vandraren stötte på en giftig orm. ;effect;Hon blev uttorkad. ;Hon fick panik. ;1
+Ugnen blev het. ;cause;Jag satte på ugnen. ;Jag satte tallriken i ugnen. ;0
+Jag klämde citronen. ;effect;Citronen blev möglig. ;- Det är citronen. ;1
+Landet upptäckte nya landområden. ;effect;Landet övergav landet. ;Landet koloniserade landet. ;1
+Glaset föll av bordet. ;effect;Den krossades över hela golvet. ;Den landade i en hög med tvätt. ;0
+Bordet vacklade. ;cause;Golvet var ojämnt. ;Golvet var halvt slickigt. ;0
+Fadern fångade sin son på att ljuga. ;effect;Hans son erkände sanningen. ;Fadern litade på sin son. ;0
+Mannens huvud slog av smärta. ;effect;Han tog hostmedicin. ;Han tog aspirin. ;1
+Tåget saktade ner. ;cause;Den närmade sig stationen. ;Det var för sent. ;0
+Han gick igenom terapi. ;cause;Han hade psykisk sjukdom i familjen. ;Han fick diagnosen depression. ;1
+Kvinnan grep om halsen. ;cause;Hon svalde sin mat. ;Hon kvävdes av maten. ;1
+Kvinnan hade ont i halsen. ;effect;Hennes röst lät raspig. ;Hon talade med en accent. ;0
+Hunden stirrade på den saftiga biffen på bordet. ;effect;Den salivade. ;Det låg ner. ;0
+Kvinnans affärer lyckades. ;effect;Hon sparkade sina anställda. ;Hon blev rik. ;1
+Eleverna lämnade klassrummet. ;cause;Klockan ringde. ;Läraren gav honom läxor. ;0
+Kvinnan hävdade att hon såg ett spöke. ;effect;Hennes bekanta uttryckte sin skepsis. ;Hennes bekanta var släkt med henne. ;0
+Mannen förlorade sin hörsel. ;cause;Han drunknade nästan i havet. ;Han dog nästan i en explosion. ;1
+Barnet släppte ballongsträngen. ;effect;Ballongen blåstes ut. ;Ballongen steg upp i luften. ;1
+Mannen förlorade förmågan att tala. ;cause;Han fick en stroke. ;Han tog ett djupt andetag. ;0
+Kvinnan snubblade på trottoaren. ;cause;Det var en spricka i cementen. ;Hon hörde sitt namn kallas. ;0
+Han kastade en kanonboll i poolen. ;effect;Livvakten hoppade efter honom. ;Mannen blötade livräddaren. ;1
+Jag tog antibiotika. ;effect;Min infektion har läkt. ;Min infektion spreds. ;0
+Trafikljuset blev gult. ;effect;Föraren tryckte på bromsen. ;Föraren blåste i hornet. ;0
+Plastbehållaren smälte. ;cause;Jag blötade behållaren i varmt vatten. ;Jag lade behållaren på den varma spisen. ;1
+Bilen blev bucklad. ;cause;Föraren körde på en telefonstolpe. ;Föraren körde på rött. ;0
+Pojken studerade hela natten. ;effect;Han hoppade över provet. ;Han klarade provet. ;1
+Den unge pojken klamrade sig fast vid bassängens kant. ;cause;Han var rädd för att lära sig simma. ;Livvakten var på vakt. ;0
+Jag la handen på bröstet. ;effect;Jag kände mitt hjärta slå. ;Min hjärtslag accelererade. ;0
+Byggnaden intill mitt kontor var under uppbyggnad. ;effect;Mitt kontor var fullsatt. ;Mitt kontor var högljutt. ;1
+Familjen ville lära känna sina nya grannar. ;effect;Familjen bjöd in grannarna till middag. ;Familjen vinkade till grannarna från sin gård. ;0
+Vatten sprutade upp från poolen. ;cause;Simmaren dyker ner i poolen. ;Simmaren flöt i poolen. ;0
+Jag bet i en skiva vattenmelon. ;effect;Jag svalde en frö av misstag. ;Jag bröt av tanden av misstag. ;0
+Pojken snubblade. ;cause;Hans jacka var loss. ;Hans skosnören var loss. ;1
+Kvinnan satte öronproppar i. ;cause;Hon blev distraherad av ljud. ;Hon har hål i öronen. ;0
+Jag fyllde på min vattenflaska. ;cause;Jag drack allt vatten i den. ;Jag har den i kylskåpet. ;0
+TV-serien censurerades. ;cause;Den innehöll vulgärt språk. ;Det var en komplicerad handling. ;0
+Skeppet gick sönder. ;effect;Besättningen drunknade. ;Besättningen stötte på pirater. ;0
+Pojken kände sig förbryllad av gåtan. ;effect;Han löste gåtan. ;Han bad om en ledtråd. ;1
+Telefonen ringde. ;effect;Mannen lade på luren. ;Mannen tog upp telefonen. ;1
+Kvinnan stirrade på mig. ;effect;Jag kramade henne. ;Jag kände mig obekväm. ;1
+Gruppen lämnade museet. ;cause;De tog bilder på utställningarna. ;De såg alla utställningar. ;1
+Mannen började gräla med mig. ;effect;Min vän presenterade mig för mannen. ;Min vän stod upp för mig. ;1
+Mitt cykeldäck var platta. ;effect;Jag pumpar luft i däcket. ;Jag bytte växlar på cykeln. ;0
+Flickan såg blek ut. ;effect;Hennes far läste en saga för henne. ;Hennes far rörde vid hennes panna. ;1
+Pennan var slut på bläck. ;effect;Jag använde en penna. ;Jag skrev mitt namn. ;0
+Mannen nekades ett lån. ;cause;Han var i skuld. ;Han startade ett företag. ;0
+Flickan stannade hemma från skolan. ;cause;Hon hade vattkoppor. ;Hon tyckte om att lära sig matte. ;0
+- Skräpsäcken var full. ;effect;Jag tog den till soptunnan. ;Jag dumpade den i diskbänken. ;0
+Jag har dammsugit mattan. ;cause;Min rumskompis spillde punch. ;Min hund tappar hår. ;1
+Mannen tappade humöret. ;effect;Han stängde av sin dator. ;Han kastade en stol över rummet. ;1
+Flickan kastade en kvist i lägerelden. ;effect;Grenen brann. ;Elden slocknade. ;0
+Mannen kom ut ur duschen. ;cause;Det varma vattnet var borta. ;Han kunde inte hitta en handduk. ;0
+Föräldrarna ville att deras barn skulle gå på college. ;effect;De har en sparfond för att betala skolkostnaderna. ;De uppmuntrade sina barn att leka utomhus. ;0
+Mannen tog loss sina skor. ;effect;Skorna löste sig. ;Skorna blev slitna. ;0
+Mannen åt halva rätten. ;effect;Han kylde överstoden. ;Han har sparat receptet. ;0
+Min fotled var svullen. ;effect;Jag satte is på den. ;Jag gnuggade lotion på den. ;0
+Min dörr var öppen. ;effect;Jag pratade med min kollega vid mitt skrivbord. ;Jag hörde samtalet i hallen. ;1
+Jag fick vänta i kö. ;effect;Jag satte mig. ;Jag skummade en tidning. ;1
+Mannen slog på fluga. ;effect;-Fluggan surrade iväg. ;Fliegen stannade stilla. ;0
+Mannen skrev ett testamente. ;cause;Han var döende. ;Han var änkling. ;0
+Löparen kände att hans motståndare kom närmare. ;effect;Han drog sig ur tävlingen. ;Han accelererade sitt steg. ;1
+Jag har tänkt noga över problemet. ;effect;Jag bad om råd. ;Jag kom på en lösning. ;1
+Resenären gick på den skakade hängbron. ;effect;Han kände sig skräckslagen. ;Han kände sig extatisk. ;0
+Mannen förutspådde lagets seger. ;effect;Han träffade sina vänner för att titta på matchen. ;Han gjorde ett vad med sina vänner. ;1
+Pojken kunde inte somna. ;effect;Han satte på väckarklockan. ;Han räknade får. ;1

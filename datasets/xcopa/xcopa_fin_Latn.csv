@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Tuote oli pakattu kuplafilmiin. ;cause;Se oli hauras. ;Se oli pieni. ;0
+Tyhjensin taskut. ;effect;Löysin lipun. ;Löysin aseen. ;0
+Termitit valtasivat talon. ;effect;Termitit katosivat talosta. ;Termitit söivät talon puun läpi. ;1
+Matkustajat saapuivat rajalle. ;effect;- Heidän passinsa tarkistettiin. ;Heitä syytettiin salakuljetuksesta. ;0
+Toimisto oli kiinni. ;cause;Se oli loma-aika. ;Se oli kesä. ;0
+Tytön energia loppui. ;cause;Hän pelasi tammaa. ;Hän hyppäsi köyttä. ;1
+Nainen menetti paikkansa jonossa. ;cause;Lisää ihmisiä tuli jonoon. ;Hän astui pois jonosta. ;1
+Tyttö nipisti nenäänsä. ;cause;Vauva kuolasi hänen sukkapuheensa. ;Vauva likaisi hänen vaippansa. ;1
+Bändi soitti hittikappaleen. ;effect;Yleisö taputti musiikin mukana. ;Yleisö kuunteli kohteliaasti hiljaa. ;0
+Tyttö halusi kiittää matikanopettajaansa. ;effect;Tyttö jäi koulun jälkeen. ;Tyttö toi opettajalle omenan. ;1
+Nuoret leiriytyjät pelkäsivät. ;cause;Leirinvalvoja kertoi heille tarinan kummituksista. ;He paahtoivat marshmallowsia leiritulessa. ;0
+Mies löi päähänsä. ;effect;Hän oli ajatuksissaan. ;Hänellä on aivotärähdyksestä. ;1
+Kirjoittamani sekki ei tullut. ;cause;Pankkitilin oli tyhjä. ;Ansaitsin palkankorotuksen. ;0
+Hänen sähköpostilaatikkonsa oli täynnä roskapostia. ;effect;Hän poisti roskapostin. ;Hän lähetti sähköpostia. ;0
+Merimies oli karanteenissa. ;cause;Hän altistui taudille. ;Hän toipui sairaudesta. ;0
+Tyttö muisti koodin. ;cause;Hän lausui sen itselleen. ;Hän unohti kirjoittaa sen ylös. ;0
+Kaadoin vettä lasille. ;effect;Vesi sammutti janoani. ;Lasista tuli täysi. ;1
+Mies pysyi vaiti, kun hänen ystävänsä oli puhunut loppuun. ;cause;Hän halusi tukea ystäväänsä. ;Hän ajatteli ystävänsä sanoja. ;1
+Onnettomuus oli minun syytäni. ;effect;Tunsin syyllisyyttä. ;-Minä nostin syytteen. ;0
+Ketju hajosi. ;cause;Ketju oli kiedottu renkaan ympärille. ;Ketjun yksi silmä oli rikki. ;1
+Pariskunta päätti tehdä kompromissin. ;cause;He väsyivät riitelemään. ;He välttivät keskustelemasta ongelmasta. ;0
+Nainen päätti pyrkiä virkaan. ;effect;Hän palkkasi kampanjan johtajan. ;Hän todisti oikeudessa. ;0
+Mies odotti matkansa aikana kylmää säätä. ;effect;Hän pakkasi lämmin vaatteet matkalaukkuunsa. ;Hän matkusti iso matkalaukku mukanaan. ;0
+Opiskelija tiesi vastauksen kysymykseen. ;effect;Hän nosti kätensä. ;Hän teki jotain. ;0
+Mies itki silmistä. ;cause;Pölyä silmiin. ;Hän laittoi suojalaseja silmiinsä. ;0
+Pelaaja voitti viisi peliä peräkkäin. ;effect;Hänen vastustajansa syytti häntä huijaamisesta. ;Hänen vastustajansa sääli häntä. ;0
+Opettaja repesi oppilaan tentin kappaleiksi. ;cause;Hän nappasi oppilaan huijaamasta. ;Opiskelijan vastaukset olivat vääriä. ;0
+Pysähtyin puhumasta. ;cause;Menetin ääneni. ;Hengitys loppui. ;1
+Jäätelöruoka sulattui. ;cause;Laitoin sen mikroaaltouuniin. ;Peitin sen muovipakkauksella. ;0
+Työntekijä teeskenteli olevansa sairas. ;cause;Hänellä oli vatsakramppeja. ;Hän halusi vapaapäivän. ;1
+Tyttö putosi altaaseen. ;cause;Hän juoksi altaalla. ;Hän hyppäsi hyppysikolta. ;1
+-Koska elokuvaliput olivat loppuunmyytyjä. ;cause;Se oli elokuvan ensi-ilta. ;Elokuva sai huonoja arvosteluja. ;0
+Mies laihtui. ;effect;Hänet eristettiin. ;Ihmiset kehuivat häntä. ;1
+Tytön kädet saivat rakkuloita. ;cause;Hän kirjoitti kirjeen. ;Hän kiipesi köysiin. ;1
+Sirkusartisti jongloi ajaessaan yksikärryllä. ;effect;Yleisö hurrasi hämmästyksessään. ;Akrobaatti heilui trapeetikolta. ;0
+Menetin kärsivällisyyteni. ;cause;Ystäväni antoi minun odottaa. ;Ystäväni saapui ajoissa. ;0
+Sotilaalliset maat halusivat rauhaa. ;effect;He kehittivät ydinaseita. ;He neuvottelivat sopimuksen. ;1
+Mies otti unilääkettä. ;effect;Hänestä tuli unelias. ;Hänellä oli kuumetta. ;0
+Nainen törmäsi sohvaan. ;effect;Sohvan jalka irtosi. ;Hän on mustellut polvensa. ;1
+Poika puristi ilmapalloa. ;effect;Pallopallo räjähti. ;Pallopallo lensi pois. ;0
+He olivat matkustajia, jotka olivat kirjautuneet hotellihuoneeseen. ;effect;He purkivat matkalaukkunsa. ;He menivät lentokentälle. ;0
+Minä purin persikkaa. ;effect;Persikka on ruhjeissa. ;- Se oli ihan sekaisin. ;1
+Käteni liimistuivat. ;cause;Söin donitsin. ;Minulla oli makean hammas. ;0
+Työnsin ovea. ;effect;Ovi aukesi. ;Ovi lukittu. ;0
+Aktivistit boikotoivat tuotteita. ;cause;Tuotteet testattiin laadunvarmistusta varten. ;Tuotteet valmistettiin lasten työvoiman avulla. ;1
+Porasin reiän seinään. ;effect;Hiiri ryömi ulos kuopasta. ;- Pöly puhalsi ulos reiästä. ;1
+Nainen tunsi kateutta siskoansa kohtaan. ;cause;Hänen siskonsa oli onnellinen. ;Hänen siskonsa erosi. ;0
+Kaadoin viiniä paitaani. ;effect;Laitoin esiliinan päälleni. ;Vaihdoin paidan. ;1
+Kassa avasi kassan. ;cause;Asiakas etsi lompakkoaan. ;Asiakas antoi hänelle rahaa. ;1
+Katumusiikisti houkutteli väkijoukkoa. ;effect;Hän sai vaihtorahaa. ;Hän lähetti väkijoukon pois. ;0
+Pikkupoika itki lapsenvahdilleen. ;cause;Hän kaipasi vanhempiansa. ;Oli välipalan aika. ;0
+Pilotin tutka havaitsi myrskyn. ;effect;Lentäjä ajoi pois myrskystä. ;Lentäjä lensi myrskyn läpi. ;0
+Puu pudotti lehdet. ;effect;Lehdet muuttuivat väreiksi. ;Lehdet kerääntyivät maahan. ;1
+Poika oli ilkeämielinen. ;effect;Hän päätti pelata korttia siskonsa kanssa. ;Hän päätti tehdä siskolleen pilaa. ;1
+Lapsi valitti, että hänen täytyi mennä vessaan. ;effect;Hänen isänsä antoi hänelle limsaa. ;Hänen isänsä pysäytti auton huoltoasemalla. ;1
+Lapsi kastoi kalaravintoa altaaseen. ;effect;Kala hyppäsi altaasta. ;Kala ui kohti ruokaa. ;1
+Naisen poliittiset näkemykset muuttuivat. ;effect;Hän vaihtoi puolueen. ;Hän osallistui protestiin. ;0
+Kylpyhuoneen lavuaari oli tukossa. ;effect;- Minä avasin hanan. ;Kaadoin siihen viemärinpesuainetta. ;1
+Matkustajat laskeutuivat junasta. ;cause;Juna saapui asemalle. ;Juna viheltää. ;0
+Mies painoi kirjekuoren kosteaa kytkentää. ;effect;Hän pani leiman kirjekuoreen. ;Hän sulki kirjekuoren. ;1
+Ystävät eivät enää olleet yhteydessä. ;cause;He nauttivat toistensa seurasta. ;He muuttivat eri kaupunkeihin. ;1
+Kirjanpitäjä käytti yhtiön varoja huonosti. ;effect;Hänet erotettiin asemastaan. ;Hän lähti äitiyslomaan. ;0
+Katsoin kelloa. ;cause;Kuulin kellon tikittävän. ;Halusin tarkistaa kellon. ;1
+Käteni ahdistui. ;cause;Kirjoitin esseen käsin. ;Vaimoni ja minä pidimme toistemme kädestä. ;0
+- Pultti kiristyi. ;cause;- Vaihdoin sen. ;Käänsin venyksen. ;1
+Pariskunta allekirjoitti vuokrasopimuksen asunnon ostamisesta. ;effect;Pari muutti asunnolle. ;Kaupungin viranomaiset hylkäsivät asunnon. ;0
+Nainen istui ulkona kuistilla. ;cause;Hän halusi katsoa auringonlaskua. ;Hän luuli nähneensä salamaa. ;0
+Miehellä oli pelastusliivi vedessä. ;cause;Hän ei osannut uida. ;Vesi oli matalaa. ;0
+Nainen teki kirjoitusvirheen tekstinkäsittelyssä. ;effect;Hän poisti asiakirjan. ;Hän painoi takaa-aikaa. ;1
+Tyttö kerskui ystäviensä edessä. ;cause;Hän sai huonon arvosanan. ;Hän voitti kilpailun. ;1
+- Puutarha oli mutainen. ;cause;Satoi koko yön. ;Se oli täynnä rikkaruohoa. ;0
+Nainen nukkui. ;cause;Hän vietti yön hotellissa. ;Hän unohti asettaa herätyskelloonsa. ;1
+Mies käytti aurinkovoidetta. ;cause;Hän istui varjossa. ;Hän meni rannalle. ;1
+Tutkijat todistivat teorian. ;effect;Tutkijat peruivat teorian. ;Yksilöt hyväksyivät teorian. ;1
+Fanit huusivat peliä. ;cause;Peli meni ylitykseen. ;Tuomari teki väärän päätöksen. ;1
+- Kirjoitin yhdistelmän lukkoon. ;effect;Suljin lukon. ;Lukko aukesi. ;1
+Yleisö kiihtyi. ;effect;Isä antoi pojalleen rahaa. ;Isä tarttui poikansa käteen. ;1
+Lumi tukki ajotietä. ;effect;Keräsin lumen lumipalloon. ;-Pyyhin lumen pois tieltä. ;1
+Kajakkailijat vessoivat. ;effect;Kajakki saavutti rannan. ;- Kajakki törmäsi aaltoon. ;0
+Tyttö menetti pyörän hallinnan. ;effect;Hän päästi ohjauspyörän irti. ;Hän törmäsi aitoon. ;1
+- Minä laitoin tuuletin päälle. ;effect;Vettä ruiskutettiin iholleni. ;Tunsin viileän ilman kulkevan päälleni. ;1
+Surffaajat palasivat rannalle. ;cause;He olivat läpimärkä. ;He näkivät hain. ;1
+Vedin kylpyammeesta viemärin. ;effect;Vesi tyhjensi ammeesta. ;Vesi piserrettiin lattialle. ;0
+Mies tunsi syyllisyyttä pettäneensä vaimoaan. ;effect;Hän syytti häntä uskottomuudesta. ;Hän tunnusti uskottomuutensa. ;1
+- Ilmoituksen muste oli likainen. ;cause;Odotin, että muste kuivuu. ;Kaadoin vettä julisteeseen. ;1
+Lapsi heräsi huutaen. ;cause;Hän näki painajaisen. ;Hän märkäsi sängyn. ;0
+Poika pani jalkansa pöydälle. ;effect;Hänen isänsä istui pöytään. ;Hänen isänsä esitti hänelle. ;1
+Ystäväni kääntyi minua kohti. ;cause;Huusin hänen nimeään. ;Minä heilutin käsiäni. ;0
+Hallitus sorsi kansalaisiaan. ;effect;Kansalaiset järjestivät kapinan. ;Kansalaiset rekisteröityivät äänestämään. ;0
+Poika oli eksynyt metsässä. ;effect;Hän pystytti teltan. ;Hän huusi apua. ;1
+Nainen matkusti ulkomaille. ;cause;Hän halusi oppia piirtämään. ;Hän halusi oppia tuntemaan muita kulttuureja. ;1
+Mies oli kateellinen työtoverilleen. ;cause;Hänen työtoverinsa sai ylennyksen. ;Hänen työtoverinsa työskenteli myöhään. ;0
+Mies näki avaruusolioita. ;cause;Hän näki harhoja. ;Hän meditoi. ;0
+Mies muuttui vaaleaksi. ;cause;Hän laittoi valkaisuainetta. ;Hän laittaa siihen shampoota. ;0
+Taiteilija loi uutta työtä. ;cause;Hän arvosteli hänen aiempaa työtään. ;Hän koki inspiraation iskun. ;1
+Poika muutti pois kotoa. ;cause;Hänet erotettiin armeijasta. ;Hän oli menossa yliopistoon. ;1
+Kirjat putosivat kirjakaapista. ;cause;Hyllyt olivat pölyisiä. ;Maanjäristys järjesti kirjakaapin. ;1
+Taloni sähkö katosi. ;effect;Sytytin valon. ;- Säädin virtapiirin. ;1
+- Ajoimme vuoristoradalla. ;cause;Se näytti pelottavalta. ;Se näytti hauskalta. ;1
+Pussilla oli popcornia. ;cause;Kaadoin voita pussiin. ;Lämmitin sen mikroaaltouunissa. ;1
+Puun putosi sähköjohtoon. ;effect;Sähkö katosi naapurustossa. ;Ensin oli luvassa voimakasta tuulta. ;0
+Puhuja esitti poliittisesti virheellisiä kommentteja. ;effect;Hän tylsisti yleisöä. ;Hän loukkasi yleisöä. ;1
+-Pistin itseni neulalla. ;effect;Hikoilusävy tippui kasvoilleni. ;Sormeeni tuli veripisara. ;1
+Kala kellui säiliön pinnalla. ;cause;Se oli nälkäinen. ;Se oli kuollut. ;1
+Mies kuului raivoksi. ;cause;Hänellä oli flunssa. ;Hän lopetti tupakoinnin. ;0
+Hissien ovet aukenivat. ;cause;Hissi saapui määrätylle kerrokselle. ;Hissi jäi jumiin kerroksen väliin. ;0
+Teini-ikäinen livahti ulos talosta. ;cause;Hän valehteli vanhemmilleen. ;Vanhemmat kielsivät häntä. ;1
+Vessa tulvi. ;cause;Vessa oli täynnä. ;Vedenlämmitin hajosi. ;0
+Koiranpentu pysyi omistajansa lähellä. ;cause;Omistaja laittoi pennulle kaulakorun. ;Omistaja piti pennua hihassa. ;1
+Mies näki peilikuvan. ;cause;Hän seisoi laajalle ulottuvan puun alla. ;Hän seisoi rauhallisen järven yllä. ;1
+En saanut tyttöystäväni puhelua. ;effect;Soitin hänelle takaisin. ;Tapasimme illallisella. ;0
+Perhe etsi naapurustoa. ;cause;Heidän koiransa karkasi kotoa. ;Heidän kodistaan puuttui kalliita koruja. ;0
+Näin hengitykseni hengittäessäni. ;cause;Sää oli kylmä. ;Rintaani oli tiukalla. ;0
+Työntekijät perustivat ammattiliiton. ;cause;He halusivat parempia työoloja. ;Heidän työnantajansa nosti heidän palkkansa. ;0
+Leivotin omenapiirakkaa. ;effect;Keittiö oli täynnä mätänemisen hajua. ;Keittiö oli täynnä lämmintä tuoksua. ;1
+Nainen kamppaili kävelemään. ;cause;Hänellä oli korkokengät. ;Hän otti kengät pois. ;0
+Pihasta nousi höyryä. ;cause;Vesi kiehui. ;- Minä katesin potin. ;0
+Kaikki sukkani olivat pesulassa. ;effect;Minulla oli sandaalit. ;Minulla oli saappaat. ;0
+Poliitikon väitettä pidettiin järjettömänä. ;effect;Hän menetti äänestäjien tuen. ;Häntä syytettiin korruptiosta. ;0
+Kaikki olivat eri mieltä parin kihlauksesta. ;effect;Pariskunta tuli raskaaksi. ;Pariskunta karkasi. ;1
+Rakennus oli omistettu miljonäärille. ;cause;Miljonääri halusi rakennuksen purettavan. ;Miljonääri lahjoitti rahat sen rakentamiseen. ;1
+Myyntipäällikkö syytti tyttöä varastamisesta. ;cause;Myyjä näki tytön laittavan tavaraa laukkuunsa. ;Myyjä auttoi tyttöä löytämään sen, josta hän piti. ;0
+Maa julisti sodan naapurimaalle. ;effect;Sotilaat lähetettiin taistelemaan. ;Sotilaat yhdistettiin perheisiinsä. ;0
+Oikeus vahvisti kiistanalaisen tuomion. ;effect;Oikeustalon edessä alkoi mellakointi. ;Pari vaihtoi valan oikeustalon edessä. ;0
+Tyttö haistoi jotain palavaa. ;cause;Hän otti keksit purkista. ;Hän jätti keksit uunissa. ;1
+Sade oli valtava. ;effect;Myrsky paheni. ;Juoksin sisään. ;1
+Rakennus on evakuoitu. ;cause;Hissi lakkasi toimimasta. ;Palovaroitin soitti. ;1
+Isä vihasi poikansa alkoholismia. ;effect;Isä osti pojalleen oluen. ;Isä potki poikansa ulos talosta. ;1
+Asianajaja meni portaat ylös toimistoonsa. ;cause;Sihteerini meni kotiin. ;Hissi oli rikki. ;1
+Mies suuttui ystävälleen. ;cause;Hänen ystävänsä keskeytti hänet. ;Hänen ystävänsä osti hänelle lounaan. ;0
+Tyttö antoi rahansa kassalle. ;effect;Kassa antoi tytölle vaihtorahansa. ;Kassa unohti antaa tytölle kuitin. ;0
+Nainen joutui pyörätuoliin. ;cause;Hän halvaantui onnettomuudessa. ;Hän tuli sairaalaan paareilla. ;0
+Kansalaiset ripustivat kansallisen lipun kotiensa ulkopuolelle. ;cause;Maassa vietettiin itsenäisyytensä juhlaa. ;Maalla oli taloudellisia vaikeuksia. ;0
+Joukkue hävisi turnauksen. ;effect;He pettivät fanejaan. ;He inspiroivat fanejaan. ;0
+Ystäväni huomautti, että minulla oli ruokaa hampaissani. ;effect;Minua nolotti. ;Olin ylpeä. ;0
+Poika epäonnistui historian kokeessa. ;cause;Hän kuunteli tunnilla. ;Hän unohti opiskella. ;1
+Keskustan rakennus romahti. ;cause;Maanjäristys iski kaupunkiin. ;Rikollisuus kasvoi kaupungissa. ;0
+- Mies jätti tyttöystävänsä. ;effect;Hän rukoili häntä ottamaan hänet takaisin. ;Hän esitteli hänet vanhemmilleen. ;0
+Lapset ottivat pallon samalla kertaa. ;effect;Pallo pyöri pois. ;Heidän päänsä törmäsivät. ;1
+Pesukarhu ryösti roskiksia. ;cause;Roskiksessa oli pahvia. ;- Se oli pois roskiksesta. ;1
+Poika terästi kynää. ;cause;Se oli halpaa. ;Se oli tylsää. ;1
+Kassa ei maksanut naiselle puvun takaisin. ;cause;Hän menetti kuittinsa. ;- Se ei sopinut. ;0
+Raaputus iholleni oli syvä. ;effect;Se parani nopeasti. ;Se jätti arven. ;1
+Mies sai outoja katseita junassa olleilta matkustajilta. ;cause;Hän tuijotti maata. ;Hän puhui itsekseen. ;1
+Lapsi jätti murusia lattialle. ;effect;Muurahaiset ryömivät murtoihin. ;Lapsi pani leivän pois. ;0
+Nainen ojensi sisarelleen nenäliinan. ;cause;Naisen sisko kytki kätensä yhteen. ;Naisen sisko alkoi itkeä. ;1
+Mies otti minttuhatta. ;cause;Hänen huulensa olivat halkeamattomat. ;Hän oli huolissaan pahanhajuisesta hengityksestä. ;1
+Pari lähti esityksestä aikaisin. ;cause;He ennakoivat liikennettä teatterin ympärillä. ;Heillä on ohjeet teatteriin. ;0
+Nainen jäi kotiin töistä. ;effect;Hänen pomonsa ylistää häntä. ;Työtoverin piti hänet turvassa. ;1
+Mies allekirjoitti aktivistien vetoomuksen. ;cause;Hän tuki heidän asiansa. ;Hän julisti heidät hulluiksi. ;0
+Näyttelijän sydän oli värinää ennen hänen esitystä. ;cause;Hänellä oli lavatermi. ;Hän oppi repliikit ulkoa. ;0
+Olin eksyksissä. ;effect;Laskin käteiseni. ;Kannan kartan. ;1
+Kypsät hedelmät viipyivät auringossa. ;effect;Se syötiin. ;Se kutistui. ;1
+Auto hajosi. ;cause;Käänsin kytkimen päälle. ;Moottori ylikuumensi. ;1
+Mies loukkasi selkäänsä. ;effect;Hän meni psykiatrille. ;Hän jäi nukkumaan useita päiviä. ;1
+Sytytin tulen. ;cause;Minulla ei ollut enää polttopuita. ;Talossa oli kylmä. ;1
+Nainen lopetti juoksun. ;cause;Hänellä on kramppi kyljessä. ;Hän sai uuden henken. ;0
+Koputin naapurin oveen. ;effect;Naapurini kutsui minut sisään. ;Naapurini lähti kotoaan. ;0
+Nainen huokaisi turhautuneena. ;cause;Hänen miehensä ymmärsi väärin hänen huolensa. ;Hänen miehensä suuteli häntä hyvästiksi. ;0
+Opettaja kiitti oppilasta. ;cause;Opiskelija vastasi kysymykseen oikein. ;Opiskelija epäröi vastata kysymykseen. ;0
+Naisella loppuivat munat. ;effect;Hän meni tilalle. ;Hän meni supermarkettiin. ;1
+Tapasin vanhan ystävän. ;effect;Paljastin hänelle salaisuuden. ;-Hän oli hyvä. ;1
+Nainen vältti menemistä järveen. ;cause;Hän nappasi kalan. ;Se näytti saastuneelta. ;1
+Opiskelija saapui luokkaan märkä. ;cause;Hänen sateenvarjonsa oli rikki. ;Hänen pyöränsä varastettiin. ;0
+Tietokoneen näytön viittaus liikkui. ;cause;Käyttäjä klikkasi hiirtä. ;Käyttäjä siirtää hiirtä. ;1
+Kuljettaja meni kiertotietä. ;cause;Päätiellä sattui onnettomuus. ;Hän seurasi autoa. ;0
+Ripusin märät pellavat ulkona pyykkijonolle. ;effect;Pelivaatteet kuivuivat. ;- Pesuvaatteet ovat tahrattuja. ;0
+Nainen otti lasit päähänsä. ;cause;Aurinko paistoi kirkkaasti. ;Hän kutsui taksin. ;0
+Mies tuijotti yötaivaita. ;cause;Hän toivoi, että olisi kesä. ;Hän piti sitä kauniina. ;1
+Olin uupunut. ;effect;Menin aikaisin nukkumaan. ;Olin hereillä koko yön. ;0
+Mies meni parturiin. ;cause;Hän kasvatti hiuksiaan. ;Hänen hiuksensa olivat pitkittyneet. ;1
+Poika leikki ilkeitä temppuja uudelle luokkatoverilleen. ;cause;Poika toivotti uuden luokkatoverinsa tervetulleeksi. ;Poika ei pitänyt uudesta luokkatoveristaan. ;1
+Halusin lasin maitoa. ;cause;Söin keksit. ;Leipasin leipää. ;0
+Alkoi sataa. ;effect;Kuljettaja sytytti ajovalaisimet. ;Kuljettaja kääntyi taaksepäin. ;0
+Rakennuksen pysäköintipaikka oli tyhjä. ;effect;Pysäköin kadun toiselle puolelle. ;Pysäköin sisäänkäynnin lähelle. ;1
+Kirjoittaja ei saanut käsikirjoitusta viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään viimeistään. ;cause;Hänellä oli kirjoittajaluokka. ;Hän muokasi luonnosta. ;0
+- Hän lopetti puhelun. ;cause;Pyysin puhumaan esimiehelle. ;Annoin henkilötunnukseni. ;0
+Tuuli puhalsi avoimen ikkunan läpi. ;effect;Ovenkello soi. ;Verhot värisivät. ;1
+Taloni sähkö katosi. ;cause;- Irrottelin lampun. ;-Suljetin sulakkeen. ;1
+Painojen nostaja murisi. ;cause;Hän nyrjäytti lihaksiaan peilissä. ;Hän nosti baarin päänsä yli. ;1
+Opiskelija yritti laskea laskelmat päässä. ;effect;Hän otti laskimen esiin. ;Hän sekoili. ;1
+Vauva nukahti. ;cause;Isä vaihtoi vauvan vaippaa. ;Isä raahasi vauvaa hellästi. ;1
+Tyttö heitti vesipalloa pojalle. ;effect;Poika sai aivotärähdyksen. ;Poika oli märkä. ;1
+Valokuvaaja unohti käyttää kameran välähteen. ;effect;Kuvat olivat hämärät. ;Kaikki kuvissa kieltäytyivät hymyilemästä. ;0
+Kieltäydyin kutsusta syntymäpäiväjuhliin. ;cause;Olin yksinäinen. ;Olin matkoilla. ;1
+Harjoittelin. ;cause;Tunsin itseni energiseksi. ;- Pelkäsin. ;0
+Puristin kosteaa sieniä. ;effect;Se imeytyi veteen. ;Se oli täynnä vettä. ;1
+Lomarit menivät lautalla lomakohteeseen. ;cause;- Majoitus oli varattu. ;Lomakeskusta oli saarella. ;1
+Teini-ikäinen teki tatuoinnin. ;cause;Hän pelkäsi neuloja. ;Hän halusi kapinoida. ;1
+Tuntematon auto pysäköityi taloni ulkopuolelle. ;effect;Minusta tuli epäileväinen. ;Soitin poliisille. ;0
+Rikollinen antautui. ;cause;Todisteet osoittivat hänen syyllistyneen. ;Häntä vastaan ei ollut todisteita. ;0
+Raskas mies päätti laihtua. ;effect;Hän lopetti makeiset. ;Hän vältti kofeiinia. ;0
+Tyttö astui jäälle. ;effect;Hän liukastui. ;Hän vapisi. ;0
+Naisella oli silmämunaa. ;cause;Hän oli hereillä koko yön. ;Hän laittoi poikansa nukkumaan. ;0
+Tulivuoresta virtaa laavaa. ;cause;Tulivuori purkautui. ;Tulivuori oli lepotilassa. ;0
+Nainen otti kengät jalkaansa. ;cause;Hän tunsi kaikki juhlissa. ;Hän halusi lähteä juhlista. ;1
+Maksoin maksupisteen vartijalle. ;effect;Hän antoi minun mennä läpi. ;Hän pidätti minut tullipisteessä. ;0
+Johtaja meni konkurssiin. ;cause;Hän myi yhtiönsa osakkeet. ;Hän tuhlasi omaisuutensa. ;1
+Mies meni lääkärille. ;cause;Lääkäri oli lomalla. ;Mies tunsi olonsa huonoksi. ;1
+Lähdin makuuhuoneesta ikkunasta. ;cause;Talo oli tulessa. ;Talo oli tyhjä. ;0
+Pojan sormet olivat harmaantuneet. ;cause;Hän otti pitkän suihkun. ;Hän höllensi kätensä saippualla. ;0
+Minä syljen maidon ulos. ;cause;Maito maistui hapuisalta. ;Suuni oli kuiva. ;0
+- En ehtinyt bussille. ;effect;Tulin aikaisin töihin. ;- Olin myöhässä töistä. ;1
+Kuorma-auto törmäsi autoon. ;effect;Kuorma-auto kiihdytti. ;Auto on rikki. ;1
+Joukkue järjesti kilpailun omaksi hyväkseen. ;effect;He voittivat. ;He lopettivat. ;0
+Lääkkeen pullot siiselevät. ;cause;Käänsin pullon ympäri. ;Käänsin sen pois. ;1
+Poika oli lukittuna ulos talostaan. ;effect;Hän ryömi sisään avoimesta ikkunasta. ;Hän nousi katolle. ;0
+Ovenkello soi. ;effect;Vierailija koputti oveen. ;Nainen tuijotti oven lukko-aukosta. ;1
+Mies tahraili puvunsa. ;effect;Hän on saanut sen pesulasta. ;Hän ripusti sen kaappiinsa. ;0
+Tyttö puristi hammastahnaa. ;effect;Hammastahna suihkutti putkesta. ;Tyttö sylki hammastahnan ulos. ;0
+Sodan siviilikuolemat nousivat. ;effect;Rauhanmieliset järjestivät mielenosoituksen. ;Rauhanmieliset pitivät paraatin. ;0
+Tyttö veti nauhan hiuksistaan. ;cause;Hän sitoi nauhan. ;Nauhalla oli lapsen näköinen ulkonäkö. ;1
+Hän teki plastiikkakirurgiaa. ;effect;Hän vanheni. ;Hän näytti nuoremmalta. ;1
+Munasta nousi kananpoika. ;cause;Munasta kuoriutui. ;Minä murskasin munan. ;0
+Vanki kuoli nälkään. ;effect;Hän kuoli. ;Hän pakeni. ;0
+Mies menetti tasapainon tikapuissa. ;effect;Hän nousi tikkaita ylös. ;Hän putosi tikkailta. ;1
+Lapsi röyhtäsi. ;cause;Hän otti siemauksen limsaa. ;Hän avasi limsa-astian. ;0
+Ikkunasta tuli kylmä virta. ;effect;Minä rentouduin. ;Minä vapisin. ;1
+Opiskelija sai stipendin mennäksesi yliopistoon. ;cause;Hänen luokkatoverinsa kunnioittivat häntä. ;Hän sai hyviä arvosanoja. ;1
+Tyttö pilkkasi poikaa. ;cause;Hän asui naapurissa. ;Hän oli ihastunut häneen. ;1
+Nälkä vaeltaja varasti ruokaa. ;cause;Hän herätti sääliä. ;Hänellä ei ollut rahaa. ;1
+Soitin ystävälleni juttelemaan. ;cause;Halusin olla rauhassa. ;Tunsin itseni yksinäiseksi. ;1
+Mies ojensi kätensä minulle. ;effect;Otin hänen kättään. ;Löin häntä. ;0
+Minä väistyin. ;cause;Ilotulitukset alkoivat ilmassa. ;Frisbi lentää päin päätäni. ;1
+Tyttö puri kynsiään. ;cause;Hän oli huolissaan. ;Hän oli yllättynyt. ;0
+Käänsin kalenterin sivun. ;cause;- Kirjoitin tapaamisen kalenterille. ;Se oli uuden kuun alku. ;1
+Aviomies sai selville, että vaimolla oli suhde toiseen. ;effect;Hän erotti asianajajansa. ;Hän hakee avioeroa. ;1
+Tyttö pudotti kumipallon. ;effect;Pallo pomppii. ;Pallo loisti. ;0
+Tyttö teki virheen kokeessa. ;effect;Hän arveli vastauksen. ;Hän pyyhki vastauksensa. ;1
+Pelaaja taklaa vastustajansa. ;effect;Vastustaja nappasi syöttön. ;Vastustaja osui maahan. ;1
+Minä poimin tomaatit viiniköynnöksestä. ;cause;Ne olivat kypsiä. ;Minä kastelin niitä. ;0
+Mies halusi esittää romanttista. ;effect;Hän tapasi ex-tyttöystävänsä lounaalla. ;Hän osti tyttöystävälleen suklaata. ;1
+Lämpömittariin on tullut elohopeaa. ;cause;Pudotin lämpömittarin. ;Sää lämmensi. ;1
+Tornado tuli kaupungin läpi. ;effect;Oikeustalon katto räjähti. ;Moottoritiellä oli vaarallista jäätä. ;0
+Opiskelija sai opetusta. ;effect;Hänen arvosanansa paranivat. ;Hän huijasi tentissä. ;0
+Tunsin oloni mukavaksi. ;cause;Polvistuin maahan. ;Kiedän itseni peittoon. ;1
+Minä kiven kiillotin. ;effect;Se liukui. ;Se alkoi kiiltäväksi. ;1
+Lisäsin sokeria kahviin. ;effect;Kahvi tuoksui vahvalta. ;Kahvi maistui makealta. ;1
+Mies raapusti lehtiä. ;effect;Hän sai leikkauksen paperiin. ;Hän repi paperit kappaleiksi. ;0
+Löin naulaa vasaralla. ;effect;Naula syöksyi puuhun. ;Naula ruostui. ;0
+Kala puri köyttä. ;effect;Kalastaja veti kalan. ;Kalastaja laittaa köyden uudelleen. ;0
+Teini-ikäinen häpeää mennä kouluun. ;cause;Hänellä on pimpseli. ;Hän otti hammasraudat pois. ;0
+Ilmeeni kirkastui. ;cause;Sain hyviä uutisia. ;Menetin kärsivällisyyteni. ;0
+Pyyhin käteni pyyhkeellä. ;cause;Pyyhe oli märkä. ;Käteni olivat märät. ;1
+Mies menetti tasapainonsa tuolilla. ;cause;Pöytä vapisi hänen allaan. ;Hän kaatoi maalia tuoliin. ;0
+Joukkueet syyttivät toisiaan. ;cause;He hävisivät pelin. ;Valmentaja perui harjoittelun. ;0
+Pyysin anteeksiantoa. ;cause;Kadun virheeni. ;Olen saavuttanut tavoitteeni. ;0
+Nainen kyllästyi seuralaiseensa. ;cause;Hän kysyi häneltä itsestään. ;Hän puhui loputtomasti itsestään. ;1
+Tyttö hymyili. ;effect;Hänen poskensa punastuivat. ;Hänen kuoppiensa tuli näkyviin. ;1
+Vihollisen alus räjähti. ;cause;Se ohitti kaivoksen. ;Se purjehti satamaan. ;0
+Mies lävistti jalkansa. ;cause;Hän käveli suihkulähteeseen. ;Hän astui lasinmuruihin. ;1
+Etsijät etsivät sormenjälkiä rikospaikalta. ;effect;He löysivät murhaajan henkilöllisyyden. ;Ase löytyi rikospaikalta. ;0
+Moottoritiellä oli paljon liikennettä. ;effect;- Tein kiertotien. ;Pyysin kyytiä. ;0
+Kansankulujen talous heikkeni. ;effect;Monet sairastuivat. ;Monet ihmiset joutuivat työttömiksi. ;1
+Risteysvartija puhalsi pilliä lapsille. ;cause;He olivat menossa vastakkaiseen liikenteeseen. ;Hän tunnisti heidät naapurustostaan. ;0
+Käänsin silmäni ystävääni päin. ;cause;Hän kertoi totuuden. ;Hän sanoi jotain sarkastista. ;1
+Autosta loppui bensa. ;effect;Kuljettaja jäi tielle. ;Kuski otti autostoppikkaan. ;0
+Nainen synnytti. ;effect;Vauva syntyi. ;Naisella oli aamupahoinvointia. ;0
+Mies pyyhki hattua pois. ;cause;Hän otti hatun pois. ;Ulkona oli tuulista. ;1
+Tyttö osallistui luokkatoverinsa syntymäpäiväjuhliin. ;cause;Hän sai kutsun. ;Hän osti lahjan. ;0
+Pojan otsa tuntui kuumalta. ;effect;Hänen äitinsä mitatti hänen lämpötilansa. ;Hänen äitinsä vei hänet puistoon. ;0
+Mies suihkutti itseään partavettä. ;cause;Hän halusi tehdä vaikutuksen seuralaiselleen. ;Hän laittoi geeliä hiuksiinsa. ;0
+Talon sähkö katosi. ;effect;Etsin taskulamppua. ;Otin lapion. ;0
+Perhe muutti isompaan taloon. ;cause;Poika valmistui lukiosta. ;Äiti synnytti kaksoset. ;1
+Maratonin juoksija pysyi hitaassa tahdissa. ;cause;Hän halusi säästää energiaansa. ;Hän näki maaliviivan. ;0
+Poika potkaisi myyntiautomaattia. ;cause;Kone sylki vaihtorahat ulos. ;-Pussit oli jumissa. ;1
+Ystäväni koira kuoli. ;effect;Käänsin silmiäni häntä kohti. ;-Hän oli hyvä. ;1
+Kauppias ei saanut luottokorttia. ;effect;Hän kirjoitti velkakirjan. ;Hän maksoi käteisellä. ;1
+- Hän on kirottu. ;cause;Hän leikkasi kynnet. ;Hän iski varpaaseen. ;1
+Mies tunsi olevansa ylpeä veljestään. ;cause;Hänen veljensä riiteli heidän vanhempiensa kanssa. ;Hänen veljensä pääsi oikeustieteelliseen. ;1
+Tyttö halusi oppia aurinkokunnan. ;effect;Hän meni kirjastoon. ;Hän katsoi tähtiä. ;0
+Juliste jäi seinään. ;cause;Laitoin julisteen oven yläpuolelle. ;Panin teippiä julisteen taakse. ;1
+Asiakas hyväksyi arkkitehdin rakennussuunnitelman. ;effect;Arkkitehti rakensi rakennuksen. ;Arkkitehti muutti suunnitelmia. ;0
+Mies pudotti lusikansa. ;cause;Hänen kätensä tärisi. ;Hän nuoli lusikkaa. ;0
+Yhtiön toimitusjohtaja erosi. ;effect;Johtokunta hajotti yhtiön. ;Johtokunta löysi hänen tilalleen seuraajan. ;1
+Tulin myöhässä luennolle. ;effect;Istun takaosassa. ;Lähestyin lavalle. ;0
+Mies vapautettiin vankilasta. ;cause;Hänen perheensä maksoi hänen takuunsa. ;Hän hyökkäsi vankikaverinsa kimppuun. ;0
+Perhe menetti kaikki omaisuutensa. ;cause;He myivät talonsa. ;Heidän talonsa paloi. ;1
+Tulin alumiinipurkkiin. ;effect;- Se on kierrätys. ;Pullot on murskattu. ;1
+Tyttö liittyi väittelytiimiin. ;effect;Hän oppi käyttämään tietokonetta. ;Hän oppi kommunikointitaitoja. ;1
+Tunnelmani parani. ;cause;Kuuntelin musiikkia. ;Minä pesin astioita. ;0
+Hyväntekeväisyysjärjestö teki tavoitteekseen kerätä rahaa. ;effect;He ruokkivat kodittomia. ;He järjestivät huutokaupan. ;1
+Kiipeilylasku syöksyi jyrkän pudotuksen alas. ;effect;Matkustajat nauroivat. ;Matkustajat huusivat. ;1
+Olin raivoissani. ;effect;Tarkistin postilaatikon lähtiessäni talosta. ;Suljin oven lähdettyäni talosta. ;1
+Mies halusi katsoa auringonnousua. ;effect;Hän matkusti pohjoiseen. ;Hän nousi aikaisin. ;1
+Taivutin lehden. ;effect;- Kierrätin paperin. ;Paperi rypistyi. ;1
+Kansa kärsi luonnonkatastrofin. ;effect;Toisten maiden johtajat muodosti liiton. ;Toisten maiden johtajat lähettivät hätäapua. ;1
+Pojan vaatteet ovat märät. ;cause;Hän nousi altaasta. ;Hän putosi altaaseen. ;1
+Opiskelija kiiruhti lukemaan kirjan loppuun. ;cause;Se oli tarkoitus palauttaa kirjastoon. ;Hän lainasi sitä ystävältä. ;0
+Rikollinen teloitettiin. ;cause;Hänet heitettiin vankilaan. ;Hänet tuomittiin murhasta. ;1
+Aurinko laskeutui huoneeseen. ;cause;Avasin verhot. ;Minä avasin oven. ;0
+Vedin huijarin hiuksia. ;effect;Hänen peruukkinsa irtosi. ;Hän kaljuuntui. ;0
+Päätoimittaja muokasi käsikirjoituksen lauseen. ;cause;Hän piti käsikirjoitusta vakuuttavana. ;Hän piti tuomiota epäselvänä. ;1
+Nainen perui luottokorttitiliensä. ;cause;Hän tajusi, että kortti oli kadonnut. ;Hän tajusi, että kortti on vanhentunut. ;0
+Mies ja nainen rakastuivat. ;effect;He kävivät yliopistoa. ;He menivät naimisiin. ;1
+Musiikki oli liian heikko kuultavaksi. ;effect;Laitoin äänen kovemmalle. ;- Minä sävelsin oman laulun. ;0
+Pojan hiukset olivat ylhäällä. ;cause;Tyttö teki sen. ;Tyttö veti sitä. ;0
+- Se on murskattu. ;cause;Ruiskutin itseni hyönteismyrkkyllä. ;Astuin ötökän päälle. ;1
+Avasin silmäni. ;cause;Heräsin. ;Minä rentouduin. ;0
+Naapurini musiikki oli kovaa. ;effect;Pyysin häntä hiljentämään sitä. ;Pyysin häneltä CD:tä. ;0
+Hänen perheensä eli köyhyydessä. ;cause;Hän oli säästäväinen ansioissaan. ;Hän ansaitsi alle vähimmäispalkan. ;1
+Opiskelija valmistui yliopistosta. ;effect;Hän etsi työtä. ;Hän otti harrastuksen. ;0
+Taiteilija sekoitti keltaisen maalin siniseen maalaan. ;effect;Maalaus oli kaikkialla. ;Maalaus muuttui vihreäksi. ;1
+Muutin keskustelun aihetta. ;cause;Minulla ei ollut enää puhuttavaa. ;Keskustelu muuttui jännittäväksi. ;1
+Veljeni pääsi sairaalasta. ;effect;Toivotin hänet tervetulleeksi kotiin. ;- En välittänyt hänestä. ;0
+Lavalla oli verho. ;effect;Näytelmän avauskohtaus alkoi. ;Näytelmän näyttelijät poistuivat lavalta. ;0
+Panttivanki totteli sieppaajan käskyjä. ;cause;Kidnappaaja uhkasi vahingoittaa panttivankia. ;Kidnappaaja jätti panttivangin yksin. ;0
+Lavalla oli jyrinää. ;cause;Musiikkipoika taputti jalkaansa. ;Musiikkipoika löi rumpuun. ;1
+Vanhemmat kiirehtivät lapsensa makuuhuoneeseen. ;cause;Lapsi heräsi huutaen painajaisesta. ;Lapsi pelkäsi katsoa sänkyynsä. ;0
+Nainen puhui viittomakielellä. ;cause;Hän syntyi ennenaikaisesti. ;Hän syntyi kuurona. ;1
+Alueella oli kuivuus. ;effect;Vesi saastui. ;Viljelyt tuhoutuivat. ;1
+Kissa ajoi linnun takaa. ;effect;Lintu lensi pois. ;Lintu sai madon. ;0
+Tyttö vaihtoi koulua. ;cause;Koulu on vapaalla kesällä. ;Hän muutti uuteen kaupunkiin. ;1
+Tehtaan omistaja kieltäytyi nostamasta työntekijöiden palkkoja. ;effect;Omistaja nimitti uuden johtajan. ;Työntekijät lakkoilivat. ;1
+Johtaja vihasi maansa ääri-ihmisiä. ;effect;Äärimmäiset vaikuttivat häneen. ;Äärimmäiset murhasivat hänet. ;1
+Kävelin alasti rannalla. ;effect;Hiekka jäi jalkoihini. ;Aallot iskivät rantaan. ;0
+Heräsin keskellä yötä ja tunsin kylmyyttä. ;effect;Laitoin housut jalkaan. ;Join lasin vettä. ;0
+Äiti hiljensi poikansa. ;cause;Hänen poikansa hymyili. ;Hänen poikansa itki. ;1
+Jeanssissani on reikä. ;cause;Suljin farkut. ;Kompastuin jalkakäytävälle. ;1
+Poika käytti hammasraudat. ;effect;Hänellä on ihonala. ;Hänen hampaansa olivat suorat. ;1
+Harjoittelin eilen salilla. ;effect;Heräsin tänään lihaskipuissa. ;Heräsin tänään kurkkukipuineen. ;0
+Tyttö kuiskasi edestakaisin toisilleen lounasajalla. ;effect;Muut oppilaat istuivat lounastaululle. ;Muut lounaalla olleet opiskelijat tunsivat olevansa syrjäytyneitä. ;1
+Lapsi laskeutui trampolinille. ;effect;Hän hyppäsi takaisin ilmaan. ;Hän päätti yrittää kääntää. ;0
+Jätin kirjeen postilaatikkoon. ;effect;Posti toimitti kirjeen. ;Postitoimisto kiirensi kirjeen lähettämistä. ;0
+Pelaaja oli itsevarma. ;effect;Hän panosti kaikki rahansa. ;Hän palasi kotiin rahattomana. ;0
+Metsänpalo levisi. ;cause;Tuulet voimistuivat. ;Tuhopolttajat pidätettiin. ;0
+Lapsi nylki polvensa. ;effect;Hänen äitinsä lähetti hänet huoneeseensa. ;Hänen äitinsä laitoi siteen haavaan. ;1
+Mies selvisi kuolettavasta sairaudesta. ;cause;Hän allekirjoitti testamenttinsa. ;Hän sai elinsiirron. ;1
+Otin siemauksen paahtavaa kahvia. ;effect;Purin kieltäni. ;Poltin kielen. ;1
+Päätoimittaja erotti kirjoittajan. ;cause;Kirjoittaja vältti puolueellisuutta tarinoissaan. ;Kirjoittaja ei ehtinyt tärkeään määräaikaan. ;1
+Olin uupunut. ;cause;Nukuin koko päivän. ;Opiskelin koko päivän. ;1
+Lääkäri diagnosoi potilaan. ;cause;Hän tunnisti potilaan oireet. ;Hän määräsi potilaalle lääkkeitä. ;0
+Raaputin ihoani. ;cause;Se oli hikoillut. ;Se kutitti. ;1
+Mies joutui kiireelliseen leikkaukseen. ;cause;Hän menetti malttinsa. ;Hän sai sydänkohtauksen. ;1
+Mies oli lihasten kanssa. ;cause;Hän taivutti käsiään. ;Hän hieroi käsiään. ;0
+Mies nosti kulmakarvansa. ;cause;Hän oli yllättynyt. ;Hän oli masentunut. ;0
+Suostuin hyväksymään kollegani erehdyksen. ;cause;Uskoin hänen aikomustensa olevan hyviä. ;Uskoin, että hän tiesi paremmin. ;0
+Mies lopetti tupakoinnin. ;effect;Hän alkoi liikkua enemmän. ;Hän alkoi herätä aikaisemmin. ;0
+Nainen löi hyökkääjää nenään. ;effect;Hyökkääjän ruumis kuoli. ;Hyökkääjä alkoi vuotaa verta. ;1
+Nuoli ei osunut tähtäimeen. ;cause;Mies oli väärässä. ;Hän oli häviämässä peliä. ;0
+Talon omistaja pyysi tuholaisten hävittäjää käymään talossaan. ;cause;Hän löysi rottia kellarista. ;Hänellä oli muurahaisfarmi huoneessaan. ;0
+Ehdotin vieraalleni, että menisimme ulos syömään. ;cause;Olin liian väsynyt valmistautumaan. ;Vieraani jäi liian pitkäksi aikaa. ;0
+Tyttö näki veljensä lukevan hänen päiväkirjaansa. ;effect;Hän alkoi piilottaa päiväkirjaa. ;Hän sai uuden päiväkirjan. ;0
+Naisella ei ollut rahaa vuokraa varten. ;effect;Hän teki ylitöitä. ;Hän erosi työstään. ;0
+Lapsen käsi vetäytyi nopeasti. ;cause;Hän koski kuumaa liesiä. ;Hän taputti koiranpennun päätä. ;0
+Yritys halusi mitata asiakastyytyväisyyttä. ;effect;He tarjosivat alennusta uusille asiakkaille. ;He jakoivat kyselyn asiakkaille. ;1
+Puinen lattia raaputettiin. ;cause;Poika heitti tyynyt sohvalta. ;Poika raahasi tuolin lattian yli. ;1
+Suojelin kasvojani. ;cause;Viholliseni pilkkasi minua. ;Viholliseni nosti nyrkin. ;1
+Kuuluisa patsas paloi. ;cause;Samaan osui salama. ;Ihmiset tulivat kunnioittamaan sitä. ;0
+Jätin hedelmät pöydälle. ;effect;Hedelmät vuodattivat siemenet. ;Siihen tuli paljon kärpäsiä. ;1
+Ballerina repi nivelsiteen. ;cause;Hän osoitti varpaillaan. ;Hän väänsi nilkkansa. ;1
+Lapsen kengännauhat olivat auki. ;cause;Hän oppi sitomaan ne. ;Hän juoksi leikkikentällä. ;1
+Kirja kiehtoi minua. ;effect;Palautin kirjan. ;Menetin ajan tajun. ;1
+Miehellä oli samanlaiset uskomukset kuin hänen vanhemmiltaan. ;cause;Hänen vanhempansa vaikuttivat häneen. ;Hänen vanhempansa hylkäsivät hänet. ;0
+Auto hidasti asteittain pysähtymään. ;cause;Bensa loppui. ;Kuski nukahti. ;0
+Mies söi jäätelön auringossa. ;effect;Jäätelö menetti makunsa. ;Jäätelö tippui kuoriin. ;1
+Ripustin taideteoksia huoneeseen. ;cause;Matto näytti likaiselta. ;Seinät näyttivät alasti. ;1
+Lähdin töistä aikaisin. ;cause;Minulla oli päänsärky. ;Pomoni piti kokouksen. ;0
+Koiranpentu likaa maton. ;effect;Omistaja nuhteli pentuun. ;Omistaja antoi koiranpennulle herkkuja. ;0
+Pyysin anteeksi ystävältäni. ;effect;Ystäväni antoi anteeksi. ;Ystäväni raivostui. ;0
+Mies erottui joukosta. ;cause;Hänellä oli reppu. ;Hänellä oli neonliivi. ;1
+Todistaja valehteli valan alla. ;effect;Hän sai todistuksensa valmiiksi. ;Häntä syytettiin väärästä valasta. ;1
+Nainen värjäsi hiuksensa. ;cause;Hän halusi uuden ulkonäön. ;Hän halusi sulautua joukkoon. ;0
+Maahanmuuttajat jäävät kiinni laittomasti maassa. ;effect;He löysivät työtä. ;Heidät karkotettiin. ;1
+Puhuja teki vitsin. ;effect;Yleisö nauroi. ;Yleisö nousi seisomaan. ;0
+Katsoin aurinkoon. ;effect;Aurinko sokaisi minut. ;Aurinko rusketti ihoa. ;0
+Tunsin tylsää. ;effect;Minä haukkasin. ;Minä haukkasin. ;1
+Pihvi oli vaikea leikata. ;cause;Veitsi oli tylsä. ;- Se oli raakaa. ;0
+Nainen on ilmoittanut konkurssinsa. ;cause;Hän sai elatusmaksun. ;Hän hankki valtavia velkoja. ;1
+Ystäväni asunnon valot olivat päällä. ;effect;- Mietin, oliko hän ulkona. ;Päätin käydä katsomassa häntä. ;1
+Laitoin kukan nenäni alle. ;effect;Kukat irtosivat terälehdistä. ;Haistoin sen kukkahuuman. ;1
+Nainen tunsi nostalgiaa. ;cause;Hän törmäsi lapsuudenystäväänsä. ;Hän huusi lapsilleen. ;0
+Opiskelija viivytti paperin tekemistä. ;effect;Hän toimitti paperin aikaisin. ;Hän toimitti paperin puutteellisesti. ;1
+Autoni hajosi. ;effect;Kävin ostoksilla. ;Soitin mekaanikolle. ;1
+Heitin viestin pois. ;cause;Se oli nimettömän. ;Se oli lukematon. ;1
+Lintu iski siipiään. ;effect;Se munisi. ;Se nousi ylös. ;1
+Pysäköin pihalle. ;cause;Autotalli oli auki. ;Autotalli oli täynnä. ;1
+Rikollinen tähtäsi aseella uhriaan. ;effect;Rikollinen laski aseen. ;Uhri nosti kätensä ylös. ;1
+Odotin viikonloppua. ;cause;Olin menossa setäni hautajaisiin. ;Olin menossa ystävän häihin. ;1
+Menetin ajan tajun. ;cause;Minä vain unelmoin. ;Minua pahoinpideltiin. ;0
+Asiakirja tulostettiin lukemattomasti. ;cause;Tulostin muste oli vähissä. ;Paperi loppui. ;0
+Stadionilla soitettiin kansallislaulua. ;effect;Fanit kääntyivät lipun puoleen. ;Fanit ryntäsivät kentälle. ;0
+-Sipsi maistui tylsältä. ;effect;Minä tarjosin sen. ;Laitoin siihen suolaa. ;1
+Laitoin paperi pyyhkeen vuotoon. ;effect;Pyyhe imeytyi nesteeseen. ;Vuoto jätti tahmean jäänteen. ;0
+Nainen keskeytettiin keskellä kirjaa. ;effect;Hän merkitsi sivun. ;Hän luki kirjan uudelleen. ;0
+Koneeseen osui turbulenssia. ;effect;Mies kiristi turvavyötään. ;Mies katsoi ulos ikkunasta. ;0
+Poika tärisi. ;cause;Tyttö ei välittänyt hänestä. ;Tyttö iski häntä. ;1
+Lääkärit antoivat potilaalle keinotekoisen raajan. ;cause;He amputoivat hänen jalkansa. ;Hänen elintoimintansa tarkkailtiin. ;0
+Poika nipisti tyttöä kyynärpäästä. ;effect;Hän nosti olkapäitä. ;Hän veti kätensä pois hänestä. ;1
+Kysyin ystävältäni neuvoa. ;cause;Arvostin hänen mielipidettään. ;Tiesin, että olin oikeassa. ;0
+Poika astui mutaan. ;effect;- Liete tarttui hänen kenkiinsä. ;- Hän sai mudasta selkäänsä. ;0
+Kaupungissa putosi useita senttimetrejä lunta. ;effect;Koulut suljettiin. ;Ihmiset piiloutuivat maan alle. ;0
+Työntekijän vuoro päättyi. ;effect;Hän meni kotiin. ;Hän uhkasi lopettaa työnsä. ;0
+Puu vahingoitti taloa. ;cause;Puu putosi katolle. ;Puu varjosti takapihalla. ;0
+Puun puolittaminen. ;cause;Pistin puun takan päälle. ;Käänsin kirvestä puuhun. ;1
+Perhe onnitteli pariskuntaa. ;cause;Pariskunta ilmoitti eroavansa. ;Pariskunta ilmoitti, että heillä oli lapsi. ;1
+Tyttö lähetti pojalle ystävänpäiväkortin. ;cause;Hän piti hänestä. ;Hän suuteli häntä. ;0
+Nyökkäsin ystävän lausunnon johdosta. ;cause;Olin hämillään. ;Olin samaa mieltä hänen kanssaan. ;1
+Ystävät heittelivät kolikkoa. ;cause;He halusivat löytää kompromissin. ;He halusivat tehdä oikeudenmukaisen päätöksen. ;1
+Keittiön ajasin on sammunut. ;effect;Mies purki ostokset jääkaappiin. ;Mies otti pitsan uunista. ;1
+Nainen asetti itselleen kunnianhimoisen tavoitteen. ;effect;Hän laihdutti. ;Hän teki kovasti töitä. ;1
+Rikas mies kuoli vanhuuteen. ;effect;Hänen poikansa joutui oikeudellisiin vaikeuksiin. ;Hänen poikansa perii hänen omaisuutensa. ;1
+Nainen astui liekkeihin. ;effect;Liekit sammuivat. ;Liekeistä nousi savua. ;0
+Naisen auto oli korjaamolla. ;cause;Hänen ajokorttinsa peruutettiin. ;Hän joutui auto-onnettomuuteen. ;1
+Nukuin herätyskelloon. ;effect;Tein aamiaista. ;En syönyt aamiaista. ;1
+Julkinen hahmo tuli ulos limusiinista. ;effect;Kamerat vilkkasivat hänen suuntaansa. ;Hänen perheensä osallistui lehdistötilaisuuteen. ;0
+Nainen viipyi kylpyammeessa. ;effect;Kylpyveden lämpö nousi. ;Kylpyvesi tyhjeni ammeesta. ;0
+Opiskelija halusi tavata muita opiskelijoita kampuksella. ;effect;Hän liittyi veljeskuntaan. ;Hän opiskeli insinööriä. ;0
+Nostin sohvan tyynyjä. ;cause;Etsin muutosta. ;Järjestin olohuoneen uudelleen. ;0
+- Se lentää poikaa kohti. ;effect;Poika pakeni. ;Poika poimi kukkaa. ;0
+Nainen todettiin syylliseksi rikokseen. ;effect;Hänet tuomittiin yhteiskunnalliseen työhön. ;Hänet pantiin kuolemaantuomittujen joukkoon. ;0
+Sekoitin sokeria kuumaan teeseen. ;effect;Teetä höyrytettiin. ;Sokeri liuottiin. ;1
+Veteraani käveli nilkkaaen. ;cause;Hänet värväytettiin sotaan. ;Hän haavoittui taistelussa. ;1
+Rikollinen pakeni poliisilta. ;effect;Poliisi hoiti uhrin. ;Poliisi ajoi rikollista takaa. ;1
+-Kone ei käynnistynyt. ;cause;Minä pudotin sen. ;-Lasasin sen. ;0
+Naisen kaapissa ei ollut enää tilaa. ;cause;Hän hankki laajan vaatekaapin. ;Hän taitteli pyykkinsä. ;0
+Mies oli sydän särkynyt. ;cause;Hänen vaimonsa synnytti. ;Hänen vaimonsa jätti hänet. ;1
+Mies sai tutkinnon. ;effect;Hän sai pätevyyden haluamaansa työhön. ;Hänen työtarjouksensa peruttiin. ;0
+Mies kuuli äänensä selvästi koko auditoriossa. ;cause;Hän tervehti yleisöä. ;Hän puhui mikrofoniin. ;1
+Heitin kolikon vesiputoukseen. ;effect;Kolikko uppoutui pohjaan. ;Kolikko murtui kahtia. ;0
+Pelaaja lyö palloa kohti reikää. ;effect;Pallo meni reikään. ;Pallo vetäytyi takaisin pelaajan puolelle. ;0
+Hengitin pölyä ullakolla. ;effect;Minulla oli hikka. ;Minä aivastin. ;1
+Kaupan kassa soitti vartijoille. ;cause;Asiakas käytti väärennettyä rahaa. ;Asiakas jätti ajovalonsa päälle. ;0
+Vein roskat ulos. ;cause;Roska sai keittiön haisemaan pahalle. ;Heitin vahingossa pois ostoslistan. ;0
+Perhe meni eläintarhaan. ;effect;Lapset ihailivat eläimiä. ;Lapset ajoivat eläimiä takaa. ;0
+Mies hengitti kovaa. ;cause;Hänen munuaisensa olivat epäonnistuneet. ;Hänen keuhkonsa olivat tukossa. ;1
+Minulla oli ylimääräinen lippu konserttiin. ;effect;Kysyin ystävältäni reittiä. ;Kysyin ystävältäni, haluaako hän lähteä. ;1
+Talon ilmastointilaite hajosi. ;effect;Toin peittoja. ;Avasin ikkunat. ;1
+Pojan selkä särkee. ;cause;Hänen reppunsa oli auki. ;Hänen reppunsa oli painava. ;1
+Ostin äidilleni lahjan. ;cause;Leivotin hänelle kakun. ;- Hän oli syntymäpäivänä. ;1
+Puutarhan nartsitsit tuhoutuivat. ;cause;Mehiläinen puri puutarhuria. ;Oravat kaivoivat sipulit esiin. ;1
+Löin tikun. ;effect;Lieke sammui. ;Sytytys tuotti liekkiä. ;1
+Riitaiset osapuolet pääsivät sopuun. ;cause;He eivät halunneet väitellä oikeudessa. ;He halusivat korjata henkilökohtaisen suhteensa. ;0
+Lapset lähetettiin orpokotiin. ;cause;Heidän vanhempansa kuolivat. ;Heidän vanhempansa hemmottelivat heidät. ;0
+Meteoriitti laskeutui mereen. ;effect;Tsunami tapahtui. ;Se alkoi raataa. ;0
+Vaeltaja kohtasi myrkyllisen käärmeen. ;effect;Hän tuli kuivuneeksi. ;Hän paniikkasi. ;1
+Uuni tuli kuumaksi. ;cause;Laitoin uunin päälle. ;Laitoin astian uuniin. ;0
+Puristin sitruunan. ;effect;Sitruuna on homettunut. ;Sitruuna suihkutettiin. ;1
+Maat löysivät uusia maita. ;effect;Maa hylkäsi maan. ;Maa siirtomaa maata. ;1
+Lasit putosivat pöydältä. ;effect;Se hajosi lattialle. ;Se putosi pyykkipylvään. ;0
+Pöytä heilui. ;cause;Lattia oli epätasainen. ;Lattia oli liukas. ;0
+Isä sai poikansa kiinni valehtelemasta. ;effect;Hänen poikansa tunnusti totuuden. ;Isä luotti poikaansa. ;0
+Mies sai kivusta päänsä sykkivän. ;effect;Hän otti yskänlääkettä. ;Hän otti aspiriinia. ;1
+Juna hidastui. ;cause;Se lähestyi asemaa. ;Se oli aikataulusta myöhässä. ;0
+Hän kävi terapiassa. ;cause;Mielisairaus oli perinnöllistä. ;Hänellä todettiin masennus. ;1
+Nainen tarttui kurkkuunsa. ;cause;Hän nielaisi ruokansa. ;Hän tukehtui ruoalleen. ;1
+Naisen kurkku oli kipeä. ;effect;Hänen äänensä kuulosti karkealta. ;Hän puhui aksenttipuheella. ;0
+Koira tuijotti mehukasta pihviä pöydällä. ;effect;Se kuolasi. ;Se laskeutui. ;0
+Naisen liike menestyi. ;effect;Hän erotti työntekijänsä. ;Hänestä tuli rikas. ;1
+Opiskelijat lähtivät luokkahuoneesta. ;cause;Kello soi. ;Opettaja antoi kotitehtäviä. ;0
+Nainen väitti nähneensä aaveen. ;effect;Hänen tuttavansa ilmaisivat epäilyksensä. ;Hänen tuttavansa olivat sukua hänelle. ;0
+Mies menetti kuulonsa. ;cause;Hän melkein hukkui mereen. ;Hän melkein kuoli räjähdyksessä. ;1
+Lapsi päästi irti ilmapallon narusta. ;effect;Pallopallo tyhjensi. ;Pallopallo nousi ilmaan. ;1
+Mies menetti kykynsä puhua. ;cause;Hän sai aivohalvauksen. ;Hän otti syvään henkeä. ;0
+Nainen kompastui jalkakäytävälle. ;cause;Sementissä oli halkeama. ;Hän kuuli nimensä kutsutusta. ;0
+Mies ampui asepallolla altaaseen. ;effect;Pelastaja hyppäsi hänen peräänsä. ;Mies kastasi hengenpelastajaansa. ;1
+Otin antibiootteja. ;effect;- Tulehdus parani. ;- Tulehdus levisi. ;0
+Liikennevalo muuttui keltaiseksi. ;effect;Kuljettaja painoi jarruun. ;Kuski puhalsi torvensa. ;0
+Muovipullo sulasi. ;cause;Minä kastelin säiliön lämpimään veteen. ;Laitoin säiliön kuumaan liesiin. ;1
+Auto on murtunut. ;cause;Kuljettaja törmäsi puhelinpylvään. ;Kuljettaja ajoi punaisella. ;0
+Poika opiskeli koko yön. ;effect;Hän ei ollut kokeessa. ;Hän läpäisi tentin. ;1
+Nuori poika tarttui altaaseen. ;cause;Hän pelkäsi uimaan oppimista. ;Pelastaja oli töissä. ;0
+Laitoin käteni rintaani. ;effect;Tunsin sydämeni lyövän. ;Sydäntyynni kiihtyi. ;0
+Toimistoni vieressä oleva rakennus oli rakennustyössä. ;effect;Toimistossani oli ruuhkaa. ;Toimistossani oli meteliä. ;1
+Perhe halusi tutustua uusiin naapureihinsa. ;effect;Perhe kutsui naapurit illalliselle. ;Perhe vilkutti naapureille pihallaan. ;0
+Vesi on suihkunut altaasta. ;cause;Uimailija sukelsi altaaseen. ;Uimailija kellui altaassa. ;0
+Puristin vesimelonin. ;effect;Nielaisin vahingossa siemenen. ;-Olen vahingossa repinyt hampaan. ;0
+Poika kompastui. ;cause;Takki oli auki. ;Hänen kengännauhansa olivat auki. ;1
+Nainen laittoi korvatulpat. ;cause;Ääni häiritsi häntä. ;Hän sai korvat lävistetyksi. ;0
+Täytin vesipulloni. ;cause;Join kaiken veden. ;Pidin sitä jääkaapissa. ;0
+Televisiosarja sensuroitiin. ;cause;Se sisälsi vulgaaria sanoja. ;Siinä oli monimutkainen juoni. ;0
+Alus haaksirikkoutui. ;effect;Miehistö hukkui. ;Miehistö kohtasi merirosvoja. ;0
+Poika tunsi olevansa hämmentynyt arvoituksesta. ;effect;Hän ratkaisi arvoituksen. ;Hän pyysi vihjeitä. ;1
+Puhelin soi. ;effect;Mies katkaisi puhelun. ;Mies vastasi puhelimeen. ;1
+Nainen tuijotti minua. ;effect;- Minä halailin häntä. ;Tunsin oloni epämukavaksi. ;1
+Ryhmä lähti museosta. ;cause;He ottivat kuvia näyttelyistä. ;He näkivät kaikki näyttelyt. ;1
+Mies alkoi riidellä kanssani. ;effect;Ystäväni esitteli minut miehelle. ;Ystäväni puolusti minua. ;1
+Pyöräni rengas oli tyhjä. ;effect;Pumppailin ilmaa renkaan. ;Vaihdoin pyörän vaihdetta. ;0
+Tyttö näytti kalpealta. ;effect;Hänen isänsä luki hänelle tarinan. ;Isä kosketti hänen otsaa. ;1
+Kynästä loppui muste. ;effect;Käytin kynää. ;Allekirjoitin nimelläni. ;0
+Mies ei saanut lainaa. ;cause;Hän oli velkaa. ;Hän aloitti yrityksen. ;0
+Tyttö jäi kotiin koulusta. ;cause;Hänellä oli vesirokko. ;Hän nautti matematiikan oppimisesta. ;0
+Roskapussi oli täynnä. ;effect;Vein sen roskakoriin. ;Heitin sen altaaseen. ;0
+Pyyhin maton imurointiin. ;cause;Huonetoverini kaatoi punssia. ;Koirani vuotaa karvoja. ;1
+Mies menetti malttinsa. ;effect;Hän sulki tietokoneensa. ;Hän heitti tuolin huoneen toiselle puolelle. ;1
+Tyttö heitti oksan leiritulille. ;effect;Kanta paloi. ;Tuli sammui. ;0
+Mies tuli suihkusta. ;cause;Lämmin vesi oli poissa. ;Hän ei löytänyt pyyhkeitä. ;0
+Vanhemmat halusivat lastensa menevän yliopistoon. ;effect;He sääsivät rahaa opiskelurahoihin. ;He kannustivat lapsiaan leikkimään ulkona. ;0
+Mies avasi kengännauhansa. ;effect;Kengät löysäsivät. ;Kengät kuluneet. ;0
+Mies söi puolet pääruoasta. ;effect;Hän pakasti jääkaapin jäännökset. ;Hän säilytti reseptin. ;0
+Nilkkani oli turvonnut. ;effect;Laitoin jäätä siihen. ;Hieroin siihen voidetta. ;0
+Toimistoni ovi oli auki. ;effect;Puhuin kollegani kanssa. ;Kuulin keskustelun käytävällä. ;1
+Minun piti odottaa jonossa. ;effect;Minä istuin. ;- Minäkin luin lehden. ;1
+Mies iski kärpäselle. ;effect;kärpäs suusi pois. ;Lintu pysyi paikallaan. ;0
+Mies kirjoitti testamentin. ;cause;Hän oli kuolemaisillaan. ;Hän oli leski. ;0
+Juoksija aisti kilpailijansa saavuttavan hänet. ;effect;Hän vetäytyi kilpailusta. ;Hän kiihdytti vauhtiaan. ;1
+Mietin huolellisesti ongelmaa. ;effect;Pyysin neuvoa. ;Keksin ratkaisun. ;1
+Matkustaja käveli vapisevalla riippusillalla. ;effect;Hän tunsi pelkoa. ;Hän oli innoissaan. ;0
+Mies ennakoi joukkueen voiton. ;effect;Hän tapasi ystävänsä katsomaan peliä. ;Hän teki vetoa ystäviensä kanssa. ;1
+Poika ei saanut unta. ;effect;Hän asetti herätyskelloonsa. ;Hän laski lampaita. ;1

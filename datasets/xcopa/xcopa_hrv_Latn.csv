@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Ta stvar je bila u ambalaži od plastične folije. ;cause;Bio je krhki. ;Bilo je malo. ;0
+Ispraznio sam džepove. ;effect;Pronašao sam ulaznicu. ;Našao sam oružje. ;0
+Termiti su napali kuću. ;effect;Termiti su nestali iz kuće. ;Termiti su proždirali drvo u kući. ;1
+Putnici su stigli do granice. ;effect;Patrolni agent je provjerio njihove putovnice. ;Patrolni agent ih je optužio za krijumčarenje. ;0
+Ured je bio zatvoren. ;cause;Bio je praznik. ;Bilo je ljeto. ;0
+Djevojci je ponestalo energije. ;cause;Igrala je dame. ;Ona je skočila u konopac. ;1
+Žena je izgubila svoje mjesto u redu. ;cause;Više ljudi je ušlo u red. ;Izašla je iz reda. ;1
+Djevojka je uštamcala nos. ;cause;Beba je slinila na džep. ;Beba joj je uprljala pelenu. ;1
+Bend je svirao svoju hit pjesmu. ;effect;Publika je pljeskala uz glazbu. ;Publika je pristojno slušala u tišini. ;0
+Djevojčica je htjela zahvaliti svom učitelju matematike. ;effect;Djevojka je ostala nakon škole zbog kazne. ;Djevojka je donijela učiteljici jabuku. ;1
+Mladi kamperi su se uplašili. ;cause;Njihov savjetnik kamp im je ispričao priču o duhovima. ;Pecali su slatkiše na vatri. ;0
+Čovjek je udario glavu. ;effect;Izgubio se u mislima. ;Dobio je potres mozga. ;1
+Ček koji sam napisao nije isplaćen. ;cause;Moj bankovni račun je bio prazan. ;Zaslužio sam povišicu. ;0
+Muškarac je email sandučić bio pun spam. ;effect;Obriše spam. ;Poslao je masovnu e-poštu. ;0
+Mornar je bio u karanteni. ;cause;Bio je izložen bolesti. ;Ozdravio se od bolesti. ;0
+Djevojka je zapamtila šifru. ;cause;Ona je recitirala sama sebi. ;Zaboravila je zapisati. ;0
+Nalila sam vodu u čašu. ;effect;Voda mi je ugasila žeđ. ;Čaša je postala puna. ;1
+Čovjek je šutio kad je njegov prijatelj završio govoriti. ;cause;Htio je ponuditi prijatelju podršku. ;Razmišljao je o riječima svog prijatelja. ;1
+Nesreća je bila moja krivica. ;effect;Osjećao sam se krivim. ;Ja sam podnio tužbu. ;0
+Lanac se raspao. ;cause;Lanac je bio omotan oko gume. ;Bilo je slomljena karika u lancu. ;1
+Par je odlučio napraviti kompromis. ;cause;Umorili su se od svađe. ;Izbjegavali su raspravljati o problemu. ;0
+Žena je odlučila kandidirati za javnu funkciju. ;effect;Unajmila je menadžera kampanje. ;Svjedočila je na sudu. ;0
+Čovjek je očekivao hladno vrijeme na svom putovanju. ;effect;U kovčeg je stavio toplu odjeću. ;Putovao je s velikim koferom. ;0
+Student je znao odgovor na pitanje. ;effect;Podigao je ruku. ;-Pogriješio je. ;0
+Oči su mu se isplačile. ;cause;Prah mu je ušao u oči. ;Stavio je naočale na oči. ;0
+Igrač je osvojio pet utakmica za redom. ;effect;Njen protivnik ju je optužio za varanje. ;Njen protivnik je bio sažaljen zbog nje. ;0
+Učitelj je rastrgao ispit učenika. ;cause;Uhvatio je studenta kako vara. ;Odgovori studenta su bili pogrešni. ;0
+Pauza da prestanem pričati. ;cause;Izgubio sam glas. ;Ostao sam bez daha. ;1
+Zamrznuta hrana se otopila. ;cause;Stavio sam ga u mikrovalnu. ;Pokrio sam ga plastičnom folijom. ;0
+Zaposlenik se pretvarao da je bolestan. ;cause;Imao je grčeve u trbuhu. ;Htio je slobodan dan. ;1
+Djevojka je pala u bazen. ;cause;Trčala je po palubi za bazen. ;Skočila je s litice za ronjenje. ;1
+Ulaznice za film su rasprodane. ;cause;To je bio dan premijere filma. ;Film je dobio loše kritike. ;0
+Čovjek je izgubio težinu. ;effect;Ljudi su ga izolirali. ;Ljudi su mu čestitali. ;1
+Djevojčicine su ruke postale plikovi. ;cause;Ona je napisala pismo. ;Popela se po užetu. ;1
+Cirkuski izvođač žonglirao je dok je vozio jednocikl. ;effect;Publika je uzbuđena navijala. ;Akrobat je zamahnuo sa trapeza. ;0
+Izgubio sam strpljenje. ;cause;Prijatelj me je čekao. ;Moj prijatelj je stigao na vrijeme. ;0
+Ratne zemlje su željele mir. ;effect;Oni su razvili nuklearno oružje. ;Dogovorili su se o ugovoru. ;1
+Čovjek je uzeo lijekove za spavanje. ;effect;Postao je pospan. ;Imao je groznicu. ;0
+Žena je udarila u kauč. ;effect;Noge sofe su se odvojile. ;Povrijedila je koljeno. ;1
+Dječak je stisnuo balon. ;effect;Balon je puknuo. ;Balon je odletio. ;0
+Putnici su se prijavili u hotelsku sobu. ;effect;Raspakirali su svoje kofere. ;Otišli su na aerodrom. ;0
+Ugrizao sam breskvu. ;effect;breskva je modrica. ;Sok prolio. ;1
+Ruke su mi se zalijepile. ;cause;Pojela sam krafnu. ;Imao sam slatki zube. ;0
+Gurao sam vrata. ;effect;Vrata su se otvorila. ;Vrata zaključana. ;0
+Aktivisti su bojkotirali proizvode. ;cause;Proizvodi su testirani na osiguravanje kvalitete. ;Proizvodi su proizvedeni dječjim radom. ;1
+Izbušio sam rupu u zidu. ;effect;Miš je ispuzao iz rupe. ;Prah je ispuhao iz rupe. ;1
+Žena je zavidjela svojoj sestri. ;cause;Njena sestra je bila sretna. ;Njena sestra se razvela. ;0
+Prolio sam vino na košulju. ;effect;Stavio sam si pregaču. ;Promijenio sam košulju. ;1
+Kasijer je otvorio blagajnu. ;cause;Kupac je pretražio novčanik. ;Kupac joj je dao novac. ;1
+Ulični glazbenik je privukao gomilu. ;effect;Ljudi su mu dali sitnicu. ;On je otjerao gomilu. ;0
+Mali dječak je plakao svojoj dadilji. ;cause;Nedostajali su mu roditelji. ;Bilo je vrijeme za grickalice. ;0
+Pilotov radar je detektirao oluju. ;effect;Pilot je krenuo dalje od oluje. ;Pilot je preletio oluju. ;0
+Drvo je odbačilo lišće. ;effect;Listovi su postali obojeni. ;Lišće se nakupilo na zemlji. ;1
+Dečko je bio u zlobnom raspoloženju. ;effect;Odlučio je igrati karte sa svojom sestrom. ;Odlučio je da se šali sa svojom sestrom. ;1
+Dijete se žalilo da mora u kupaonicu. ;effect;Otac mu je dao sok. ;Njegov otac je zaustavio auto na benzinskoj pumpi. ;1
+Dijete je posipalo hranu za ribe u akvarij. ;effect;Ribe su skočile iz akvarijuma. ;Ribe su plivale prema hrani. ;1
+Žena je promijenila politička gledišta. ;effect;Promijenila je stranku. ;Ona je sudjelovala u prosvjedu. ;0
+Lavabo u kupaonici je bio začepljen. ;effect;Otvorio sam slavinu. ;-Sula sam u nju čistač za odvod. ;1
+Putnici su sišli iz vlaka. ;cause;Vlak je stigao na stanicu. ;Vlak je zviždao. ;0
+Čovjek je pritisnuo na vlažnu ploču koverte. ;effect;Stavio je pečat na kovertu. ;Zatvorio je kovertu. ;1
+Prijatelji su izgubili kontakt. ;cause;Uživali su u međusobnom društvu. ;Preselili su se u različite gradove. ;1
+Računovođa je loše upravljao fondovima tvrtke. ;effect;Otpuštena je sa svog položaja. ;Otišla je na porodiljski dopust. ;0
+Pogledao sam na sat. ;cause;Čuo sam kako sat otkucava. ;Htio sam provjeriti vrijeme. ;1
+Moja ruka je dobila grč. ;cause;Napisao sam esej ručno. ;Moja žena i ja smo se držali za ruke. ;0
+Šraf se zategnuo. ;cause;Zamijenio sam vijak. ;Okrenuo sam ključ. ;1
+Par je potpisao ugovor o zakupu stana. ;effect;Par se uselio u stan. ;Grad je osudio stan. ;0
+Žena je sjedila vani na trijemu. ;cause;Htjela je gledati zalazak sunca. ;Mislila je da je vidjela munju. ;0
+Čovjek je nosio prsluk za spašavanje u vodi. ;cause;Nije znao plivati. ;Voda je bila plitka. ;0
+Žena je napravila grešku u uređaju za obradu teksta. ;effect;Ona je izbrisana dokument. ;Ona je pritisnuo backspace ključ. ;1
+Djevojka se hvalila svojim prijateljima. ;cause;Ima lošu ocjenu. ;Osvojila je natjecanje. ;1
+Trak je bio blato. ;cause;Kiša je padala preko noći. ;Bilo je puno korova. ;0
+Žena je prespavala. ;cause;Prespavala je u hotelu. ;Zaboravila je podesiti budilnik. ;1
+Čovjek je stavio kremu za sunčanje. ;cause;Sjedila je u sjeni. ;Otišao je na plažu. ;1
+Istraživači su dokazali teoriju. ;effect;Istraživači su povukli teoriju. ;Pojedinci su prihvatili teoriju. ;1
+Fanovi su na utakmici bušili. ;cause;Igra je krenula u produžetak. ;Sudac je pogriješio. ;1
+Ušao sam kombinaciju na bravu. ;effect;Zatvorio sam bravu. ;-Ključ je otvorio. ;1
+Grupa se pojačala. ;effect;Otac je sinu dao nešto novca. ;Otac je uhvatio sina za ruku. ;1
+Snijeg je blokirao prilaz. ;effect;Skupio sam snijeg u snježnu kuglu. ;Ja sam uklonio snijeg. ;1
+Kajakeri su veslali vesla. ;effect;Kajak je stigao do obale. ;Kajak je udario u val. ;0
+Djevojka je izgubila kontrolu nad biciklom. ;effect;Pustila je upravljač. ;Udarila se u ogradu. ;1
+Upalila sam ventilator. ;effect;Voda posuta po mojoj koži. ;Osjetio sam kako hladni zrak prolazi preko mene. ;1
+Surferi su se vratili na plažu. ;cause;Bili su mokri. ;Vidjeli su ajkulu. ;1
+Isključio sam vodovod u kadi. ;effect;Voda je ispuštena iz kade. ;Voda je prskala po podu. ;0
+Muž se osjećao krivim jer je varao svoju ženu. ;effect;Optužio ju je za nevjeru. ;Priznao joj je nevjeru. ;1
+Tinta na plakatu je razmazana. ;cause;Čekao sam da se tinte osuše. ;Prolio sam vodu na poster. ;1
+Dijete se probudilo vrišteći. ;cause;Imao je noćnu moru. ;Močio je krevet. ;0
+Dečko je stavio noge na stol. ;effect;Njegov otac sjedio za stolom. ;Otac mu je predavao. ;1
+Moj prijatelj okrenuo je glavu u mom smjeru. ;cause;Vikao sam njegovo ime. ;Mahao sam rukama. ;0
+Vlada je tlačila svoje građane. ;effect;Građani su se pobunili. ;Građani su se registrirali da glasaju. ;0
+Dječak se izgubio u šumi. ;effect;Postavio je šator. ;Vikao je za pomoć. ;1
+Žena je putovala u inozemstvo. ;cause;Htjela je naučiti crtati. ;Htjela je naučiti o drugim kulturama. ;1
+Čovjek je bio ljubomoran na svog suradnika. ;cause;Njegov kolega je dobio unapređenje. ;Njegov kolega je radio do kasno. ;0
+Čovjek je vidio vanzemaljce. ;cause;Imao je halucinacije. ;Meditirao je. ;0
+Čovjek je postao plav. ;cause;Stavio je izbjeljivač u nju. ;Stavio je šampon u nju. ;0
+Umjetnik je stvorio novo djelo. ;cause;Kritizirala je svoj prethodni rad. ;Osjetila je udar inspiracije. ;1
+Sin se odselio od kuće. ;cause;On je otpušten iz vojske. ;On je bio ide na koledž. ;1
+Knjige su pale iz ormara. ;cause;Raftovi su bili prekriveni prašinom. ;Zemljotres je potresao knjižaru. ;1
+U mojoj kući je nestalo struje. ;effect;Upalila sam svjetlo. ;Resetirao sam prekidač. ;1
+Vozili smo se uz daljinu. ;cause;Izgledala je zastrašujuće. ;Izgledalo je zabavno. ;1
+Vreća kokica počela je pucati. ;cause;-Salio sam maslac u vreću. ;Zagrijao sam ga u mikrovalnoj. ;1
+Drvo je palo na strujni vod. ;effect;U susjedstvu je nestalo struje. ;Prognoza je predviđala snažne vjetrove. ;0
+Govornik je dao politički nekorektne komentare. ;effect;Dosadilo je publiku. ;On je uvrijedio publiku. ;1
+Ubio sam se iglom. ;effect;Znoj mi je kapljao s lica. ;Na mom prstu je pala kap krvi. ;1
+Ribe su plutale na površini rezervoara. ;cause;Bilo je gladno. ;Bio je mrtav. ;1
+Muškarac je bio hrom. ;cause;Imao je prehladu. ;Prestao je pušiti. ;0
+Vrata dizala su se otvorila. ;cause;Lift je stigao na određeni kat. ;Lift je zaglavio između katova. ;0
+Tinejdžer se iskrao iz kuće. ;cause;Lagao je roditeljima. ;Roditelji su ga kaznili. ;1
+Kupatila je poplavljena. ;cause;U WC-u je bilo poplavljeno. ;-Ogrelnik vode je pokvaren. ;0
+Štenad je ostala blizu svog vlasnika. ;cause;Vlasnik je stavio ogrlicu na štene. ;Vlasnik je držao štene na uzici. ;1
+Čovjek je uhvatio svoj odraz. ;cause;Stajao je ispod ogromnog stabla. ;Stajao je iznad mirnog jezera. ;1
+Propustio sam poziv moje djevojke. ;effect;Nazvao sam je natrag. ;Upoznao sam je na večeri. ;0
+Obitelj je pretražila susjedstvo. ;cause;Njihov pas je pobjegao od kuće. ;U njihovom domu nedostaje skupo nakit. ;0
+Vidio sam svoj dah kad sam izdahnuo. ;cause;Bilo je hladno. ;Osjetio sam da mi se grudi zategnu. ;0
+Zaposlenici su formirali sindikat. ;cause;Željeli su bolje radne uvjete. ;Njihov poslodavac je povećao plaću. ;0
+Ispekla sam pitu od jabuka. ;effect;Smrad truljenja je ispunjavao kuhinju. ;Topla aroma ispunila je kuhinju. ;1
+Žena se borila da hoda. ;cause;Nosila je visoke potpetice. ;Skinula je cipele. ;0
+Para se uzdizala iz lonaca vode. ;cause;Voda je ključala. ;Pokrio sam ga. ;0
+Sve moje čarape su bile u praonici. ;effect;Nosila sam sandale. ;Nosila sam čizme. ;0
+Argument političara smatran je apsurdnim. ;effect;Izgubio je podršku birača. ;Optužen je za korupciju. ;0
+Svi nisu bili zadovoljni zarukama. ;effect;Par je zatrudnio. ;Par je pobjegao. ;1
+Zgrada je bila posvećena milijunašu. ;cause;Milioner je htio da se zgrada sruši. ;Milioner je dao novac za izgradnju. ;1
+Prodavač je optužio djevojku za krađu. ;cause;Prodavač je vidio djevojku kako stavlja robu u torbicu. ;Prodavač je pomogao djevojci da pronađe torbicu koju je voljela. ;0
+Zemlja je objavila rat susjednom teritoriju. ;effect;Vojnici su bili poslani u borbu. ;Vojnici su se ponovno okupili sa svojim obiteljima. ;0
+Sud je potvrdio kontroverznu presudu. ;effect;Izbio je nered ispred sudnice. ;Par je dao zavjete ispred sudnice. ;0
+Djevojka je osjetila nešto što gori. ;cause;Izvadila je kolačiće iz staklenke. ;Ostavila je kolačiće u pećnici. ;1
+Kiša je padala kao iz lića. ;effect;Oluja se pogoršala. ;Ubrzo sam ušla unutra. ;1
+Zgrada je evakuirana. ;cause;Lift je prestao raditi. ;Požarni alarm je upalio. ;1
+Otac je bio ljut na sinovu alkoholizam. ;effect;Otac je kupio pivu sinu. ;Otac je izbacio sina iz kuće. ;1
+Odvjetnica je po stepenicama otišla do ureda. ;cause;Sekretarica je otišla kući. ;Lift je bio u kvaru. ;1
+Čovjek se naljutio na svog prijatelja. ;cause;Prijatelj ga je prekinuo. ;Prijatelj mu je kupio ručak. ;0
+Djevojka je dala svoj novac blagajniku. ;effect;Kasa je dala djevojci sitnicu. ;Kasijer je zaboravio dati djevojci račun. ;0
+Žena je bila u kolicima. ;cause;Bila je paralizirana u nesreći. ;Ušla je u bolnicu na nosiljci. ;0
+Građani su izvesali nacionalnu zastavu ispred svojih domova. ;cause;Zemlja je obilježila svoju neovisnost. ;Zemlja se suočila s ekonomskim teškoćama. ;0
+Tim je izgubio turnir. ;effect;Razočarali su svoje fanove. ;Oni su inspirirali svoje obožavatelje. ;0
+Prijatelj mi je rekao da mi je hrana zaglavljena u zubima. ;effect;Osjećao sam se neugodno. ;Osjećao sam se ponosno. ;0
+Dječak je pao na ispit iz povijesti. ;cause;On je obraćao pažnju na sat. ;Zaboravio je učiti. ;1
+Zgrada u centru grada se srušila. ;cause;Zemljotres je pogodio grad. ;Stopa kriminala u gradu je porasla. ;0
+Prijateljica je prekinuo s njim. ;effect;Molio ju je da ga vrati. ;Ona ga je predstavila svojim roditeljima. ;0
+Dvoje djece istovremeno su se spuštalo da uzmu loptu. ;effect;Lopta se odvratila. ;Njihove glave su se sudarile. ;1
+Rakun je pretražio kantu za smeće. ;cause;U kanti za smeće je bio karton. ;Poklopac je bio na kanti za smeće. ;1
+Dječak je oštrio olovku. ;cause;Bilo je jeftino. ;Bilo je dosadno. ;1
+Kasijer je odbio da vrati ženskoj novac za haljinu. ;cause;Izgubila je račun. ;Haljina nije pristajala. ;0
+Oštrica na mojoj koži je bila duboka. ;effect;Brzo je zacijelio. ;Ostavio je ožiljak. ;1
+Putnici su ga čudno gledali. ;cause;Gledao je u zemlju. ;On je pričao sam sa sobom. ;1
+Dijete je ostavilo mrvice na podu. ;effect;Mravi su se puzali na mrvice. ;Dijete je sklonilo kruh. ;0
+Žena je dala svojoj sestri maramicu. ;cause;Žena sestra preklopila ruke. ;Ženin brat je počeo plakati. ;1
+Čovjek je uzeo kovanice. ;cause;Usne su mu bile raspršene. ;Zabrinut je zbog lošeg daha. ;1
+Par je otišao ranije na predstavu. ;cause;Očekivali su promet oko kazališta. ;Imaju upute za kazalište. ;0
+Žena je ostala kod kuće. ;effect;Šef joj je pohvalio. ;Kolega ju je pokrio. ;1
+Čovjek je potpisao peticiju aktivista. ;cause;Podržao je njihov cilj. ;On ih je osudio kao lude. ;0
+Srce glumca je trulo prije nastupa. ;cause;Imao je strah od pozornice. ;Zapamtio je svoje replike. ;0
+Bio sam izgubljen. ;effect;Brojao sam novac. ;Otvorio sam mapu. ;1
+Zrele plodove su se zadržavale na suncu. ;effect;-Jelo ga je. ;-Svrgnula se. ;1
+Auto se pokvario. ;cause;Okrenuo sam paljenje. ;Motor se pregrijao. ;1
+Čovjek je povrijedio leđa. ;effect;Otišao je kod psihijatra. ;Ostao je u krevetu nekoliko dana. ;1
+Zapalio sam vatru u kaminu. ;cause;Nisam imao drva za vatru. ;Bilo je hladno u kući. ;1
+Žena je prestala trčati. ;cause;Ima grčeve u bokovima. ;Dobila je drugi dah. ;0
+Kucao sam na susjedina vrata. ;effect;Susjeda me je pozvala unutra. ;Moja susjeda je napustila kuću. ;0
+Žena je uzdahnula od frustracije. ;cause;Njen muž je pogrešno shvatio njene brige. ;Njen muž ju je poljubio za zbogom. ;0
+Učitelj je pohvalio učenika. ;cause;Student je pravilno odgovorio na pitanje. ;Student je oklijevao odgovoriti na pitanje. ;0
+Ženi su ponestalo jaja. ;effect;Otišla je na farmu. ;Otišla je u supermarket. ;1
+Sreo sam starog prijatelja. ;effect;Otkrila sam mu tajnu. ;Ja sam ga zagrlio. ;1
+Žena je izbjegavala ući u jezero. ;cause;Uhvatila je ribu. ;Izgledalo je kontaminirano. ;1
+Student je došao u razred mokar. ;cause;Njegov kišobran je bio slomljen. ;Njegov bicikl je ukraden. ;0
+Kurzor na računalu se pomaknuo. ;cause;Korisnik je kliknuo mišem. ;Korisnik je pomaknuo miš. ;1
+Vozač je zaobišao. ;cause;Došlo je do nesreće na glavnoj cesti. ;Slijedila je kamion ispred sebe. ;0
+Objesila sam mokro plahto na vanjsku konopac za rublje. ;effect;Ploče su se osušilo. ;Ploče je bilo prljavo. ;0
+Žena je stavila naočale. ;cause;Sunce je bilo sjajno. ;Pozvala je taksi. ;0
+Čovjek je gledao u noćno nebo. ;cause;Željela je da je ljeto. ;Mislio je da je prekrasna. ;1
+Osjećao sam se iscrpljeno. ;effect;Otišao sam rano u krevet. ;Ostao sam budan cijelu noć. ;0
+Čovjek je otišao kod brijača. ;cause;Pustio je da mu raste kosa. ;Kosa mu je postajala duga. ;1
+Dečko je igrao loše trikove na svog novog školskog druga. ;cause;Dječak je pozdravio novog školskog druga. ;Dječak nije volio novog školskog druga. ;1
+Želela sam čašu mlijeka. ;cause;Ja sam jeo kolače. ;Pecao sam kruh. ;0
+Počela je kiša. ;effect;Vozač je upalio svjetla. ;Vozač je okrenuo auto u nazad. ;0
+Parkiralište zgrade je bilo prazno. ;effect;Parkirao sam preko puta. ;Parkirao sam blizu ulaza. ;1
+Pisac je propustio rok za dostavljanje nacrta. ;cause;Imala je blokadu pisanja. ;Ona je uredila nacrt. ;0
+Partner mi je spustio slušalicu. ;cause;Tražio sam da razgovaram sa nadređenim. ;Dao sam svoj identifikacijski broj. ;0
+Vjetar je puhao kroz otvoren prozor. ;effect;Zvonilo je. ;Zavjese su se tresle. ;1
+U mojoj kući je nestalo struje. ;cause;Isključio sam svjetiljku. ;-Puštala mi je osigurač. ;1
+Dizalica je gruntla. ;cause;On je istegnuo mišiće u ogledalu. ;Podigao je šipku iznad glave. ;1
+Student je pokušao izračunati u glavi. ;effect;Izvukao je kalkulator. ;Zbunjen je. ;1
+Beba je zaspala. ;cause;Otac je promijenio bebe pelene. ;Otac je nježno ljuljao bebu. ;1
+Djevojka je bacila balon na dječaka. ;effect;Dečko je dobio potres mozga. ;Dečko je bio mokar. ;1
+Fotograf je zaboravio koristiti bljesak na kameri. ;effect;Fotografije su se ispostavilo mutno. ;Svi na fotografijama su se odbili nasmijati. ;0
+Odbio sam poziv na rođendansku zabavu. ;cause;Bio sam usamljen. ;Bio sam van grada. ;1
+Vježbao sam. ;cause;Osjećao sam se energično. ;-Bio sam uplašen. ;0
+Stisnuo sam vlažnu spužvu. ;effect;Upijala je vodu. ;Iz nje je procrcala voda. ;1
+Odmornici su se odvezli trajektom do odmarališta. ;cause;Resort je bio rezerviran. ;Hotel je bio na otoku. ;1
+Tinejdžer je dobio tetovažu. ;cause;Bojala se iglica. ;Htjela se pobuniti. ;1
+Nepoznat auto parkiran ispred moje kuće. ;effect;Postao sam sumnjičav. ;Zvala sam policiju. ;0
+Kriminal se predao. ;cause;Dokazi su ga upetljavali. ;Nije bilo dokaza protiv njega. ;0
+Teški čovjek je odlučio smršaviti. ;effect;Prestao je sa slatkim. ;Izbjegavao je kofein. ;0
+Djevojka je stao na led. ;effect;Ona je skliznuo. ;Ona je drhtalo. ;0
+Žena je imala prstenje ispod očiju. ;cause;Bila je budna cijelu noć. ;Ona je stavila sina u krevet. ;0
+Lava je tekla iz vulkana. ;cause;Vulkan je eruptirao. ;Vulkan je bio u mirovanju. ;0
+Žena je obula cipele. ;cause;Znala je sve na zabavi. ;Htjela je napustiti zabavu. ;1
+Platio sam službeniku na cestama. ;effect;Pustila me je da prođem kroz naplatu. ;Zadržao me je na naplatu. ;0
+Izvršni direktor je bankrotirao. ;cause;Prodao je dionice svoje tvrtke. ;Potrošio je svoje bogatstvo. ;1
+Čovjek je otišao kod doktora. ;cause;Doktor je bio na dopustu. ;Čovjek se osjećao loše. ;1
+Izašao sam iz spavaće sobe kroz prozor. ;cause;Kuća je gorjela. ;Kuća je bila prazna. ;0
+Prsti su mu postali suvi. ;cause;Dugo se tuširao. ;On je isprljavao ruke sapunom. ;0
+Pljunila sam mlijeko. ;cause;Mlijeko je bilo kiselo. ;Usta su mi bila suha. ;0
+Propustio sam autobus. ;effect;-Rano sam došao na posao. ;Kasnila sam na posao. ;1
+Kamion se sudario s autom. ;effect;Kamion je ubrzao. ;Auto je razbijen. ;1
+Tim je namjestio natjecanje u svoju korist. ;effect;Oni su pobijedili. ;Odustali su. ;0
+Boca sode je sištala. ;cause;Okrenuo sam bocu. ;Skrenuo sam poklopac. ;1
+Dečko je bio zaključan iz svoje kuće. ;effect;Upuzao se kroz otvoren prozor. ;Popeo se na krov. ;0
+Zvonilo je. ;effect;Posjetitelj je pokucao na vrata. ;Žena je pogledala kroz ključ u vratima. ;1
+Čovjek je namazao odijelo. ;effect;-Na kemijskom je. ;Objesila ga je u ormar. ;0
+Djevojka je stisnula cijev od paste za zube. ;effect;Pasta za zube je isprskala iz cijevi. ;Djevojka je ispljunula pastu za zube. ;0
+Civili su umirali u ratu. ;effect;Pacifisti su organizirali prosvjed. ;Pacifisti su održali paradu. ;0
+Djevojka je povukla vrpcu iz svoje kose. ;cause;Ona je vezala vrpcu. ;Traka je izgledala kao beba. ;1
+Čovjek je imao plastičnu operaciju. ;effect;Stario je. ;Izgledao je mlađe. ;1
+Iz jaja je izašla kokoš. ;cause;Jaje se izleglo. ;Ja sam razbio jaje. ;0
+Zatvorenik je gladio. ;effect;- Umro je. ;On je pobjegao. ;0
+Čovjek je izgubio ravnotežu na ljestvi. ;effect;Popeo se po ljestvama. ;Pao je sa ljestve. ;1
+Dijete je erkotirao. ;cause;Popio je gutljaj sode. ;Otvorio je konzervu sode. ;0
+Hladni strujni zrak je ušao kroz prozor. ;effect;Ja sam se opustila. ;Drhtao sam. ;1
+Studentica je dobila stipendiju za fakultet. ;cause;Njeni su školski drugovi poštovali je. ;Imala je dobre ocjene. ;1
+Djevojka se šalila dječaku. ;cause;Živeli su u susjedstvu. ;Bila je zaljubljena u njega. ;1
+Gladni skitnica ukrao hranu. ;cause;On je izazivao sažaljenje. ;Nije imao novca. ;1
+Nazvao sam prijatelja da popričamo. ;cause;Htjela sam privatnost. ;Osjećao sam se usamljeno. ;1
+Čovjek mi je pružio ruku. ;effect;Ruku sam mu pružio. ;-Udarila sam ga. ;0
+-Pokleknuo sam. ;cause;Vatromet je počeo pucati u zrak. ;Frisbee je poletio prema mojoj glavi. ;1
+Djevojka je ugrizla nokte. ;cause;Bila je zabrinuta. ;Bila je iznenađena. ;0
+Okrenuo sam stranicu u kalendaru. ;cause;Označio sam sastanak na kalendaru. ;Bio je to početak novog mjeseca. ;1
+Muž je otkrio da mu žena ima aferu. ;effect;Otpustio je svog odvjetnika. ;Podnio je zahtjev za razvod. ;1
+Djevojka je ispustila gumenu loptu. ;effect;Lopta je odbila. ;Lopta je sijala. ;0
+Djevojka je pogriješila na ispitu. ;effect;Pogodila je odgovor. ;Obrisala je svoj odgovor. ;1
+Igrač je prebio protivnika. ;effect;Njegov protivnik je uhvatio. ;Njegov protivnik je pao na zemlju. ;1
+Pokupila sam rajčice sa vinove loze. ;cause;Bili su zreli. ;Zalijao sam ih. ;0
+Čovjek je htio glumiti romantičnu. ;effect;Sreo je svoju bivšu djevojku na ručku. ;Kupio je svojoj djevojci čokolade. ;1
+Gvožđa u termometru je porasla. ;cause;Ispao mi je termometar. ;Vrijeme je postalo toplije. ;1
+Tornado je prošao kroz grad. ;effect;Krov sudnice je odletjela. ;Autocesta je postala opasno ledeno. ;0
+Student je dobio podukovanje. ;effect;Njegove ocjene su se poboljšale. ;Varao je na ispitu. ;0
+Osjećao sam se ugodno. ;cause;Kleknuo sam na zemlju. ;Zavila sam se u deku. ;1
+Polirao sam kamen. ;effect;Postao je klizavi. ;Postala je sjajna. ;1
+Dodao sam šećer u kavu. ;effect;Kava je imala jak miris. ;Kava je bila slatka. ;1
+Čovjek je pomišao novine. ;effect;Oštećen je od papira. ;On je uništio papire. ;0
+Udario sam čavao u čavao. ;effect;-Bojni klin. ;-Bio je zarđao. ;0
+Ribe su ugrizle konopac. ;effect;Ribar je uzeo ribu. ;Ribar prebacuje lanac. ;0
+Tinejdžer se stidio ići u školu. ;cause;Ima pršljen. ;Skinula je aparat. ;0
+Izraz mog lica se osvijetlio. ;cause;Dobio sam dobre vijesti. ;Izgubio sam strpljenje. ;0
+Obrišeta sam ruke ručnikom. ;cause;Ručnik je bio mokar. ;Ruke su mi bile mokre. ;1
+Čovjek je izgubio ravnotežu na stolici. ;cause;Stolica se tresala ispod njega. ;Prolio je boju na stolicu. ;0
+Kolege su krivili jedni druge. ;cause;Izgubili su igru. ;Trener im je otkazao trening. ;0
+Tražio sam oprost. ;cause;Žalio sam zbog svoje greške. ;-Dostigla sam svoj cilj. ;0
+Žena je postala dosadna sa svojim dečkom. ;cause;Postavio joj je pitanja o sebi. ;On je neprestano pričao o sebi. ;1
+Djevojka se nasmiješi. ;effect;Njene obraze crvene. ;Pokazali su joj se šupljini. ;1
+Neprijateljski brod je eksplodirao. ;cause;Prošao je preko rudnika. ;Otišao je u luku. ;0
+Čovjek je probo nogu. ;cause;Ušao je u lokvu. ;On je stao na razbijeno staklo. ;1
+Detektivi su isprašili mjesto zločina za otiske prstiju. ;effect;Otkrili su identitet ubojice. ;Našli su oružje na mjestu zločina. ;0
+Bilo je puno prometa na autocesti. ;effect;-Obilazio sam. ;Tražio sam prijevoz. ;0
+Gospodarstvo zemlje je propalo. ;effect;Mnogi su se razboleli. ;Mnogi su bili bez posla. ;1
+Čuvar na granici je puhao na djecu. ;cause;Htjeli su ući u promet. ;Prepoznala ih je iz susjedstva. ;0
+Okrenuo sam oči prema prijatelju. ;cause;Rekao mi je istinu. ;Napravio je sarkastičnu primjedbu. ;1
+Auto je ostao bez benzina. ;effect;Vozač je bio zarobljen na cesti. ;Vozač je pokupio autostoper. ;0
+Žena je počela roditi. ;effect;Dijete je rođeno. ;Žena je imala jutarnju mučninu. ;0
+Čovjekov šešir je odletjelo. ;cause;Skinuo je šešir. ;Vjetar je puhao. ;1
+Djevojka je išla na rođendan svoje školske drugarice. ;cause;Dobila je pozivnicu. ;Kupila je poklon. ;0
+Čelo dječaka je bilo vruće. ;effect;Majka mu je izmjerila temperaturu. ;Njegova majka ga je odvela u park. ;0
+Čovjek se prsnuo kolonskom. ;cause;Htio je impresionirati svoju pratilju. ;Stavio je gel u kosu. ;0
+U kući je nestalo struje. ;effect;Tražio sam svjetiljku. ;Uzeo sam lopatu. ;0
+Obitelj se preselila u veću kuću. ;cause;Sin je diplomirao u srednjoj školi. ;Majka je rodila blizance. ;1
+Maratonist je nastavio polako. ;cause;Htjela je štedjeti energiju. ;Vidjela je ciljnu crtu. ;0
+Dječak je udario automat. ;cause;Stroj je ispljunuo sitnicu. ;Knjiga čipsa je zaglavljena. ;1
+Moj prijatelj je umro pas. ;effect;Okrenuo sam oči prema njemu. ;Ja sam ga zagrlio. ;1
+Poslovni kreditna kartica je odbijena. ;effect;Napisao je dug. ;Platio je gotovinom. ;1
+Čovjek proklet. ;cause;On je obrijao nokte. ;Udario je prst. ;1
+Čovjek je bio ponosan na svog brata. ;cause;Njegov brat se posvađao s roditeljima. ;Njegov brat je primljen na pravni fakultet. ;1
+Djevojka je željela naučiti o solarnom sustavu. ;effect;Otišla je u knjižnicu. ;Gleda u zvijezde. ;0
+Plakat je zalijepio za zid. ;cause;Postavio sam plakatu iznad vrata. ;Stavio sam traku na pozadinu postera. ;1
+Klijent je odobrio arhitektove planove za zgradu. ;effect;Arhitekta je izgradio zgradu. ;Arhitekta je prilagodila planove. ;0
+Čovjek je ispustio žlicu. ;cause;Ruka mu se tresala. ;Lizao je žlicu. ;0
+Izvršni direktor tvrtke dao je ostavku. ;effect;Upravni odbor je raspustio tvrtku. ;Upravni odbor je našao zamjenu. ;1
+Kasnio sam na predavanje. ;effect;Sjedila sam u zadnjem redu. ;Prišao sam podiju. ;0
+Čovjek je pušten iz zatvora. ;cause;Njegova obitelj je platila jamčevinu. ;Napali su drugoga zatvorenika. ;0
+Obitelj je izgubila sve što je imala. ;cause;Prodali su kuću. ;Njihova kuća je zapalila. ;1
+-Stalom sam na aluminijsku limenku. ;effect;Kontejner je recikliran. ;Kontejner je razbijen. ;1
+Djevojka se pridružila debatu. ;effect;Naučila je koristiti kompjuter. ;Naučila je komunikacijske vještine. ;1
+Moje raspoloženje se poboljšalo. ;cause;Slušao sam glazbu. ;Ja sam oprao suđe. ;0
+Dobrotvorna organizacija je postavila cilj da skupi novac. ;effect;Hranili su beskućnike. ;Oni su održali aukciju. ;1
+Roller coaster je skočio niz strmi pad. ;effect;Putnici su se smijali. ;Putnici su vrištali. ;1
+Bio sam bijesan. ;effect;Provjerila sam poštanski sandučić kad sam izašla iz kuće. ;Zatvorio sam vrata kad sam izašao iz kuće. ;1
+Čovjek je htio gledati izlazak sunca. ;effect;Putovao je na sjever. ;Ustao je rano. ;1
+Savili smo papir. ;effect;Reciklirao sam papir. ;Papir se iskrivio. ;1
+Nacija je pretrpjela prirodnu katastrofu. ;effect;Vođe drugih zemalja su se udružile. ;Vođe drugih zemalja poslale su hitnu pomoć. ;1
+Odjeća dječaka je bila mokra. ;cause;Izašao je iz bazena. ;Pao je u bazen. ;1
+Student je požurio da završi knjigu. ;cause;Trebao je biti vraćen u knjižnicu. ;Posudio ga je od prijatelja. ;0
+Zločinac je pogubljen. ;cause;Bio je bačen u zatvor. ;Bio je osuđen za ubojstvo. ;1
+Sunčeva svjetlost je ušla u sobu. ;cause;Otvorio sam zavjese. ;Otključao sam vrata. ;0
+Ja sam ga povukao za kosu. ;effect;Paruka joj je pala. ;-Odlalila je. ;0
+Urednik je preoblikovao rečenicu u rukopisu. ;cause;Rukopis mu je bio zanimljiv. ;Smatrao je da je presuda nejasna. ;1
+Žena je otkazala kreditnu karticu. ;cause;Shvatila je da nedostaje kartica. ;Shvatila je da je kartica istekla. ;0
+Muškarac i žena su se zaljubili. ;effect;Oni su pohađali fakultet. ;Oni su se vjenčali. ;1
+Glazba je bila preslaba da bi se čula. ;effect;Ja sam pojačao glasnost. ;Napisao sam svoju pjesmu. ;0
+Kosa je dečaka bila u stilu. ;cause;Djevojka ga je razbila. ;Djevojka ga je povukla. ;0
+Bak je uništen. ;cause;Prskao sam se sa repelentom za insekte. ;-Staljao sam na bubu. ;1
+Otvorio sam oči. ;cause;Probudio sam se. ;Ja sam se opustila. ;0
+Muzika mog susjeda je bila glasna. ;effect;Zamolio sam ga da ga smanji. ;Pitao sam ga da mi pozajmi CD. ;0
+Njegova obitelj je živela u siromaštvu. ;cause;Bio je štedljiv sa svojim zaradama. ;Zaradio je ispod minimalne plaće. ;1
+Student je diplomirao na sveučilištu. ;effect;Tražio je posao. ;On je uzeo hobi. ;0
+Umjetnik je pomiješao žutu boju s plavom. ;effect;Boja je posvuda. ;Boja je postala zelena. ;1
+Promijenio sam temu razgovora. ;cause;Nemam više o čemu razgovarati. ;Razgovor je postao napet. ;1
+Moj brat je pušten iz bolnice. ;effect;Pozdravljao sam ga kući. ;-Nisam mu se ja javila. ;0
+Zavjesa na pozornici je podignuta. ;effect;Počela je otvorena scena predstave. ;Glumci su izašli sa pozornice. ;0
+-Zatim je talac podnio otmičaru. ;cause;Otmičar je zaprijetio da će povrijediti taoca. ;Otmičar je ostavio taoca samog. ;0
+Na pozornici se odjeknulo uzdisanje. ;cause;Glazbenik je kucao nogom. ;Glazbenik je udario bubanj. ;1
+Roditelji su se požurili u dječju sobu. ;cause;Dijete se probudilo vrišteći iz noćne more. ;Dijete se bojalo pogledati ispod kreveta. ;0
+Žena je komunicirala znakovnim jezikom. ;cause;Rođena je prerano. ;Rođena je gluva. ;1
+U regiji je bila suša. ;effect;Voda je postala zagađena. ;Usjevi su propali. ;1
+Mačka je progonila pticu. ;effect;Ptica je odletjela. ;Ptica je uhvatila crva. ;0
+Djevojka je promijenila školu. ;cause;Škola je slobodna za ljeto. ;Preselila se u novi grad. ;1
+Vlasnik tvornice odbio je povećati plaće zaposlenika. ;effect;Vlasnik je imenovao novog menadžera. ;Zaposleni su štrajkovali. ;1
+Vođa je izazvao neprijateljstvo među ekstremistima u svojoj zemlji. ;effect;Ekstremisti su ga utjecali. ;Ekstremisti su ga ubili. ;1
+Hodao sam bos na plaži. ;effect;Pijesak mi se zalijepio za noge. ;Valovi su se udarili uz obalu. ;0
+Probudio sam se usred noći osjećajući hladnoću. ;effect;Stavio sam trenirke. ;Popio sam čašu vode. ;0
+Majka je ušutkala sina. ;cause;Sin joj se nasmijao. ;Sin joj je cvili. ;1
+Rana u mojim trapericama. ;cause;Zaključao sam hlače. ;Spušio sam se na pločnik. ;1
+Dečko je nosio aparat. ;effect;On je dobio šupljinu. ;Zubovi su mu se ispravili. ;1
+Vježbao sam u teretani jučer. ;effect;Danas sam se probudio s bolovima u mišićima. ;Probudio sam se danas s bolom u grlu. ;0
+Djevojka je šaputala jedan drugom za stolom za ručkom. ;effect;Drugi studenti sjedili su za stolom za ručak. ;Drugi studenti za stolom za ručkom su se osjećali izostavljenima. ;1
+Dijete je sletjelo na trampolin. ;effect;Ona je skočila natrag u zrak. ;Odlučila je pokušati da napravi flip. ;0
+Ostavio sam pismo u poštanskom sandučetu. ;effect;Pošta je dostavljala pismo. ;Pošta je ubrzala pismo. ;0
+Kockač je bio samouvjeren. ;effect;Stavio je sav svoj novac. ;Otišao je kući bez novca. ;0
+Šumski požar se proširio. ;cause;Vjetrovi su postajali jači. ;Podmetnici su uhvaćeni. ;0
+Dijete je oštećeno koljeno. ;effect;Majka ga je poslala u sobu. ;Njegova majka je stavila zavoj na ranu. ;1
+Čovjek je preživio smrtonosnu bolest. ;cause;Potpisao je oporuku. ;Dobio je transplantaciju organa. ;1
+Popio sam gutljaj vruće kave. ;effect;Ugrizao sam jezik. ;Spalio sam jezik. ;1
+Urednik je otpustio pisca. ;cause;Pisac je izbjegavao pristrasnost u svojim pričama. ;Pisac je propustio važan rok. ;1
+Osjećao sam se iscrpljeno. ;cause;Spavao sam cijeli dan. ;Učio sam cijeli dan. ;1
+Liječnik je postavio dijagnozu pacijentu. ;cause;Ona je identificirala simptome pacijenta. ;Ona je propisala tablete pacijentu. ;0
+Počešljao sam kožu. ;cause;Bio je znojan. ;Osjećala sam svrbež. ;1
+Čovjek je podvrgnut hitnoj operaciji. ;cause;Izgubio je živce. ;Dobio je srčani udar. ;1
+Muški mišići ruke izbočeni. ;cause;Izgrlio je ruke. ;On je trljao ruke. ;0
+Čovjek je podigao obrve. ;cause;Bio je iznenađen. ;Osjećao se obeshrabrenim. ;0
+Ispričao sam koleginu grešku. ;cause;Vjerovala sam da su njegove namjere dobre. ;Vjerovala sam da on zna bolje. ;0
+Čovjek je prestao pušiti. ;effect;Počeo je više vježbati. ;Počeo je ranije da se budi. ;0
+Žena je udarila napadača u nos. ;effect;Tijelo napadača je bilo bez života. ;Napadač je počeo krvariti. ;1
+Šipka je promašila cilj. ;cause;Čovjek je imao pogrešan cilj. ;Čovjek je gubio igru. ;0
+Vlasnik kuće zatražio je da mu u kuću dođe neka osoba koja se bavi istrebljivanjem. ;cause;Otkrio je štakore u podrumu. ;U svojoj sobi je držao mravlje farme. ;0
+Predložio sam gostu da izađemo na večeru. ;cause;Bio sam previše umoran da bih nešto pripremio. ;Moja gostinja je ostala duže nego što je bila dobrodošla. ;0
+Djevojka je uhvatila brata kako joj čita dnevnik. ;effect;Počela je skrivati dnevnik. ;Ima novi dnevnik. ;0
+Ženi je nedostajao novac za stanarinu. ;effect;Radila je prekovremeno. ;Dala je otkaz. ;0
+Dječji je ruka brzo povukla. ;cause;Dodirnuo je vruću peć. ;Potapšao je psiću glavu. ;0
+Tvrtka je željela procijeniti zadovoljstvo kupaca. ;effect;Ponudili su popust novim kupcima. ;Oni su podijelili anketu klijentima. ;1
+Drveni pod je ogrebljen. ;cause;Dečko je bacio jastuke s kauča. ;Dječak je vuče stolicu po podu. ;1
+Zaštitio sam lice. ;cause;Moj neprijatelj me je ismijavao. ;Moj neprijatelj je podigao šaku. ;1
+Slavni kip je izgorio. ;cause;Udario ga je grom. ;Ljudi su dolazili da ga poštuju. ;0
+Ostavio sam voće na stolu. ;effect;Plod se osiva. ;Muhe su se napunile voćem. ;1
+Balerina je pukla ligament. ;cause;Pokazala je prstima. ;Izvratila je gležanj. ;1
+Otkopčao sam vezice. ;cause;Naučio ih je vezati. ;Trčao je po igralištu. ;1
+Knjiga me je oduševila. ;effect;Vratio sam knjigu. ;Izgubio sam pojam o vremenu. ;1
+Čovjek je imao slična vjerovanja kao i njegovi roditelji. ;cause;Njegovi roditelji su ga utjecali. ;Roditelji su ga odbacili. ;0
+Auto je postepeno usporavao do zaustavljanja. ;cause;Ostao je bez goriva. ;Vozač je zaspao. ;0
+Čovjek je pojeo sladoled na suncu. ;effect;Sladoled je izgubio svoj okus. ;Sladoled je kapljao iz čunjeva. ;1
+Objesila sam umjetničke radove u sobi. ;cause;-Tep je izgledao prljavo. ;Zidovi su bili goli. ;1
+Otišao sam ranije s posla. ;cause;Boli me glava. ;Moj šef je imao sastanak. ;0
+Štenad je prljao tepih. ;effect;Vlasnik je prekorio štene. ;Vlasnik je dao štene poslasticu. ;0
+Ispričao sam se prijatelju. ;effect;Prijatelj mi je oprostio. ;Moj prijatelj je postao bijesan. ;0
+Čovjek se istaknuo u gomili. ;cause;Nosio je ruksak. ;Nosio je neonski prsluk. ;1
+Svjedok je lagao pod zakletvom. ;effect;On je završio svoje svjedočenje. ;Optužen je za krivokletstvo. ;1
+Žena je obojila kosu. ;cause;Htjela je novi izgled. ;Htjela se uklopiti. ;0
+Imigranti su ulovljeni kako ilegalno borave u zemlji. ;effect;Našli su posao. ;Deportirani su. ;1
+Javni govornik je napravio šalu. ;effect;Publika se smijala. ;Publika je ustala. ;0
+Pogledao sam u sunce. ;effect;Sunce me oslijepilo. ;Sunce mi je opalo kožu. ;0
+Osjećao sam dosadu. ;effect;Ja sam šmrkao. ;Ja sam zijevljao. ;1
+Biftek je bio teško rezati. ;cause;Nož je bio tup. ;Biftek je bio sirov. ;0
+Žena je proglasila bankrot. ;cause;Dobila je alimentaciju. ;Napravila je ogromne dugove. ;1
+Svjetla u stanu mog prijatelja su bila upaljena. ;effect;Pitao sam se je li izašao. ;Odlučio sam ga posjetiti. ;1
+Stavio sam cvijet pod nos. ;effect;Petlje su se odvojile od cvijeta. ;Osjetio sam miris cvijeta. ;1
+Žena je osjećala nostalgiju. ;cause;Naletjela je na prijatelja iz djetinjstva. ;Vikala je na svoju djecu. ;0
+Student je odgađao rad. ;effect;On je podnio papir ranije. ;On je podnio papir nepotpun. ;1
+Auto mi se pokvario. ;effect;Otišao sam u trgovački centar. ;Zvala sam mehaničara. ;1
+Odbacio sam poruku. ;cause;Bilo je anonimno. ;Bilo je nečitljivo. ;1
+Ptica je macala krilima. ;effect;Stavljala je jaja. ;Uspon je. ;1
+Parkirao sam na prilazu. ;cause;Garaža je bila otvorena. ;Garaža je bila puna. ;1
+Zločinac je ciljao pištolj na svoju žrtvu. ;effect;Kriminal je spustio pištolj. ;Žrtva je podigla ruke. ;1
+Veselio sam se vikendu. ;cause;Planirao sam prisustvovati ujakovom pogrebu. ;Planirao sam prisustvovati venčanju mog prijatelja. ;1
+Izgubio sam pojam o vremenu. ;cause;Sanjao sam. ;Bilo mi je mučno. ;0
+Dokument je bio nečitljiv. ;cause;-Nema više tinte. ;-Nema više papira. ;0
+Na stadionu je svirala državna himna. ;effect;Fanovi su se okrenuli prema zastavi. ;Fanovi su se upali na teren. ;0
+Dip je bio bezukusan. ;effect;Ja sam ga poslužila. ;Stavio sam sol u nju. ;1
+Stavio sam papirnati ručnik na izlijevanje. ;effect;Ručnik je apsorbirao tekućinu. ;Izlivanje je ostavilo ljepljivi trag. ;0
+Žena je bila prekinuta u sred čitanja svoje knjige. ;effect;Ona je označila svoju stranicu. ;Ponovno je pročitala knjigu. ;0
+Avion je bio u turbulenciji. ;effect;Čovjek je zaširio pojas. ;Čovjek je pogledao kroz prozor. ;0
+Dječak se uzdrmao. ;cause;Djevojka ga je ignorirala. ;Djevojka ga je gurnula. ;1
+Liječnici su pacijentu dali umjetni ud. ;cause;Amputirali su joj nogu. ;Pratljali su joj vitalne znakove. ;0
+Dečko je uštedio djevojčino lakto. ;effect;Ona je povukla ramenima na njega. ;Odvuče ruku od njega. ;1
+Pitao sam prijatelja za savjet. ;cause;Cijenio sam njegovo mišljenje. ;Znao sam da sam u pravu. ;0
+Dečko je stao u blato. ;effect;Blata je zalijepila na njegove cipele. ;Blata ga je pogodila u lice. ;0
+Grad je dobio nekoliko centimetara snijega. ;effect;Škole su zatvorene. ;Ljudi su se skrivali pod zemljom. ;0
+Radna smjena je završena. ;effect;Otišao je kući. ;Prijetio je da će dati otkaz. ;0
+Drvo je oštetilo kuću. ;cause;Drvo je palo na krov. ;Drvo je zasjenilo dvorište. ;0
+Drvo se raspolovilo. ;cause;Stavila sam drva u kamin. ;Ja sam zavijao sjekirom prema drvetu. ;1
+Obitelj je čestitala bračnom paru. ;cause;Par je objavio da se razvode. ;Par je objavio da će imati bebu. ;1
+Djevojka je dječaku poslala čestitku. ;cause;Sviđao joj se. ;Ona ga je poljubila. ;0
+Kladim se glavom na izjavu mog prijatelja. ;cause;Bila sam zbunjena. ;Slažem se s njim. ;1
+Prijatelji su bacili novčić. ;cause;Htjeli su naći kompromis. ;Htjeli su donijeti fer odluku. ;1
+Tajmer u kuhinji je upalio. ;effect;Čovjek je isporučio namirnice u hladnjak. ;Čovjek je uzeo pizzu iz peći. ;1
+Žena je postavila ambiciozan cilj. ;effect;Ona je odustala. ;Ona je naporno radila. ;1
+Bogataš je umro od starosti. ;effect;Njegov sin je upleo u pravne probleme. ;Njegov sin je naslijedio njegovo bogatstvo. ;1
+Žena je stajala na plamen. ;effect;Plamen je ugašen. ;Dim je izbio iz plamena. ;0
+Ženin auto je bio u radionici. ;cause;Vozačka joj je dozvola oduzeta. ;Imala je prometnu nesreću. ;1
+Spavao sam kroz moj alarm. ;effect;Napravila sam doručak. ;Propustio sam doručak. ;1
+Javna ličnost je izašla iz limuzine. ;effect;Kamere su treptali u njegovom smjeru. ;Njegova obitelj je prisustvovala konferenciji za novinare. ;0
+Žena je zadržavala u kadi. ;effect;Voda u kadi je postala vlažna. ;Voda iz kupke je ispuštena iz kade. ;0
+Studentica je htjela upoznati druge studente na kampusu. ;effect;Pridružio se bratstvu. ;Diplomirao je inženjering. ;0
+Podigla sam jastuke za kauč. ;cause;Tražio sam sitni novac. ;Preuređivala sam dnevnu sobu. ;0
+Oša je letjela prema dječaku. ;effect;Dječak je pobjegao. ;Dječak je pokupio cvijet. ;0
+Žena je proglašena krivom za prekršaj. ;effect;Osuđena je na društveni rad. ;Bila je osuđena na smrt. ;0
+Pomiješao sam šećer u vrući čaj. ;effect;Čaj je zapaljen. ;Šećer se rastopio. ;1
+Veteran je šepao. ;cause;Bio je pozvan u rat. ;Bio je ranjen u borbi. ;1
+Kriminalnik je pobjegao od policije. ;effect;Policija je prisustvovala žrtvi. ;Policija je progonila kriminalca. ;1
+Laptop se nije uključio. ;cause;Ispao mi je. ;Naplatio sam ga. ;0
+Žena je ostala bez prostora u svom ormaru. ;cause;Stekla je veliku garderobu. ;Složila je rublje. ;0
+Čovjek je bio slomljenog srca. ;cause;Njegova žena je rodila. ;Žena ga je ostavila. ;1
+Čovjek je dobio diplomu. ;effect;Postao je kvalificiran za posao koji je želio. ;Njegova ponuda za posao je poništena. ;0
+Glas mu se jasno projicirao po cijeloj dvorani. ;cause;Pozdravljao je publiku. ;Pričao je u mikrofon. ;1
+Bacio sam novčić u fontanu vode. ;effect;Novčić je potonuo na dno. ;Novčić se raspao na pola. ;0
+Igrač je udario loptu prema rupi. ;effect;Lopta je ušla u rupu. ;Lopta se povukla natrag igraču. ;0
+Dišala sam prašinu na tavanu. ;effect;Imam štucajuću. ;Kihnuo sam. ;1
+Kasir je zvao osiguranje. ;cause;Kupac je koristio lažni novac. ;Kupac je ostavio upaljene svjetiljke. ;0
+Izbacio sam smeće. ;cause;Od smeća u kuhinji je bilo gadno. ;Slučajno sam bacio listu za kupovinu. ;0
+Obitelj je otišla u zoološki vrt. ;effect;Djeca su se divila životinjama. ;Djeca su lovila životinje. ;0
+Čovjek je dišao glasno. ;cause;Bubrezi su mu otkazivali. ;Pluća su mu bila zatvorena. ;1
+Imao sam još jednu kartu za koncert. ;effect;Pitao sam prijatelja za upute do mjesta. ;Pitao sam prijatelja da li bi htio ići. ;1
+Klimatizator u kući je pokvaren. ;effect;Izvukao sam pokrivače. ;Otvorio sam prozore. ;1
+Dečko ima bolove u leđima. ;cause;Njegov ruksak je bio otvoren. ;Njegov ruksak je bio težak. ;1
+Kupio sam mami poklon. ;cause;Ispekla sam joj tortu. ;Bio je njezin rođendan. ;1
+Narcise u vrtu su uništene. ;cause;Pčela je ubola baštovana. ;Vjeverice su iskopale žarulje. ;1
+Ja sam pogodila šibicu. ;effect;Plamen je izbledio. ;Upalica je proizvela plamen. ;1
+Stranke u sporu su postigle dogovor. ;cause;Nisu htjeli raspravljati na sudu. ;Htjeli su popraviti svoj osobni odnos. ;0
+Djeca su poslana u sirotište. ;cause;Roditelji su im umrli. ;Roditelji su ih razmazili. ;0
+Meteorit je pao u ocean. ;effect;Došlo je do cunamija. ;Počela je padavina. ;0
+Pješač je naišao na otrovnu zmiju. ;effect;Bila je dehidrirana. ;Upala je u paniku. ;1
+Pećnica je postala vruća. ;cause;Uključio sam pećnicu. ;Stavio sam tanjur u rupu. ;0
+Stisnuo sam klin od limuna. ;effect;Limun je postao plesniv. ;Limun je prskao. ;1
+Zemlja je otkrila nove zemlje. ;effect;Zemlja je napustila zemlju. ;Država je kolonizovala zemlju. ;1
+Čaša je pala s stola. ;effect;Raspršilo se po cijelom podu. ;Sletjelo je u gomilu rublja. ;0
+Stol se tresao. ;cause;Pod je bio neravan. ;Pod je bio klizav. ;0
+Otac je uhvatio sina kako laže. ;effect;Njegov sin je priznao istinu. ;Otac je vjerovao sinu. ;0
+Čovjekova glava je trčala od boli. ;effect;Uzeo je sirup za kašalj. ;Uzeo je aspirin. ;1
+Vlak je usporio. ;cause;Približavao se stanici. ;Kasnio je. ;0
+Čovjek je prošao kroz terapiju. ;cause;Psihička bolest je bila u njegovoj obitelji. ;Dijagnosticiran je sa depresijom. ;1
+Žena je zgrabila grlo. ;cause;Progutala je hranu. ;Zadavila se hranom. ;1
+Žena je imala upaljeno grlo. ;effect;Glas joj je bio raspijan. ;Govorila je s naglaskom. ;0
+Pas je gledao sočan odrezak na stolu. ;effect;Slinilo se. ;-Spao je. ;0
+Poslov je uspjevao. ;effect;Otpustila je svoje zaposlenike. ;Postala je bogata. ;1
+Učenici su izašli iz učionice. ;cause;Zvonilo je. ;Učitelj je dao domaći zadatak. ;0
+Žena je tvrdila da je vidjela duha. ;effect;Njeni poznanici su izrazili sumnju. ;Njeni poznanici su povezani s njom. ;0
+Čovjek je izgubio sluh. ;cause;Umalo se utopio u oceanu. ;Umalo je poginuo u eksploziji. ;1
+Dijete je pustilo konopac od balona. ;effect;Balon se ispraznio. ;Balon se uzdigao u zrak. ;1
+Čovjek je izgubio sposobnost govora. ;cause;Imao je moždani udar. ;Duboko je udahnuo. ;0
+Žena se spotakla na pločniku. ;cause;-Bila je pukotina u cementu. ;Čula je kako je zovu. ;0
+Čovjek je bacio top u bazen. ;effect;Spasitelj je skočio za njim. ;Čovjek je natopio spasioca. ;1
+Uzeo sam antibiotike. ;effect;Moja infekcija je prošla. ;Moja infekcija se proširila. ;0
+Prometno svjetlo je postalo žuto. ;effect;Vozač je pritisnuo kočnicu. ;Vozač je trubio. ;0
+Plastična posuda se rastopila. ;cause;Umaknuo sam posudu u toplu vodu. ;Stavio sam posudu na vruću pećnicu. ;1
+Auto je uboda. ;cause;Vozač je udario u telefonski stub. ;Vozač je prošao na crveno. ;0
+Dječak je čitavu noć učio. ;effect;Preskočio je ispit. ;Prošao je ispit. ;1
+Mladić se držao o ivicu bazena. ;cause;Bojao se naučiti plivati. ;-Spasitelj je bio na dužnosti. ;0
+Stavio sam ruku na grudi. ;effect;Osjetio sam otkucaje srca. ;Moj otkucaj srca ubrzao. ;0
+Zgrada koja je bila uz moju kancelariju bila je u izgradnji. ;effect;Moj ured je bio pun. ;Moj ured je bio bučan. ;1
+Obitelj je željela upoznati svoje nove susjede. ;effect;Obitelj je pozvala susjede na večeru. ;Obitelj je mahnula susjedima iz dvorišta. ;0
+Voda je ispljuvala iz bazena. ;cause;Plivač je skočio u bazen. ;Plivač je plutao u bazenu. ;0
+Ugrizao sam komad lubenice. ;effect;Slučajno sam progutao sjeme. ;Slučajno sam polomila zub. ;0
+Dječak se spotaknuo. ;cause;Jakna mu je bila otvorena. ;Nisu mu vezali vezice. ;1
+Žena je stavila uši. ;cause;Ona je bila ometena od buke. ;-Porezala si je uši. ;0
+Napunio sam bocu vode. ;cause;Popio sam svu vodu u njemu. ;Čuvao sam ga u frižideru. ;0
+Televizijska emisija je cenzurirana. ;cause;U njemu je bilo vulgarnih riječi. ;Imao je kompliciranu priču. ;0
+Brod je propao. ;effect;Posada se utopila. ;Posada je naišla na gusare. ;0
+Dječak se osjećao zbunjen zagonetkom. ;effect;On je riješio zagonetku. ;Tražio je naznaku. ;1
+Zvuče telefon. ;effect;Čovjek je spustio slušalicu. ;Čovjek je pokupio telefon. ;1
+Žena je buljila u mene. ;effect;Ja sam je zagrlio. ;Bilo mi je neugodno. ;1
+Grupa je napustila muzej. ;cause;Slikali su izložbe. ;Pogledali su sve izložbe. ;1
+Čovjek je počeo raspravljati sa mnom. ;effect;Prijatelj me je upoznao s njim. ;Prijatelj me je podržao. ;1
+Gume na mom biciklu su bile prazne. ;effect;Pumpirao sam zrak u gume. ;Ja sam zamijenio brzine na biciklu. ;0
+Djevojka je bila blijeda. ;effect;Otac joj je čitao priču. ;Otac joj je pipnuo čelo. ;1
+Penu je ponestalo tinte. ;effect;Koristio sam olovku. ;Potpisao sam se. ;0
+Čovjeku je odbijen za zajam. ;cause;Bio je u dugovima. ;Otvorio je posao. ;0
+Djevojka je ostala kod kuće. ;cause;Imala je boginje. ;Voljela je učiti matematiku. ;0
+Vreća za smeće je bila puna. ;effect;Odnio sam ga u kontejner. ;Bacio sam ga u sudoper. ;0
+Usisao sam tepih. ;cause;Moj cimer prolio punch. ;Moj pas gubi dlake. ;1
+Čovjek je izgubio živce. ;effect;Isključio je svoj kompjuter. ;Bacio je stolicu preko sobe. ;1
+Djevojka je bacila grančicu u logorsku vatru. ;effect;Grana je izgorjela. ;Vatra je ugašena. ;0
+Čovjek je izašao iz tuša. ;cause;Topla voda je nestala. ;Nije mogao naći ručnik. ;0
+Roditelji su željeli da njihova djeca idu na fakultet. ;effect;Odvojili su štednju za školarinu. ;Ohrabrivali su svoju djecu da se igraju vani. ;0
+Čovjek je otkopčao vezice. ;effect;Cipele su se otvorile. ;Cipele su se ispraznile. ;0
+Čovjek je pojeo pola glavnog jela. ;effect;On je hladio ostatke. ;Sačuvao je recept. ;0
+Moj gležanj je bio otečen. ;effect;Stavio sam led na njega. ;-Otrljao sam ga losionom. ;0
+Vrata ureda su bila otvorena. ;effect;Razgovarao sam sa kolegom za mojim stolom. ;Čuo sam razgovor u hodniku. ;1
+Morao sam čekati u redu. ;effect;Sjedila sam. ;-Pogledala sam časopis. ;1
+Čovjek je zagledao mušku. ;effect;Muha je odletjela. ;Muha je ostala mirna. ;0
+Čovjek je napisao oporuku. ;cause;Umirao je. ;Bio je udovac. ;0
+Trkač je osjetio kako ga njegov suparnik nadmašuje. ;effect;-Otišao je iz utrke. ;Ubrzao je svoj korak. ;1
+Pažljivo sam razmislio o problemu. ;effect;Tražio sam savjet. ;Smislio sam rješenje. ;1
+Putnik je hodao po drhtljivom visećem mostu. ;effect;Bio je prestrašen. ;Bio je u ekstazi. ;0
+Čovjek je predvidio pobjedu tima. ;effect;Sreo se sa prijateljima da gleda utakmicu. ;On je napravio okladu sa svojim prijateljima. ;1
+Dječak nije mogao zaspati. ;effect;Postavio je budiljak. ;Brojao je ovce. ;1

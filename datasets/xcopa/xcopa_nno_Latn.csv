@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Artikkelen var pakka i boblefilm. ;cause;Det var ømfintlege. ;Det var lite. ;0
+Eg tømde lommene mine. ;effect;Eg fann ei billettstubbe. ;Eg fann eit våpen. ;0
+Termitar invaderte huset. ;effect;Termitane forsvann frå huset. ;Termitane åt gjennom treet i huset. ;1
+Reisande nådde grensa. ;effect;Patruljen sjekka passane deira. ;Patruljeagenten klandra dei for smugling. ;0
+Kontoret var stengt. ;cause;Det var ei ferie. ;Det var sommar. ;0
+Jenta fekk ikkje meir energi. ;cause;Ho spelte dam. ;Ho hoppa over tau. ;1
+Kvinna mista plassen si i køen. ;cause;Fleire kom til. ;Ho gjekk ut av køen. ;1
+Jenta klemte på nesen sin. ;cause;Barnet salivra på salla. ;Barnet smurde bleia hennar. ;1
+Bandet spelte hit-songen sin. ;effect;Publiken klappa saman med musikken. ;Publiken høyrde høfleg på i stillskap. ;0
+Jenta ville takka matematikklæraren sin. ;effect;Ho vart verande der etter skulen for å halde på. ;Jenta gav læraren eit eple. ;1
+Dei unge legarne vart redde. ;cause;Ein leiar i leiren deira hadde fortalt dei ei gåte. ;Dei ristar marshmallows på leirelda. ;0
+Mannen slo hovudet sitt. ;effect;Han vart tapt i tankar. ;Han hadde eit hjerneslag. ;1
+Sjekkane eg skreiv vart ikkje sendt. ;cause;Bankkontoen min var tom. ;Eg har fortjent ei lønnshøving. ;0
+E-post-innboksa hans var full av skräppost. ;effect;Han slette spam. ;Han sendte ut ei masse e-post. ;0
+Sjømannen var sett i karantene. ;cause;Han var eksponert for sjukdomen. ;Han kom seg frå sjukdomen. ;0
+Ho lærte seg koden på hjarta. ;cause;Ho fortalde det for seg sjølv. ;Ho gløymde å skriva det ned. ;0
+Eg helte vatnet i glaset. ;effect;Vatnet sløkte tørsten min. ;Glaset vart fullt. ;1
+Mannen vart stille når venen hans hadde tala ferdig. ;cause;Han ville tilby sin ven støtte. ;Han tenkte på orda til vennen sin. ;1
+Ulykka var mi skuld. ;effect;Eg følde skuld. ;Eg gav henne klagemål. ;0
+Kjedene gjekk frå kvarandre. ;cause;Ketta var omringa rundt eit dekk. ;Det var eit brotent ledd i kjeda. ;1
+Paret vedtok å kompromissa. ;cause;Dei vart trøytte av å krangle. ;Dei heldt seg frå å diskutera problemet. ;0
+Ho bestemte seg for å stille som presidentkandidat. ;effect;Ho henta ein leiar for valkampanjen. ;Ho vitna i retten. ;0
+Mannen venta kaldt vær på reisa si. ;effect;Han hadde pakka varme klede i kofferta si. ;Han reiste med ein stor koffert. ;0
+Studenten visste svaret på spørsmålet. ;effect;Han reiste handa. ;Han tok eit dumt stykke. ;0
+Auga til mannen rennte. ;cause;Støvet kom i augo hans. ;Han la ein skyggeskje over augo. ;0
+Spelaren vann fem kampar på rad. ;effect;Motstandaren hennar skuldde ho for å fuska. ;Motstandaren hennar synte synd på ho. ;0
+Læraren rive opp eksamen til studenten. ;cause;Han fekk med seg studenten som fuska. ;Svarene til studenten var feil. ;0
+Eg stansa for å slutte å snakka. ;cause;Eg mista røysta mi. ;Eg vart utan andedrag. ;1
+Den frosne maten tynnte. ;cause;Eg sette han i mikrobølgeovnen. ;Eg dekka det med plastfolie. ;0
+Ansatte late som han var sjuk. ;cause;Han hadde magekramper. ;Han ville ha ein dag fri. ;1
+Jenta landa i bassenget. ;cause;Ho sprang på bassengdekk. ;Ho hoppa frå springbretta. ;1
+Bileta til kinoen var utsolde. ;cause;Det var første dagen på festivalen for filmen. ;Filmen fekk dårleg omsyn. ;0
+Mannen mista vekt. ;effect;Folk isolerte han. ;Folk gav han komplimentar. ;1
+Henderne til jenta vart blære. ;cause;Ho skriv opp eit brev. ;Ho klatrer opp på ei tau. ;1
+Cirkusartisten jonglerte medan han ri ein einhjulesykkel. ;effect;Publiken jubla i undring. ;Akrobaten sving frå ein trapez. ;0
+Eg mista tålmodigheten min. ;cause;Venen min lét meg venta. ;Venen min kom til rette tid. ;0
+Dei stridande landa ville ha fred. ;effect;Dei utvikla kjernefysiske våpen. ;Dei forhandla ut ein pakt. ;1
+Mannen tok sovemedisin. ;effect;Han vart døsig. ;Han hadde feber. ;0
+Kvinna treffa sofaen. ;effect;Benet på sofaen slapp av. ;Ho fekk blåmerke på kneet. ;1
+Drengen klemte ballongen. ;effect;Ballongen sprakk. ;Ballongen flaug bort. ;0
+Dei reisande checkte inn på hotellrommet sitt. ;effect;Dei pakka ut koffertane sine. ;Dei gjekk til flyplassen. ;0
+Eg beit i fersken. ;effect;Persiken er blåskadd. ;Juice spilde ut. ;1
+Henderne mine vart klebrige. ;cause;Eg åt ein donut. ;Eg hadde ein søt tann. ;0
+Eg trekte på døra. ;effect;Døren opna seg. ;Døra låst. ;0
+Aktivistar boikotta produktene. ;cause;Produkta vart testa for kvalitetssikring. ;Produkta blei laga gjennom barnarbeid. ;1
+Eg borra eit hull i veggen. ;effect;Ei mus kravla ut av hålet. ;Støv sprang ut av holet. ;1
+Kvinna følgde seg misunneleg på søsteren sin. ;cause;Sysken hennar var glad. ;Sysken hennar skilde seg. ;0
+Eg spilde vin på skjorta mi. ;effect;Eg tok på meg eit forklæde. ;Eg bytte skjorte. ;1
+Kassereren opna kassaapparatet. ;cause;Kunden leita i lommeboka si. ;Kunden gjev henne pengane. ;1
+Gatamusikaren trekte til seg ei mengd folk. ;effect;Folk gav han skifte. ;Han sende folkemengda bort. ;0
+Den vesle guten gret til barnevaktaren sin. ;cause;Han savna foreldra sine. ;Det var lunsjtid. ;0
+Radarane til piloten oppdaga eit storm. ;effect;Pilotane navigerte bort frå stormen. ;Pilotane flaug gjennom stormen. ;0
+Treet kasta blada sine. ;effect;Blada vart farga. ;Blada samla seg på jorda. ;1
+Drengen var i eit skumle humør. ;effect;Han bestemte seg for å spela eit kortspel med syster si. ;Han bestemte seg for å gjera ei praktisk vits med syster si. ;1
+Barnet klaget at han måtte gå på toalettet. ;effect;Far hans gav han ein brus å drikka. ;Far hans stoppa bilen ved ein bensinstasjon. ;1
+Barnet sprutte fiskmat i akvariet. ;effect;Fisken hoppa ut av akvariet. ;Fisken svømde mot maten. ;1
+Den politiske oppfatninga til kvinna endra seg. ;effect;Ho bytte parti. ;Ho var med på ei protest. ;0
+Vasken i badet var tilstoppa. ;effect;Eg opna kranen. ;Eg helte avløpsrensar i det. ;1
+Passasjerane gjekk av toget. ;cause;Toget kom til stasjonen. ;Toget blåste på fløyten. ;0
+Mannen trykkte ned på den fuktige klappen på konvolutten. ;effect;Han sette eit stempel på konvolutten. ;Han stengde konvolutten. ;1
+Vennane vart ikkje i kontakt. ;cause;Dei likte å vera saman. ;Dei flytta til ulike byar. ;1
+Revisoren forvalta ikkje selskapets pengar. ;effect;Ho vart kasta frå stillinga si. ;Ho gjekk på barnekor. ;0
+Eg såg på klokken. ;cause;Eg høyrde klokken tikka. ;Eg ville sjekka tida. ;1
+Han hadde ein kramper i handa. ;cause;Eg skreiv essayet for hand. ;Kona mi og eg heldt hand. ;0
+Boltane trekkte seg saman. ;cause;Eg bytte ut bolten. ;Eg vridde vridssnøglen. ;1
+Paret signerte ei leigekontrakt for ei leilighet. ;effect;Paret flytta inn i leiligheten. ;Byen fordømde leiligheten. ;0
+Kvinna sat utanfor på veranda. ;cause;Ho ville sjå solnedgangen. ;Ho trudde ho såg lyn. ;0
+Mannen hadde på seg ein livvest i vatnet. ;cause;Han kunne ikkje symja. ;Vatnet var grunnt. ;0
+Ho gjorde ein skrivfeil i tekstprosessoren. ;effect;Ho slette dokumentet. ;Ho trykkte på bakrom-knappen. ;1
+Jenta skryta for venene sine. ;cause;Ho fekk ein dårleg karakter. ;Ho vann ein konkurranse. ;1
+Gresset var mudderig. ;cause;Det regna over natta. ;Det var fullt av ugras. ;0
+Ho sovna over. ;cause;Ho overnatt på eit hotell. ;Ho gløymde å stilla vekkerklokka. ;1
+Mannen sette på solkrem. ;cause;Han sat i skuggen. ;Han gjekk til stranden. ;1
+Forskarane beviste teorien. ;effect;Forskarane trekte tilbake teorien. ;Individar aksepterte teorien. ;1
+Fansen på kampen booed. ;cause;Matchen gjekk inn i overtid. ;Domaren tok ei dårleg avgjørelse. ;1
+Eg gav deg ei kombinasjon på låsen. ;effect;Eg stengde låsa. ;Låsen sprang opp. ;1
+Folkemengda vart sterkare. ;effect;Far gav sonen nokre pengar. ;Far tok sonen sin i handa. ;1
+Sneen hadde stengt oppføringsveggen. ;effect;Eg samla snøen til ein snøball. ;Eg skotta snøen ut av vegen. ;1
+Kajakkarane padla på rora sine. ;effect;Kayaken nådde kysten. ;Kajakken trefte ei bølgje. ;0
+Jenta mista kontrollen over sykkelen. ;effect;Ho lét handvalet gå. ;Ho krasja inn i eit gjerde. ;1
+Eg sette på ventilatoren. ;effect;Vatn sprutast på huden min. ;Eg følde kjøleg luft gå over meg. ;1
+Surfarane vende tilbake til stranda. ;cause;Dei var våte. ;Dei såg ein hai. ;1
+Eg trekte avløpsstoppen i badekaret. ;effect;Vatnet gjekk ut av karet. ;Vatnet spottar på golvet. ;0
+Mannen følgde seg skuldig for å ha vore utro mot kona si. ;effect;Han skulda henne for utroskap. ;Han vedkjende henne utroskapen sin. ;1
+Blekk på plakatet blei smurt. ;cause;Eg venta på at blekk skulle tørka. ;Eg spilde vatn på plakatet. ;1
+Barnet vakna og skreik. ;cause;Han hadde eit mareritt. ;Han våta sengen. ;0
+Drengen la føtene sine opp på bordet. ;effect;Far hans sette seg ved bordet. ;Far hans gav han forelesning. ;1
+Venen min snudde hovudet mot meg. ;cause;Eg ropa namnet hans. ;Eg sveiv med armane. ;0
+Regjeringa undertrykte borna sine. ;effect;Borgarane gjorde opprør. ;Borgarane registrerte seg for å stemme. ;0
+Drengen var fortapt i skogen. ;effect;Han sette opp eit telt. ;Han skreik etter hjelp. ;1
+Kvinnan reiste utanlands. ;cause;Ho ville læra å teikna. ;Ho ville læra om andre kulturar. ;1
+Mannen var misunneleg på kollegaen sin. ;cause;Ein av kollegane hans fekk ein framstiging. ;Kollega hans arbeidde seint. ;0
+Mannen var vitne til romvesener. ;cause;Han hadde hallucinasjonar. ;Han var i meditasjon. ;0
+Mannen fekk blonda hår. ;cause;Han putta blekemiddel i det. ;Han putta sjampo i det. ;0
+Kunstnaren skapte nytt arbeid. ;cause;Ho kritiserte det fyrre arbeidet hennar. ;Ho følde eit slag av inspirasjon. ;1
+Sonen flytta bort frå heimen. ;cause;Han vart utleidd frå militæret. ;Han skulle på college. ;1
+Bøker fall ut av bokhylla. ;cause;Reglar var dekt av støv. ;Ein jordskjelv riste bokhylla. ;1
+Strømmen i huset mitt gjekk av. ;effect;Eg tendra eit lys. ;Eg byttar avbrytaren. ;1
+Vi gjekk på berg- og dalbane. ;cause;Det såg skumle ut. ;Det såg moro ut. ;1
+Posa med popcorn byrja å knappa. ;cause;Eg helte smør i veska. ;Eg varmde det opp i mikrobølgeovnen. ;1
+Eit tre fall på kraftledinga. ;effect;Strømmen i kvartalet gjekk ut. ;Prognosen spådde sterke vindar. ;0
+Talaren gjorde politisk ukorrecte kommentarar. ;effect;Han kjede publikum. ;Han fornærma publikum. ;1
+Eg prikk meg sjølv med pinna. ;effect;Det dryppa eit svettkrølle frå andletet mitt. ;Ein bloddråpe danna seg på fingeren min. ;1
+Fisken svevde på overflata i tanken. ;cause;Det var svoltande. ;Det var dødt. ;1
+Røysta til mannen høyrde hæs. ;cause;Han var forkjøla. ;Han slutta å røyke. ;0
+Dørene til heisen opna seg. ;cause;Elevatoren kom til den utpekte etasjen. ;Heisaren vart fast mellom etasjar. ;0
+Tenåringen snikka ut av huset. ;cause;Han løy for foreldra sine. ;Foreldra hans gav han husarrest. ;1
+Badet vart overflutta. ;cause;Toalettet hadde overfloom. ;Vassoppvarmaren gjekk i stykker. ;0
+Hunden vart verande nær eiaren sin. ;cause;Eigaren la ein krage på valpen. ;Eigaren heldt valpen på leie. ;1
+Mannen fanga speglinga si. ;cause;Han stod under det store treet. ;Han stod over den rolege sjøen. ;1
+Eg mista telefonsamtalen til kjæresten min. ;effect;Eg ringde henne tilbake. ;Eg møtte henne til middag. ;0
+Familjen leita i kvarteret. ;cause;Hunden deira rømde heimefrå. ;Dyr smykker var borte frå heimen deira. ;0
+Eg såg andinga mi når eg anda ut. ;cause;Det var kaldt vær. ;Eg følde stramt i bringa. ;0
+Ansatte danna ein fagforening. ;cause;Dei ville ha betre arbeidsvilkår. ;Arbeidsforeldra deira auka løna deira. ;0
+Eg bake ei eplepaie. ;effect;Ein rotande lukt fylte kjøkkenet. ;Ein varm aroma fylte kjøkkenet. ;1
+Kvinna streva med å gå. ;cause;Ho hadde på seg høge hælar. ;Ho tok av skoene sine. ;0
+Dampen steig opp av vatnet. ;cause;Vatnet kokte. ;Eg dekkje potten. ;0
+Alle sokkene mine var i vaskeriet. ;effect;Eg hadde på meg sandaler. ;Eg hadde på meg støvlar. ;0
+Argumentet til politikaren blei rekna som absurd. ;effect;Han mista støtta frå veljarane. ;Han vart skulda for korrupsjon. ;0
+Alle var motsetjende til forlovinga til paret. ;effect;Paret blei gravide. ;Paret gjekk bort. ;1
+Bygningen var dedikert til millionaren. ;cause;Miljonæren ville at bygningen skulle rivast ned. ;Miljonæren gav pengar til å byggja det. ;1
+Søljaren klandra jenta for å ha stule. ;cause;Salgskonsulenten såg jenta leggja merchandise i vesken hennar. ;Salgskonsulenten hjelpte jenta med å finna vesken ho likte. ;0
+Landet erklærte krig mot det nabolege territoriet. ;effect;Soldatar vart sende ut for å strida. ;Soldatar blei samla med familiane sine. ;0
+Retten stadfeste den kontroversielle avgjerda. ;effect;Det braut ut eit opprør framfor rettsbygningen. ;Eit par gav seg i lovnadsbrev framfor domstolen. ;0
+Jenta lukta noko brennande. ;cause;Ho tok kjeksene ut av kruka. ;Ho lét smørkjøkken i ovnen. ;1
+Det regna som ein tømmerskel. ;effect;Orkan vart verre. ;Eg skyndte meg inn. ;1
+Bygningen vart evakuert. ;cause;Elevatoren slutta å fungere. ;Brannlarmen gjekk av. ;1
+Faren vart sint på sonen sin som var alkoholist. ;effect;Faren kjøpte sonen ein øl. ;Far sparka sonen sin ut av huset. ;1
+Advokaten gjekk opp trappen til kontoret sitt. ;cause;Sekretæren gjekk heim for dagen. ;Heisaren var ubrukbar. ;1
+Mannen vart irritert på venen sin. ;cause;Venen hans avbrot han. ;Venen hans kjøpte han lunsj. ;0
+Jenta gav pengane sine til kassa. ;effect;Kassereren gav jenta vekslinga. ;Kassereren gløymde å gje jenta ein kvittering. ;0
+Kvinna vart sett i ein rullestol. ;cause;Ho blei lam i ein ulykke. ;Ho kom inn på sjukehusa i ei bar. ;0
+Borgarar hengde opp nasjonalflagget utanfor heimane sine. ;cause;Landet feira sjølvstende. ;Landet hadde økonomiske vanskeligheter. ;0
+Teamet tapte turneringa. ;effect;Dei skuffa fansen sin. ;Dei inspirerte tilhengjarane sine. ;0
+Venen min sa at eg hadde mat fast i tennene mine. ;effect;Eg følgde meg flau. ;Eg følde meg stolt. ;0
+Drengen faelte på historia. ;cause;Han var oppteken i klassen. ;Han gløymde å studera. ;1
+Bygningen i sentrum kollapset. ;cause;Ein jordskjelv ramma byen. ;Kriminalitet i byen auka. ;0
+Kjærasten hans gjorde slutt med han. ;effect;Han bad henne ta han med seg. ;Ho introduserte han for foreldra sine. ;0
+Dei to borna greip saman ned for å ta ballen. ;effect;Bollen rulla bort. ;Hovudene deira gjekk saman. ;1
+Rakunen ransa søppelkassa. ;cause;Det var papp i søppelkåpen. ;Lokket var av søppelkåpen. ;1
+Drengen skarpa blyanten. ;cause;Det var billeg. ;Det var kjedeleg. ;1
+Kassereren nekta kvinna å få tilbake pengane for kjolen. ;cause;Ho mista kvittinga si. ;Kledninga passa ikkje. ;0
+Skrape i huden min var djup. ;effect;Det heile seg fort. ;Det etterlét eit arr. ;1
+Mannen fekk merkelege blikk frå passasjerar på toget. ;cause;Han stirra på jorda. ;Han snakka med seg sjølv. ;1
+Barnet lét krumper på golvet. ;effect;Myrene kravla til smulkane. ;Barnet la bort brødet. ;0
+Kvinnan gav systera si eit vev. ;cause;Sysken til kvinna foldte hendene. ;Sysken til kvinna byrja å gråta. ;1
+Mannen tok ein mint. ;cause;Låpene hans var sprekke. ;Han var uroleg for vond andedryk. ;1
+Paret gjekk tidleg for å sjå showet. ;cause;Dei forventade trafikken rundt teateret. ;Dei har teikna vegen til teateret. ;0
+Kvinna vart verande heime frå arbeidet. ;effect;Sjefen hennar roste ho. ;Ein kollega dekt henne. ;1
+Mannen signerte ein oppfordring til aktivistane. ;cause;Han støtta deira sak. ;Han fordømde dei som gale. ;0
+Hjartet til skodespelaren flattra før framføringa si. ;cause;Han hadde sceneskrekk. ;Han lærte replikane sine ut av tankene. ;0
+Eg var fortapt. ;effect;Eg telde pengane mine. ;Eg opna eit kart. ;1
+Dei mogne fruktane blei liggjande i sola. ;effect;Det vart et. ;Han krympa opp. ;1
+Bilen gjekk i stykker. ;cause;Eg starta på. ;Motoren overopphetast. ;1
+Mannen skadde ryggen sin. ;effect;Han gjekk til ein psykiater. ;Han vart liggjande i senga i fleire dagar. ;1
+Eg starta ein brann i peisen. ;cause;Eg hadde ikkje lenger ved. ;Det var kaldt i huset. ;1
+Ho slutta å jogga. ;cause;Ho har ein kramper i sida. ;Ho fekk ein ny impuls. ;0
+Eg banka på døra til naboen min. ;effect;Naboen min inviterte meg inn. ;Naboen min gjekk ut av huset sitt. ;0
+Kvinna sukka av frustrasjon. ;cause;Mannen hennar misforstod bekymringane hennar. ;Mannen hennar kyssa henne farvel. ;0
+Læraren roste studenten. ;cause;Studenten svara spørsmålet rett. ;Studenten nøydde å svara på spørsmålet. ;0
+Kvinnan fekk ikkje meir egg. ;effect;Ho gjekk til busetnaden. ;Ho gjekk til supermarkedet. ;1
+Eg møtte ein gamal ven. ;effect;Eg avsløra ei hemmelighet for han. ;Eg gav han eit klem. ;1
+Ho heldt seg frå å gå i sjøen. ;cause;Ho fanga ein fisk. ;Det såg forurenset ut. ;1
+Studenten kom til klassen våt og våt. ;cause;Paraplyet hans var brote. ;Bykken hans vart stjålet. ;0
+Kursoren på dataskjermen flytta seg. ;cause;Brukaren klikka på musen. ;Brukaren flytta musen. ;1
+Sjåføren tok ein omveg. ;cause;Det har vore ein ulykke på hovudvegen. ;Ho følgde vognen framfor seg. ;0
+Eg hengde det våte lakenet på vasklinjen ute. ;effect;Linnen har tørka. ;Linet er flekka. ;0
+Ho la på seg solbrilla. ;cause;Solskjellet var sterkt. ;Ho kalla på ein taxi. ;0
+Mannen stirra på nattehimmelen. ;cause;Han ønskte at det var sommar. ;Han synte det var vakkert. ;1
+Eg følde meg utmattet. ;effect;Eg gjekk tidleg til sengs. ;Eg vart oppe heile natta. ;0
+Mannen gjekk til frisøren. ;cause;Han hadde ikkje hatt hår. ;Håret hans var blitt langt. ;1
+Drengen spelte meint knep med den nye klasskamraten sin. ;cause;Drengen tok imot den nye klasskammaren. ;Drengen likte ikkje den nye klasskammaren. ;1
+Eg hadde lyst på eit glas mjølk. ;cause;Eg åt kake. ;Eg bake brød. ;0
+Det byrja å regna. ;effect;Sjåføren tømde på forlykta. ;Sjåføren skifta bilen bakover. ;0
+Parkeringsplassen i bygningen var tom. ;effect;Eg parkerte tvers over gata. ;Eg parkerte nær inngangen. ;1
+Skribenten mista fristen for å senda inn utkastet. ;cause;Ho hadde skriveblokke. ;Ho redigerte utkastet. ;0
+Partneren min la på. ;cause;Eg bad om å få snakke med ein leiar. ;Eg gav dei identifikasjonsnummeret mitt. ;0
+Vinden blåste gjennom det opne vinduet. ;effect;Dørklokken ringde. ;Gardina skjelva. ;1
+Strømmen i huset mitt gjekk av. ;cause;Eg trekte ut lampen. ;Eg sprang ei sikring. ;1
+Vektløftaren grunt. ;cause;Han bøygde musklane sine i speilet. ;Han lyfte baren over hovudet sitt. ;1
+Studenten prøvde å rekna i hovudet. ;effect;Han tok ut ein kalkulator. ;Han vart forvirra. ;1
+Barnet sovna. ;cause;Faren bytte bleie til barnet. ;Faren rokka spedfølet forsiktig. ;1
+Jenta kasta vassballongen på guten. ;effect;Drengen har fått eit hjerneryst. ;Drengen vart våt. ;1
+Fotografen gløymde å bruka blinkeren på kameraet. ;effect;Fotografiane vart uskarpe. ;Alle på bilda avviste å leika. ;0
+Eg avslo invitasjonen til bursdagsfest. ;cause;Eg var einsom. ;Eg var utanfor byen. ;1
+Eg trena. ;cause;Eg følde meg energisk. ;Eg var redd. ;0
+Eg pressa den fuktige svampen. ;effect;Det hadde teke opp vatn. ;Vatnet gjekk ut av den. ;1
+Dei ferjeborna tok ein ferje til feriestaden. ;cause;Resorten var utbookd. ;Resorten låg på ei øy. ;1
+Tenåringen fekk ein tatovering. ;cause;Ho var redd for nålar. ;Ho ville opprør. ;1
+Ein ukjend bil som var parkert utanfor huset mitt. ;effect;Eg vart mistenksom. ;Eg ringde politiet. ;0
+Brottsmannen gav seg sjølv over. ;cause;Bevisane implicerte han. ;Det var ikkje noko bevis mot han. ;0
+Den tunge mannen bestemte seg for å gå ned i vekt. ;effect;Han skort ut søtsaker. ;Han heldt seg frå koffein. ;0
+Jenta trakk på isen. ;effect;Ho glytt. ;Ho skjelva. ;0
+Kvinna hadde ringar under augo. ;cause;Ho vart ståande oppe heile natta. ;Ho la sonen til sengs. ;0
+Lava rennte ut frå vulkanen. ;cause;Vulkanen gjekk i utbrot. ;Vulkanen var i dvale. ;0
+Ho tok på seg sko. ;cause;Ho kjende alle på fest. ;Ho ville gå ut av festen. ;1
+Eg betala tollboaten. ;effect;Ho lét meg gå gjennom tollbooa. ;Ho heldt meg på ved tolla. ;0
+Den utøvande gjekk konkurs. ;cause;Han selde aksjene sine i selskapet. ;Han sløste bort formuen sin. ;1
+Mannen gjekk til legen. ;cause;Legen var på permission. ;Mannen følde seg sjuk. ;1
+Eg gjekk ut av soverommet mitt gjennom vindauga. ;cause;Husa var på brann. ;Husa var tom. ;0
+Fingrarne til guten vart prune. ;cause;Han tok ein lang dusj. ;Han skumma hendene med såpe. ;0
+Eg spytt ut mjølka. ;cause;Mjølka smaka sur. ;Munnane mine var tørre. ;0
+Eg mista bussen. ;effect;Eg var tidleg på jobb. ;Eg var sein til jobb. ;1
+Lastbilen kolliderte med bilen. ;effect;Trucken auka hastigheten. ;Bilen vart knust. ;1
+Laget rigga kampen i si favør. ;effect;Dei vann. ;Dei gjekk ut av skolen. ;0
+Sodavoksflaska sivrar. ;cause;Eg snudde flaska. ;Eg skru av lokket. ;1
+Drengen var låst ute av huset sitt. ;effect;Han kravla inn gjennom eit opent vindu. ;Han klatrer opp på taket. ;0
+Dørklokken ringde. ;effect;Besøkaren banka på døren. ;Kvinna peika gjennom lågehullet i døra. ;1
+Mannen flekka drakten sin. ;effect;Han har det i vaskeria. ;Han hengde det i skapet sitt. ;0
+Jenta klemte ut tannkremrøret. ;effect;Tannkremet sprut ut av røret. ;Jenta spytt ut tannkreman. ;0
+Dødsfall blant sivile i krigen auka. ;effect;Pacifistar sette opp ei protest. ;Pacifistar heldt ein parade. ;0
+Jenta trekte båndet ut av håret sitt. ;cause;Ho knytte båndet. ;Binda såg babyaktig ut. ;1
+Han hadde plastikk kirurgi. ;effect;Han blei eldre. ;Han såg yngre ut. ;1
+Det kom eit kyllingeteig ut av egget. ;cause;Egget klekka. ;Eg sprakk egget. ;0
+Fangen svelte. ;effect;Han døydde. ;Han flykta. ;0
+Mannen mista balansen sin på stiga. ;effect;Han klatrer opp på stigen. ;Han fall ned frå stigen. ;1
+Barnet røk. ;cause;Han tok ein slurk med brus. ;Han opna soda-kannen. ;0
+Det kom eit kaldt luftstreik gjennom vindaugen. ;effect;Eg slapp av. ;Eg skjelva. ;1
+Studenten fekk eit stipend til å gå på høgskole. ;cause;Klassekameratane hennar respekterte ho. ;Ho hadde gode karakterar. ;1
+Jenta gjorde narr av guten. ;cause;Ho budde ved sida av han. ;Ho hadde eit krass på han. ;1
+Den sultne vagabunden stal mat. ;cause;Han oppfordrar til medkjensle. ;Han hadde ikkje pengar. ;1
+Eg ringde venen min for å prate. ;cause;Eg ville ha privatliv. ;Eg følde meg einsam. ;1
+Mannen heldt ut handa til meg. ;effect;Eg gav han handa. ;Eg slo han. ;0
+Eg bukka. ;cause;Fyrverkeriet vart sett opp i lufta. ;Frisbeeen flaug mot hovudet mitt. ;1
+Jenta bitte på neglene sine. ;cause;Ho var uroleg. ;Ho vart overraska. ;0
+Eg snudde sida på kalenderen. ;cause;Eg teikna ei avtale på kalenderen. ;Det var byrjinga på ein ny månad. ;1
+Mannen oppdaga at kona hans hadde ei affære. ;effect;Han sparka advokaten sin. ;Han søkte om skilsmisse. ;1
+Jenta fall av gummiballen. ;effect;Bollen hoppa. ;Bollen glødde. ;0
+Jenta gjorde ein feil på eksamen. ;effect;Ho giska på svaret. ;Ho slette svaret sitt. ;1
+Spelaren tok opp motstandaren sin. ;effect;Motstandaren hans fekk passet. ;Motstandaren hans gjekk på gulvet. ;1
+Eg plukka tomatane frå vinranken. ;cause;Dei var mogne. ;Eg vande dei. ;0
+Mannen ville opptre romantisk. ;effect;Han møtte eks-kjæresten sin til lunsj. ;Han gav kjæresten sin sjokolade. ;1
+Kvicksilveret i termometeret gjekk opp. ;cause;Eg fall av termometeret. ;Veðret vart varmare. ;1
+Ein tornado kom gjennom byen. ;effect;Taket på rettsbygningen gjekk av. ;Motorvegen vart farleg iskjel. ;0
+Studenten fekk rettleiing. ;effect;Notane hans gjekk opp. ;Han fuska på eksamen. ;0
+Eg følde meg komfortabel. ;cause;Eg knela ned på jorda. ;Eg sveipte meg i eit teppe. ;1
+Eg polerte steinen. ;effect;Det vart glitt. ;Det vart skinande. ;1
+Eg la sukker i kaffen. ;effect;Kava lukta sterkt. ;Kava smaka søtt. ;1
+Mannen smugla gjennom papirane. ;effect;Han har ein papirsnitt. ;Han rivde papirane i bitar. ;0
+Eg slo på nagelen med hammaren. ;effect;Nagelen sank inn i treet. ;Nagelen blei rustne. ;0
+Fisken bit i linjen. ;effect;Fiskaren sleit fisken inn. ;Fiskaren omkastar linjen. ;0
+Tenåringen var flau for å gå på skulen. ;cause;Ho har fått ein finn. ;Ho tok av seg tannar. ;0
+Andletet mitt lyste opp. ;cause;Eg fekk gode nyheter. ;Eg mista tålmodigheten min. ;0
+Eg tørka hendene med eit handkjøtt. ;cause;Handkjøttet handkjøttet var våt. ;Henderne mine var våte. ;1
+Mannen mista balansen sin på stolen. ;cause;Stolen vakla under han. ;Han spilde maling på stolen. ;0
+Teammedlemane gav kvarandre skulda. ;cause;Dei mista spelet. ;Treneren deira avlyste. ;0
+Eg bad om tilgjeving. ;cause;Eg angra på feilen min. ;Eg nådde målet mitt. ;0
+Kvinna vart kjedeleg med daten sin. ;cause;Han spurde henne om seg sjølv. ;Han snakka utan opphald om seg sjølv. ;1
+Jenta glemte eit smil. ;effect;Blikane hennar vart raudne. ;Dei hadde dimple. ;1
+Fiendskipet sprengde opp. ;cause;Han gjekk forbi gruva. ;Han segla inn i hamna. ;0
+Mannen punkterte foten sin. ;cause;Han gjekk inn i ei pølse. ;Han trilla på glasskjær. ;1
+Detektiva støvla brottsplassen etter fingeravtrykk. ;effect;Dei fann ut kven som var mordaren. ;Dei fann våpenet på brottsplassen. ;0
+Det var mykje trafikk på motorvegen. ;effect;Eg tok ein omveg. ;Eg bad om å få ein tur. ;0
+Økonomien i landet gjekk ned. ;effect;Mange vart sjuke. ;Mange var arbeidsledige. ;1
+Vakthavaren på grensekrysset blåste på visselpipa til borna. ;cause;Dei var i ferd med å gå inn i motkjørande trafikk. ;Ho kjende dei att frå kvarteret. ;0
+Eg rulla augo på venen min. ;cause;Han fortalde meg sanninga. ;Han gjorde ei sarkastisk bemerkning. ;1
+Bilikken vart tom for bensin. ;effect;Sjåføren var sitjande på vegen. ;Sjåføren tok opp ein hitchhiker. ;0
+Kvinna byrja å føda. ;effect;Barnet vart fødd. ;Kvinna hadde morgengry. ;0
+Hatta til mannen vart blåst bort. ;cause;Han tok av seg hatten. ;Det var vind ute. ;1
+Jenta var med på bursdagsfestet til ein klasskamrat. ;cause;Ho fekk ei invitasjon. ;Ho kjøpte ei gåve. ;0
+Den unge mannen hadde varmen i panna. ;effect;Moren hans tok temperaturen hans. ;Moren hans tok han med til parken. ;0
+Mannen spreidde seg med køln. ;cause;Han ville imponera på kjæresten sin. ;Han la gel i håret sitt. ;0
+Strømmen i huset gjekk av. ;effect;Eg leita etter ein lommelykt. ;Eg tok opp ei spade. ;0
+Familjen flytta inn i eit større hus. ;cause;Sonen tok uteksamen frå vidaregåva. ;Moren fødde tvillingar. ;1
+Marathonaren heldt på med eit langsomt tempo. ;cause;Ho ville spara på energien. ;Ho såg mållinjen. ;0
+Drengen sparka i automaten. ;cause;Maskinen spytt ut veksla. ;Punga med chips var fast. ;1
+Hunden til venen min døydde. ;effect;Eg rulla augo på han. ;Eg gav han eit klem. ;1
+Kredittkortet til forretningsmannen vart avvist. ;effect;Han skreiv ei skuldaroppskrift. ;Han betalte med kontanter. ;1
+Mannen er forbanna. ;cause;Han klippte neglene sine. ;Han stubbed tæren. ;1
+Mannen var stolt av broren sin. ;cause;Broren hans kom i krangel med foreldra deira. ;Broren hans blei godtek på advokatskolen. ;1
+Ho ville læra om solsystemet. ;effect;Ho gjekk til biblioteket. ;Ho såg på stjernene. ;0
+Plakaten blei fest på veggen. ;cause;Eg plasserte plakatet over døra. ;Eg la tape på baksida av plakatet. ;1
+Kunder godkjende arkitektplanane for bygningen. ;effect;Arkitekten bygde bygningen. ;Arkitekten justerte planane. ;0
+Mannen lét skjeen sin falla. ;cause;Han skjelv. ;Han slikka skeden. ;0
+Styresmannen i selskapet gav seg av. ;effect;Styret oppløyste selskapet. ;Styret fann ein erstatning. ;1
+Eg kom seint til foredraget. ;effect;Eg tok plass i bakre rekkje. ;Eg nærma meg podiet. ;0
+Mannen vart slept ut av fengsel. ;cause;Familjen hans betala borga. ;Han gjekk til åtak på ein av dei andre innesetningane. ;0
+Familjen mista alle eigedomane sine. ;cause;Dei selde huset sitt. ;Hjemme hos dei tok eld. ;1
+Eg tråkka på aluminiumsduksene. ;effect;Blikken er omdanna. ;Båten vart knust. ;1
+Jenta vart med i debattteamet. ;effect;Ho lærte å bruka ein datamaskin. ;Ho lærte seg å kommunisere. ;1
+Stemningen min vart betre. ;cause;Eg høyrde på musikk. ;Eg vaska oppvasken. ;0
+Velgjerningsorganisasjonen hadde som mål å samla inn pengar. ;effect;Dei gjev dei heimlause mat. ;Dei haldt på ein auksjon. ;1
+Rullbanen kasta seg nedover den bratte fallen. ;effect;Passasjerane kippte. ;Passasjerane skreik. ;1
+Eg var rasande. ;effect;Eg sjekka postkassa då eg gjekk ut av huset. ;Eg trengde døra då eg gjekk ut av huset. ;1
+Mannen ville sjå sola gå opp. ;effect;Han reiste nordover. ;Han stod opp tidleg. ;1
+Eg foldte avisen. ;effect;Eg gjenvinnde papiret. ;Papiret rulle seg. ;1
+Folket gjennomgjekk ei naturkatastrof. ;effect;Leiarar i andre land danna ein allianse. ;Leiarar i andre land sende nødhjelp. ;1
+Klærne til guten vart våte. ;cause;Han klatrer ut av bassenget. ;Han fall i bassenget. ;1
+Studenten skunda seg å lesa boka ferdig. ;cause;Det skulle ha vorte gjeve tilbake til biblioteket. ;Han lånte det frå ein ven. ;0
+Brottsmannen vart avretta. ;cause;Han vart kasta i fengsel. ;Han vart dømt for mord. ;1
+Solskin gjekk inn i rommet. ;cause;Eg opna gardina. ;Eg låste opp døra. ;0
+Eg drog håret frå han som lagar. ;effect;Ho fekk parykken av. ;Ho vart skald. ;0
+Redaktøren omformulerte ein setning i manuskriptet. ;cause;Han fann manuskriptet overtydande. ;Han fann dommen uklar. ;1
+Ho avlyste kredittkortkontoen sin. ;cause;Ho skjøna at kortet ikkje var der. ;Ho skjøna at kortet hadde gått ut. ;0
+Mannen og kvinna vart forelskade. ;effect;Dei gjekk på høgskole. ;Dei gifta seg. ;1
+Musikken var for svak til å høyrast. ;effect;Eg skru opp lydstyrken. ;Eg komponerte min eigen song. ;0
+Ho hadde hår som stikka opp. ;cause;Ho tok til å fylgje med. ;Ho tok det med seg. ;0
+Bleken vart knust. ;cause;Eg sprøyte meg med insektekjeld. ;Eg trilla på roboten. ;1
+Eg opna augo. ;cause;Eg vakna. ;Eg slapp av. ;0
+Musikken til naboen min var høgt. ;effect;Eg bad han om å skrute ned lyden. ;Eg bad han låna CDen frå meg. ;0
+Familien til mannen levde i fattigdom. ;cause;Han var sparsam med inntekta sine. ;Han vann under minimumsløna. ;1
+Studenten tok eksamen frå universitetet. ;effect;Han leita etter ein jobb. ;Han tok opp ein hobby. ;0
+Kunstnaren blanda gul maling med blå maling. ;effect;Malinga spreier overalt. ;Malinga vart grøn. ;1
+Eg endra temaet for samtalen. ;cause;Eg hadde ikkje meir å snakke om. ;Samtalen vart spennd. ;1
+Broren min vart utskriven frå sykehuset. ;effect;Eg velkomde han heim. ;Eg gav han den kalde skulderen. ;0
+Gardinet på scenen gjekk opp. ;effect;Opningsscenen i stykket byrja. ;Skodespelarane i stykket gjekk ut av scenen. ;0
+Gjestela var underordna kidnapparane sine. ;cause;Han truga å såra gisselen. ;Råpna forlét gisselen åleine. ;0
+Ein bom vart høyrt på heile scenen. ;cause;Musikaren klappa på foten. ;Musikaren slo på trommen. ;1
+Foreldra skunda seg inn i soverommet til barnet sitt. ;cause;Barnet vakna og skreik etter eit mareritt. ;Barnet var redd for å sjå under senga si. ;0
+Kvinna kommuniserte med teiknspråk. ;cause;Ho vart fødd for tidleg. ;Ho var døv frå ho vart fødd. ;1
+Det var tørke i området. ;effect;Vatnet vart forurenset. ;Frøene døydde. ;1
+Katten jagte fuglen. ;effect;Fuglen flaug bort. ;Fuglen fekk ein orme. ;0
+Jenta bytte skule. ;cause;Skulen sleppte ut for sommaren. ;Ho flytta til ein ny by. ;1
+Eigaren av fabrikken nekta å heve løna til arbeidarane. ;effect;Eigaren utnevnte ein ny forvaltar. ;Ansatte gjekk i streik. ;1
+Leiaren oppdaga fiendskap mellom ekstremistane i landet sitt. ;effect;Extremistane påverka han. ;Dei ekstremistane drap han. ;1
+Eg gjekk barfotande på stranda. ;effect;Sand klistra seg i føtene mine. ;Bølgjer krasja langs kysten. ;0
+Eg vakna midt på natta og følde kjelde. ;effect;Eg tok på meg joggingbukkar. ;Eg drakk eit glas vatn. ;0
+Moren stilla sonen. ;cause;Sonen hennar smelte. ;Sonen hennar kvein. ;1
+Eg har eit hull i buksa mi. ;cause;Eg zippa opp jeansane. ;Eg snubla på trottoaren. ;1
+Drengen hadde på seg tannar. ;effect;Han har eit hull. ;Tandane hans vart rette. ;1
+Eg trente på gym i går. ;effect;Eg vakna i dag med ømme muskler. ;Eg vakna i dag med ont i halsen. ;0
+Jenta viska fram og tilbake til kvarandre ved lunsjbordet. ;effect;Andre studentar sette seg ved lunsjbordet. ;Andre studentar ved lunsjbordet følde seg utelate. ;1
+Barnet landa på trampolin. ;effect;Ho sprang opp i lufta. ;Ho bestemte seg for å prøve å gjera eit forsøk. ;0
+Eg la brevet i postkassa. ;effect;Postkontoret leverte brevet. ;Postkontoret fremja brevet. ;0
+Spelaaren var sikker. ;effect;Han vedde alle pengane sine. ;Han gjekk heim blakk. ;0
+Skogbrannen spreidde seg. ;cause;Vindane vart sterkare. ;Brandmennene vart pågrepne. ;0
+Barnet skinnte kneet sitt. ;effect;Moren hans sende han til rommet sitt. ;Mor hans la eit bandasje på såret. ;1
+Mannen overlevde den dødelege sjukdomen. ;cause;Han signerte testamentet sitt. ;Han fekk ein organtransplantasjon. ;1
+Eg tok ein sipp av den brennande kaffen. ;effect;Eg beit tunga mi. ;Eg brann tunga mi. ;1
+Redaktøren sparke forfattaren. ;cause;Skribenten unngjekk partisk i forteljingane sine. ;Forfattaren mista ein viktig deadline. ;1
+Eg følde meg utmattet. ;cause;Eg sov heile dagen. ;Eg studerte heile dagen. ;1
+Legen stilte pasienten ei diagnose. ;cause;Ho identifiserte symptomene til pasienten. ;Ho forskrivde p-pillar til pasienten. ;0
+Eg klóra meg på huden. ;cause;Det var svettande. ;Det følde kløande. ;1
+Mannen vart gjennomført ei akutt operasjon. ;cause;Han mista sin herredøme. ;Han fekk hjartestans. ;1
+Armsmuskulaturen hans bulte ut. ;cause;Han bøygde armane sine. ;Han freidde armane sine. ;0
+Mannen lyfte augebryna. ;cause;Han var overraska. ;Han følde seg motløs. ;0
+Eg unnskyldde kollega mi for kva han gjorde. ;cause;Eg trudde han hadde gode intensjonar. ;Eg trudde han visste betre. ;0
+Mannen slutta å røyke. ;effect;Han byrja å trene meir. ;Han byrja å vakna tidlegare. ;0
+Kvinnan slo angriparen i neset. ;effect;Kroppen til angriparen vart livlaus. ;Slagsmannen byrja å blø. ;1
+Piltene gjekk forbi øyet. ;cause;Mannen sikta feil. ;Han var ved å tape. ;0
+Hjemmeigaren bad om at ein utryddar skulle koma til huset hans. ;cause;Han fann rotter i kjellaren. ;Han hadde ei maurfarm på rommet sitt. ;0
+Eg foreslo at gjesten min i huset skulle gå ut og ete. ;cause;Eg var for trøytt til å laga noko. ;Gjesten min vart verande lengre enn ho var verande. ;0
+Jenta fekk fast på broren sin som las dagboken hennar. ;effect;Ho byrja å gjemme dagboken. ;Ho fekk ei ny dagbok. ;0
+Kvinna hadde ikkje nok pengar til leie. ;effect;Ho arbeidde overtid. ;Ho gav opp jobben sin. ;0
+Handen til barnet trekte seg raskt tilbake. ;cause;Han rørte ved den varme ovnen. ;Han klappte hovudet til valpen. ;0
+Selskapet ville måle kundetilfredshet. ;effect;Dei tilbød ei rabat til nye kundar. ;Dei delte ut ei spørreundersøking til kundane. ;1
+Tregulvet vart skrapt. ;cause;Drengen kasta puter frå sofaen. ;Drengen sleip ein stol over golvet. ;1
+Eg har skilt andletet mitt. ;cause;Fienden min hånte meg. ;Feinden min riste opp ein knytnep. ;1
+Den berømte statuen vart brent ned. ;cause;Det vart slått av lynet. ;Folk kom for å vere vere i stand til å avgudsdyrka det. ;0
+Eg lét fruktane liggja ute på bordet. ;effect;Frukta gjev frø. ;Fuglar swarma på frukt. ;1
+Ballerina skar i eit ligament. ;cause;Ho peika på tærne. ;Ho vridde ankelen. ;1
+Skosnørene til barnet vart løyst. ;cause;Han lærte seg å knyta dei. ;Han sprang rundt på lekeplassen. ;1
+Eg vart forvandla til boka. ;effect;Eg gav boka tilbake. ;Eg mistar rekna på tida. ;1
+Mannen heldt på liknande trussingar som foreldra sine. ;cause;Foreldra hans påverka han. ;Foreldra hans avviste han. ;0
+Bilen sakta gradvis ned til ein stopp. ;cause;Det gjekk ikkje bensin. ;Sjåføren fall i søvn. ;0
+Mannen åt is i sola. ;effect;Iskreman mistet smaken sin. ;Isen droppa frå kjeglen. ;1
+Eg hengde kunstverk i rommet. ;cause;Teppet såg skitent ut. ;Veggene såg nakne ut. ;1
+Eg gjekk tidleg frå jobb. ;cause;Eg hadde hovudverk. ;Bossen min hadde eit møte. ;0
+Hunden smurde på teppet. ;effect;Eigaren skjelte på valpen. ;Eigaren gav valpen ein godbit. ;0
+Eg bad venen min om unnskylding. ;effect;Venen min tilgav meg. ;Venen min vart rasande. ;0
+Mannen stod ut i mengda. ;cause;Han bar ei ryggsekke. ;Han hadde på seg ein neon vest. ;1
+Vitna la under eid. ;effect;Han avslutta vitnemålet sitt. ;Han vart skulda for falsk eid. ;1
+Kvinnan farga håret sitt. ;cause;Ho ville ha eit nytt utseende. ;Ho ville vere i lag med dei andre. ;0
+Ein innvandrar blei tekne på ulovleg opphald i landet. ;effect;Dei fann arbeid. ;Dei vart deporterte. ;1
+Den offentlige talaren spelte ein vits. ;effect;Publiken lat lat. ;Publiken reiste seg. ;0
+Eg såg inn i sola. ;effect;Sola gjorde meg blind. ;Sola brann opp huden min. ;0
+Eg kjende meg lei. ;effect;Eg snorkla. ;Eg gaus. ;1
+Steiken var vanskeleg å skjera. ;cause;Kniven var kjempete. ;Biffen var rå. ;0
+Ho erklærte seg konkurs. ;cause;Ho fekk utløysing av underholdsbidrag. ;Ho fekk ei stor skuld. ;1
+Lykta i leilegheita til vennen min var att. ;effect;Eg undra om han var ute. ;Eg bestemte meg for å gjere han eit besøk. ;1
+Eg la blomsten under nesen min. ;effect;Blomstrene kom av blomsten. ;Eg fekk lukta blomsten. ;1
+Kvinna følde seg nostalgisk. ;cause;Ho trefte ein barndomsvenne. ;Ho ropa på borna sine. ;0
+Studenten trekkte fram på papiret. ;effect;Han sende fram papiret tidlegare. ;Han sende fram papiret ufullstendig. ;1
+Bilarettane mine gjekk i stykker. ;effect;Eg gjekk til kjøpesenteret. ;Eg ringde ein mekanikar. ;1
+Eg kasta bort noten. ;cause;Det var anonymt. ;Det var useleggbart. ;1
+Fuglen flappte med vengane sine. ;effect;Det la egg. ;Han gjekk oppover. ;1
+Eg parkerte på inngangsgaten. ;cause;Garasjen var open. ;Garasjen var full. ;1
+Brotmannen sikta våpenet mot offeret sitt. ;effect;Brotmannen la ned våpenet. ;Ofreta heldt hendene opp. ;1
+Eg såg fram til helga. ;cause;Eg planla å gå til begravelsen til onkelen min. ;Eg planla å gå på bryllaupet til venen min. ;1
+Eg mistar rekna på tida. ;cause;Eg var dagdrømmar. ;Eg vart kvalm. ;0
+Dokumentet var utskriveleg. ;cause;Printeren hadde lite blekk. ;Frisuren var ute av papir. ;0
+Stadionet spelte nasjonalsangen. ;effect;Fansen vende seg mot flagget. ;Fansen storma ut på banen. ;0
+Dippa smaka blanda. ;effect;Eg tente det. ;Eg sette salt i det. ;1
+Eg la eit papirhåndkle på veggen. ;effect;Handkjøttet oppnådde væsken. ;Det blei sitjande etter. ;0
+Kvinna vart avbroten midt i lesinga av boka si. ;effect;Ho bokmerka sida si. ;Ho las boka på nytt. ;0
+Flyet fekk litt turbulens. ;effect;Mannen trekte seg i setebeltet. ;Mannen såg ut av vindauge. ;0
+Drengen trilla. ;cause;Jenta ignorerte han. ;Jenta prikk han. ;1
+Legen gav pasienten eit kunstig lem. ;cause;Dei amputerte beina hennar. ;Dei følgde med på vitalt. ;0
+Drengen klemte på albuen til jenta. ;effect;Ho riste på skuldra mot han. ;Ho rykte armen frå han. ;1
+Eg bad venen min om råd. ;cause;Eg sette pris på meiningen hans. ;Eg visste at eg hadde rett. ;0
+Drengen trakk i leire. ;effect;Mølet klistra seg til skorna hans. ;Mølet slo han i andletet. ;0
+Byen fekk fleire centimeter snø. ;effect;Skolane stengde. ;Folk gøymde seg under jorda. ;0
+Arbeidarane si skift var over. ;effect;Han gjekk heim for dagen. ;Han truga med å gå av. ;0
+Treet skadde huset. ;cause;Treet fall på taket. ;Treet skygde bakgården. ;0
+Treet spalte seg i to. ;cause;Eg stabla ved i peisen. ;Eg sveiv øksen ned til trea. ;1
+Familjen gratulerte paret. ;cause;Paret kunngjorde at dei skulle skilje seg. ;Paret kunngjorde at dei skulle ha ein baby. ;1
+Jenta sende guten eit valentinskort. ;cause;Ho likte han. ;Ho kyssa han. ;0
+Eg nikka med hovudet mitt når venen min sa det. ;cause;Eg var forvirra. ;Eg var samd med han. ;1
+Vennane kasta ein mynt. ;cause;Dei ville finne eit kompromiss. ;Dei ville gjera ein rettferdig avgjørelse. ;1
+Timeren i kjøkkenet gjekk av. ;effect;Mannen lasta ut matvarane i kjøleskåpet. ;Mannen tok pizzaen ut av ovnen. ;1
+Ho sette seg eit ambisiøst mål. ;effect;Ho slapp av. ;Ho arbeidde hardt. ;1
+Den rike mannen døydde av å ha vorte gamal. ;effect;Sonen hans hadde lovlege problem. ;Sonen hans arva formuen hans. ;1
+Ho trampet på elden. ;effect;Flammane gjekk ut. ;Røyk steig opp frå flammane. ;0
+Bilar av kvinna var i verkstaden. ;cause;Sjåførartillatinga hennar vart trekt tilbake. ;Ho hadde ein bilulykke. ;1
+Eg sov gjennom vekerklokkaret mitt. ;effect;Eg laga frokost. ;Eg mista frokosten. ;1
+Den offentlege figuren gjekk ut av limousinen. ;effect;Kameraet gjekk i hans retning. ;Familjen hans var til stede på pressekonferansen. ;0
+Kvinna blei verande i badekaret. ;effect;Badvatnet vart ljummet. ;Badvatnet gjekk ut av karet. ;0
+Studenten ville treffe andre studentar på campus. ;effect;Han vart med i eit brorskap. ;Han hadde ein mastergrad i ingeniørfag. ;0
+Eg lyfte sofaen. ;cause;Eg leitar etter småpengar. ;Eg ordna om i stua. ;0
+Vespa flaug mot guten. ;effect;Drengen rømde bort. ;Drengen plockte ein blomme. ;0
+Kvinna blei funnen skuldig i eit lovbrot. ;effect;Ho blei dømd til å utføra samfunnsarbeid. ;Ho blei dømt til døden. ;0
+Eg rørte sukkeret i den varme te. ;effect;Teet dampte. ;Sukkeret vart oppløyst. ;1
+Veteranen gjekk med ein halte. ;cause;Han vart innkalla til krigen. ;Han vart skadd i strid. ;1
+Brotmannen rømde frå politiet. ;effect;Politiet tok seg av offeret. ;Politiet jagte forbrytaren. ;1
+Den bærbare datamaskina ville ikkje slå på. ;cause;Eg fall av. ;Eg ladde han. ;0
+Kvinna fekk ikkje rom i skapet sitt. ;cause;Ho fekk ei stor garderobe. ;Ho foldte vasketøy. ;0
+Mannen var hjartbroten. ;cause;Kona hans fødde. ;Kona hans forlét han. ;1
+Mannen fekk ein grad. ;effect;Han blei kvalifisert for jobben han ville ha. ;Tilbodet hans om jobb vart trekt tilbake. ;0
+Røysta hans blei tydleg i heile salen. ;cause;Han helste publikum. ;Han tala inn i mikrofonen. ;1
+Eg kasta ein mynt i fontenen med vatn. ;effect;Myntene sokk ned til botnen. ;Myntene brakte seg i to. ;0
+Spelaren slår ballen mot holet. ;effect;Bollen gjekk inn i holet. ;Bollen gjekk tilbake til spelaren. ;0
+Eg anda inn støvet på taket. ;effect;Eg hadde hikke. ;Eg nyste. ;1
+Kassereren ringte etter vakta. ;cause;Kunden brukte falske pengar. ;Kunden lét lysta på. ;0
+Eg tok ut søpla. ;cause;Avfallet gjorde kjøkkenet lukta vondt. ;Eg kasta ut handelsklista mi ved eit uhell. ;0
+Familjen gjekk til dyreparken. ;effect;Barna beundra dyrene. ;Barna jagte dyrene. ;0
+Andinga til mannen var høgt. ;cause;Nyrane hans gjekk ut av kraft. ;Lungene hans var samla. ;1
+Eg hadde ei ekstra billett til konserten. ;effect;Eg spurde venen min om vegen til salen. ;Eg spurde venen min om han var interessert i å gå. ;1
+Klimaanlegget i huset gjekk i stykker. ;effect;Eg tok ut tepper. ;Eg opna vindauga. ;1
+Gutten har vond rygg. ;cause;Rygsekkja hans var open. ;Rygsekkja hans var tung. ;1
+Eg kjøpte ei gåve til mamma. ;cause;Eg bake ei kake til henne. ;Det var fødselsdagen hennar. ;1
+Narcissane i hagen vart øydelagde. ;cause;Ei bi stakk gartnaren. ;Eikarar gravde opp glomer. ;1
+Eg treffte fyren. ;effect;Flammen blei slokna. ;Matchen produserte ein flamme. ;1
+Dei stridande partane kom til ein avtale. ;cause;Dei ville ikkje halde på med å diskutere det i retten. ;Dei ville laga det personlege sambandet sitt. ;0
+Barna vart sendt til eit barnehjem. ;cause;Foreldra deira døydde. ;Foreldra deira har bortskjemt dei. ;0
+Ein meteoritt landa i havet. ;effect;Det skjedde ein tsunami. ;Det byrja å hagla. ;0
+Fagmannen møtte ei giftig slange. ;effect;Ho vart dehydrert. ;Ho vart panikkert. ;1
+Oven vart varm. ;cause;Eg sette på ovnen. ;Eg la fatet i ovnen. ;0
+Eg pressa sitronkjelen. ;effect;Sitronen fekk mugg. ;Sitronen sprutande. ;1
+Landet oppdaga nytt land. ;effect;Landet gjekk frå land. ;Landet koloniserte jorda. ;1
+Glaset fall av bordet. ;effect;Det sprakk i stykker over heile golvet. ;Det landet på ein haug med vask. ;0
+TABELET vakla. ;cause;Gólvet var ujevnt. ;Gólvet var glitt. ;0
+Faren fekk fast sonen sin på ein løgn. ;effect;Sonen hans vedkjende sanninga. ;Faren hadde tillit til sonen sin. ;0
+Mannen hadde eit tungt hode. ;effect;Han tok hoste sirup. ;Han tok aspirin. ;1
+Toget sakta ned. ;cause;Han nærma seg stasjonen. ;Det gjekk over tid. ;0
+Han gjekk på terapi. ;cause;Hjåra hans hadde ei arvelig karakter. ;Han blei diagnostisert med depresjon. ;1
+Kvinna greip halsen hennar. ;cause;Ho svelte maten sin. ;Ho kvalte seg i maten. ;1
+Kvinna hadde vondt i halsen. ;effect;Røysta hennar høyrde raspig ut. ;Ho snakka med ein aksent. ;0
+Hunden såg på den saftige biffen på bordet. ;effect;Han salivra. ;Det ligg ned. ;0
+Kvinnens forretning hadde suksess. ;effect;Ho sparka dei ansatte. ;Ho vart rik. ;1
+Studentane gjekk ut av klasserommet. ;cause;Bjella ringde. ;Læraren gav dei lekser. ;0
+Kvinnan hevda ho hadde sett eit spøkelse. ;effect;Kjennarar hennar var skeptiske. ;Kjennskapane hennar var i slekt med henne. ;0
+Mannen mista høyrsla si. ;cause;Han drukna nesten i havet. ;Han vart nesten drepen i ein eksplosjon. ;1
+Barnet lét ballongstrengen gå. ;effect;Ballongen har late av luft. ;Ballongen steig opp i lufta. ;1
+Mannen mista evnen til å snakka. ;cause;Han hadde eit slag. ;Han trekte pusten djupt. ;0
+Kvinna snubla på fortauet. ;cause;Det var ein sprekk i sementen. ;Ho høyrde namnet sitt bli kalla. ;0
+Mannen kasta ein kanonball i bassenget. ;effect;Sjømansvakta hoppa inn etter han. ;Mannen drakk livvakten. ;1
+Eg tok antibiotika. ;effect;Infeksjonen min gjekk over. ;Smitta mi har spreidd seg. ;0
+Fjernlyset vart gult. ;effect;Sjåføren trekte på bremsene. ;Sjåføren trunkte. ;0
+Plastikbeinet smelte. ;cause;Eg la beinet i varmt vatn. ;Eg la behållaren på den varme komfyren. ;1
+Bilen vart dekt. ;cause;Sjåføren trefte ein telefonstolpe. ;Sjåføren gjekk på raudt. ;0
+Drengen studerte heile natta. ;effect;Han gjekk ikkje på eksamen. ;Han gjekk på eksamen. ;1
+Den unge gutten heldt seg til kanten av bassenget. ;cause;Han var redd for å læra å symja. ;Slaktsvakta var på vakt. ;0
+Eg la handa mi på brystet mitt. ;effect;Eg følde hjartene mine banka. ;Hjertet mitt gjekk opp. ;0
+Bygningen som ligg ved kontoret mitt var under bygging. ;effect;Kontoret mitt var overfylt. ;Kontoret mitt var støyende. ;1
+Familien ville bli kjent med dei nye naboane sine. ;effect;Familjen inviterte naboane over til middag. ;Familjen vinkte til naboane frå hagen sin. ;0
+Vatnet sprutte opp frå bassenget. ;cause;Svimjaren dykka ned i bassenget. ;Svimjaren svevde i bassenget. ;0
+Eg beit i eit stykke av vannmelon. ;effect;Eg svelg tilfeldig eit frø. ;Eg sprakk ved ein feil tann. ;0
+Drengen snubla. ;cause;Jakken hans var avsipa. ;Skosnøytta hans var løyst. ;1
+Ho la øyrepluggar i. ;cause;Ho vart distrahert av lyd. ;Ho fekk borte i øyra. ;0
+Eg fylte på vatnflaska mi. ;cause;Eg drakk heile vatnet i han. ;Eg la det i kjøleskåpet. ;0
+TV-serien blei sensurert. ;cause;Det inneheldt vulgært språk. ;Det var eit komplisert skilt. ;0
+Skipet vart vraka. ;effect;Mannskapet drukna. ;Mannskapet møtte piratar. ;0
+Drengen følde seg forvirra av gåta. ;effect;Han løyste gåta. ;Han bad om eit hint. ;1
+Telefonen ringde. ;effect;Mannen la på telefonen. ;Mannen tok opp telefonen. ;1
+Ho stirra på meg. ;effect;Eg klemte ho. ;Eg følde meg ikkje komfortabel. ;1
+Gruppa forlét museet. ;cause;Dei tok bilete av utstillingane. ;Dei såg på alle utstillingane. ;1
+Mannen byrja på å krangla med meg. ;effect;Ein ven av meg introduserte meg for mannen. ;Vennen min stod opp for meg. ;1
+Tyret på sykkelen min var flat. ;effect;Eg pumpte luft inn i dekk. ;Eg bytta gir på sykkelen. ;0
+Ho såg bleik ut. ;effect;Far hennar las ei historie for henne. ;Far hennar følgde panna hennar. ;1
+Penna vart tom for blekk. ;effect;Eg brukte ein blyant. ;Eg skreiv under med namnet mitt. ;0
+Mannen vart nekta for eit lån. ;cause;Han var i skuld. ;Han starta ei verksemd. ;0
+Jenta vart heime frå skulen. ;cause;Ho hadde kyllingvauke. ;Ho likte å læra matte. ;0
+Ruskposen var full. ;effect;Eg tok det med meg til søppelflis. ;Eg dumppa han ned i vasken. ;0
+Eg støvsugde teppet. ;cause;Mi romkammerat må ha gjeve ut litt punch. ;Hunden min gjev ut hår. ;1
+Mannen mista sin herredøme. ;effect;Han slukkte av datamaskina si. ;Han kasta ei stol over rommet. ;1
+Jenta kasta ein kvist i leireldet. ;effect;Kvisten brann. ;Elden gjekk ut. ;0
+Mannen gjekk ut av dusjen. ;cause;Det var ikkje varmt vatn att. ;Han fann ikkje eit handkjøtt. ;0
+Foreldra ville at borna deira skulle gå på høgskole. ;effect;Dei sette til side ein sparefond for studiekostnad. ;Dei oppfordra borna sine til å leka utanfor. ;0
+Mannen la av lappene på skoene sine. ;effect;Skoene laust. ;Skoene vart slitne. ;0
+Mannen åt halvparten av forretningen. ;effect;Han kjøla resten av maten. ;Han la oppskriftet til. ;0
+Klokka mi var hovna. ;effect;Eg la is på det. ;Eg smurde kremi på det. ;0
+Døren til kontoret mitt var open. ;effect;Eg snakka med kollegaen min ved skrivebordet mitt. ;Eg overhørte samtalen i hallen. ;1
+Eg måtte stå i kø. ;effect;Eg tok plass. ;Eg skreiv eit magasin. ;1
+Mannen gav ein smalsvinkel på fluen. ;effect;Flygen surra bort. ;Flygen vart verande stille. ;0
+Mannen skreiv eit testamente. ;cause;Han var døyande. ;Han var enkjeman. ;0
+Løparen følde at konkurrenten hans fekk overtaket han. ;effect;Han trekte seg ut av konkurransen. ;Han auka farten. ;1
+Eg tenkte nøye på problemet. ;effect;Eg bad om råd. ;Eg fann ei løysing. ;1
+Den reisande gjekk på den skjelvande hengebryggen. ;effect;Han følde seg forferdeleg. ;Han følde seg ekstatisk. ;0
+Mannen såg fram til at laget skulle vinna. ;effect;Han møtte venene sine for å sjå kampen. ;Han gjorde ein vedding med venene sine. ;1
+Gutten kunne ikkje sovna. ;effect;Han sette vekkerklokka. ;Han telde sauer. ;1

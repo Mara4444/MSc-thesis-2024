@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+L'article estava envasat en un film de bombolles. ;cause;Era fràgil. ;Era petit. ;0
+He buidat les butxaques. ;effect;He recuperat un taló de bitllet. ;He trobat una arma. ;0
+Les termites van envair la casa. ;effect;Les termites van desaparèixer de la casa. ;Les termites van menjar la fusta de la casa. ;1
+Els viatgers van arribar a la frontera. ;effect;L'agent de la patrulla va comprovar els seus passaports. ;L'agent de la patrulla els va acusar de contraban. ;0
+L'oficina estava tancada. ;cause;Era un dia de vacances. ;Era estiu. ;0
+La noia es va quedar sense energia. ;cause;Va jugar a dama. ;Va saltar la corda. ;1
+La dona va perdre el seu lloc a la fila. ;cause;Més gent va entrar a la fila. ;Va sortir de la fila. ;1
+La noia es va pinçar el nas. ;cause;El nadó li va bavejar al babut. ;El nadó li va ensuciar el plou. ;1
+La banda va tocar la seva cançó de èxit. ;effect;El públic va aplaudir al ritme de la música. ;L'audiència va escoltar educadament en silenci. ;0
+La noia volia agrair al seu professor de matemàtiques. ;effect;La noia es va quedar després de l'escola per a la detenció. ;La noia va portar una poma al professor. ;1
+Els joves acampats es van sentir espantats. ;cause;El seu conseller de campament els va contar una història de fantasmes. ;Van torrar marshmallows a la foguera. ;0
+L'home es va colpejar el cap. ;effect;Es va perdre en pensaments. ;Ha tingut una conmoció cerebral. ;1
+El xec que vaig escriure va ser rebutjat. ;cause;El meu compte bancari estava buit. ;Em mereixo un augment. ;0
+La caixa de correu de l'home estava plena de spam. ;effect;Ha esborrat el spam. ;Va enviar un correu electrònic en massa. ;0
+El mariner estava en quarantena. ;cause;Va estar exposat a la malaltia. ;Es va recuperar de la malaltia. ;0
+La noia va memoritzar el codi. ;cause;Ella ho va recitar per si mateixa. ;S'ha oblidat d'escriure-ho. ;0
+Vaig llençar l'aigua al got. ;effect;L'aigua va apagar la meva set. ;El got es va omplir. ;1
+L'home va romandre en silenci quan el seu amic va acabar de parlar. ;cause;Volia donar suport al seu amic. ;Pensava en les paraules del seu amic. ;1
+L'accident va ser culpa meva. ;effect;Em vaig sentir culpable. ;He presentat una denúncia. ;0
+La cadena es va trencar. ;cause;La cadena estava envoltada d'un pneumàtic. ;Hi havia un enllaç trencat a la cadena. ;1
+La parella va decidir fer un compromís. ;cause;Es van cansar de discutir. ;Evitaren discutir el problema. ;0
+La dona va decidir presentar-se a un càrrec públic. ;effect;Va contractar un director de campanya. ;Va testificar al tribunal. ;0
+L'home s'esperava un temps fred en el seu viatge. ;effect;Va embolicar roba calenta a la seva maleta. ;Va viatjar amb una maleta gran. ;0
+L'estudiant sabia la resposta a la pregunta. ;effect;Va aixecar la mà. ;Ha fet una estupidesa. ;0
+Els ulls de l'home van llorar. ;cause;Li va entrar pols als ulls. ;Es va posar unes ulleres de protecció als ulls. ;0
+El jugador va guanyar cinc partits seguits. ;effect;El seu oponent la va acusar d'enganyar. ;El seu oponent se'n va sentir pena. ;0
+El professor va trencar l'examen de l'estudiant. ;cause;Va agafar l'estudiant fent trampa. ;Les respostes de l'estudiant eren incorrectes. ;0
+Vaig fer una pausa per deixar de parlar. ;cause;He perdut la veu. ;Em va quedar sense respir. ;1
+La gelada es va descongelar. ;cause;L'he posat al microones. ;L'he cobert amb un paper d'alta qualitat. ;0
+L'empleat va fingir estar malalt. ;cause;Tenia crampes estomacals. ;Volia un dia lliure. ;1
+La noia va aterrar a la piscina. ;cause;Va córrer a la coberta de la piscina. ;Va saltar del saltador. ;1
+Les entrades de cinema s'han venut. ;cause;Era el dia de la inauguració de la pel·lícula. ;La pel·lícula va rebre crítiques negatives. ;0
+L'home va perdre pes. ;effect;La gent l'ha aïllat. ;La gent li feia elogis. ;1
+Les mans de la noia es van fer ampolles. ;cause;Va escriure una carta. ;Va pujar a una corda. ;1
+L'artista de circ va malabaritzar mentre montava un monociclet. ;effect;L'audiència va aclamar per sorpresa. ;L'acrobata va saltar des d'un trapè. ;0
+He perdut la paciència. ;cause;El meu amic em va fer esperar. ;El meu amic va arribar a temps. ;0
+Els països en guerra volien la pau. ;effect;Van desenvolupar armes nuclears. ;Van negociar un tractat. ;1
+L'home va prendre somnifòr. ;effect;Es va tornar somnolent. ;Tenia febre. ;0
+La dona va colpejar el sofà. ;effect;La cama del sofà es va allunyar. ;Es va fer mal al genoll. ;1
+El noi va apertar el globus. ;effect;El globus va esclatar. ;El globus va volar. ;0
+Els viatgers s'han registrat a la seva habitació d'hotel. ;effect;Van desembalar les maletes. ;Van anar a l'aeroport. ;0
+Vaig picar el pêssegu. ;effect;El pêssegu es va fer malbé. ;El suc es va vessar. ;1
+Les meves mans es van endolcar. ;cause;Vaig menjar una rosquilla. ;Tenia una dent dolça. ;0
+Vaig empenyar la porta. ;effect;La porta es va obrir. ;La porta està tancada. ;0
+Els activistes van boicotejar els productes. ;cause;Els productes van ser provats per garantir la qualitat. ;Els productes es van fabricar mitjançant el treball infantil. ;1
+He fet un forat a la paret. ;effect;Un ratolí va sortir del forat. ;La pols va sortir del forat. ;1
+La dona va sentir enveja de la seva germana. ;cause;La seva germana era feliç. ;La seva germana es va divorciar. ;0
+Em vaig vessar vi a la camisa. ;effect;Em vaig posar un davanter. ;M'he canviat de camisa. ;1
+El caixer va obrir la caixa registradora. ;cause;El client va buscar a la seva cartera. ;El client li va donar els diners. ;1
+El músic de carrer va atraure una multitud. ;effect;La gent li donava diners. ;Va fer marxar la gent. ;0
+El nen va plorar a la seva baby-sitter. ;cause;Ha perdut els seus pares. ;Era hora de menjar. ;0
+El radar del pilot va detectar una tempesta. ;effect;El pilot va navegar lluny de la tempesta. ;El pilot va volar a través de la tempesta. ;0
+L'arbre va caure les fulles. ;effect;Les fulles van tornar colors. ;Les fulles s'acumulen a terra. ;1
+El noi estava de mal humor. ;effect;Va decidir jugar a les cartes amb la seva germana. ;Va decidir fer una broma amb la seva germana. ;1
+El nen es va queixar que havia d'anar al bany. ;effect;El seu pare li va donar una beguda refrescant. ;El seu pare va parar el cotxe a una estació de gasolina. ;1
+El nen va espolsar menjar de peix al tanc. ;effect;El peix va saltar de l'acari. ;El peix va nedar cap al menjar. ;1
+Les opinions polítiques de la dona van canviar. ;effect;Va canviar d'afiliació al partit. ;Va participar en una protesta. ;0
+El lavabo del bany estava obstruït. ;effect;He obert el robinet. ;Hi vaig llençar detergent de drenatge. ;1
+Els passatgers van baixar del tren. ;cause;El tren va arribar a l'estació. ;El tren va fer sonar el seu xiulet. ;0
+L'home va pressionar la tapa humida de l'envelope. ;effect;Va posar un segell al sobre. ;Va tancar el sobre. ;1
+Els amics van perdre el contacte. ;cause;Es van gaudir la companyia de l'altre. ;Es van mudar a diferents ciutats. ;1
+El comptable va mal administrar els fons de l'empresa. ;effect;Va ser acomiadada del seu càrrec. ;Va anar a la baixa de maternitat. ;0
+Vaig mirar el rellotge. ;cause;He sentit el tiquet del rellotge. ;Voldria comprovar l'hora. ;1
+La meva mà s'ha encrencat. ;cause;Vaig escriure l'assaig a mà. ;La meva dona i jo ens vam agafar de la mà. ;0
+El perno es va apretar. ;cause;He canviat el perno. ;He girat la clau. ;1
+La parella va signar un contracte d'arrendament d'un apartament. ;effect;La parella es va traslladar a l'apartament. ;La ciutat va condemnar l'apartament. ;0
+La dona es va asseure a fora, al porxo. ;cause;Volia veure la posta de sol. ;Va pensar que havia vist un llamp. ;0
+L'home portava un vestit de salvatge a l'aigua. ;cause;No sabia nedar. ;L'aigua era poc profunda. ;0
+La dona va fer un error de tipus en el processador de textos. ;effect;Va esborrar el document. ;Va picar la tecla de retrocessió. ;1
+La noia es va fanfarrar davant els seus amics. ;cause;Va tenir una mala nota. ;Va guanyar un concurs. ;1
+El césped estava fangós. ;cause;Va ploure de nit. ;Estava ple de males herbes. ;0
+La dona va dormir. ;cause;Va passar la nit en un hotel. ;S'ha oblidat de posar el despertador. ;1
+L'home es va posar crema solar. ;cause;Es va seure a l'ombra. ;Va anar a la platja. ;1
+Els investigadors van demostrar la teoria. ;effect;Els investigadors van retractar la teoria. ;Els individus van acceptar la teoria. ;1
+Els aficionats del partit van abuidar. ;cause;El partit va entrar en la pròrroga. ;L'àrbitre va prendre una mala decisió. ;1
+He introduït la combinació a la porta. ;effect;He tancat la porta. ;La porta s'ha obert. ;1
+La multitud es va intensificar. ;effect;El pare va donar al seu fill una mica de diners. ;El pare va agafar la mà del seu fill. ;1
+La neu bloquejava el camí. ;effect;Vaig reunir la neu en una bola de neu. ;Vaig espatllar la neu del camí. ;1
+Els caiacistes remaren els seus rems. ;effect;El caiac va arribar a la costa. ;El caiac va caure en una onada. ;0
+La noia va perdre el control de la seva bicicleta. ;effect;Va deixar anar el manillar. ;Va caure contra una tanca. ;1
+He encès el ventilador. ;effect;L'aigua em va ser asperjada a la pell. ;Vaig sentir que passava un aire fresc sobre mi. ;1
+Els surfistes van tornar a la platja. ;cause;Eren empapats. ;Van veure un tauró. ;1
+He tirat el tap de drenatge de la banyera. ;effect;L'aigua va sortir de la banyera. ;L'aigua va escampar al terra. ;0
+El marit es va sentir culpable per haver enganyat a la seva dona. ;effect;La va acusar d'infidelitat. ;Li va confessar la seva infidelitat. ;1
+La tinta del cartell s'ha desfregat. ;cause;Vaig esperar que s'assequés la tinta. ;He vessat aigua al cartell. ;1
+El nen es va despertar cridant. ;cause;Va tenir un malson. ;Ha mogut el llit. ;0
+El noi va posar els peus sobre la taula. ;effect;El seu pare es va asseure a la taula. ;El seu pare li va fer un sermó. ;1
+El meu amic va girar el cap en la meva direcció. ;cause;Vaig cridar el seu nom. ;Vaig agitar els meus braços. ;0
+El govern oprimeix els seus ciutadans. ;effect;Els ciutadans es van revoltar. ;Els ciutadans es van registrar per votar. ;0
+El noi es va perdre al bosc. ;effect;Va plantar una tenda. ;Va cridar a l'ajuda. ;1
+La dona va viatjar a l'estranger. ;cause;Volia aprendre a dibuixar. ;Volia aprendre sobre altres cultures. ;1
+L'home estava gelós del seu company de feina. ;cause;El seu company de feina va ser ascendit. ;El seu company de feina va treballar fins tard. ;0
+L'home va ser testimoni d'alienígenes. ;cause;Estava al·lucinant. ;Estava meditant. ;0
+El cabell de l'home es va tornar blond. ;cause;Li va posar blanquejador. ;Hi ha posat xampú. ;0
+L'artista va crear una obra nova. ;cause;Va criticar el seu treball anterior. ;Va sentir un cop d'inspiració. ;1
+El fill es va allunyar de casa. ;cause;Va ser lliurat de l'exèrcit. ;Anava a la universitat. ;1
+Els llibres van caure de la llibreria. ;cause;Els estalls estaven coberts de pols. ;Un terratrèmol va sacsejar la estanta de llibres. ;1
+La llum de la meva casa s'ha apagat. ;effect;He encès una llum. ;He reiniciat el circuit. ;1
+Vam anar en la muntanya russa. ;cause;Semblava espantós. ;Semblava divertit. ;1
+La bossa de palometes va començar a saltar. ;cause;He vessat mantega a la bossa. ;L'he escalfat al microones. ;1
+Un arbre va caure sobre la línia elèctrica. ;effect;La llum del barri s'ha apagat. ;El pronòstic va predir forts vents. ;0
+L'orador va fer comentaris políticament incorrectes. ;effect;Va avorrir el públic. ;Va ofendre el públic. ;1
+Em vaig picar amb l'espina. ;effect;Una gota de sudor em va caure de la cara. ;Una gota de sang es va formar al meu dit. ;1
+El peix va flotejar a la superfície del tanc. ;cause;Tenia gana. ;Estava mort. ;1
+La veu de l'home sonava rau. ;cause;Tenia un refredat. ;Va deixar de fumar. ;0
+Les portes de l'ascensor s'han obert. ;cause;L'ascensor va arribar al pis designat. ;L'ascensor es va quedar atrapat entre els pisos. ;0
+L'adolescent va sortir de casa. ;cause;Va mentir als seus pares. ;Els seus pares el van castigar. ;1
+El bany s'ha inundat. ;cause;El lavabo es va desbordar. ;S'ha trencat l'escalfador d'aigua. ;0
+El gos es va quedar a prop de la seva dona. ;cause;El propietari va posar un collaret al cadell. ;El propietari va mantenir el gos amb la correa. ;1
+L'home va veure el seu reflex. ;cause;Es va quedar sota l'arbre. ;Es va posar sobre el llac tranquil. ;1
+He perdut la trucada de la meva xicota. ;effect;La vaig trucar. ;La vaig conèixer per sopar. ;0
+La família va cercar al barri. ;cause;El seu gos es va escapar de casa. ;Desapareixia joieria cara de casa seva. ;0
+Vaig veure la meva respiració quan vaig expirar. ;cause;El temps era fred. ;El meu pit se sentia estret. ;0
+Els empleats van formar un sindicat. ;cause;Volien millors condicions de treball. ;El seu cap els va augmentar els salaris. ;0
+He cuinat un pastís de poma. ;effect;Una olor a pudor va omplir la cuina. ;Una aroma càlida va omplir la cuina. ;1
+La dona lluita per caminar. ;cause;Ella portava tacos alts. ;Es va treure les sabates. ;0
+El vapor sortia del pot d'aigua. ;cause;L'aigua va fer-se. ;Vaig cobrir la olla. ;0
+Tots els meus mitjons estaven a la bugaderia. ;effect;Vaig portar sandàlies. ;Vaig portar botes. ;0
+L'argument del polític va ser considerat absurde. ;effect;Va perdre el suport dels votants. ;Va ser acusat de corrupció. ;0
+Tothom desaprobava el compromís de la parella. ;effect;La parella va quedar embarassada. ;La parella va fugir. ;1
+L'edifici estava dedicat al milionari. ;cause;El milionari volia que es demoligués l'edifici. ;El milionari va donar els fons per construir-la. ;1
+L'associat de vendes va acusar la noia de robar. ;cause;L'assistent de vendes va veure la noia posar mercaderia a la bossa. ;L'assistent de vendes va ajudar la noia a trobar la bossa que li agradava. ;0
+El país va declarar la guerra al territori veí. ;effect;Els soldats van ser enviats a lluitar. ;Els soldats es van reunir amb les seves famílies. ;0
+El tribunal va mantenir la controvertida sentència. ;effect;Es va desencadenar un motí davant del tribunal. ;Una parella va intercanviar els seus vots davant del tribunal. ;0
+La noia va olorar quelcom cremant. ;cause;Va treure les galetes del tarro. ;Va deixar les galetes al forn. ;1
+La pluja estava caient. ;effect;La tempesta va empitjorar. ;Vaig córrer per entrar. ;1
+L'edifici va ser evacuat. ;cause;L'ascensor ha deixat de funcionar. ;S'ha activat l'alarma de foc. ;1
+El pare es va ressentir de l'alcoholisme del seu fill. ;effect;El pare va comprar una cervesa al seu fill. ;El pare va expulsar el seu fill de casa. ;1
+L'advocada va pujar les escales fins al seu despatx. ;cause;La secretària es va anar a casa. ;L'ascensor estava fora de funcionament. ;1
+L'home es va enfadar amb el seu amic. ;cause;El seu amic el va interrompre. ;El seu amic li va comprar el dinar. ;0
+La noia va donar els diners a la caixera. ;effect;El caixer va donar a la noia el canvi. ;El caixer s'ha oblidat de donar-li a la noia un rebut. ;0
+La dona va ser posada en una cadira de rodes. ;cause;Va quedar paralitzada en un accident. ;Va entrar a l'hospital en una brancada. ;0
+Els ciutadans van penjar la bandera nacional fora de les seves cases. ;cause;El país commemorava la seva independència. ;El país s'enfrontava a dificultats econòmiques. ;0
+L'equip va perdre el torneig. ;effect;Van decebre els seus fans. ;Inspiraven els seus fans. ;0
+El meu amic em va assenyalar que tenia menjar entre les dents. ;effect;Em vaig sentir avergonyit. ;Em vaig sentir orgullosa. ;0
+El noi va fallar el seu examen d'història. ;cause;Va estar atent a classe. ;Va oblidar d'estudiar. ;1
+L'edifici del centre s'ha col·lapsat. ;cause;Un terratrèmol va assolar la ciutat. ;La taxa de delinqüència a la ciutat va augmentar. ;0
+La xicota d'aquest home va trencar amb ell. ;effect;Li va suplicar que el tornés a prendre. ;Ella el va presentar als seus pares. ;0
+Els dos nens van estendre la mà simultàniament per recuperar la pilota. ;effect;La pilota va rolar. ;Els seus caps van col·lider. ;1
+El ratolí va saquejar la paperera. ;cause;Hi havia cartó a la cisterna. ;La tapa estava fora de la paperera. ;1
+El noi va afinar el llapis. ;cause;Era barata. ;Era avorrida. ;1
+El caixer va negar a la dona un reemborsament pel vestit. ;cause;Ha perdut el recibiment. ;El vestit no m'encaixava. ;0
+El raspall de la meva pell era profund. ;effect;Va guarir ràpidament. ;Ha deixat una cicatriu. ;1
+L'home va rebre mirades estranyes dels passatgers del tren. ;cause;Estava mirant fixament al terra. ;Estava parlant amb ell mateix. ;1
+El nen va deixar migelles al terra. ;effect;Les formigues van arribar a les migelles. ;La nena va guardar el pa. ;0
+La dona va donar a la seva germana un tisso. ;cause;La germana de la dona va encunyar les mans. ;La germana de la dona va començar a plorar. ;1
+L'home va agafar una moneda de menta. ;cause;Els seus llavis estaven trencats. ;Estava preocupat pel mal alè. ;1
+La parella va marxar abans per al espectacle. ;cause;Van anticipar el trànsit al voltant del teatre. ;Tenen indicacions per anar al teatre. ;0
+La dona es va quedar a casa de la feina. ;effect;El seu cap la va elogiar. ;El seu company de feina la va cobrir. ;1
+L'home va signar la petició dels activistes. ;cause;Va donar suport a la seva causa. ;Els va denunciar com a bojos. ;0
+El cor de l'actor va estar batent abans de la seva actuació. ;cause;Tenia por d'escenari. ;Ha memoritzat les seves línies. ;0
+Estava perdut. ;effect;He comptat els diners. ;Vaig desplegar un mapa. ;1
+La fruita madura es va quedar al sol. ;effect;Ha estat menjat. ;Es va encegar. ;1
+El cotxe es va avergonyar. ;cause;He girat el motor. ;El motor s'ha sobreescalfat. ;1
+L'home es va fer mal a l'esquena. ;effect;Va anar a veure un psiquiatre. ;Va estar al llit durant diversos dies. ;1
+Vaig encendre un foc a la xemeneia. ;cause;No tenia fusta. ;Estava fred a la casa. ;1
+La dona va deixar de córrer. ;cause;Té un crampe al costat. ;Ha reblat un segon esperit. ;0
+He trucat a la porta del meu veí. ;effect;El meu veí em va convidar a entrar. ;La meva veïna ha sortit de casa. ;0
+La dona va sospirar de frustració. ;cause;El seu marit va mal entendre les seves preocupacions. ;El seu marit la va besar per dir adéu. ;0
+El professor va encoratjar l'estudiant. ;cause;L'estudiant va respondre correctament la pregunta. ;L'estudiant va dubtar a respondre la pregunta. ;0
+La dona es va quedar sense ous. ;effect;Va anar a la granja. ;Va anar al supermercat. ;1
+Em vaig trobar amb un vell amic. ;effect;Li vaig revelar un secret. ;Li vaig donar un abraç. ;1
+La dona va evitar anar al llac. ;cause;Va agafar un peix. ;Semblava contaminat. ;1
+L'estudiant va arribar a classe mollat. ;cause;El seu paraigua estava trencat. ;Se li va robar la bicicleta. ;0
+El cursor de la pantalla de l'ordinador es va moure. ;cause;L'usuari va fer clic amb el ratolí. ;L'usuari va moure el ratolí. ;1
+El conductor va fer un desviament. ;cause;S'ha produït un accident a la carretera principal. ;Va seguir el camió que tenia davant. ;0
+Vaig penjar la roba de lli humit a la corda de roba. ;effect;La roba de lli s'ha assecat. ;La roba de lli va quedar tacada. ;0
+La dona es va posar les seves ulleres. ;cause;La llum del sol era brillant. ;Va cridar un taxi. ;0
+L'home va mirar el cel nocturn. ;cause;Ell desitjava que fos estiu. ;Li va semblar molt bonic. ;1
+Em vaig sentir exhausta. ;effect;Em vaig anar a dormir aviat. ;Vaig estar despert tota la nit. ;0
+L'home va anar al barbier. ;cause;Li estava sortint el cabell. ;El seu cabell s'havia anat allargant. ;1
+El noi va jugar trucs malvats amb el seu nou company de classe. ;cause;El noi va donar la benvinguda al seu nou company de classe. ;Al noi no li agradava el nou company de classe. ;1
+Tenia ganes d'un got de llet. ;cause;Estava menjant galetes. ;Estava cuinant pa. ;0
+Va començar a ploure. ;effect;El conductor va encendre els llums. ;El conductor va fer marcha enrere. ;0
+L'aparcament de l'edifici estava buit. ;effect;He aparcat al costat. ;He aparcat a prop de l'entrada. ;1
+L'escriptor va perdre el termini per a la presentació del projecte. ;cause;Tenia un bloqueig d'escriptor. ;Va editar el projecte. ;0
+L'associat em va col·locar. ;cause;He demanat parlar amb un supervisor. ;He proporcionat el meu número d'identificació. ;0
+El vent va bufar a través de la finestra oberta. ;effect;Va sonar el timbre. ;Les cortines es van estremeix. ;1
+La llum de la meva casa s'ha apagat. ;cause;He desconectat la làmpada. ;Em va esclatar una fiuza. ;1
+El pesatista va grunir. ;cause;Va flexionar els músculs davant del mirall. ;Va aixecar la barra sobre el seu cap. ;1
+L'estudiant va intentar fer els càlculs al cap. ;effect;Va treure una calculadora. ;Es va confondre. ;1
+El nadó s'ha adormit. ;cause;El pare va canviar el plou del nadó. ;El pare va sacsejar suaument el nadó. ;1
+La noia va llançar el globus d'aigua al noi. ;effect;El noi té una conmoció cerebral. ;El noi es va empapar. ;1
+El fotògraf s'ha oblidat d'utilitzar el flash de la càmera. ;effect;Les fotos van quedar borroses. ;Totes les persones de les fotos es van negar a somriure. ;0
+Vaig rebutjar la invitació a la festa d'aniversari. ;cause;Estava sola. ;Estava fora de la ciutat. ;1
+Vaig fer exercici. ;cause;Em vaig sentir energètic. ;Tenia por. ;0
+Vaig aplastar l'espongia humida. ;effect;Ha absorbit aigua. ;L'aigua s'hi va filtrar. ;1
+Els turistes van prendre un ferri a la localitat. ;cause;El resort estava reservat. ;El resort estava en una illa. ;1
+L'adolescent es va tatuar. ;cause;Tenia por de les agulles. ;Volia rebel·lar-se. ;1
+Un cotxe desconegut aparcat davant de casa meva. ;effect;Em vaig posar sospitós. ;He trucat a la policia. ;0
+El criminal es va entregar. ;cause;Les proves el van implicar. ;No hi havia cap prova en contra seu. ;0
+L'home pesat va decidir perdre pes. ;effect;Va deixar de menjar dolços. ;Va evitar la cafeïna. ;0
+La noia va pisar el gel. ;effect;S'ha desliurat. ;Va tremolar. ;0
+La dona tenia anells sota els ulls. ;cause;Va estar despert tota la nit. ;Va posar el seu fill a dormir. ;0
+La lava va fluir del volcà. ;cause;El volcà va entrar en erupció. ;El volcà estava inactiu. ;0
+La dona es va posar les sabates. ;cause;Ella coneixia a tothom a la festa. ;Volia marxar de la festa. ;1
+He pagat a l'assistent de la cabina de peatge. ;effect;Em va deixar passar per la cabina de peatge. ;Em va detenir a la cabina de peatge. ;0
+L'executiu va fallar. ;cause;Va vendre les accions de la seva empresa. ;Va malgastar la seva fortuna. ;1
+L'home va anar al metge. ;cause;El doctor estava de permís. ;L'home es va sentir malalt. ;1
+Vaig sortir del dormitori per la finestra. ;cause;La casa estava en foc. ;La casa estava buida. ;0
+Els dits del noi es van tornar esquinçats. ;cause;Va prendre una llarga dutxa. ;Es va espumar les mans amb sabó. ;0
+Vaig escopir la llet. ;cause;La llet tenia un gust amarg. ;Tenia la boca seca. ;0
+He perdut l'autobús. ;effect;Vaig arribar a la feina abans. ;Vaig arribar tard a la feina. ;1
+El camió va col·lider amb el cotxe. ;effect;El camió va accelerar. ;El cotxe es va trencar. ;1
+L'equip va manipular el concurs en el seu favor. ;effect;Han guanyat. ;Van abandonar. ;0
+La ampolla de refresc va xiular. ;cause;Vaig tornar la ampolla. ;He torçat el tap. ;1
+El noi estava tancat fora de casa seva. ;effect;Va entrar a través d'una finestra oberta. ;Va pujar al sostre. ;0
+Va sonar el timbre. ;effect;El visitant va tocar a la porta. ;La dona va mirar a través del forat de la porta. ;1
+L'home es va tacar el seu vestit. ;effect;La va portar a netejar. ;La va penjar al seu armari. ;0
+La noia va apertar el tub de pasta de dents. ;effect;La pasta de dents va escampar del tub. ;La noia va escopir la pasta de dents. ;0
+Les morts de civils de la guerra van augmentar. ;effect;Els pacifistes van organitzar una protesta. ;Els pacifistes van fer una desfilada. ;0
+La noia es va treure la cinta del cabell. ;cause;Va lligar la cinta. ;La cinta semblava infantil. ;1
+L'home es va fer una cirurgia plàstica. ;effect;Ha envellit. ;Semblava més jove. ;1
+Un pollastre va sortir de l'ou. ;cause;L'ou ha eclosionat. ;He trencat l'ou. ;0
+El pres va morir de gana. ;effect;Ha mort. ;Ha fugit. ;0
+L'home va perdre l'equilibri a l'escala. ;effect;Va pujar per l'escala. ;Va caure de l'escala. ;1
+El nen va ruclar. ;cause;Va prendre un sorbitge de refresca. ;Va obrir la llauna de refresc. ;0
+Un corrent de vent fred va entrar per la finestra. ;effect;Em vaig relaxar. ;Em vaig tremolar. ;1
+L'estudiant va rebre una beca per anar a la universitat. ;cause;Els seus companys de classe la respectaven. ;Tenia bones notes. ;1
+La noia es va burlar del noi. ;cause;Vivia al costat seu. ;Ella estava enamorada d'ell. ;1
+El vagabund famolenc va robar menjar. ;cause;Va incitar a la pietat. ;No tenia diners. ;1
+He trucat al meu amic per parlar. ;cause;Volia privacitat. ;Em vaig sentir sola. ;1
+L'home em va estendre la mà. ;effect;Li vaig donar la mà. ;Li vaig donar una cafetada. ;0
+Em vaig esquivar. ;cause;Els focs artificials van ser llançats en l'aire. ;El frisbee va volar cap al meu cap. ;1
+La noia es va mossegar les ungles. ;cause;Estava preocupada. ;Ella es va sorprendre. ;0
+He girat la pàgina del calendari. ;cause;He marcat una cita al calendari. ;Era l'inici d'un nou mes. ;1
+El marit va descobrir que la seva dona tenia una aventura. ;effect;Va acomiadar el seu advocat. ;Va demanar el divorci. ;1
+La noia va deixar caure la pilota de goma. ;effect;La pilota va rebotar. ;La pilota va brillar. ;0
+La noia va cometre un error en el seu examen. ;effect;Ella va adivinar la resposta. ;Va esborrar la seva resposta. ;1
+El jugador va atacar el seu oponent. ;effect;El seu oponent va agafar el pas. ;El seu oponent va caure al terra. ;1
+Vaig recollir els tomàquets de la vinya. ;cause;Eren madurs. ;Els vaig regar. ;0
+L'home volia actuar de romàntic. ;effect;Va conèixer la seva ex-novia per dinar. ;Va comprar xocolata a la seva xicota. ;1
+El mercuri en el termòmetre va pujar. ;cause;M'ha caigut el termòmetre. ;El temps s'ha calfat. ;1
+Un tornado va passar per la ciutat. ;effect;El sostre del tribunal va volar. ;L'autopista es va tornar perillosament gelada. ;0
+L'estudiant va rebre tutoria. ;effect;Les seves notes van millorar. ;Va fer trampa a l'examen. ;0
+Em vaig sentir còmode. ;cause;Em vaig agenollar al terra. ;Em vaig envoltar amb una manta. ;1
+He polit la pedra. ;effect;Es va fer escur. ;Es va fer brillant. ;1
+He afegit sucre al cafè. ;effect;El cafè feia una olor forta. ;El cafè tenia un gust dolç. ;1
+L'home va escarrapar els papers. ;effect;Es va tallar amb un paper. ;Va trencant els papers. ;0
+Vaig colpejar el claveu amb el martell. ;effect;El claveu va penjar-se en la fusta. ;El claveu es va oxidar. ;0
+El peix va mossegar la línia. ;effect;El pescador va treure el peix. ;El pescador refondeix la línia. ;0
+L'adolescent estava avergonyit d'anar a l'escola. ;cause;Té un granol. ;Se li ha tret l'aparell dentari. ;0
+La meva expressió facial es va il·luminar. ;cause;He rebut bones notícies. ;He perdut la paciència. ;0
+Em vaig esborrar les mans amb una tovallola. ;cause;L'esmorzella estava humida. ;Tenia les mans molles. ;1
+L'home va perdre l'equilibri sobre l'escaló. ;cause;El seient va trontollar sota ell. ;Va vessar pintura a l'escó. ;0
+Els companys d'equip es van culpar els uns als altres. ;cause;Van perdre el joc. ;El seu entrenador va cancel·lar l'entrenament. ;0
+He demanat perdó. ;cause;Em vaig penedir del meu error. ;He aconseguit el meu objectiu. ;0
+La dona es va avorrir amb el seu company. ;cause;Li va fer preguntes sobre ella mateixa. ;Parlava sense parar de si mateix. ;1
+La noia va fer un somriure. ;effect;Les seves galtes es van envermellir. ;Els seus fossets es van mostrar. ;1
+La nau enemiga va explotar. ;cause;Va passar per sobre de la mina. ;Va navegar cap al port. ;0
+L'home es va perforar el peu. ;cause;Va caure en un pou. ;Va trepitjar vidres trencades. ;1
+Els detectius van buscar empremtes en la escena del crim. ;effect;Van descobrir la identitat de l'assassí. ;Van trobar l'arma a l'escena del crim. ;0
+Hi havia molt trànsit a l'autopista. ;effect;Vaig fer un desviament. ;He demanat un cotxe. ;0
+L'economia de la nació va caure. ;effect;Molta gent es va posar malalta. ;Molta gent s'enfrontava a la desocupació. ;1
+El guàrdia de la creuada va fer sonar el seu xiulet als nens. ;cause;Estaven a punt de caminar cap al trànsit que venia de cap. ;Els va reconèixer del seu barri. ;0
+Vaig girar els ulls al meu amic. ;cause;Em va dir la veritat. ;Va fer un comentari sarcàstic. ;1
+El cotxe es va quedar sense gasolina. ;effect;El conductor estava atrapat a la carretera. ;El conductor va agafar un autostopista. ;0
+La dona va començar a donar-li a llum. ;effect;El nadó va néixer. ;La dona tenia marees matinal. ;0
+El barret de l'home va ser emportat pel vent. ;cause;Es va treure el barret. ;Havia vent a fora. ;1
+La noia va assistir a la festa d'aniversari d'una amiga de classe. ;cause;Va rebre una invitació. ;Va comprar un regal. ;0
+El front del noi se sent calent. ;effect;La seva mare li va prendre la temperatura. ;La seva mare el va portar al parc. ;0
+L'home es va aprofitar amb colònia. ;cause;Volia impressionar la seva cita. ;Es va posar gel al cabell. ;0
+La llum de la casa s'ha apagat. ;effect;Vaig buscar una torxa. ;Vaig agafar una pala. ;0
+La família es va traslladar a una casa més gran. ;cause;El fill es va graduar de l'institut. ;La mare va donar a llum bessons. ;1
+El maratonista va seguir amb un ritme lent. ;cause;Volia conservar la seva energia. ;Va veure la línia de meta. ;0
+El noi va donar una pata al distribuïdor. ;cause;La màquina escopia el canvi. ;La bossa de patates s'havia atascat. ;1
+El gos del meu amic va morir. ;effect;Li vaig girar els ulls. ;Li vaig donar un abraç. ;1
+La targeta de crèdit de l'home de negocis va ser rebutjada. ;effect;Va escriure una nota de deute. ;Va pagar amb efectiu. ;1
+L'home maleït. ;cause;Es va tallar les ungles. ;Es va fer un cop el dit. ;1
+L'home es va sentir orgullós del seu germà. ;cause;El seu germà va tenir una discussió amb els seus pares. ;El seu germà va ser acceptat a la facultat de dret. ;1
+La noia volia aprendre sobre el sistema solar. ;effect;Va anar a la biblioteca. ;Va mirar les estrelles. ;0
+El cartell es va enganxar a la paret. ;cause;Vaig col·locar el cartell per sobre de la porta. ;He posat cinta al darrere del cartell. ;1
+El client va aprovar els plans de l'arquitecte per a l'edifici. ;effect;L'arquitecte va construir l'edifici. ;L'arquitecte va ajustar els plans. ;0
+L'home va deixar caure la cullerada. ;cause;La seva mà tremava. ;Va llaurar la cullerada. ;0
+El director general de l'empresa va dimitir. ;effect;El consell d'administració va dissoldre la companyia. ;La junta directiva ha trobat el seu reemplaçament. ;1
+Vaig arribar tard a la conferència. ;effect;Em vaig asseure a la fila de darrere. ;Em vaig apropar al podi. ;0
+L'home va ser alliberat de la presó. ;cause;La seva família va pagar la fiança. ;Va atacar un company de presó. ;0
+La família va perdre totes les seves pertinences. ;cause;Van vendre la seva casa. ;La seva casa va prendre foc. ;1
+He pisat la llauna d'alumini. ;effect;La llauna era reciclada. ;La llauna es va esmagar. ;1
+La noia es va unir a l'equip de debat. ;effect;Va aprendre a utilitzar un ordinador. ;Va aprendre a comunicar-se. ;1
+El meu humor va millorar. ;cause;Vaig escoltar música. ;Vaig rentar els plats. ;0
+La caritat va fer un objectiu per recaptar diners. ;effect;Han alimentat els sense llar. ;Van fer una subhasta. ;1
+La muntanya russa va caure per la penya. ;effect;Els passatgers van riure. ;Els passatgers van cridar. ;1
+Estava furiós. ;effect;Vaig comprovar la caixa de correu en sortir de casa. ;Vaig tancar la porta en sortir de casa. ;1
+L'home volia veure l'alba. ;effect;Va viatjar cap al nord. ;S'ha aixecat de bon matí. ;1
+He doblat el paper. ;effect;He reciclat el paper. ;El paper es va arrugar. ;1
+La nació va suportar un desastre natural. ;effect;Els líders d'altres països van formar una aliança. ;Líders d'altres països van enviar ajuda d'emergència. ;1
+La roba del noi es va empapar. ;cause;Ha pujat de la piscina. ;Va caure a la piscina. ;1
+L'estudiant es va afanyar a acabar el llibre. ;cause;Havia de ser retornada a la biblioteca. ;El va demanar a un amic. ;0
+El criminal va ser executat. ;cause;Va ser empresonat. ;Va ser condemnat per assassinat. ;1
+La llum del sol va entrar a la habitació. ;cause;He obert les cortines. ;Vaig obrir la porta. ;0
+Vaig tirar el cabell de l'impostor. ;effect;Se li va treure la perruca. ;Es va quedar calva. ;0
+L'editor va reformulare una frase del manuscrit. ;cause;Va trobar el manuscrit convincent. ;Va considerar que la sentència no era clara. ;1
+La dona va cancel·lar la seva targeta de crèdit. ;cause;Va adonar-se que la targeta no hi era. ;Va adonar-se que la targeta havia expirat. ;0
+L'home i la dona es van enamorar. ;effect;Van anar a la universitat. ;Es van casar. ;1
+La música era massa feble per a sentir-la. ;effect;He pujat el volum. ;He compost la meva pròpia cançó. ;0
+El cabell del noi estava penjat. ;cause;La noia l'ha fet malbé. ;La noia la va treure. ;0
+El virus ha estat aplastat. ;cause;Em vaig aprofitar per a espellir els insectes. ;He tretat el microfòn. ;1
+Vaig obrir els ulls. ;cause;Em vaig despertar. ;Em vaig relaxar. ;0
+La música del meu veí era molt alta. ;effect;Li vaig demanar que ho baixés. ;Li vaig demanar prestat el CD. ;0
+La família d'aquest home vivia en la pobresa. ;cause;Era frugal amb els seus guanys. ;Guanyava per sota del salari mínim. ;1
+L'estudiant es va graduar de la universitat. ;effect;Va buscar feina. ;Va prendre un hobby. ;0
+L'artista va barrejar pintura groga amb pintura blava. ;effect;La pintura es va escampar per tot arreu. ;La pintura es va tornar verda. ;1
+He canviat de tema. ;cause;No tenia res de què parlar. ;La conversa es va tornar tensa. ;1
+El meu germà ha estat alliberat de l'hospital. ;effect;L'he donat la benvinguda a casa. ;Li vaig donar l'espatlla freda. ;0
+El teló de l'escenari es va aixecar. ;effect;Va començar l'escena d'obertura de la peça. ;Els actors de la peça van sortir de l'escenari. ;0
+L'ostatge es va sotmetre a les ordres del segrestador. ;cause;El segrestador va amenaçar de ferir l'ostatge. ;El segrestador va deixar l'ostatge sol. ;0
+Un boom va ressonar a l'escenari. ;cause;El músic va clavar el peu. ;El músic va colpejar el tambor. ;1
+Els pares van córrer a la habitació del seu fill. ;cause;El nen es va despertar cridant d'un malson. ;La nena tenia por de mirar sota el llit. ;0
+La dona es va comunicar amb la llengua de signes. ;cause;Va néixer prematura. ;Va néixer sorda. ;1
+Hi va haver una sequera a la regió. ;effect;L'aigua es va contaminar. ;Els cultius van morir. ;1
+El gat va perseguir l'ocell. ;effect;L'ocell va volar. ;L'ocell va agafar un cuc. ;0
+La noia va canviar d'escola. ;cause;L'escola ha deixat per l'estiu. ;S'ha traslladat a una nova ciutat. ;1
+El propietari de la fàbrica es va negar a augmentar els salaris dels empleats. ;effect;El propietari va nomenar un nou gerent. ;Els empleats van entrar en vaga. ;1
+El líder va antagonitzar els extremistes del seu país. ;effect;Els extremistes el van influenciar. ;Els extremistes el van assassinar. ;1
+Vaig caminar descalç a la platja. ;effect;La sorra em va quedar als peus. ;Les onades es van estrellar al llarg de la costa. ;0
+Em vaig despertar a mitjanit sentint fred. ;effect;Em vaig posar els pantalons de sudat. ;Vaig beure un got d'aigua. ;0
+La mare va callar el seu fill. ;cause;El seu fill es va fer una broma. ;El seu fill es va queixar. ;1
+Un forat en els meus pantalons. ;cause;He tancat la cremallera dels pantalons. ;Em vaig tropeçar en el paviment. ;1
+El noi portava aparells ortopèdics. ;effect;Té una càries. ;Les seves dents es van tornar rectes. ;1
+Ahir vaig fer exercici al gimnàs. ;effect;Avui em vaig despertar amb dolor muscular. ;Avui em vaig despertar amb mal de coll. ;0
+La noia va murmurar d'un costat a l'altre a la taula del dinar. ;effect;Altres estudiants es van asseure a la taula del dinar. ;Altres estudiants a la taula del dinar es van sentir exclosos. ;1
+El nen va aterrar al trampolí. ;effect;Va tornar a pujar en l'aire. ;Va decidir intentar fer un salt. ;0
+Vaig deixar la carta a la caixa de correu. ;effect;L'oficina de correus va lliurar la carta. ;L'oficina de correus va agilitzar la carta. ;0
+El jugador estava segur. ;effect;Va apostar tots els seus diners. ;Va tornar a casa sense diners. ;0
+El foc del bosc s'ha estès. ;cause;Els vents van ser més forts. ;Els piròtics van ser detinguts. ;0
+El nen es va esquinçar el genoll. ;effect;La seva mare el va enviar a la seva habitació. ;La seva mare va posar un vendage a la ferida. ;1
+L'home va sobreviure a la malaltia mortal. ;cause;Va signar el seu testament. ;Va rebre un trasplantament d'òrgans. ;1
+Vaig prendre un sorp del cafè escaldador. ;effect;Em vaig mossegar la llengua. ;Em vaig cremar la llengua. ;1
+El redactor va acomiadar l'escriptor. ;cause;L'escriptor va evitar el prejudici en les seves històries. ;L'escriptor va perdre un termini important. ;1
+Em vaig sentir exhausta. ;cause;He dormit tot el dia. ;He estudiat tot el dia. ;1
+El metge va diagnosticar el pacient. ;cause;Va identificar els símptomes del pacient. ;Va prescriure pastilles al pacient. ;0
+Em vaig rascar la pell. ;cause;Estava sudat. ;Em va fer picor. ;1
+L'home es va sotmetre a una operació d'emergència. ;cause;Va perdre la calma. ;Va patir un atac de cor. ;1
+Els músculs del braç de l'home van inflar-se. ;cause;Va flexionar els braços. ;Es va fregar els braços. ;0
+L'home va aixecar les seves pestanyes. ;cause;Ell es va sorprendre. ;Es va sentir desanimat. ;0
+Vaig excusar el malentès del meu col·lega. ;cause;Creia que les seves intencions eren bones. ;Jo creia que ell sabia més. ;0
+L'home va deixar de fumar. ;effect;Va començar a fer més exercici. ;Va començar a despertar-se més d'hora. ;0
+La dona va donar un cop al nas al seu agresor. ;effect;El cos de l'agressor va quedar sense vida. ;L'agressor va començar a sagnar. ;1
+El dard va fallar l'ull del toro. ;cause;L'home no mirava bé. ;L'home estava perdent el joc. ;0
+El propietari va demanar que un exterminador vingués a casa seva. ;cause;Va descobrir rates al soterrani. ;Tenia una granja de formigues a la seva habitació. ;0
+Vaig suggerir al meu convidat que anéssim a sopar. ;cause;Estava massa cansada per preparar res. ;La meva convidada s'ha quedat més de la seva benvinguda. ;0
+La noia va sorprendre el seu germà llegint el seu diari. ;effect;Va començar a amagar el diari. ;Té un diari nou. ;0
+La dona no tenia diners per al lloguer. ;effect;Va treballar hores extras. ;Va deixar el seu treball. ;0
+La mà de la nena va retrocedir ràpidament. ;cause;Va tocar la estufa calenta. ;Va acariciar el cap del cadell. ;0
+L'empresa volia mesurar la satisfacció del client. ;effect;Van oferir un descompte als nous clients. ;Van distribuir una enquesta als clients. ;1
+El terra de fusta es va rascar. ;cause;El noi va tirar els coixins del sofà. ;El noi va arrossegar una cadira pel terra. ;1
+Em vaig escudar la cara. ;cause;El meu enemic em va molestar. ;El meu enemic va aixecar el puny. ;1
+La famosa estàtua va cremar. ;cause;Va ser colpejat per un llamp. ;La gent venia a venerar-lo. ;0
+He deixat la fruita a la taula. ;effect;La fruita llança llavors. ;Les mosques van envair la fruita. ;1
+La ballarina es va trencar un lligament. ;cause;Va assenyalar els dits dels peus. ;Es va torcer el turmell. ;1
+Els cordons de les sabates de l'infant es van desfer. ;cause;Va aprendre a lligar-les. ;Va córrer pel pati de jocs. ;1
+Em va fascinar el llibre. ;effect;He tornat el llibre. ;He perdut la noció del temps. ;1
+L'home tenia creences similars a les dels seus pares. ;cause;Els seus pares el van influir. ;Els seus pares el van desacreditar. ;0
+El cotxe va disminuir gradualment fins a parar. ;cause;Se li va acabar la gasolina. ;El conductor s'ha adormit. ;0
+L'home va menjar el gelat al sol. ;effect;El gelat ha perdut el seu sabor. ;El gelat va caure del con. ;1
+Vaig penjar obres d'art a la habitació. ;cause;La catifa semblava bruta. ;Les parets semblen desnudes. ;1
+Vaig marxar del treball abans. ;cause;Tenia mal de cap. ;El meu cap va tenir una reunió. ;0
+El gos va ensuciar la catifa. ;effect;El propietari va regalar el gos. ;El propietari va regalar al cadell una sorpresa. ;0
+Em vaig disculpar amb el meu amic. ;effect;El meu amic em va perdonar. ;El meu amic es va enfadar. ;0
+L'home es va destacar entre la multitud. ;cause;Portava una motxilla. ;Portava un vestíbul de neó. ;1
+El testimoni va mentir sota jurament. ;effect;Va completar el seu testimoni. ;Va ser acusat de perjur. ;1
+La dona es va pintar el cabell. ;cause;Volia un nou aspecte. ;Volia integrar-se. ;0
+Els immigrants van ser atrapats residint il·legalment al país. ;effect;Van trobar feina. ;Van ser deportats. ;1
+L'orador públic va fer una broma. ;effect;El públic va riure. ;El públic es va aixecar. ;0
+Vaig mirar al sol. ;effect;El sol em va cegar. ;El sol em va brunzir la pell. ;0
+Em vaig sentir avorrit. ;effect;Vaig esnifar. ;Vaig boig. ;1
+El bife era difícil de tallar. ;cause;El ganivet era enfonsat. ;El bife era cru. ;0
+La dona va declarar la bancarrota. ;cause;Va rebre el pagament de la pensió. ;Va adquirir un deute enorme. ;1
+Les llums de l'apartament del meu amic estaven encendudes. ;effect;Em preguntava si era fora. ;Vaig decidir fer-li una visita. ;1
+M'he posat la flor sota el nas. ;effect;Els pétals van caure de la flor. ;He captat l'olor de la flor. ;1
+La dona se sentia nostàlgica. ;cause;Es va trobar amb un amic d'infància. ;Va cridar als seus fills. ;0
+L'estudiant va postergar el treball. ;effect;Va presentar el paper abans. ;Va enviar el document incomplet. ;1
+El meu cotxe es va trencar. ;effect;Vaig anar al centre comercial. ;He trucat a un mecànic. ;1
+He descartat la nota. ;cause;Era anònim. ;Era il·legible. ;1
+L'ocell va batre les ales. ;effect;Ha posat ous. ;Va pujar cap amunt. ;1
+He aparcat al camí d'entrada. ;cause;El garatge estava obert. ;El garatge estava ple. ;1
+El criminal va apuntar la pistola a la seva víctima. ;effect;El criminal va baixar la pistola. ;La víctima va aixecar les mans. ;1
+Tenia ganes de passar el cap de setmana. ;cause;Planeava assistir al funeral del meu oncle. ;Planeava assistir al casament del meu amic. ;1
+He perdut la noció del temps. ;cause;Estava somiant despert. ;Tenia nausees. ;0
+El document es va imprimir de manera il·legible. ;cause;L'impresora no tenia tinta. ;La impressió estava sense paper. ;0
+L'estadi va tocar l'himne nacional. ;effect;Els aficionats es van girar cap a la bandera. ;Els aficionats van entrar al camp. ;0
+La salsa tenia un gust suau. ;effect;Jo ho vaig servir. ;Hi he posat sal. ;1
+Vaig posar l'esmorzella de paper sobre el vessament. ;effect;La tovallola va absorbir el líquid. ;El vessament va deixar un residu pegaixós. ;0
+La dona va ser interrompida enmig de llegir el seu llibre. ;effect;Va marcar la seva pàgina. ;Va tornar a llegir el llibre. ;0
+L'avió va patir una mica de turbulència. ;effect;L'home es va ajustar el cinturó. ;L'home va mirar per la finestra. ;0
+El noi es va estremeix. ;cause;La noia el va ignorar. ;La noia el va picar. ;1
+Els metges van donar al pacient una extremitat artificial. ;cause;Li van amputar la cama. ;La van monitoritzar. ;0
+El noi va pinçar el còl a la noia. ;effect;Ella li va encegar les espatlles. ;Ella li va tirar el braç. ;1
+Vaig demanar consell al meu amic. ;cause;Valorava la seva opinió. ;Sabia que tenia raó. ;0
+El noi va pisar el fang. ;effect;El fang es va enganxar a les seves sabates. ;El fang el va colpejar a la cara. ;0
+La ciutat va rebre diversos centímetres de neu. ;effect;Les escoles van tancar. ;La gent es va amagar sota terra. ;0
+El turni de l'empleat ha acabat. ;effect;Ha anat a casa per a passar el dia. ;Va amenaçar amb deixar el treball. ;0
+L'arbre va danyar la casa. ;cause;L'arbre va caure sobre el sostre. ;L'arbre ombrava el pati del darrere. ;0
+La fusta es va trencar per la meitat. ;cause;He empillat la fusta a la llar de foc. ;Vaig fer que la destral caigués sobre la fusta. ;1
+La família va felicitar a la parella. ;cause;La parella va anunciar que es separaven. ;La parella va anunciar que estarien esperant un nadó. ;1
+La noia va enviar al noi una carta de Sant Valentí. ;cause;Li agradava. ;Ella el va besar. ;0
+Vaig encéntar amb el cap a la declaració de la meva amiga. ;cause;Estava confós. ;Jo estava d'acord amb ell. ;1
+Els amics van llançar una moneda. ;cause;Volien trobar un compromís. ;Volien prendre una decisió justa. ;1
+El timer de la cuina s'ha disparat. ;effect;L'home va descarregar les compres al frigorífic. ;L'home va treure la pizza del forn. ;1
+La dona es va fixar un objectiu ambiciós. ;effect;Ella es va relaxar. ;Va treballar molt. ;1
+L'home ric va morir de vellesa. ;effect;El seu fill va tenir problemes legals. ;El seu fill va heretar la seva fortuna. ;1
+La dona va pisar les flames. ;effect;Les flames s'han apagat. ;El fum sortia de les flames. ;0
+El cotxe de la dona estava al taller. ;cause;Li van revocar el permís de conduir. ;Va tenir un accident de cotxe. ;1
+Vaig dormir fins que va sonar l'alarma. ;effect;He fet el sopar. ;He perdut el dejunar. ;1
+La figura pública va baixar de la limusina. ;effect;Les càmeres van mirar en la seva direcció. ;La seva família va assistir a la conferència de premsa. ;0
+La dona es va quedar en la banyera. ;effect;L'aigua del bany es va tornar tibia. ;L'aigua del bany va escurçar de la banyera. ;0
+L'estudiant universitari volia conèixer altres estudiants al campus. ;effect;Es va unir a una fraternitat. ;Es va especialitzar en enginyeria. ;0
+Vaig aixecar els coixins del sofà. ;cause;Estava buscant uns diners. ;Estava reordenant el saló. ;0
+La vessa va volar cap al nen. ;effect;El noi va fugir. ;El noi va recollir una flor. ;0
+La dona va ser declarada culpable d'un delicte menor. ;effect;Va ser condemnada a realitzar un servei a la comunitat. ;Va ser condemnada a mort. ;0
+Vaig mesclar el sucre al te calent. ;effect;El te s'ha fet a l'aigua. ;El sucre es va dissoldre. ;1
+El veterà caminava amb un coixit. ;cause;Va ser reclutat per a la guerra. ;Va ser ferit en la batalla. ;1
+El criminal va fugir de la policia. ;effect;La policia va atendre a la víctima. ;La policia va perseguir el criminal. ;1
+L'ordinador portàtil no s'encén. ;cause;M'ho vaig deixar caure. ;L'he carregat. ;0
+La dona es va quedar sense espai al seu armari. ;cause;Va adquirir un vestit extens. ;Va doblar la roba. ;0
+L'home estava desconsolat. ;cause;La seva dona va donar a llum. ;La seva dona el va deixar. ;1
+L'home va obtenir un títol. ;effect;Va arribar a ser qualificat per a la feina que volia. ;La seva oferta de feina va ser rescindida. ;0
+La veu d'aquest home es va projectar clarament per tota l'auditori. ;cause;Va saludar a l'audiència. ;Va parlar al micròfon. ;1
+Vaig llançar una moneda a la font d'aigua. ;effect;La moneda va caure fins al fons. ;La moneda es va trencar per la meitat. ;0
+El jugador va colpejar la pilota cap al forat. ;effect;La pilota va entrar al forat. ;La pilota es va retirar al jugador. ;0
+Vaig respirar la pols al sostre. ;effect;Vaig tenir el singuix. ;Vaig aixecar. ;1
+El caixer de la botiga va trucar a la seguretat. ;cause;El client va utilitzar diners falsos. ;El client es va deixar els llums encesos. ;0
+He sortit la escombraries. ;cause;La basura feia que la cuina olorés malament. ;He llençat per accident la meva llista de compres. ;0
+La família va anar al zoo. ;effect;Els nens van admirar els animals. ;Els nens van perseguir els animals. ;0
+La respiració de l'home era sorollosa. ;cause;Els seus ronyons estaven fallant. ;Els pulmons estaven congestionats. ;1
+Tenia una entrada extra per al concert. ;effect;Vaig demanar a la meva amiga com arribar al lloc. ;Vaig preguntar al meu amic si estava interessat en anar. ;1
+S'ha trencat l'aire condicionat de la casa. ;effect;He portat mantes. ;He obert les finestres. ;1
+El noi té mal de l'esquena. ;cause;La seva motxilla estava oberta. ;La seva motxilla era pesada. ;1
+He comprat un regal per a la meva mare. ;cause;Li he fet un pastís. ;Era el seu aniversari. ;1
+Els narcisos del jardí van ser destruïts. ;cause;Una abella va picar el jardiner. ;Els esquilons van excavar els bulbs. ;1
+Vaig encendre el foc. ;effect;La flama es va apagar. ;El foc va produir una flama. ;1
+Les parts en disputa van arribar a un acord. ;cause;No volien debatre en el tribunal. ;Volien reparar la seva relació personal. ;0
+Els nens van ser enviats a un orfenat. ;cause;Els seus pares van morir. ;Els seus pares els van malbé. ;0
+Un meteorite va aterrar a l'oceà. ;effect;Es va produir un tsunami. ;Va començar a grillar. ;0
+El senderista es va trobar amb una serp venenosa. ;effect;Es va deshidratar. ;Va entrar en pànic. ;1
+El forn es va escalfar. ;cause;He encès el forn. ;He posat el plat al forn. ;0
+He apagat la cuina de llimona. ;effect;El llimó s'ha mollit. ;L'esprenyat de llimona. ;1
+El país va descobrir noves terres. ;effect;El país va abandonar la terra. ;El país va colonizar la terra. ;1
+El vidre va caure de la taula. ;effect;Es va espatllar per tot el terra. ;Va aterrar en un munt de roba. ;0
+La taula va trontollar. ;cause;El terra era irregular. ;El terra era resbalós. ;0
+El pare va agafar el seu fill mentint. ;effect;El seu fill va confessar la veritat. ;El pare confiava en el seu fill. ;0
+El cap de l'home palpitava de dolor. ;effect;Va prendre xarop per a la tos. ;Va prendre aspirina. ;1
+El tren va disminuir la velocitat. ;cause;Es va apropar a l'estació. ;Estava en retard. ;0
+L'home va fer teràpia. ;cause;La malaltia mental era familiar. ;Li van diagnosticar una depressió. ;1
+La dona es va agafar el coll. ;cause;S'ha engellit el menjar. ;Es va asfixiar amb el seu menjar. ;1
+La dona tenia mal de coll. ;effect;La seva veu sonava rasposa. ;Ella parlava amb un accent. ;0
+El gos va mirar el sucós bistec sobre la taula. ;effect;Va bavar. ;Es va posar. ;0
+L'empresa de la dona va tenir èxit. ;effect;Va acomiadar els seus empleats. ;Es va fer rica. ;1
+Els estudiants van sortir de l'aula. ;cause;La campana va sonar. ;El professor li va assignar una tasca. ;0
+La dona va afirmar que va veure un fantasma. ;effect;Els seus coneguts van expressar escepticisme. ;Els seus coneguts eren familiars d'ella. ;0
+L'home va perdre l'oïda. ;cause;Gairebé es va ofegar a l'oceà. ;Va estar a punt de morir en una explosió. ;1
+El nen va deixar anar la corda del globus. ;effect;El globus es va desinflar. ;El globus va pujar a l'aire. ;1
+L'home va perdre la capacitat de parlar. ;cause;Va tenir un atac. ;Va respirar profundament. ;0
+La dona es va tropeçar a la vorera. ;cause;Hi havia una trencadura en el ciment. ;Va sentir el seu nom cridat. ;0
+L'home va fer una bola de canó a la piscina. ;effect;El salvavidas va saltar després d'ell. ;L'home va empapar el salvavidas. ;1
+Vaig prendre antibiòtics. ;effect;La infecció ha desaparegut. ;La meva infecció s'ha estès. ;0
+El semàfor es va tornar groc. ;effect;El conductor va carregar el fre. ;El conductor va clavar la buzina. ;0
+El contenidor de plàstic es va fondre. ;cause;Vaig emmersar el recipient en aigua calenta. ;Vaig col·locar el contenidor a la estufa calenta. ;1
+El cotxe s'ha embolicat. ;cause;El conductor va colpejar un pal de telèfon. ;El conductor va passar per un llum vermell. ;0
+El noi va estudiar tota la nit. ;effect;Va saltar l'examen. ;Va passar l'examen. ;1
+El noi es va aferrar a la riba de la piscina. ;cause;Tenia por d'aprendre a nedar. ;El salvavidas estava de servei. ;0
+M'he posat la mà al pit. ;effect;Em sentia el cor batent. ;El meu ritme cardíac va accelerar. ;0
+L'edifici adjacent a la meva oficina estava en construcció. ;effect;La meva oficina estava ple. ;La meva oficina era sorollosa. ;1
+La família volia conèixer els seus nous veïns. ;effect;La família va convidar els veïns a sopar. ;La família va acenar als veïns des del seu pati. ;0
+L'aigua va escampar de la piscina. ;cause;El nedador es va submergir a la piscina. ;El nedador va flotejar a la piscina. ;0
+Vaig mossegar una porció de melona. ;effect;He engolit accidentalment una llavor. ;Em vaig trencar la dent per accident. ;0
+El noi va tropeçar. ;cause;La seva jaqueta estava desfasada. ;Tenia els cordons de les sabates desatats. ;1
+La dona va posar tapes per a les orelles. ;cause;Va ser distret pel soroll. ;Es va fer perforacions a les orelles. ;0
+He reemplert la meva ampolla d'aigua. ;cause;Vaig beure tota l'aigua que hi havia. ;La vaig guardar a la nevera. ;0
+L'espectacle de televisió va ser censurat. ;cause;Contenia un llenguatge vulgar. ;Tenia una trama complicada. ;0
+El vaixell va naufragar. ;effect;La tripulació es va ofegar. ;La tripulació es va trobar amb pirates. ;0
+El noi es va sentir desconcertat pel enigma. ;effect;Va resoldre l'enigma. ;Va demanar un consell. ;1
+Va sonar el telèfon. ;effect;L'home va col·locar el telèfon. ;L'home va agafar el telèfon. ;1
+La dona em mirava fixament. ;effect;La vaig abraçar. ;Em vaig sentir incòmode. ;1
+El grup va sortir del museu. ;cause;Van fer fotos de les exposicions. ;Van veure totes les exposicions. ;1
+L'home va començar a discutir amb mi. ;effect;Un amic meu em va presentar a l'home. ;El meu amic em va defensar. ;1
+El pneumàtic de la meva bicicleta estava trencat. ;effect;He pompat aire al pneumàtic. ;He canviat de marxa a la bicicleta. ;0
+La noia semblava pàllida. ;effect;El seu pare li va llegir un conte. ;El seu pare li va tocar la testa. ;1
+La ploma es va quedar sense tinta. ;effect;He utilitzat un llapis. ;Vaig signar amb el meu nom. ;0
+A l'home se li va negar un préstec. ;cause;Estava en deute. ;Va començar un negoci. ;0
+La noia es va quedar a casa de l'escola. ;cause;Tenia varicela. ;Li agradava aprendre matemàtiques. ;0
+La bossa de les escombraries estava plena. ;effect;L'he portat a la paperera. ;L'he deixat al lavabo. ;0
+He aspirat la catifa. ;cause;El meu company de habitació va vessar punx. ;El meu gos perd pèl. ;1
+L'home va perdre la calma. ;effect;Va apagar el seu ordinador. ;Va llançar una cadira per tota la sala. ;1
+La noia va llançar una branca a la foguera. ;effect;La rameta s'ha cremat. ;El foc s'ha apagat. ;0
+L'home va sortir de la dutxa. ;cause;L'aigua calenta no hi era. ;No va poder trobar una tovallola. ;0
+Els pares volien que els seus fills anessin a la universitat. ;effect;Van reservar un fons d'estalvis per a la matrícula. ;Van animar els seus fills a jugar a fora. ;0
+L'home es va desar les sabates. ;effect;Les sabates es van aflojar. ;Les sabates es van desgastar. ;0
+L'home es va menjar la meitat de l'entrada. ;effect;Va refrigerar les sobres. ;Va guardar la recepta. ;0
+El meu turmell estava inflat. ;effect;Hi he posat gel. ;Hi vaig posar loció. ;0
+La porta de la meva oficina estava oberta. ;effect;He parlat amb el meu col·lega a la meva taula. ;He sentit la conversa al vestíbul. ;1
+He hagut d'esperar a la fila. ;effect;Em vaig asseure. ;He llegit una revista. ;1
+L'home va apuntar a la mosca. ;effect;La mosca va buidar. ;La mosca es va quedar quieta. ;0
+L'home va escriure un testament. ;cause;Estava morint. ;Era vedue. ;0
+El corredor va sentir que el seu competidor li arribava. ;effect;Va abandonar la cursa. ;Va accelerar el seu pas. ;1
+He pensat amb cura sobre el problema. ;effect;He demanat consell. ;Tinc una solució. ;1
+El viatger va caminar sobre el pont suspensiu tremolar. ;effect;Es va sentir aterrat. ;Es va sentir extasiat. ;0
+L'home va anticipar la victòria de l'equip. ;effect;Es va reunir amb els seus amics per veure el partit. ;Va fer una aposta amb els seus amics. ;1
+El noi no podia dormir. ;effect;Va posar el despertador. ;Va comptar ovelles. ;1

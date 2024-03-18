@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Položka byla zabalena v bublinkové fólii. ;cause;Bylo křehké. ;Bylo to malé. ;0
+Vyprázdnil jsem si kapsy. ;effect;Vzal jsem si lístek. ;Našel jsem zbraň. ;0
+Termity napadly dům. ;effect;Termity zmizely z domu. ;Termity sežeraly dřevo v domě. ;1
+Cestovatelé dorazili na hranici. ;effect;Agentka z hlídky zkontrolovala jejich pasy. ;Hlídka je obvinila z pašování. ;0
+Kancelář byla zavřená. ;cause;Bylo to svátek. ;Bylo léto. ;0
+Dívce došly energie. ;cause;Hrála dámu. ;Skočila přes provaz. ;1
+Ta žena ztratila své místo v řadě. ;cause;Další lidé vstoupili do fronty. ;Vystoupila z řady. ;1
+Ta holka si uštipla nos. ;cause;Dítě slintalo na její deku. ;Dítě jí pošpinilo plínku. ;1
+Kapela hrála svou hitovou píseň. ;effect;Diváci tleskali do hudby. ;Diváci slušně poslouchali v tichu. ;0
+Ta dívka chtěla poděkovat učitelce matematiky. ;effect;Ta holka zůstala po škole kvůli trestu. ;Dívka přinesla učitelce jablko. ;1
+Mladí táborníci se báli. ;cause;Jejich táborový poradce jim vyprávěl příběh o duších. ;Na ohni si připáli marshmallows. ;0
+Ten muž se praštil do hlavy. ;effect;Ztratil se v myšlenkách. ;Má otřes mozku. ;1
+Šek, co jsem napsal, se nevyplatil. ;cause;Můj bankovní účet byl prázdný. ;Zasloužil jsem si zvýšení platu. ;0
+Jeho e-mailová schránka byla plná spamu. ;effect;Vymazal ten spam. ;Poslal hromadný e-mail. ;0
+Námořník byl v karanténě. ;cause;Byl vystaven této nemoci. ;On se zotavil z nemoci. ;0
+Ta holka si zapamatovala kód. ;cause;Recitovala si to sama. ;Zapomněla si to napsat. ;0
+Nalil jsem vodu do sklenice. ;effect;Voda mi uhasila žízeň. ;Sklenice se naplnila. ;1
+Když jeho přítel skončil, zůstal ticho. ;cause;Chtěl nabídnout svému příteli podporu. ;Přemýšlel o slovech svého přítele. ;1
+Ta nehoda byla moje chyba. ;effect;Cítil jsem se provinile. ;- Obvinil jsem ho. ;0
+Řetěz se rozpadl. ;cause;Ten řetěz byl omotaný kolem pneumatiky. ;Bylo to zlomené spojení v řetězci. ;1
+Manželé se rozhodli udělat kompromis. ;cause;Už se jim nebaví hádat. ;Vyhýbají se diskuzi o problému. ;0
+Ta žena se rozhodla kandidovat na veřejnou funkci. ;effect;Najala manažera kampaně. ;Svědčila u soudu. ;0
+Ten muž očekával na své cestě chladné počasí. ;effect;V kufru si dal teplé oblečení. ;Cestoval s velkým kufrem. ;0
+Student znal odpověď na otázku. ;effect;Zvedl ruku. ;Zbláznil se. ;0
+Ten muž měl slzy v očích. ;cause;V očích měl prach. ;Dal si na oči brýle. ;0
+Ten hráč vyhrál pět zápasů v řadě. ;effect;Její soupeř ji obvinil z podvádění. ;Její protivník ji litoval. ;0
+Učitel roztrhal studentovu zkoušku. ;cause;Chytil studenta, jak podvádí. ;Odpovědi žáka byly nesprávné. ;0
+Zastavil jsem se, abych přestal mluvit. ;cause;Ztratil jsem hlas. ;Ztratil jsem dech. ;1
+Zmrazené jídlo se rozmrazuje. ;cause;Dal jsem ho do mikrovlnky. ;Zakryl jsem to plastovou fólií. ;0
+Zaměstnanec předstíral nemoc. ;cause;Měl křeče v žaludku. ;Chtěl den volna. ;1
+Ta holka spadla do bazénu. ;cause;Běhala po bazénové palubě. ;Skočila z trampolíny. ;1
+Vstupenky do kina jsou vyprodané. ;cause;Byl to premiéra filmu. ;Film dostal špatné recenze. ;0
+Ten muž zhubnul. ;effect;Lidé ho izolovali. ;Lidé mu dělali komplimenty. ;1
+Dívce se z ruky vytvořily puchýře. ;cause;Napsala dopis. ;Vylezla na provaz. ;1
+Cirkusový umělec žongloval, zatímco jezdil na jednom kole. ;effect;Diváci v úžasu křičeli. ;Akrobat se houpal z trapezu. ;0
+Ztratil jsem trpělivost. ;cause;Můj přítel mě nechal čekat. ;Můj přítel dorazil včas. ;0
+Válečící země chtěly mír. ;effect;Vytvořili jaderné zbraně. ;Vyjednali dohodu. ;1
+Ten muž si vzal prášky na spaní. ;effect;Začal se mu zdřímnout. ;Měl horečku. ;0
+Ta žena narazila do pohovky. ;effect;Nohy pohovky se uvolnily. ;Zranil si koleno. ;1
+Chlapec stiskl balónek. ;effect;Balónek praskl. ;Balónek odletěl. ;0
+Cestovníci, kteří se ubytovali v hotelovém pokoji. ;effect;Vybalili si kufry. ;Šli na letiště. ;0
+Kousla jsem do broskyni. ;effect;Broskvička je pohmožděná. ;Vylil se džus. ;1
+Moje ruce se mi přilepily. ;cause;Snědl jsem koblihu. ;Měl jsem sladký zub. ;0
+Zatlačil jsem dveře. ;effect;Dveře se otevřely. ;Dveře zamčené. ;0
+Aktivisté bojkotovali výrobky. ;cause;Výrobky byly testovány na zajištění kvality. ;Výrobky byly vyráběny prostřednictvím dětské práce. ;1
+Vrtal jsem díru do zdi. ;effect;Z díry se vyplazila myš. ;Z díry vyletěl prach. ;1
+Ta žena záviděla své sestře. ;cause;Její sestra byla šťastná. ;Její sestra se rozvedla. ;0
+Rozlila jsem si na košili víno. ;effect;Nasadil jsem si zástěru. ;Změnil jsem si košili. ;1
+Pokladna otevřela pokladnu. ;cause;Zákazník si prohledal peněženku. ;Zákazník jí podal peníze. ;1
+Uliční hudebník přilákal dav. ;effect;Lidé mu dávali drobné. ;On odpustil dav. ;0
+Chlapec plakal své chůvě. ;cause;Chyběli mu jeho rodiče. ;Byl čas na svačinu. ;0
+Radar pilota zaznamenal bouři. ;effect;Pilot se od bouře vzdálil. ;Pilot letěl přes bouři. ;0
+Strom shodil listy. ;effect;Listy se změnily barvami. ;Listy se nahromadily na zemi. ;1
+Chlapec byl v zlověstné náladě. ;effect;Rozhodl se hrát s sestrou hru s kartami. ;Rozhodl se, že si udělá ze své sestry legraci. ;1
+Dítě si stěžovalo, že musí na záchod. ;effect;Jeho otec mu dal napít limonádu. ;Jeho otec zastavil auto na benzínce. ;1
+Dítě posypalo do nádrže rybí krmivo. ;effect;Ryby vyskočily z nádrže. ;Ryby plavaly k jídlu. ;1
+Změnila se její politická názory. ;effect;Změnila svou stranickou příslušnost. ;Zapojil se do protestu. ;0
+V koupelně byl umývadlo ucpané. ;effect;Zapnul jsem kohoutek. ;Nalil jsem do něj čistič kanalizace. ;1
+Cestující vystoupili z vlaku. ;cause;Vlak dorazil na stanici. ;Vlak zazvonil. ;0
+Muž stiskl na vlhkou klapku obálky. ;effect;Dal na obálku razítko. ;Zavřel obálku. ;1
+Přátelé ztratili kontakt. ;cause;Užili si vzájemnou společnost. ;Přestěhovali se do různých měst. ;1
+Účetní špatně spravoval finanční prostředky společnosti. ;effect;Byla vyhozená ze své pozice. ;Byla na mateřské dovolené. ;0
+Podíval jsem se na hodiny. ;cause;Slyšel jsem, jak tikají hodiny. ;Chtěl jsem zkontrolovat čas. ;1
+Mám křeče v ruce. ;cause;Tu esej jsem napsal ručně. ;S manželkou jsme se držely za ruce. ;0
+Záska se přitáhla. ;cause;Vyměnil jsem šroub. ;Otočil jsem klíč. ;1
+Pár podepsal nájemní smlouvu na byt. ;effect;Pár se přestěhoval do bytu. ;Město to byt odsoudilo. ;0
+Žena seděla venku na verandě. ;cause;Chtěla sledovat západ slunce. ;Myslela si, že vidí blesk. ;0
+Ten muž měl na sobě záchrannou vestu ve vodě. ;cause;Neuměl plavat. ;Voda byla mělká. ;0
+Ta žena udělala chybu v textaři. ;effect;Vymazala ten dokument. ;Zmáčkla backspace. ;1
+Ta dívka se před svými přáteli chlubila. ;cause;Dostala špatnou známku. ;Vyhrála soutěž. ;1
+Trávník byl blátivý. ;cause;Pršelo přes noc. ;Bylo plné plevele. ;0
+Ta žena se vyspala. ;cause;Zůstala přes noc v hotelu. ;Zapomněla si nastavit budík. ;1
+Ten muž si nasadil krém na opalování. ;cause;Seděl ve stínu. ;Šel na pláž. ;1
+Výzkumníci tuto teorii dokázali. ;effect;Výzkumníci teorii odvolal. ;Jednotlivci teorii přijali. ;1
+Fanoušci na zápase bušili. ;cause;Hra šla do prodloužení. ;Rozhodčí udělal špatné rozhodnutí. ;1
+Zadala jsem kombinaci na zámek. ;effect;Zavřel jsem zámek. ;Zámek se otevřel. ;1
+Dav se zesílil. ;effect;Otec dal synovi nějaké peníze. ;Otec popadl syna za ruku. ;1
+Sníh zablokoval příjezdovou cestu. ;effect;Shromáždil jsem sníh do sněhové koule. ;Odstranila jsem sněh. ;1
+Kajkáři veslovali vesly. ;effect;Kajak dosáhl břehu. ;Kajak narazil do vlny. ;0
+Ta dívka ztratila kontrolu nad svým motocyklem. ;effect;Nechala řídičku. ;Narazila do plotu. ;1
+Zapnul jsem větrák. ;effect;Na kůži mi posypal vodu. ;Cítil jsem, jak mě přepadá chladný vzduch. ;1
+Surfaři se vrátili na pláž. ;cause;Byli úplně mokří. ;Viděli žraloka. ;1
+Vytáhl jsem zádrž ve vaně. ;effect;Voda vyšla z vany. ;Voda se rozstříkala na podlahu. ;0
+Manžel se cítil provinile, že svou ženu podvádí. ;effect;Obvinil ji z nevěry. ;Přiznal se jí. ;1
+Inkoust na plakátu se rozmazal. ;cause;Čekal jsem, až se inkoust vyschne. ;Na plakát jsem vylila vodu. ;1
+Dítě se probudilo a křičelo. ;cause;Měl noční můru. ;Močil se do postele. ;0
+Chlapec položil nohy na stůl. ;effect;Jeho otec se posadil ke stolu. ;Jeho otec mu kázal. ;1
+Můj přítel otočil hlavu směrem ke mně. ;cause;Křičel jsem jeho jméno. ;Mával jsem rukama. ;0
+Vláda utlačovala své občany. ;effect;Občané se vzbouřili. ;Občané se zaregistrovali k hlasování. ;0
+Chlapec se ztratil v lese. ;effect;Postavil si stan. ;Křičel o pomoc. ;1
+Ta žena cestovala do zahraničí. ;cause;Chtěla se naučit kreslit. ;Chtěla se dozvědět o jiných kulturách. ;1
+Ten muž žárlil na svého kolegu. ;cause;Jeho spolupracovník dostal povýšení. ;Jeho spolupracovník pracoval dlouho. ;0
+Ten muž byl svědkem mimozemšťanů. ;cause;Měl halucinace. ;Meditoval. ;0
+Mužovi se zčernily vlasy. ;cause;Dal do ní bělidlo. ;Dal do ní šampon. ;0
+Umělec vytvořil nové dílo. ;cause;Kritizovala její předchozí práci. ;Cítila záchvat inspirace. ;1
+Syn se odstěhoval z domova. ;cause;Byl propuštěn z armády. ;Chystal se na vysokou. ;1
+Knihy spadly z knihovny. ;cause;Police byly pokryté prachem. ;Zemětřesení otřáslo knihovnou. ;1
+V mém domě se vypne elektřina. ;effect;Zapnul jsem světlo. ;Zresetuju vypínač. ;1
+Jeli jsme na horské dráze. ;cause;Vypadalo to děsivě. ;Vypadalo to zábavně. ;1
+Polštářek popcornu začal praskat. ;cause;Nalil jsem do pytle máslo. ;Ohřála jsem to v mikrovlnce. ;1
+Strom spadl na vedení. ;effect;V sousedství vypadla elektřina. ;Předpověď předpovídala silný vítr. ;0
+Mluvčí udělal politicky nekorektní poznámky. ;effect;Nudil publikum. ;Urazil publikum. ;1
+Píchl jsem se špendlíkem. ;effect;Z tváře mi kapalo trochu potu. ;Na mém prstu se vytvořila kapka krve. ;1
+Ryby plavaly na povrchu nádrže. ;cause;Bylo to hladové. ;Bylo to mrtvé. ;1
+Mužův hlas zněl ztuhlý. ;cause;Měl rýmu. ;Přestal kouřit. ;0
+Dveře výtahu se otevřely. ;cause;Výtah dorazil na určené patro. ;Výtah se zasekl mezi dvěma podlažími. ;0
+Ten teenager se propašoval z domu. ;cause;Lhal rodičům. ;Jeho rodiče ho dostali na uzdě. ;1
+Koupelna byla zaplavená. ;cause;Koupelna se přetéká. ;Rozbil se ohřívač vody. ;0
+Štěně zůstalo u svého majitele. ;cause;Majitel si na štěně dal límec. ;Majitel držel štěně na vodítku. ;1
+Ten muž zachytil jeho odraz. ;cause;Stál pod rozlehlým stromem. ;Stál nad klidným jezerem. ;1
+Zmeškal jsem telefonát své přítelkyně. ;effect;Zavolal jsem jí zpátky. ;Potkal jsem ji na večeři. ;0
+Rodina prohledala okolí. ;cause;Jejich pes utekl z domova. ;Z jejich domu zmizely drahé šperky. ;0
+Viděl jsem svůj dech, když jsem vydechoval. ;cause;Bylo chladno. ;Cítil jsem, jak se mi tlačí hrudník. ;0
+Zaměstnanci založili odbor. ;cause;Chtěli lepší pracovní podmínky. ;Jejich zaměstnavatel jim zvýšil mzdu. ;0
+Upekla jsem jablečný koláč. ;effect;Kuchyň zapálila hnilobou. ;V kuchyni se rozlévala horká vůně. ;1
+Ta žena se snažila chodit. ;cause;Nosila vysoké podpatky. ;Sundela si boty. ;0
+Z hrnce s vodou vystupovala pára. ;cause;Voda se vařila. ;Já jsem to zakryl. ;0
+Všechny moje ponožky byly v prádelně. ;effect;Nosil jsem sandály. ;Měl jsem boty. ;0
+Argument tohoto politika byl považován za absurdní. ;effect;Ztratil podporu voličů. ;Byl obviněn z korupce. ;0
+Všichni nesouhlasili s jejich zasnoubením. ;effect;Pár otěhotněl. ;Pár utekl. ;1
+Budova byla věnována milionáři. ;cause;Milionář chtěl, aby budovu strhli. ;Milionář přispěl finančními prostředky na jeho výstavbu. ;1
+Prodejce obvinil dívku z krádeže. ;cause;Prodejce viděl, jak si dívka strčila zboží do kabelky. ;Prodejce pomohl té dívce najít kabelku, která se jí líbila. ;0
+Země vyhlásila válku sousednímu území. ;effect;Vojáci byli vysláni do boje. ;Vojáci byli znovu spojeni se svými rodinami. ;0
+Soud potvrdil kontroverzní rozhodnutí. ;effect;Před soudní budovou vypukla vzpoura. ;Pár si před soudní budovou vyměnil sliby. ;0
+Ta holka cítila něco hořícího. ;cause;Vzala sušenky z sklenice. ;Nechala sušenky v troubě. ;1
+Pršelo jako z kapky. ;effect;Bouře se zhoršila. ;Běžel jsem dovnitř. ;1
+Budova byla evakuována. ;cause;Výtah přestal fungovat. ;Zvonil požární poplach. ;1
+Otec se zlobil na syna, protože byl alkoholik. ;effect;Otec koupil synovi pivo. ;Otec vykopl syna z domu. ;1
+Právnička šla po schodech do kanceláře. ;cause;Ta sekretářka šla na den domů. ;Výtah byl mimo provoz. ;1
+Muž se naštval na svého přítele. ;cause;Přítel ho přerušil. ;Jeho přítel mu koupil oběd. ;0
+Dívka dala své peníze pokladně. ;effect;Pokladní dal té dívce drobné. ;Pokladník zapomněl dát dívce stvrzenku. ;0
+Žena byla posádka na vozíku. ;cause;Byla paralyzována při nehodě. ;Vstoupila do nemocnice na nosítkách. ;0
+Občané pověsili státní vlajku před svými domy. ;cause;Země slavila svou nezávislost. ;Země čelila ekonomickým potížím. ;0
+Tým prohrál turnaj. ;effect;Zklamali své fanoušky. ;Inspirovali své fanoušky. ;0
+Můj přítel mi řekl, že mám jídlo v zubech. ;effect;Styděl jsem se. ;Cítil jsem se hrdý. ;0
+Chlapec ztroskotil na zkoušce z historie. ;cause;V hodině dával pozor. ;Zapomněl se učit. ;1
+Budova v centru se zhroutila. ;cause;Město zasáhlo zemětřesení. ;Míra zločinnosti ve městě vzrostla. ;0
+Jeho přítelkyně se s ním rozešla. ;effect;Prosil ji, aby ho vzala zpátky. ;Představila ho svým rodičům. ;0
+Obě děti se současně snažily získat míč. ;effect;Míč se odvážil. ;Jejich hlavy se srazil. ;1
+Ten mýval prohledal popelnici. ;cause;V popelnici byla lepenka. ;- Klidně. ;1
+Chlapec naostřil tužku. ;cause;Bylo to levné. ;Bylo to nudné. ;1
+Pokladní odmítla vrátit peníze za šaty. ;cause;Ztratila svůj účet. ;Šaty mi neseděly. ;0
+Škrábnutí na kůži bylo hluboké. ;effect;Rychle se to uzdravilo. ;Nechala jsem po sobě jizvu. ;1
+Muž se v tom vlaku podivně díval na cestující. ;cause;Díval se na zem. ;Mluvil sám se sebou. ;1
+Dítě nechalo drobky na podlaze. ;effect;Mravenci se plazili po drobcích. ;Dítě odložilo chléb. ;0
+Ta žena dala své sestře kapesník. ;cause;Sestra té ženy se zamkla. ;Ženin sestra začala plakat. ;1
+Ten muž vzal mincovnu. ;cause;Měl roztrhané rty. ;Bál se špatného dechu. ;1
+Pár odešel brzy na představení. ;cause;Předpokládali, že kolem divadla bude provoz. ;Mají návod, jak se dostat do divadla. ;0
+Ta žena zůstala doma z práce. ;effect;Její šéf ji chválil. ;Její spolupracovník ji kryl. ;1
+Ten muž podepsal petici aktivistů. ;cause;Podporoval jejich věc. ;Prohlásil je za šílence. ;0
+Hráčovo srdce před jeho vystoupením třáslo. ;cause;Měl strach ze scény. ;Zapamatoval si jeho texty. ;0
+Byl jsem ztracený. ;effect;Spočítal jsem si peníze. ;Rozložila jsem mapu. ;1
+Zralé ovoce zůstalo na slunci. ;effect;Bylo to snědené. ;Zkrátila se. ;1
+Auto se rozbilo. ;cause;Zapnul jsem to. ;Motor se přehřál. ;1
+Ten muž si zranil záda. ;effect;Šel za psychiatrem. ;Několik dní ležel v posteli. ;1
+Zapálil jsem oheň v krbu. ;cause;Došel mi dřevo. ;V domě byla zima. ;1
+Ta žena přestala běhat. ;cause;Má křeče v boku. ;Dostala druhý dech. ;0
+Zaklepal jsem na dveře sousedů. ;effect;Soused mě pozval dovnitř. ;Moje sousedka opustila dům. ;0
+Žena se zklamaně vzdychla. ;cause;Její manžel nepochopil její obavy. ;Její manžel ji políbil na rozloučenou. ;0
+Učitel studentku pochválil. ;cause;Student správně odpověděl na otázku. ;Student váhal odpovědět na otázku. ;0
+Ženě došly vajíčka. ;effect;Šla na farmu. ;Šla do supermarketu. ;1
+Potkal jsem starého přítele. ;effect;Odhalil jsem mu tajemství. ;Objala jsem ho. ;1
+Žena se vyhýbala tomu, aby šla do jezera. ;cause;Chytila rybu. ;Vypadalo to kontaminované. ;1
+Student přišel do třídy mokrý. ;cause;Měl rozbitý deštník. ;Ukradli mu kolo. ;0
+Kurzor na obrazovce počítače se pohnul. ;cause;Uživatel klikl myší. ;Uživatel posunul myš. ;1
+Řidič se vybral na objížďku. ;cause;Na hlavní silnici se stala nehoda. ;Šla za náklaďákem před sebou. ;0
+Věsila jsem mokrou prádlo na prádlovou šňůru. ;effect;Plocha vyschla. ;- Zápalová prádlo. ;0
+Ta žena si nasadila brýle. ;cause;Sluneční světlo bylo jasné. ;Zavolala si taxík. ;0
+Muž se díval na noční oblohu. ;cause;Přál si, aby bylo léto. ;Myslel si, že je to krásné. ;1
+Cítil jsem se vyčerpaný. ;effect;Šla jsem brzo spát. ;Zůstal jsem vzhůru celou noc. ;0
+Ten muž šel k holičovi. ;cause;Nechával si narůst vlasy. ;Jeho vlasy se mu začaly prodlužovat. ;1
+Chlapec si zahrál s novým spolužákem. ;cause;Chlapec přivítal svého nového spolužáka. ;Chlapec neměl rád svého nového spolužáka. ;1
+Chtěla jsem sklenici mléka. ;cause;Jedl jsem sušenky. ;Pečila jsem chléb. ;0
+Začalo pršet. ;effect;Řidič zapnul světla. ;Řidič otočil auto zpět. ;0
+Parkoviště budovy bylo prázdné. ;effect;Zaparkoval jsem naproti. ;Zaparkoval jsem u vchodu. ;1
+Písařka zmeškala termín na předložení návrhu. ;cause;Měla spisovatelský blok. ;Ona to upravovala. ;0
+Ten spolupracovník mi zavěsil. ;cause;Chtěl jsem mluvit s nadřízeným. ;Dal jsem jim své identifikační číslo. ;0
+Větr foukal otevřeným oknem. ;effect;Zvonil zvonek. ;Záclony se třásly. ;1
+V mém domě se vypne elektřina. ;cause;Vypnul jsem lampu. ;Zničil jsem pojistku. ;1
+Zvedávač váh zařval. ;cause;Změkčil svá svaly před zrcadlem. ;Zvedl tyč nad hlavu. ;1
+Student se to snažil spočítat v hlavě. ;effect;Vytáhl kalkulačku. ;Zmátl se. ;1
+Dítě usnulo. ;cause;Otec změnil dítěti plínku. ;Otec dítě jemně kýval. ;1
+Dívka hodila balónek na chlapce. ;effect;Ten kluk měl otřes mozku. ;Chlapec se namočil. ;1
+Fotograf zapomněl použít blesk na fotoaparátu. ;effect;Fotky se ukázaly jako rozmazané. ;Na fotkách se nikdo nechtěl usmívat. ;0
+Odmítl jsem pozvání na narozeninovou oslavu. ;cause;Byla jsem osamělá. ;Byl jsem mimo město. ;1
+Cvičil jsem. ;cause;Cítil jsem se energický. ;- Bála jsem se. ;0
+Stlačil jsem vlhkou houbu. ;effect;Vyplavilo to vodu. ;Vodu z ní vytéká. ;1
+Dovolenáři se plavili trajektem do letoviska. ;cause;- Hotel byl obsazen. ;Ten resort byl na ostrově. ;1
+Ten teenager má tetování. ;cause;Měla strach z jehel. ;Chtěla se vzbouřit. ;1
+Neznámé auto zaparkované před mým domem. ;effect;Začala jsem mít podezření. ;Zavolal jsem policii. ;0
+Ten zločinec se sám vzdal. ;cause;Důkazy ho do toho zapletly. ;Nebyly proti němu žádné důkazy. ;0
+Tvrdohlavý muž se rozhodl zhubnout. ;effect;Přestal jíst sladkosti. ;Vyhýbal se kofeinu. ;0
+Ta holka šla na led. ;effect;Uklouzla. ;Trhlo jí. ;0
+Ta žena měla pod očima kruhy. ;cause;Zůstala vzhůru celou noc. ;Uložila syna do postele. ;0
+Lava tekla z sopky. ;cause;Vulkan vybuchl. ;Sopečná horna byla v nečinnosti. ;0
+Ta žena si oblékla boty. ;cause;Zná všechny na té párty. ;Chtěla odejít z večírku. ;1
+Zaplatil jsem tomu stážistovi. ;effect;Nechala mě projít mýtnou. ;Zdržela mě u mýtného. ;0
+Ředitel zbankrotoval. ;cause;Prodal akcie své společnosti. ;Roztrhal své jmění. ;1
+Ten muž šel k doktorovi. ;cause;Doktor byl na dovolené. ;Ten muž se cítil špatně. ;1
+Vystoupil jsem z ložnice oknem. ;cause;Dům hořel. ;Dům byl prázdný. ;0
+Chlapec měl prsty jako ořechy. ;cause;Měl dlouhou sprchu. ;Opláchl si ruce mýdlem. ;0
+Plivnu mléko. ;cause;Mléko bylo kyselé. ;Měla jsem suché ústa. ;0
+Zmeškal jsem autobus. ;effect;Přišel jsem brzy do práce. ;Přišel jsem pozdě do práce. ;1
+Nákladní vůz se srazil s autem. ;effect;Ten náklaďák zrychlil. ;Auto se rozbilo. ;1
+Tým zmanipuloval soutěž ve svůj prospěch. ;effect;Vyhráli. ;Vykašlávali se. ;0
+Láhev s limonádou se zašeptala. ;cause;Otočil jsem láhev. ;Odkroutil jsem čepici. ;1
+Chlapec byl zamčený mimo svůj dům. ;effect;Vlezl dovnitř otevřeným oknem. ;Vylezl na střechu. ;0
+Zvonil zvonek. ;effect;Návštěvník zaklepal na dveře. ;Žena se dívala skrz klíčovou dírku v dveřích. ;1
+Ten muž si namazal oblek. ;effect;Nechal to vyčistit. ;Pověsil ho ve skříni. ;0
+Dívka stiskla tu trubku zubní pasty. ;effect;Zubní pasta se vylévala z trubice. ;Ta holka vyplivla zubní pastu. ;0
+Počet civilistů, kteří zemřeli ve válce, prudce stoupl. ;effect;Pacifisté uspořádali protest. ;Pacifisté uspořádali přehlídku. ;0
+Dívka si vytáhla stuhu z vlasů. ;cause;Ona svázala stuhu. ;Ta stuha vypadala jako dítě. ;1
+Ten muž podstoupil plastickou operaci. ;effect;Zestárl. ;Vypadal mladší. ;1
+Z vajíčka se vynořilo kuřecí mládě. ;cause;Vejce se vylíhlo. ;Rozbil jsem vejce. ;0
+Vězeň hladověl. ;effect;- Zemřel. ;Utekl. ;0
+Ten muž ztratil rovnováhu na žebříku. ;effect;Vylezl po žebříku. ;Spadl z žebříku. ;1
+Dítě se vykrklo. ;cause;Vzal si šálek limonády. ;Otevřel plechovku s limonádou. ;0
+V okně se vléval studený proud. ;effect;Uvolnil jsem se. ;Trhly mě rysy. ;1
+Student dostal stipendium na vysokou školu. ;cause;Její spolužáci si ji vážili. ;Měla dobré známky. ;1
+Dívka si dělala srandu z chlapce. ;cause;Bydlela vedle něj. ;Byla do něj zamilovaná. ;1
+Hladový tulák ukradl jídlo. ;cause;Podněcoval k lítosti. ;Neměl peníze. ;1
+Volal jsem kamarádovi, abychom si popovídali. ;cause;Chtěl jsem soukromí. ;Cítil jsem se osamělý. ;1
+Ten muž mi podal ruku. ;effect;Potřásl jsem mu rukou. ;Udeřil jsem ho. ;0
+Já se schoval. ;cause;Vzduch se rozjel ohňostrojem. ;Frisbee se mi vrhlo k hlavě. ;1
+Ta holka si kousla nehty. ;cause;Měla strach. ;Byla překvapená. ;0
+Otočil jsem stránku v kalendáři. ;cause;Zarezervoval jsem si schůzku. ;Byl to začátek nového měsíce. ;1
+Manžel zjistil, že jeho žena má poměr. ;effect;Vyhodil svého právníka. ;Podala žádost o rozvod. ;1
+Ta holka upustila gumovou kouli. ;effect;Míč odskákal. ;Míč svítil. ;0
+Ta dívka udělala chybu na zkoušce. ;effect;Odpověď už tušila. ;Vymazala svou odpověď. ;1
+Hráč se dotkl svého soupeře. ;effect;Jeho soupeř chytil přihrávku. ;Jeho soupeř se srazil na zem. ;1
+Sbírala jsem rajčata z révy. ;cause;Byly zralé. ;Zalejval jsem je. ;0
+Ten muž chtěl být romantický. ;effect;Na oběd se setkal se svou bývalou přítelkyní. ;Koupil své přítelkyni čokoládu. ;1
+Rtuť v teploměru stoupla. ;cause;Upustil jsem teploměr. ;Počasí se oteplilo. ;1
+Tornádo prošlo městem. ;effect;Střecha soudní budovy vyletěla do vzduchu. ;Dálnice se stala nebezpečně zamrzlou. ;0
+Student dostal doučování. ;effect;Jeho známky se zlepšily. ;Podváděl na zkoušce. ;0
+Cítil jsem se dobře. ;cause;Klekl jsem na zem. ;Zabal jsem se do přikrývky. ;1
+Vyleštěl jsem ten kámen. ;effect;Začalo to klouzat. ;Stalo se to lesklým. ;1
+Přidal jsem do kávy cukr. ;effect;Káva silně voněla. ;Káva byla sladká. ;1
+Ten muž procházel noviny. ;effect;Zranil se papírem. ;Roztrhal papíry. ;0
+Uhodil jsem kladivem do hřebíku. ;effect;Hřebík se ponořil do dřeva. ;Hřebík se zhroutil. ;0
+Ryba se do ní přihradila. ;effect;Rybář přitáhl rybu. ;Rybář přehodí lano. ;0
+Mladík se styděl chodit do školy. ;cause;Má pupínek. ;Sundeli jí rovnátka. ;0
+Můj výraz se rozjasnil. ;cause;Dostal jsem dobré zprávy. ;Ztratil jsem trpělivost. ;0
+Utřel jsem si ruce ručníkem. ;cause;Ručník byl mokrý. ;Moje ruce byly mokré. ;1
+Ten muž ztratil rovnováhu na stolici. ;cause;Stolička se pod ním chvěla. ;Rozlil barvu na stoličku. ;0
+Spolubojovníci se navzájem obviňovali. ;cause;Prohráli hru. ;Jejich trenér zrušil trénink. ;0
+Prosil jsem o odpuštění. ;cause;Lituji své chyby. ;Dosáhl jsem svého cíle. ;0
+Žena se s tím svým přítelem začíná nudit. ;cause;Zeptal se jí na její osobní život. ;Neustále mluvil o sobě. ;1
+Dívka se usmála. ;effect;Zčervenaly jí tváře. ;Ukázaly se jí doupě. ;1
+Nepřátelská loď vybuchla. ;cause;Projel nad důl. ;Vplul do přístavu. ;0
+Ten muž si probodl nohu. ;cause;Šel do louže. ;Šlápl na rozbité sklo. ;1
+Detektivové prohledali místo činu kvůli otiskům prstů. ;effect;Zjistili identitu vraha. ;Našli zbraň na místě činu. ;0
+Na dálnici bylo hodně provozu. ;effect;- Zvedl jsem se. ;Požádala jsem o odvoz. ;0
+Ekonomika země upadla. ;effect;Mnoho lidí onemocnělo. ;Mnoho lidí bylo nezaměstnaných. ;1
+Stráž na přejezdu na děti zapískal. ;cause;Chtěli se dostat do protichodného provozu. ;Poznal je z jejího sousedství. ;0
+Otáčil jsem očima na svého přítele. ;cause;Řekl mi pravdu. ;Udělal sarkastickou poznámku. ;1
+Došel mi benzín. ;effect;Řidič uvízl na silnici. ;Řidič vyzvedl stopaře. ;0
+Žena začala rodit. ;effect;Dítě bylo na světě. ;Ta žena měla ranní nevolnost. ;0
+Ten chlapík měl klobouk, který odfoukl. ;cause;Sundej si klobouk. ;Venku foukal vítr. ;1
+Ta dívka se zúčastnila narozeninové oslavy své spolužáky. ;cause;Dostala pozvánku. ;Koupila dárek. ;0
+Chlapec měl horké čelo. ;effect;Jeho matka mu měřila teplotu. ;Jeho matka ho vzala do parku. ;0
+Ten muž se postříkal kolínskou. ;cause;Chtěl udělat dojem na svou partnerku. ;Dal si do vlasů gel. ;0
+V domě je vypnutá elektřina. ;effect;Hledal jsem baterku. ;Vzal jsem lopatu. ;0
+Rodina se přestěhovala do většího domu. ;cause;Syn dokončil střední školu. ;Matka porodila dvojčata. ;1
+Maratonista pokračoval pomalým tempem. ;cause;Chtěla šetřit energii. ;Viděla cílovou čáru. ;0
+Chlapec kopl do automatu. ;cause;Stroj vylil drobné. ;- Ten pytel s hranolky se zasekl. ;1
+Pes mého přítele umřel. ;effect;Otáčila jsem na něj očima. ;Objala jsem ho. ;1
+Kreditní karta toho podnikatele byla odmítnuta. ;effect;Napsal dluh. ;Zaplatil hotově. ;1
+Ten muž prokletý. ;cause;Uřízl si nehty. ;Ubořil si prst. ;1
+Ten muž byl na svého bratra hrdý. ;cause;Jeho bratr se pohádal s jejich rodiči. ;Jeho bratra přijali na právnickou fakultu. ;1
+Ta holka se chtěla dozvědět něco o sluneční soustavě. ;effect;Šla do knihovny. ;Dívala se na hvězdy. ;0
+Ten plakát se přilepil na zeď. ;cause;Postavil jsem ten plakát nad dveře. ;Na ten plakát jsem dala páskovou pásku. ;1
+Klient schválil architektovy plány budovy. ;effect;Architekt postavil budovu. ;Architekt upravil plány. ;0
+Muž upustil lžičku. ;cause;Jeho ruka se třásla. ;Olízal lžíci. ;0
+Ředitel společnosti odstoupil. ;effect;Správní rada společnost rozpuštěla. ;Správní rada našla jeho náhradu. ;1
+Přišel jsem pozdě na přednášku. ;effect;Sedl jsem si do zadní řady. ;Přistoupil jsem k pódiu. ;0
+Ten muž byl propuštěn z vězení. ;cause;Jeho rodina zaplatila kauci. ;Napadl spoluvězně. ;0
+Rodina ztratila všechen svůj majetek. ;cause;Prodali svůj dům. ;Jejich dům se zapálil. ;1
+Šlápl jsem na tu hliníkovou plechovku. ;effect;Kontejner byl recyklovaný. ;- Zničila jsem plechovku. ;1
+Ta dívka se připojila k debatnímu týmu. ;effect;Naučila se používat počítač. ;Naučila se komunikovat. ;1
+Moje nálada se zlepšila. ;cause;Poslouchal jsem hudbu. ;Umyl jsem nádobí. ;0
+Charita si dala za cíl získat peníze. ;effect;Nakrmili bezdomovce. ;- Měli aukci. ;1
+Horská dráha se propadla do strmého údolí. ;effect;Cestující se chichotli. ;Cestující křičeli. ;1
+Byl jsem zuřivý. ;effect;Zkontroloval jsem schránku, když jsem odcházela z domu. ;Když jsem vycházela z domu, zabouchla jsem dveře. ;1
+Ten muž chtěl vidět východ slunce. ;effect;Cestoval na sever. ;Vstal brzy. ;1
+Složil jsem papír. ;effect;Zrecykloval jsem papír. ;Papír se zhroutil. ;1
+Národ vytrpěl přírodní katastrofu. ;effect;Vůdcové jiných zemí vytvořili alianci. ;Vůdcové jiných zemí poslali nouzové pomocné prostředky. ;1
+Chlapec měl mokré oblečení. ;cause;Vylezl z bazénu. ;Spadl do bazénu. ;1
+Student spěchal dokončit knihu. ;cause;Měla být vrácena do knihovny. ;Půjčil si ho od přítele. ;0
+Ten zločinec byl popraven. ;cause;Byl zavřený. ;Byl odsouzen za vraždu. ;1
+Do místnosti vstoupilo sluneční světlo. ;cause;Otevřel jsem závěsy. ;Otevřel jsem dveře. ;0
+Trhla jsem toho podvodníka za vlasy. ;effect;Sundeli jí paruku. ;Zůstala plešatá. ;0
+Redaktor přepracoval větu v rukopisu. ;cause;Ten rukopis mu připadal přesvědčivý. ;Soud považoval za nejasný. ;1
+Ta žena zrušila svůj kreditní účet. ;cause;Uvědomila si, že karta chybí. ;Uvědomila si, že karta je vypršená. ;0
+Muž a žena se zamilovali. ;effect;Chodili na vysokou. ;Vzali se. ;1
+Hudba byla příliš slabá na slyšení. ;effect;Zvedl jsem hlasitost. ;Napsala jsem si vlastní píseň. ;0
+Chlapec měl vlasy, které mu stály na hlavě. ;cause;Ta holka to rozrušila. ;Ta holka to vytáhla. ;0
+Ten brouk byl rozdrcený. ;cause;Rozprašoval jsem se repelentem proti hmyzu. ;Šlápl jsem na brouka. ;1
+Otevřel jsem oči. ;cause;Probudila jsem se. ;Uvolnil jsem se. ;0
+Hudba mého souseda byla hlasitá. ;effect;Požádala jsem ho, aby to ztlumil. ;Požádal jsem ho, aby mi půjčil CD. ;0
+Jeho rodina žila v chudobě. ;cause;Své peníze šetřil. ;Vydělával pod minimální mzdu. ;1
+Student absolvoval univerzitu. ;effect;Hledal práci. ;Vzal si koníček. ;0
+Umělec smíchal žlutou barvu s modrou. ;effect;Barva se rozstříkala všude. ;Barva se změnila na zelenou. ;1
+Změnil jsem téma konverzace. ;cause;Došel mi čas na rozhovor. ;Rozhovor se stal napjatý. ;1
+Můj bratr byl propuštěn z nemocnice. ;effect;Vítal jsem ho doma. ;Já jsem mu dal chladné rameno. ;0
+Záclona na jevišti se zvedla. ;effect;Začala se úvodní scéna hry. ;Herci vystoupili ze scény. ;0
+Rukojmí se podřídil únoscům. ;cause;Únosce pohrozil, že rukojmímu ublíží. ;Únosce nechal rukojmího samotného. ;0
+Na jevišti se ozval výbuch. ;cause;Hudebník si zaklepal nohou. ;Hudebník bušil na bubny. ;1
+Rodiče spěchali do ložnice svého dítěte. ;cause;Dítě se probudilo křičící z noční můry. ;Dítě se bojí podívat se pod postel. ;0
+Žena komunikovala znakovou řečí. ;cause;Narodila se předčasně. ;Narodila se hluchá. ;1
+V oblasti došlo k suchu. ;effect;Voda se znečišťovala. ;Úroda zahynula. ;1
+Kočka honila ptáka. ;effect;Pták odletěl. ;Pták chytil červa. ;0
+Ta holka změnila školu. ;cause;Škola je na léto volná. ;Přestěhovala se do nového města. ;1
+Majitel továrny odmítl zvýšit mzdy zaměstnancům. ;effect;Majitel jmenoval nového manažera. ;Zaměstnanci štrajkují. ;1
+Vůdce se protivil extremistům ve své zemi. ;effect;Extremisté na něj měli vliv. ;Extremisté ho zavraždili. ;1
+Šla jsem bosá na pláži. ;effect;Písek mi ležel na nohou. ;Vlny se rozbíjely podél pobřeží. ;0
+Probudil jsem se uprostřed noci a cítil jsem chlad. ;effect;Oblékl jsem si tepláky. ;Vypila jsem sklenici vody. ;0
+Matka utišila svého syna. ;cause;Její syn se usmíval. ;Její syn kňučel. ;1
+Dírka v mých džínách. ;cause;Zapnul jsem si kalhoty. ;Zakopl jsem se o chodník. ;1
+Ten kluk měl rovnátka. ;effect;Má dutinu. ;Jeho zuby se narovnaly. ;1
+Včera jsem cvičila v tělocvičně. ;effect;Dneska jsem se probudil s bolestí svalů. ;Dneska jsem se probudil s bolestí krku. ;0
+Dívka si šeptala sem a tam u oběda. ;effect;Ostatní studenti se posadili ke stolu. ;Ostatní studenti u oběda se cítili vynecháni. ;1
+Dítě přistalo na trampolíně. ;effect;Vylezla zpátky do vzduchu. ;Rozhodla se zkusit to otočit. ;0
+Nechal jsem dopis v schránce. ;effect;Dopis doručil poštou. ;Pošta poslala dopis. ;0
+Ten hráč byl sebevědomý. ;effect;Vsadil všechny své peníze. ;Šel domů na mizině. ;0
+Lesní požár se rozšířil. ;cause;Vítr se zesílil. ;Podpařitelé byli zatčeni. ;0
+Dítě si odřízlo koleno. ;effect;Jeho matka ho poslala do pokoje. ;Jeho matka na tu ránu přivázala obvaz. ;1
+Ten muž přežil smrtelnou nemoc. ;cause;Podepsal svou závěť. ;Dostal transplantaci orgánu. ;1
+Vzal jsem si trochu z té pájecí kávy. ;effect;Kousla jsem se do jazyka. ;Spálil jsem si jazyk. ;1
+Redaktor vyhodil spisovatele. ;cause;Autorka se ve svých příbězích vyhýbala předsudkům. ;Písařka zmeškala důležitou lhůtu. ;1
+Cítil jsem se vyčerpaný. ;cause;Spal jsem celý den. ;Učil jsem se celý den. ;1
+Lékař diagnostikoval pacienta. ;cause;Identifikovala pacientovy příznaky. ;Předepsala pacientovi prášky. ;0
+Zatrapil jsem si kůži. ;cause;Byl to pot. ;Svědí mě to. ;1
+Ten muž podstoupil nouzovou operaci. ;cause;Ztratil nervy. ;Měl infarkt. ;1
+Svaly jeho paže se vybočily. ;cause;Zmáčkl ruce. ;Trhal si ruce. ;0
+Ten muž zvedl obočí. ;cause;Byl překvapený. ;Byl sklíčen. ;0
+Omluvil jsem kolegovu chybu. ;cause;Věřil jsem, že jeho úmysly byly dobré. ;Věřil jsem, že to ví lépe. ;0
+Ten muž přestal kouřit. ;effect;Začal víc cvičit. ;Začal se probouzet dřív. ;0
+Ta žena udeřila útočníka do nosu. ;effect;Tělo útočníka bylo bez života. ;Útočník začal krvácet. ;1
+Šipka minula cíl. ;cause;Ten muž mířil špatně. ;Ten chlap prohrával hru. ;0
+Majitel domu požádal, aby k němu přišel exterminátor. ;cause;Našel v suterénu krysy. ;V pokoji měl mravenčí farmu. ;0
+Navrhla jsem svému hostovi, abychom šli na večeři. ;cause;Byla jsem příliš unavená, abych něco připravovala. ;Můj host se zdržel déle, než bylo v jeho domě. ;0
+Ta dívka přistihla svého bratra, jak čte její deník. ;effect;Začala schovávat deník. ;Má nový deník. ;0
+Žena neměla dost peněz na nájem. ;effect;Pracovala přesčas. ;Dala výpověď. ;0
+Dítěta rychle odvrátila ruku. ;cause;Dotkl se horkého sporáku. ;Pohladil štěně na hlavě. ;0
+Firma chtěla změřit spokojenost zákazníků. ;effect;Nabídli slevu novým zákazníkům. ;Rozdávali zákazníkům průzkum. ;1
+Dřevěná podlaha byla poškrábaná. ;cause;Chlapec vyhodil polštáře z gauče. ;Chlapec přetáhl židli po podlaze. ;1
+Zakryl jsem si obličej. ;cause;Můj nepřítel se mi posmíval. ;Můj nepřítel zvedl pěst. ;1
+Slavná socha shořela. ;cause;Zasažen bleskem. ;Lidé ho přišli uctívat. ;0
+Nechal jsem ovoce na stole. ;effect;Ovoce se zrní. ;Mouchy se hemžily na ovoci. ;1
+- Balerína si roztrhla vaz. ;cause;Ukazovala na prsty. ;Zmáčkla si kotník. ;1
+Děti se rozvázali tkaničky. ;cause;Naučil se je vázat. ;Běžel na hřišti. ;1
+Kniha mě uchvátila. ;effect;Vrátil jsem knihu. ;Ztratil jsem pojem o čase. ;1
+Ten muž měl stejné přesvědčení jako jeho rodiče. ;cause;Jeho rodiče na něj měli vliv. ;Jeho rodiče ho zapřeli. ;0
+Auto postupně zpomalilo a zastavilo se. ;cause;Došel mu benzín. ;Řidič usnul. ;0
+Ten muž snědl zmrzlinu na slunci. ;effect;Sněhová zmrzlina ztratila svou chuť. ;Z ledovce kapalo. ;1
+V pokoji jsem pověsila umělecká díla. ;cause;Koberec vypadal špinavě. ;Stěny vypadají holé. ;1
+Odešel jsem z práce dřív. ;cause;Bolí mě hlava. ;Můj šéf měl schůzku. ;0
+Štěně poskvrnilo koberec. ;effect;Majitel štěně nakřičel. ;Majitel dal štěněti dárek. ;0
+Omluvil jsem se svému příteli. ;effect;Můj přítel mi odpustil. ;Můj přítel se rozzuřil. ;0
+Ten muž se v davu vyčlenil. ;cause;Nosil batoh. ;Měl na sobě neonovou vestu. ;1
+Svědek lhal pod přísahou. ;effect;Dokončil své svědectví. ;Byl obviněn z křivé přísahy. ;1
+Ta žena si obarvila vlasy. ;cause;Chtěla nový vzhled. ;Chtěla se tam smíchat. ;0
+Imigranti byli přistiženi, jak se v zemi zdrží ilegálně. ;effect;Našli si práci. ;Byli deportováni. ;1
+Mluvčí veřejnosti udělal vtip. ;effect;Publikum se smál. ;Publikum vstal. ;0
+Díval jsem se do slunce. ;effect;Slunce mě oslepilo. ;Slunce mi opálilo kůži. ;0
+Cítil jsem se znuděný. ;effect;Já šňupnul. ;Já zívnul. ;1
+Ten steak se těžko řezal. ;cause;Nůž byl tupý. ;Ten steak byl syrový. ;0
+Ta žena se vydala na bankrot. ;cause;Dostala výživné. ;Nahromadila obrovské dluhy. ;1
+Světla v bytě mého přítele byla zapnutá. ;effect;Zajímalo by mě, jestli je venku. ;Rozhodl jsem se ho navštívit. ;1
+Dala jsem si kytku pod nos. ;effect;Květiny se z květu shodily. ;Cítím vůni květin. ;1
+Ta žena cítila nostalgii. ;cause;Potkala kamarádku z dětství. ;Křičela na své děti. ;0
+Student odkládal práci. ;effect;Předal práci dřív. ;Předložil papír neúplně. ;1
+Zničil se mi auto. ;effect;Šla jsem do obchoďáku. ;Zavolal jsem mechanika. ;1
+Zbavil jsem se toho vzkazu. ;cause;Bylo to anonymní. ;Bylo to nepřečitelné. ;1
+Pták mával křídly. ;effect;Kladla vajíčka. ;Vzneslo se to nahoru. ;1
+Zaparkoval jsem na příjezdové cestě. ;cause;Garáž byla otevřená. ;Garáž byla plná. ;1
+Zločinec namířil zbraň na svou oběť. ;effect;Ten zločinec odložil zbraň. ;Oběť zvedla ruce. ;1
+Těšil jsem se na víkend. ;cause;Plánoval jsem se zúčastnit pohřbu mého strýce. ;Plánovala jsem se zúčastnit svatby mé kamarádky. ;1
+Ztratil jsem pojem o čase. ;cause;Snil jsem. ;Bylo mi špatně. ;0
+Dokument byl nepřečitelně vytisknut. ;cause;Tiskárně docházelo inkoust. ;Vydisk byl z papíru. ;0
+Na stadionu hrála národní hymna. ;effect;Fanoušci se otočili k vlajce. ;Fanoušci se vrhli na hřiště. ;0
+Ten dip měl nudnou chuť. ;effect;Já jsem to podal. ;Dal jsem do ní sůl. ;1
+Položil jsem papírový ručník na rozlití. ;effect;Ručník absorboval tekutinu. ;Z toho úniku zůstaly lepkavé zbytky. ;0
+Žena byla přerušena uprostřed čtení své knihy. ;effect;Zarezervovala si svou stránku. ;Přečetla si tu knihu znovu. ;0
+Letadlo narazilo na turbulenci. ;effect;Ten muž si přitáhl pás. ;Muž se podíval z okna. ;0
+Chlapec se zhroutil. ;cause;Ta dívka ho ignorovala. ;Ta holka ho bodla. ;1
+Lékaři pacientovi dali umělou končetinu. ;cause;Amputovali jí nohu. ;Sledovali její životní funkce. ;0
+Chlapec stiskl dívku do lokte. ;effect;Potřásla na něj rameny. ;Odtrhla od něj ruku. ;1
+Ptal jsem se svého přítele na radu. ;cause;Vážil jsem si jeho názoru. ;Věděl jsem, že mám pravdu. ;0
+Chlapec se dostal do bahna. ;effect;Blázní mu leželo na botách. ;Blázní ho zasáhla do obličeje. ;0
+Město dostalo několik centimetrů sněhu. ;effect;Školy zavřené. ;Lidé se schovali pod zemí. ;0
+Zaměstnancova směna skončila. ;effect;Šel na den domů. ;Vyhrožoval, že dá výpověď. ;0
+Strom poškodil dům. ;cause;Strom spadl na střechu. ;Strom stínil na dvorku. ;0
+Dřevo se rozpadlo na dvě. ;cause;Strčil jsem dřevo do krbu. ;Zmáčkl jsem sekyrou dolů k dřevu. ;1
+Rodina těmto dvojicím pogratulovala. ;cause;Pár oznámil, že se rozcházejí. ;Pár oznámil, že mají dítě. ;1
+Dívka poslala chlapci valentýnku. ;cause;Líbil se jí. ;Políbila ho. ;0
+Kývla jsem hlavou na prohlášení svého přítele. ;cause;Byl jsem zmatený. ;Souhlasil jsem s ním. ;1
+Přátelé hodili mincí. ;cause;Chtěli najít kompromis. ;Chtěli udělat spravedlivé rozhodnutí. ;1
+V kuchyni se spustila časovačka. ;effect;Muž vyložil potraviny do ledničky. ;Ten muž vzal pizzu z trouby. ;1
+Ta žena si stanovila ambiciózní cíl. ;effect;Uvolnila se. ;Tvrdě pracovala. ;1
+Bohatý muž zemřel na stáří. ;effect;Jeho syn měl právní problémy. ;Jeho syn zdědil jeho majetek. ;1
+Ta žena šlapala po plamenech. ;effect;Plameny zhasly. ;Z plamenů se zvedl kouř. ;0
+Auto té ženy bylo v opravně. ;cause;Vzali jí řidičák. ;Měla autonehodu. ;1
+Spal jsem přes budík. ;effect;Udělala jsem snídani. ;Zmeškal jsem snídani. ;1
+Ta veřejná osobnost vystoupila z limuzíny. ;effect;Kamery se zaměřily na něj. ;Jeho rodina se zúčastnila tiskové konference. ;0
+Ta žena se zdržovala ve vaně. ;effect;Voda v koupelně se změnila v vlažnou. ;Z vany se vypouští voda z koupelny. ;0
+Studentka chtěla poznat další studenty na univerzitě. ;effect;Připojil se k bratrstvu. ;Vystudoval inženýrství. ;0
+Zvedl jsem polštáře z gauče. ;cause;Hledal jsem drobné. ;Přestavoval jsem obývací pokoj. ;0
+Ta osa letěla k chlapci. ;effect;Ten chlapec utekl. ;Chlapec vybral květinu. ;0
+Žena byla shledána vinnou z přečinu. ;effect;Byla odsouzena k veřejné službě. ;Byla odsouzena k trestu smrti. ;0
+Do horkého čaje jsem přidal cukr. ;effect;Čaj se pálil. ;Cukr se rozpustil. ;1
+Ten veterán kulhal. ;cause;Byl povolán do války. ;Byl zraněn v bitvě. ;1
+Zločinec utekl před policií. ;effect;Policie se o oběť postarala. ;Policie pronásledovala zločince. ;1
+Laptop se nechtěl zapnout. ;cause;Upustil jsem ho. ;Nabíjil jsem ho. ;0
+Žena vyčerpala prostor ve skříni. ;cause;Našla si rozsáhlý šatník. ;Složila prádlo. ;0
+Ten muž měl zlomené srdce. ;cause;Jeho žena porodila. ;Jeho žena ho opustila. ;1
+Ten muž získal titul. ;effect;Dostal kvalifikaci pro práci, kterou chtěl. ;Jeho nabídka práce byla zrušena. ;0
+Jeho hlas se jasně ozval po celé sále. ;cause;Pozdravil publikum. ;Mluvil do mikrofonu. ;1
+Hodil jsem minci do fontány. ;effect;Mince se potopila na dno. ;Mince se rozpadla na dvě poloviny. ;0
+Hráč udeřil míč směrem k jamce. ;effect;Míč šel do díry. ;Míč se vrátil zpět k hráči. ;0
+Dýchal jsem prach na půdě. ;effect;Škytala jsem. ;Kýchla jsem. ;1
+Pokladní z obchodu zavolala ochranku. ;cause;Zákazník použil padělané peníze. ;Zákazník nechal zapnuté světla. ;0
+Vytáhl jsem odpadky. ;cause;Kvůli tomu odpadku kuchyň páchla. ;Nechtěně jsem vyhodil seznam nákupů. ;0
+Rodina jela do zoo. ;effect;Děti obdivovaly zvířata. ;Děti pronásledovaly zvířata. ;0
+Ten muž dýchal hlasitě. ;cause;Selhaly mu ledviny. ;Jeho plíce byly ucpané. ;1
+Měl jsem na koncert lístek navíc. ;effect;Zeptal jsem se svého přítele, kde to bude. ;Zeptal jsem se svého přítele, jestli by chtěl jít. ;1
+Klimatizace v domě se rozbila. ;effect;Přinesl jsem přikrývky. ;Otevřel jsem okna. ;1
+Chlapec má bolesti zad. ;cause;Jeho batoh byl otevřený. ;Jeho batoh byl těžký. ;1
+Koupil jsem matce dárek. ;cause;Upekl jsem jí dort. ;Měla narozeniny. ;1
+Narcisy v zahradě byly zničené. ;cause;Zahradníka bodla včela. ;Veverky vykopaly žárovky. ;1
+Získal jsem zápalku. ;effect;Plamen se vyhasl. ;Z zápalky se vytvořil plamen. ;1
+Strany ve sporu dosáhly dohody. ;cause;Nechtěli o tom diskutovat u soudu. ;Chtěli si napravit svůj osobní vztah. ;0
+Děti byly poslány do sirotčince. ;cause;Jejich rodiče zemřeli. ;Jejich rodiče je rozmazlili. ;0
+Meteorit přistál v oceánu. ;effect;Došlo k tsunami. ;Začalo kroupit. ;0
+Cestovatel narazil na jedovatého hada. ;effect;Byla dehydrovaná. ;Zpanikařila. ;1
+Pece se zahřála. ;cause;Zapnul jsem troubu. ;Dal jsem jídlo do trouby. ;0
+Stiskl jsem citronový klín. ;effect;Citron se plísnil. ;- Citronový střík. ;1
+Země objevila novou zemi. ;effect;Země opustila zemi. ;Země kolonizovala zemi. ;1
+Sklenka spadla ze stolu. ;effect;Roztrhal se po celé podlaze. ;Přistála v hromadě prádla. ;0
+Stůl se chvěje. ;cause;Podlaha byla nerovná. ;Podlaha byla kluzká. ;0
+Otec přistihl svého syna, jak lže. ;effect;Jeho syn přiznal pravdu. ;Otec věřil svému synovi. ;0
+Jeho hlava bušila bolestí. ;effect;Vzal si sirup proti kašli. ;Vzal si aspirin. ;1
+Vlak zpomalil. ;cause;Blížilo se to k stanici. ;Zpozdil se. ;0
+Ten muž prošel terapií. ;cause;Duševní nemoc se dědila v jeho rodině. ;Byl diagnostikován s depresí. ;1
+Ta žena se jí chopila za krk. ;cause;Polykla jídlo. ;Udušila se jídlem. ;1
+Ta žena měla bolest v krku. ;effect;Její hlas zněl drsně. ;Mluvila s přízvukem. ;0
+Pes se díval na šťavnatý steak na stole. ;effect;Slinilo se. ;Uložila se. ;0
+Ta žena měla úspěšný byznys. ;effect;Vyhodila své zaměstnance. ;Zbohatla. ;1
+Studenti opustili třídu. ;cause;Zvonil zvonek. ;Učitel mi dal domácí úkol. ;0
+Ta žena tvrdila, že viděla ducha. ;effect;Její známí vyjadřovali pochybnosti. ;Její známí se s ní spřízněli. ;0
+Ten muž ztratil sluch. ;cause;Málem se utopil v oceánu. ;Málem ho zabila exploze. ;1
+Dítě uvolnilo šňůru balónu. ;effect;Balónek se vyfoukl. ;Balónek se zvedl do vzduchu. ;1
+Ten muž přišel o schopnost mluvit. ;cause;Měl mrtvici. ;Zhluboka se nadechnul. ;0
+Ta žena zakopla na chodníku. ;cause;V cementu byla trhlina. ;Slyšela, jak někdo volá její jméno. ;0
+Ten chlap si skočil do bazénu. ;effect;Záchranář skočil za ním. ;Ten muž namočil plavčíka. ;1
+Vzal jsem si antibiotika. ;effect;Moje infekce se vyčistila. ;Moje infekce se rozšířila. ;0
+Na semaforu se žloutlo. ;effect;Řidič zatlačil na brzdu. ;Řidič zatroubil. ;0
+Plastová nádoba se roztavila. ;cause;Namáčel jsem nádobku v teplé vodě. ;Umístil jsem nádobku na horký sporák. ;1
+Auto se rozbočilo. ;cause;Řidič narazil do telefonního sloupu. ;Řidič jel na červenou. ;0
+Chlapec studoval celou noc. ;effect;Vynechal zkoušku. ;Prošel zkouškou. ;1
+Mladý chlapec se přilepil k okraji bazénu. ;cause;Bál se naučit plavat. ;Záchranář byl ve službě. ;0
+Položil jsem ruku na hruď. ;effect;Cítil jsem tlukot srdce. ;Můj tep se zrychlil. ;0
+Budova vedle mé kanceláře byla ve výstavbě. ;effect;Moje kancelář byla přeplněná. ;Moje kancelář byla hlučná. ;1
+Rodina chtěla poznat své nové sousedy. ;effect;Rodina pozvala sousedy na večeři. ;Rodina mávala sousedům ze svého dvora. ;0
+Z bazénu se rozstříkala voda. ;cause;Plavec se ponořil do bazénu. ;Plavec plaval v bazénu. ;0
+Kousla jsem se do plátku melounu. ;effect;Nechtěně jsem spolkla semínko. ;Omylem jsem si roztrhl zub. ;0
+Chlapec zakopl. ;cause;Jeho bunda byla odpařená. ;Měl rozvázaný tkaničky. ;1
+Ta žena si dala ušní zátky. ;cause;Rozptylovala ji hluk. ;Má propíchnuté uši. ;0
+Naplnil jsem si láhev. ;cause;Vypil jsem z ní celou vodu. ;Nechal jsem ho v lednici. ;0
+Televizní pořad byl cenzurován. ;cause;Obsahovala vulgární řeč. ;Měl komplikovaný příběh. ;0
+Loď se ztroskotá. ;effect;Posádka se utopila. ;Posádka se setkala s piráty. ;0
+Chlapec se cítil zmatený tou hádankou. ;effect;Vyřešil hádanku. ;Chtěl nápovědu. ;1
+Zvonil telefon. ;effect;Ten muž zavěsil. ;Ten muž zvedl telefon. ;1
+Ta žena na mě zírala. ;effect;Objal jsem ji. ;Bylo mi nepříjemné. ;1
+Skupina opustila muzeum. ;cause;Vyfotili exponáty. ;Prohlédli si všechny exponáty. ;1
+Ten muž se se mnou začal hádat. ;effect;Přítel mě s ním seznámil. ;Můj přítel se za mě postavil. ;1
+Byla mi prasknutá pneumatika. ;effect;Vypumpala jsem do pneumatiky vzduch. ;Přepnul jsem rychlost na motorce. ;0
+Ta dívka vypadala bledě. ;effect;Její otec jí četl pohádku. ;Její otec jí dotýkal čela. ;1
+Došel mi inkoust. ;effect;Použil jsem tužku. ;Podepsal jsem se. ;0
+Mužovi odmítli půjčku. ;cause;Měl dluhy. ;Začal podnikat. ;0
+Dívka zůstala doma od školy. ;cause;Měla neštovice. ;Ráda se učila matematiku. ;0
+- Ten pytel byl plný. ;effect;Vzal jsem ho do kontejneru. ;Hodil jsem ho do dřezu. ;0
+Odstřeloval jsem koberec. ;cause;Můj spolubydlící rozlil punč. ;Můj pes ztrácí vlasy. ;1
+Ten muž ztratil nervy. ;effect;Vypnul svůj počítač. ;Hodil židli přes místnost. ;1
+Dívka hodila větvičku do ohně. ;effect;Květina shořela. ;Oheň zhasl. ;0
+Ten muž vyšel ze sprchy. ;cause;Teplá voda byla pryč. ;Nemohl najít ručník. ;0
+Rodiče chtěli, aby jejich děti chodily na vysokou školu. ;effect;Ušetřili si peníze na školné. ;Povzbuzovali své děti, aby si hrály venku. ;0
+Ten muž si rozvázal tkaničky. ;effect;Boty se uvolnily. ;Boty se opotřebovaly. ;0
+Ten muž snědl polovinu předkrmu. ;effect;Zbytky schoval do lednice. ;Zachoval si recept. ;0
+Měl jsem oteklý kotník. ;effect;Dal jsem na to led. ;Natřela jsem na to pleťový krém. ;0
+Dveře mé kanceláře byly otevřené. ;effect;Mluvil jsem s kolegou u mého stolu. ;Zaslechl jsem jejich rozhovor na chodbě. ;1
+Musel jsem čekat ve frontě. ;effect;Sedl jsem si. ;Prohlížel jsem si časopis. ;1
+Ten muž se zaměřil na mouchu. ;effect;Moucha odletěla. ;Moucha zůstala stát. ;0
+Ten muž napsal závěť. ;cause;Umíral. ;Byl vdovec. ;0
+Běžec cítil, že ho jeho soupeř překonává. ;effect;Vyloučil se z závodu. ;Zrychlil svůj krok. ;1
+O problému jsem pečlivě přemýšlel. ;effect;Ptal jsem se na radu. ;Našel jsem řešení. ;1
+Cestovatel kráčel po třesoucí se visutém mostě. ;effect;Byl vyděšený. ;Byl nadšený. ;0
+Ten muž předvídal vítězství týmu. ;effect;Sešel se s přáteli, aby sledoval zápas. ;On se vsadil se svými přáteli. ;1
+Ten chlapec nemohl usnout. ;effect;Nastavil si budík. ;Počítal ovce. ;1

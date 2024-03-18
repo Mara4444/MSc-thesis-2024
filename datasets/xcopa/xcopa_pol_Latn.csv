@@ -1,0 +1,501 @@
+premise;question;choice1;choice2;label
+Produkt był pakowany w folii bąbelkowej. ;cause;Była krucha. ;Była mała. ;0
+Wypracowałem kieszenie. ;effect;Znalazłem bilet. ;Znalazłem broń. ;0
+Termity zaatakowały dom. ;effect;Termity zniknęły z domu. ;Termity zjadły drewno w domu. ;1
+Podróżni dotarli do granicy. ;effect;Patrol sprawdził ich paszporty. ;Patrol oskarżył ich o przemyt. ;0
+Biuro było zamknięte. ;cause;To były święta. ;Było lato. ;0
+Dziewczynce skończyła się energia. ;cause;Grała w damę. ;Skoczyła z liny. ;1
+Kobieta straciła miejsce w kolejce. ;cause;Więcej ludzi weszło do kolejki. ;Wyszła z linii. ;1
+Dziewczyna ścisnęła nos. ;cause;Dziecko śliniło się na jej szlafrok. ;Dziecko zabrudziło jej pieluchę. ;1
+Zespół zagrał swoją piosenkę. ;effect;Publiczność klaszczyła wraz z muzyką. ;Publiczność grzecznie słuchała w milczeniu. ;0
+Dziewczyna chciała podziękować nauczycielowi matematyki. ;effect;Dziewczyna została po szkole na wyrok. ;Dziewczyna przyniosła nauczycielowi jabłko. ;1
+Młodzi obozowicze byli przerażeni. ;cause;Ich doradca obozowy opowiedział im historię o duchach. ;Rozdręczyli marshmallows na ognisku. ;0
+Facet uderzył się w głowę. ;effect;Zgubił się w myślach. ;Ma wstrząs mózgu. ;1
+Czek, który napisałem, nie wypalił. ;cause;Moje konto bankowe było puste. ;Zasłużyłem na podwyżkę. ;0
+Jego skrzynka pocztowa była pełna spamu. ;effect;Usunął spam. ;Wysłał masowy e-mail. ;0
+Marynarz został poddany kwarantannie. ;cause;Był narażony na chorobę. ;Ozdrowiał. ;0
+Dziewczyna zapamiętała kod. ;cause;Recytowała to dla siebie. ;Zapomniała to zapisać. ;0
+Wlałem wodę do szklanki. ;effect;Woda ugasiła mój pragnienie. ;Szklanka stała się pełna. ;1
+Mężczyzna milczał, gdy jego przyjaciel skończył mówić. ;cause;Chciał pomóc przyjacielowi. ;Myślał o słowach swojego przyjaciela. ;1
+Wypadek był moją winą. ;effect;Czułem się winny. ;Złożyłem oskarżenie. ;0
+Łańcuch się rozpadł. ;cause;Łańcuch był owinięty wokół opony. ;Było złamanie w łańcuchu. ;1
+Para postanowiła pójść na kompromis. ;cause;Męczyły się kłótniami. ;Unikali rozmowy o problemie. ;0
+Kobieta postanowiła ubiegać się o stanowisko w administracji. ;effect;Zatrudniła kierownika kampanii. ;Zeznawała w sądzie. ;0
+Mężczyzna przewidywał zimną pogodę podczas swojej podróży. ;effect;Włożył ciepłe ubrania do walizki. ;Podróżował z dużą walizką. ;0
+Student znał odpowiedź na pytanie. ;effect;Podniósł rękę. ;- Zgłupiał się. ;0
+Mężczyzna popłakał. ;cause;Pył dostał mu się do oczu. ;Założył okulary. ;0
+Gracz wygrał pięć meczów z rzędu. ;effect;Jej przeciwnik oskarżył ją o oszukiwanie. ;Jej przeciwnik poczuł dla niej litość. ;0
+Nauczyciel rozerwał egzamin ucznia. ;cause;Złapał ucznia na oszukiwaniu. ;Odpowiedzi ucznia były niepoprawne. ;0
+Zatrzymałem się, żeby przestać mówić. ;cause;Straciłem głos. ;Zdechnął mi. ;1
+Zamrożone jedzenie się rozmroziło. ;cause;Włożyłam do mikrofalówki. ;Zakryłem go plastikową folie. ;0
+Pracownik udawał chorego. ;cause;Miał skurcze brzucha. ;Chciał mieć dzień wolnego. ;1
+Dziewczyna wylądowała w basenie. ;cause;Biegła po balkonie. ;Skoczyła z trampoliny. ;1
+Bilety do kina zostały wyprzedane. ;cause;To był dzień premiery filmu. ;Film otrzymał słabe recenzje. ;0
+Facet schudł. ;effect;Ludzie go izolowali. ;Ludzie mu komplementy. ;1
+Ręce dziewczyny stały się pęcherzykami. ;cause;Napisała list. ;Weszła na linę. ;1
+Aktor z cyrku żonglował na jednookołowym. ;effect;Publiczność zachwycona okrzyknęła. ;Akrobat zwisał z trapezu. ;0
+Straciłem cierpliwość. ;cause;Mój przyjaciel kazał mi czekać. ;Mój przyjaciel przybył na czas. ;0
+Kraje, które się wzajemnie walczyły, pragnęły pokoju. ;effect;Opracowali broń jądrową. ;Negocjowali traktat. ;1
+Mężczyzna wziął leki nasenne. ;effect;Zaczął się śpić. ;Miał gorączkę. ;0
+Kobieta uderzyła w kanapę. ;effect;Nogi sofy się odłączyły. ;Zraniła kolano. ;1
+Chłopiec wycisnął balon. ;effect;Balon pękł. ;Balon odleciał. ;0
+Podróżni zarejestrowali się w hotelu. ;effect;Rozpakowali walizki. ;Poszli na lotnisko. ;0
+Ugryzłem brzoskwinię. ;effect;Brzoskwinia jest zraniona. ;- Wylał się sok. ;1
+Moje ręce stały się lepkie. ;cause;Zjadłem pączka. ;Miałem słodki ząb. ;0
+Wypchnęłam drzwi. ;effect;Drzwi się otworzyły. ;Drzwi zamknięte. ;0
+Aktywiści bojkotowali produkty. ;cause;Produkty zostały poddane badaniom w zakresie zapewnienia jakości. ;Produkty były wytwarzane przez pracę dzieci. ;1
+Wykopałem dziurę w ścianie. ;effect;Mysz wypełzła z dziury. ;Z otworu wyszedł kurz. ;1
+Kobieta czuła zazdrość swojej siostry. ;cause;Jej siostra była szczęśliwa. ;Jej siostra się rozwiodła. ;0
+Wino rozlało się na koszulkę. ;effect;Założyłam fartuch. ;Zmieniłem koszulę. ;1
+Kasjerka otworzyła kasę. ;cause;Klient przeszukał portfel. ;Klient dał jej pieniądze. ;1
+Uliczny muzyk przyciągnął tłum. ;effect;Ludzie dawali mu drobne. ;Odesłał tłum. ;0
+Mały chłopiec płakał do swojej niani. ;cause;Tęsknił za rodzicami. ;Czas na przekąskę. ;0
+Radar pilota wykrył burzę. ;effect;Pilot odszedł od burzy. ;Pilot przeleciał przez burzę. ;0
+Drzewo zrzuca liście. ;effect;Liście zmieniły kolor. ;Liście nagromadziły się na ziemi. ;1
+Chłopak był w złym nastroju. ;effect;Postanowił zagrać w karty ze swoją siostrą. ;Postanowił zrobić siostrze dowcip. ;1
+Dziecko narzekało, że musi iść do łazienki. ;effect;Jego ojciec dał mu napoje gazowane. ;Jego ojciec zatrzymał samochód na stacji benzynowej. ;1
+Dziecko posypało rybą pokarm w akwarium. ;effect;Ryba wyskoczyła z zbiornika. ;Ryba pływała w kierunku jedzenia. ;1
+Zmieniły się jej poglądy polityczne. ;effect;Zmieniła przynależność do partii. ;Wzięła udział w proteste. ;0
+Zmywak w łazience był zatkany. ;effect;Otworzyłem kran. ;Wlałem do niego czyszczyciel ściekowy. ;1
+Pasażerowie wysiedli z pociągu. ;cause;Pociąg przyjechał na stację. ;Pociąg gwizdował. ;0
+Mężczyzna nacisnął na wilgotną klapę koperty. ;effect;- Złożył pieczęć na kopertę. ;Zamknął kopertę. ;1
+Przyjaciele stracili kontakt. ;cause;Lubili się wzajemnie. ;Przeniosły się do różnych miast. ;1
+Księgowy źle zarządzał funduszami firmy. ;effect;Została zwolniona ze stanowiska. ;Poszła na urlop macierzyński. ;0
+Spojrzałam na zegar. ;cause;Słyszałem, jak tyka zegar. ;Chciałem sprawdzić czas. ;1
+Miałem skurcz. ;cause;Napisałem esej ręcznie. ;Moja żona i ja trzymaliśmy się za ręce. ;0
+- Szczyt się zacisnął. ;cause;Zmieniłem śruby. ;- Wkręciłem klucz. ;1
+Para podpisała umowę najmu mieszkania. ;effect;Para wprowadziła się do mieszkania. ;Miasto wycofało mieszkanie. ;0
+Kobieta siedziała na zewnątrz na werandzie. ;cause;Chciała oglądać zachód słońca. ;Myślała, że widziała piorun. ;0
+Mężczyzna w wodzie nosił kamizelkę ratunkową. ;cause;Nie umiał pływać. ;Woda była płytka. ;0
+Kobieta popełniła błąd w procesorze tekstu. ;effect;Usunęła dokument. ;Nacisnęła klawisz przestrzeni. ;1
+Dziewczyna chwaliła się swoim przyjaciółkom. ;cause;Dostała złą ocenę. ;Wygrała konkurs. ;1
+Trawnik był błotnisty. ;cause;W nocy padało. ;Było pełne chwastów. ;0
+Kobieta przespała się. ;cause;Przespała w hotelu. ;Zapomniała ustawić budzik. ;1
+Facet założył krem przeciwsłoneczny. ;cause;Siedział w cieniu. ;Poszedł na plażę. ;1
+Naukowcy potwierdzili teorię. ;effect;Naukowcy wycofali teorię. ;Ludzie zaakceptowali tę teorię. ;1
+Fani na meczu wygwizdali. ;cause;Gra weszła w nadgodziny. ;Sędzia źle rozstrzygnął. ;1
+Wpisałem kombinację do zamka. ;effect;Zamknąłem zamek. ;Zamek się otworzył. ;1
+Tłum się nasilił. ;effect;Ojciec podał synowi trochę pieniędzy. ;Ojciec chwycił syna za rękę. ;1
+Śnieg zatykał podjazd. ;effect;Zgromadziłem śnieg w kulę śnieżną. ;Zmyłem śnieg. ;1
+Kajakerski wiosłowali swoje wiosła. ;effect;Kajak dotarł na brzeg. ;Kajak uderzył w falę. ;0
+Dziewczyna straciła kontrolę nad rowerem. ;effect;Puściła kierownicę. ;Wpadła w płot. ;1
+Włączyłem wentylator. ;effect;Woda rozrzucona na moją skórę. ;Czułem jak chłodne powietrze przechodziło nade mną. ;1
+Surferzy wrócili na plażę. ;cause;Były mokre. ;Widzieli rekina. ;1
+Wyciągnąłem wtyczkę z wanny. ;effect;Woda wyciekła z wanny. ;Woda rozpłynęła się na podłogę. ;0
+Mąż czuł się winny, że zdradził żonę. ;effect;Oskarżył ją o zdradę. ;Przyznał się do niewierności. ;1
+Czarnoksiedrowy atrament na plakatach. ;cause;Czekałem, aż tusz wyschnie. ;Wylełam wodę na plakat. ;1
+Dziecko obudziło się krzycząc. ;cause;Miał koszmar. ;- Uszczał łóżko. ;0
+Chłopiec położył nogi na stole. ;effect;Jego ojciec usiadł przy stole. ;Jego ojciec go pouczał. ;1
+Mój przyjaciel odwrócił głowę w moim kierunku. ;cause;Krzyczałam jego imię. ;Machałem rękami. ;0
+Rząd uciskał swoich obywateli. ;effect;Mieszkańcy zorganizowali bunt. ;Obywatele zarejestrowali się do głosowania. ;0
+Chłopiec zgubił się w lesie. ;effect;Postawił namiot. ;Krzyczał o pomoc. ;1
+Kobieta wyjechała za granicę. ;cause;Chciała się nauczyć rysować. ;Chciała poznać inne kultury. ;1
+Mężczyzna był zazdrosny o swojego współpracownika. ;cause;Jego współpracownik dostał awans. ;Jego współpracownik pracował do późna. ;0
+Ten człowiek widział kosmitów. ;cause;Miał halucynacje. ;Medytował. ;0
+Włosy tego mężczyzny zmieniły się w blond. ;cause;Włożył do niej wybielacz. ;Włożył do niej szampon. ;0
+Artystka stworzyła nowe dzieło. ;cause;Krytykowała jej poprzednią pracę. ;Poczuła natchnienie. ;1
+Syn wyprowadził się z domu. ;cause;Został zwolniony z wojska. ;Miał iść na studia. ;1
+Książki wypadły z półki. ;cause;Regły były pokryte kurzem. ;Trzęsienie ziemi potrząsło półką z książkami. ;1
+W moim domu wyłączyli prąd. ;effect;Włączyłem światło. ;Zresetowałem wyłącznik. ;1
+Jechaliśmy górą górską. ;cause;Wyglądało przerażająco. ;Wyglądało na to, że jest fajnie. ;1
+Worek z popcornem zaczął się rozbijać. ;cause;Wlałem masło do torby. ;Podgrzałam w mikrofalówce. ;1
+Drzewo spadło na linię elektryczną. ;effect;W okolicy nie było prądu. ;Prognoza mówiła o silnym wietrze. ;0
+Mówca wygłosił komentarze niepoprawne politycznie. ;effect;Nudził publiczność. ;Obraził publiczność. ;1
+Wbiłem się w siebie szpilką. ;effect;Z twarzy mi strąciło się trochę potu. ;Na palcu powstała kropla krwi. ;1
+Ryba pływała na powierzchni zbiornika. ;cause;Była głodna. ;Była martwa. ;1
+Głos mężczyzny brzmiał chrapliwie. ;cause;Był przeziębiony. ;Przestał palić. ;0
+Otworzyły się drzwi windy. ;cause;Winda dotarła na wyznaczone piętro. ;Winda utknęła między piętrami. ;0
+Nastolatek wymknął się z domu. ;cause;Okłamał rodziców. ;Jego rodzice go uziemili. ;1
+Łazienka jest zalana. ;cause;Toaleta się wypełniła. ;Rozbił się podgrzewacz wody. ;0
+Szczeniak pozostał blisko swego właściciela. ;cause;Właściciel przywiązał szczeniaka do kołnierza. ;Właściciel trzymał szczeniaka na smyczy. ;1
+Mężczyzna złapał jego odbicie. ;cause;Stał pod rozległym drzewem. ;Stał nad spokojnym jeziorem. ;1
+Przegapiłem telefon mojej dziewczyny. ;effect;Oddzwoniłam do niej. ;Spotkałem ją na kolacji. ;0
+Rodzina przeszukała okolicę. ;cause;Ich pies uciekł z domu. ;Z ich domu zaginęły drogie biżuteria. ;0
+Widziałem swój oddech, kiedy wydechałem. ;cause;Pogoda była chłodna. ;Miałem napiętą klatkę piersiową. ;0
+Pracownicy utworzyli związek. ;cause;Chcieli lepszych warunków pracy. ;Ich pracodawca podniósł im pensje. ;0
+Upiekłam ciasto jabłkowe. ;effect;Zapach gnije wypełnił kuchnię. ;Ciepły zapach wypełnił kuchnię. ;1
+Kobieta walczyła, żeby chodzić. ;cause;Miała na sobie wysokie obcasy. ;Zdejmowała buty. ;0
+Para wypływała z dzbanka wody. ;cause;Woda gotowała. ;Zakryłem garnek. ;0
+Wszystkie moje skarpetki były w pralni. ;effect;Miałem sandały. ;Miałem buty. ;0
+Argument polityka został uznany za absurdalny. ;effect;Stracił poparcie wyborców. ;Został oskarżony o korupcję. ;0
+Wszyscy nie pochwalili zaręczyn tej pary. ;effect;Para zaszła w ciążę. ;Para uciekła. ;1
+Budynek został poświęcony milionerze. ;cause;Milioner chciał, żeby budynek został zburzony. ;Milioner dał pieniądze na jego budowę. ;1
+Sprzedawca oskarżył dziewczynę o kradzież. ;cause;Sprzedawca widział dziewczynę, jak wkładała towar do torebki. ;Sprzedawca pomógł dziewczynie znaleźć torebkę, którą lubiła. ;0
+Kraj wypowiedział wojnę sąsiednim terytorium. ;effect;Żołnierze zostali wysłani do walki. ;Żołnierze połączyli się z rodzinami. ;0
+Sąd potwierdził kontrowersyjną decyzję. ;effect;Przed budynkiem sądu wybuchł zamieszka. ;Para wyraziła swoje przysięgi przed sądem. ;0
+Dziewczyna poczuła zapach czegoś palącego. ;cause;Wyjęła ciasteczka z słoika. ;Zostawiła ciasteczka w piekarniku. ;1
+Deszcz padał jak z kija. ;effect;Burza się pogarszała. ;Wbiegłem do środka. ;1
+Budynek został ewakuowany. ;cause;Winda przestała działać. ;Alarm pożarowy się włączył. ;1
+Ojciec był urażony alkoholizmem syna. ;effect;Ojciec kupił synowi piwo. ;Ojciec wyrzucił syna z domu. ;1
+Prawnik podszedł po schodach do swojego biura. ;cause;Sekretarka poszła do domu. ;Winda była zepsuta. ;1
+Mężczyzna wkurzył się na swojego przyjaciela. ;cause;Jego przyjaciel go przerwał. ;Jego przyjaciel kupił mu lunch. ;0
+Dziewczyna oddała kasjerce swoje pieniądze. ;effect;Kasjerka dała dziewczynie resztę. ;Kasjerka zapomniała dać dziewczynie paragon. ;0
+Kobieta została umieszczona na wózku inwalidzkim. ;cause;Została sparaliżowana w wypadku. ;Weszła do szpitala na noszach. ;0
+Obywatele zawiesili flagi narodowe przed swoimi domami. ;cause;Kraj świętował swoją niepodległość. ;Kraj borykał się z trudnościami gospodarczymi. ;0
+Drużyna przegrała turniej. ;effect;Rozczarowali swoich fanów. ;Zainspirowali swoich fanów. ;0
+Mój przyjaciel zauważył, że mam jedzenie w zębach. ;effect;Byłem zawstydzony. ;Byłem dumny. ;0
+Chłopak nie zdał egzaminu z historii. ;cause;Słuchał uważnie na zajęciach. ;Zapomniał się uczyć. ;1
+Budynek w centrum miasta się zawalił. ;cause;W mieście nastąpiło trzęsienie ziemi. ;Wzrost przestępczości w mieście. ;0
+Dziewczyna tego faceta zerwała z nim. ;effect;Błagał ją, żeby go przyjąła. ;Przedstawiła go swoim rodzicom. ;0
+Dwoje dzieci jednocześnie sięgnęło po piłkę. ;effect;Piłka odwróciła się. ;Ich głowy zderzyły się. ;1
+Szop przeszukał śmietnik. ;cause;W śmietniku była karton. ;Pokryw był z odpadków. ;1
+Chłopak wyostrzył ołówek. ;cause;Było tanie. ;To było nudne. ;1
+Kasjer odmówił kobiecie zwrotu pieniędzy za suknię. ;cause;Zgubiła paragon. ;Suknia nie pasowała. ;0
+Zadrapanie na skórze było głębokie. ;effect;Szybko się wyleczyła. ;Zostawiła bliznę. ;1
+Pasażerowie w pociągu dziwnie na niego patrzyli. ;cause;Gapił się na ziemię. ;Rozmawiał sam ze sobą. ;1
+Dziecko zostawiło okruchy na podłodze. ;effect;Mrówki pełzały po okruchach. ;Dziecko odłożyło chleb. ;0
+Kobieta podała siostrze chusteczkę. ;cause;Siostra kobiety zwinęła ręce. ;Siostra kobiety zaczęła płakać. ;1
+Facet wziął monetę. ;cause;Jego usta były pęknięte. ;Martwił się o zły oddech. ;1
+Para wyszła wcześniej na pokaz. ;cause;Przewidywali ruch w okolicy teatru. ;Mają wskazówki do teatru. ;0
+Kobieta nie była w pracy. ;effect;Jej szef ją pochwalił. ;Jej współpracownik ją krył. ;1
+Ten człowiek podpisał petycję aktywistów. ;cause;Wspierał ich sprawę. ;Oskarżył ich o szaleństwo. ;0
+Serce aktora trzęsło przed jego występem. ;cause;Miał trzęsienie palca. ;Zapamiętał swoje linie. ;0
+Byłem zagubiony. ;effect;Policzyłem kasę. ;Rozwinąłem mapę. ;1
+Dojrzałe owoce pozostawały na słońcu. ;effect;Został zjedzony. ;Zmarszczyła się. ;1
+Samochód się zepsuł. ;cause;Włączyłem zapłon. ;Silnik się przegrzał. ;1
+Ten człowiek zranił się w plecy. ;effect;Poszedł do psychiatry. ;Przez kilka dni leżał w łóżku. ;1
+Rozpaliłem ogień w kominku. ;cause;Nie miałem drewna. ;Było zimno w domu. ;1
+Kobieta przestała biegać. ;cause;Ma skurcz w boku. ;Dostała drugiego oddechu. ;0
+Pukałem do sąsiadów. ;effect;Sąsiad zaprosił mnie do środka. ;Moja sąsiadka opuściła dom. ;0
+Kobieta wzdychała z frustracji. ;cause;Mąż źle zrozumiał jej obawy. ;Jej mąż pocałował ją na pożegnanie. ;0
+Nauczyciel pochwalił ucznia. ;cause;Student poprawnie odpowiedział na pytanie. ;Student wahał się odpowiedzieć na pytanie. ;0
+Kobietom skończyły się jajka. ;effect;Poszła na farmę. ;Poszła do supermarketu. ;1
+Spotkałem starego przyjaciela. ;effect;Ujawniłem mu sekret. ;Przytuliłem go. ;1
+Kobieta unikała wchodzenia do jeziora. ;cause;Złapała rybę. ;Wyglądało na zanieczyszczone. ;1
+Uczeń przyszedł do klasy mokry. ;cause;Jego parasol był zepsuty. ;Ukradli mu rower. ;0
+Kursor na ekranie komputera się poruszył. ;cause;Użytkownik kliknął myszą. ;Użytkownik przesunął mysz. ;1
+Kierowca zrobił okrążenie. ;cause;Na głównej drodze zdarzył się wypadek. ;Poszła za ciężarówką przed nią. ;0
+Powiesiłem mokre bielizne na sznurze do bielizny. ;effect;Linie wyschły. ;Płótno jest poplamione. ;0
+Kobieta założyła okulary. ;cause;Światło słoneczne było jasne. ;Wezwała taksówkę. ;0
+Mężczyzna wpatrywał się w nocne niebo. ;cause;Chciał, żeby było lato. ;Uznał, że to piękne. ;1
+Byłem wykończony. ;effect;Poszedłem wcześnie spać. ;Nie spałam całą noc. ;0
+Człowiek poszedł do fryzjera. ;cause;Wyrastały mu włosy. ;Jego włosy stawały się długie. ;1
+Chłopiec wykiwał nowemu kolegę z klasy. ;cause;Chłopiec przywitał nowego kolegę z klasy. ;Chłopak nie lubił nowego kolegę z klasy. ;1
+Chciałam szklankę mleka. ;cause;Jadłem ciasteczka. ;Piekłem chleb. ;0
+Zaczął padać deszcz. ;effect;Kierowca włączył reflektory. ;Kierowca wjechał w tył. ;0
+Parking budynku był pusty. ;effect;Zaparkowałem naprzeciwko. ;Zaparkowałem przy wejściu. ;1
+Pisarz nie dostał się do terminu na przesłanie szkicu. ;cause;Miała blokadę pisarską. ;Ona to edytowała. ;0
+Współpracownik odłożył słuchawkę. ;cause;Poprosiłem o rozmowę z przełożonym. ;Podałem numer identyfikacyjny. ;0
+Wiatr wleciał przez otwarte okno. ;effect;Dzwonił dzwonek. ;Zasłony drżały. ;1
+W moim domu wyłączyli prąd. ;cause;Wyłączyłem lampę. ;Wybuchł mi bezpiecznik. ;1
+Podnosicielem ciężarów mruknął. ;cause;Wyciągnął mięśnie przed lustrem. ;Podniósł pręt nad głową. ;1
+Uczeń próbował obliczyć to w głowie. ;effect;Wyciągnął kalkulator. ;Zmylił się. ;1
+Dziecko zasnęło. ;cause;Ojciec zmienił dziecku pieluchę. ;Ojciec delikatnie kołysze dzieckiem. ;1
+Dziewczyna rzuciła balonem wodnym w chłopca. ;effect;Chłopak ma wstrząs mózgu. ;Chłopak się zmoczył. ;1
+Fotograf zapomniał użyć błysku w aparcie. ;effect;Zdjęcia okazały się rozmyte. ;Na zdjęciach wszyscy się nie uśmiechali. ;0
+Odmówiłem zaproszenia na przyjęcie urodzinowe. ;cause;Byłam samotna. ;Byłem poza miastem. ;1
+Ćwiczyłam. ;cause;Czułem się energiczny. ;- Bałam się. ;0
+Wycisnąłem wilgotną gąbkę. ;effect;Wchłonęła wodę. ;Woda wyciekła z niego. ;1
+Wakacjonariusze pojechali promem na ośrodek. ;cause;Ośrodek był zarezerwowany. ;Ośrodek był na wyspie. ;1
+Nastolatek ma tatuaż. ;cause;Bała się igieł. ;Chciała się zbuntować. ;1
+Nieznany samochód zaparkowany przed moim domem. ;effect;Zacząłem coś podejrzewać. ;Zadzwoniłam na policję. ;0
+Zbrodniarz sam się poddał. ;cause;Dowody wskazują na niego. ;Nie było żadnych dowodów przeciwko niemu. ;0
+Ten gruby człowiek postanowił schudnąć. ;effect;Odciął słodycze. ;Unikał kofeiny. ;0
+Dziewczyna stanęła na lodzie. ;effect;- Poślizgnęła się. ;Drżała. ;0
+Kobieta miała pod oczami kolczyki. ;cause;Nie spała całą noc. ;Położyła syna do łóżka. ;0
+Lawa wypływała z wulkanu. ;cause;Wulkan wybuchł. ;Wulkan był uśpiony. ;0
+Kobieta założyła buty. ;cause;Znała wszystkich na przyjęciu. ;Chciała wyjść z imprezy. ;1
+Zapłaciłem za to. ;effect;Pozwoliła mi przejść przez budkę. ;Zatrzymała mnie przy budce. ;0
+Kierownik bankructwa. ;cause;Sprzedał akcje swojej firmy. ;Marnował fortunę. ;1
+Ten człowiek poszedł do lekarza. ;cause;Doktor był na urlopie. ;Mężczyzna poczuł się źle. ;1
+Wyszłam przez okno. ;cause;Dom był w ogniu. ;Dom był pusty. ;0
+Palce chłopca stały się ślifowe. ;cause;Wziął długi prysznic. ;Zmył ręce mydłem. ;0
+Wypluję mleko. ;cause;Mleko miało kwaśny smak. ;Miałem suche usta. ;0
+Przegapiłem autobus. ;effect;Byłem wcześnie w pracy. ;Spóźniłam się do pracy. ;1
+Ciężarówka zderzyła się z samochodem. ;effect;Ciężarówka przyspieszyła. ;Samochód został rozbity. ;1
+Zespół manipulował konkursem na swoją korzyść. ;effect;Wygrali. ;Wypadli. ;0
+Butelka z wodą syczyła. ;cause;Odwróciłem butelkę. ;Zwinąłem czapkę. ;1
+Chłopak został zamknięty na zewnątrz. ;effect;Wpełzł przez otwarte okno. ;Wskoczył na dach. ;0
+Dzwonił dzwonek. ;effect;Gość zapukał do drzwi. ;Kobieta wpatrywała się przez dziurę w drzwiach. ;1
+Człowiek pomalował garnitur. ;effect;Poszedł do pralni. ;Powiesił go w swojej szafie. ;0
+Dziewczyna wycisnęła tubkę pasty do zębów. ;effect;Pasta do zębów wysypiała się z rurki. ;Dziewczyna wypluła pastę do zębów. ;0
+Liczba ofiar śmiertelnych w wojnie wzrosła. ;effect;Pacyfistów zorganizował protest. ;Pacyfistów odbyła parada. ;0
+Dziewczyna wyciągnęła wstążkę z włosów. ;cause;Ona zawiązała wstążkę. ;Ta wstążka wyglądała jak dziecinna. ;1
+Mężczyzna przeszedł operację plastyczną. ;effect;Starzał. ;Wyglądał młodziej. ;1
+Z jajka wyłoniło się kurczak. ;cause;Jajko się wykluło. ;Rozbiłam jajo. ;0
+Więzień głodował. ;effect;- Nie żyje. ;Uciekł. ;0
+Człowiek stracił równowagę na drabinie. ;effect;Wspiął się po drabinie. ;Spadł z drabiny. ;1
+Dziecko rżnęło. ;cause;Wziął łyk sody. ;Otworzył puszkę napoju. ;0
+Przez okno wchodził zimny przeciąg. ;effect;Odprężam się. ;Drżałam. ;1
+Student otrzymał stypendium na studia. ;cause;Koledzy szanowali ją. ;Miała dobre oceny. ;1
+Dziewczyna wyśmiewała się z chłopca. ;cause;Mieszkała obok niego. ;Była w nim zakochana. ;1
+Głodny włóczęga ukradł jedzenie. ;cause;Zachęcał do współczucia. ;Nie miał pieniędzy. ;1
+Zadzwoniłam do przyjaciela, żeby pogadać. ;cause;Chciałem prywatności. ;Czułam się samotna. ;1
+Ten człowiek wyciągnął do mnie rękę. ;effect;Uścisnąłem mu dłoń. ;Uderzyłem go. ;0
+Zwinąłem się. ;cause;Fajerwerki rozstrzeliły się w powietrzu. ;Frisbee poleciało w moją stronę. ;1
+Dziewczyna ugryzła sobie paznokcie. ;cause;Martwiła się. ;Była zaskoczona. ;0
+Odwróciłem stronę kalendarza. ;cause;Zapisałam spotkanie w kalendarzu. ;To był początek nowego miesiąca. ;1
+Mąż odkrył, że jego żona miała romans. ;effect;Zwolnił swojego adwokata. ;Złożył pozew o rozwód. ;1
+Dziewczyna upuściła gumę. ;effect;Piłka odbiła. ;Piłka świeciła. ;0
+Dziewczyna popełniła błąd na egzaminie. ;effect;Zgadła odpowiedź. ;Wymazała swoją odpowiedź. ;1
+Gracz zaatakował przeciwnika. ;effect;Jego przeciwnik złapał. ;Jego przeciwnik spadł na ziemię. ;1
+Zbierałem pomidory z winorośli. ;cause;Były dojrzałe. ;Polewałem je. ;0
+Ten człowiek chciał się zachowywać romantycznie. ;effect;Spotkał swoją byłą dziewczynę na lunchu. ;Kupił swojej dziewczynie czekoladki. ;1
+Rtęć w termometrze wzrosła. ;cause;Upuściłem termometr. ;Pogoda się rozgrzała. ;1
+Przez miasto przeszło tornado. ;effect;Dach sądu wyszedł w powietrze. ;Autostrada stała się niebezpiecznie lodowata. ;0
+Uczeń otrzymał korepetycje. ;effect;Jego oceny się poprawiły. ;Oszukał na egzaminie. ;0
+Czułem się komfortowo. ;cause;Kleknąłem na ziemi. ;Zawinąłem się w koc. ;1
+Wypolerowałem kamień. ;effect;Stało się śliskie. ;Stało się błyszczące. ;1
+Dodałem cukru do kawy. ;effect;Kawa pachniała mocno. ;Kawa smakowała słodko. ;1
+Mężczyzna przeczesał gazety. ;effect;Zranił się w papierze. ;Rozszarpał papiery. ;0
+Uderzyłem w paznokieć młotkiem. ;effect;Wbił go w drewno. ;Paznokcie zardzewiały. ;0
+Ryba ugryzła linę. ;effect;Rybacz wyciągnął rybę. ;Rybacz odtwarza linę. ;0
+Nastolatka wstydziła się chodzić do szkoły. ;cause;Ma pryszcze. ;Zdejmowała aparat. ;0
+Wyraz twarzy się rozjaśnił. ;cause;Dostałem dobre wieści. ;Straciłem cierpliwość. ;0
+Wytrąciłem ręce ręcznikiem. ;cause;Ręcznik był mokry. ;Moje ręce były mokre. ;1
+Człowiek stracił równowagę na stołku. ;cause;Stołek się pod nim kołysze. ;Rozlał farbę na stołek. ;0
+Koledzy z drużyny obwiniali się nawzajem. ;cause;Przegrali grę. ;Ich trener odwołał trening. ;0
+Prosiłem o przebaczenie. ;cause;Żałowałem swojego błędu. ;Osiągnąłem swój cel. ;0
+Kobieta znudziła się ze swoim chłopakiem. ;cause;Zadawał jej pytania o nią samą. ;Nieustannie mówił o sobie. ;1
+Dziewczyna wyśmiechnęła się. ;effect;Jej policzki się zaczerwieniły. ;Widać było jej dołka. ;1
+Wróżniczy statek wybuchł. ;cause;Przeleciał nad kopalnią. ;Wpłynęła do portu. ;0
+Facet przebił sobie stopę. ;cause;Wpadł w kałużę. ;Wkopał się w szkło. ;1
+Detektywi przeszukali miejsce zbrodni w poszukiwaniu odcisków palców. ;effect;Odkryli tożsamość mordercy. ;Znaleźli broń na miejscu zbrodni. ;0
+Na autostradzie był duży ruch. ;effect;- Wziąłem skrót. ;Poprosiłem o podwiezienie. ;0
+Gospodarka kraju spadła. ;effect;Wielu ludzi zachorowało. ;Wielu ludzi było bezrobotnych. ;1
+Strażnik na przejściu gwizdał na dzieci. ;cause;Chcieli wpaść w napływający z przeciwnej strony ruch. ;Poznała ich z sąsiedztwa. ;0
+Odwróciłem oczami na mojego przyjaciela. ;cause;Powiedział mi prawdę. ;Zrobił sarkastyczną uwagę. ;1
+Samochód skończył się z benzyną. ;effect;Kierowca utknął na drodze. ;Kierowca podniósł autostopowicza. ;0
+Kobieta zaczęła rodzić. ;effect;Dziecko urodziło się. ;Kobieta miała poranne mdłości. ;0
+Kapelusz tego człowieka odleciał. ;cause;Zdejmował kapelusz. ;Na zewnątrz wiatr. ;1
+Dziewczyna wzięła udział w urodzinach kolegi z klasy. ;cause;Dostała zaproszenie. ;Kupiła prezent. ;0
+Czoło chłopca było gorące. ;effect;Jego matka zmierzyła temperaturę. ;Jego matka zabrała go do parku. ;0
+Ten człowiek rozpylał się wodą kolońską. ;cause;Chciał zaimponować swojej randce. ;Włożył sobie żel do włosów. ;0
+Prąd w domu się wyłączył. ;effect;Szukałem latarki. ;Wziąłem łopatę. ;0
+Rodzina przeprowadziła się do większego domu. ;cause;Syn ukończył liceum. ;Matka urodziła bliźnięta. ;1
+Maratonista trzymał się wolnego tempa. ;cause;Chciała oszczędzać energię. ;Widziała linię mety. ;0
+Chłopak kopnął automat. ;cause;Maszyna wypluła resztę. ;Torba chipsów utknęła. ;1
+Pies mojego przyjaciela umarł. ;effect;Odwróciłam na niego oczami. ;Przytuliłem go. ;1
+Karta kredytowa biznesmena została odrzucona. ;effect;Napisał dług. ;Zapłacił gotówką. ;1
+Człowiek przeklęty. ;cause;Obciął paznokcie. ;Uderzył się w palec. ;1
+Mężczyzna był dumny ze swojego brata. ;cause;Jego brat się pokłócił z rodzicami. ;Jego brat został przyjęty na studia prawnicze. ;1
+Dziewczyna chciała się dowiedzieć o Układzie Słonecznym. ;effect;Poszła do biblioteki. ;Patrzyła na gwiazdy. ;0
+Plakat przyczepił się do ściany. ;cause;Postawiłem plakat nad drzwiami. ;Przyczepiłem taśmę na tył plakatu. ;1
+Klient zatwierdził plany architektów budynku. ;effect;Architekt zbudował budynek. ;Architekt dostosował plany. ;0
+Facet upuścił łyżkę. ;cause;Jego ręka się trzęsła. ;Polizał łyżkę. ;0
+Prezes firmy zrezygnował. ;effect;Zarząd rozwiązał firmę. ;Zarząd znalazł jego zastępcę. ;1
+Przyjechałem późno na wykład. ;effect;Usiadłem w ostatnim rzędzie. ;Podszedłem do podium. ;0
+Ten człowiek został wypuszczony z więzienia. ;cause;Jego rodzina zapłaciła kaucję. ;Zaatakował współwięźnia. ;0
+Rodzina straciła wszystkie swoje rzeczy. ;cause;Sprzedali swój dom. ;Ich dom się palił. ;1
+Zdepnąłem aluminiową puszkę. ;effect;- Zbiornik został poddany recyklingowi. ;Pół puszki się rozbił. ;1
+Dziewczyna dołączyła do zespołu debaty. ;effect;Nauczyła się używać komputera. ;Nauczyła się umiejętności komunikacji. ;1
+Mój nastrój się poprawił. ;cause;Słuchałem muzyki. ;Umyłam naczynia. ;0
+Organizacja charytatywna postawiła sobie za cel zebranie pieniędzy. ;effect;Karmiły bezdomnych. ;Zorganizowali aukcję. ;1
+Kolejka górska zjechała w dół stromej przepaści. ;effect;Pasażerowie się chichotali. ;Pasażerowie krzyczeli. ;1
+Byłem wściekły. ;effect;Sprawdziłem skrzynkę pocztową, gdy wychodziłem z domu. ;Zamknąłem drzwi, wychodząc z domu. ;1
+Ten człowiek chciał zobaczyć wschód słońca. ;effect;Podróżował na północ. ;Wstał wcześnie. ;1
+Złożyłem papier. ;effect;Zrecyklowałem papier. ;Papier się zmarszczył. ;1
+Naród przeżył katastrofę naturalną. ;effect;Przywódcy innych krajów zawarli sojusz. ;Przywódcy innych krajów wysłali pomoc. ;1
+Ubrania chłopca były mokre. ;cause;Wyszła z basenu. ;Spadł do basenu. ;1
+Student spieszył się, by dokończyć książkę. ;cause;Miała być zwrócona do biblioteki. ;Pożyczył go od przyjaciela. ;0
+Zbrodniarz został stracony. ;cause;Wyrzucono go do więzienia. ;Został skazany za morderstwo. ;1
+Światło słoneczne weszło do pokoju. ;cause;Otworzyłam zasłony. ;Otworzyłam drzwi. ;0
+Wyrywałem włosy oszustce. ;effect;Jej peruka spadła. ;Zostal łysy. ;0
+Redaktor zmienił zdanie w rękopisie. ;cause;Rękopis był dla niego przekonujący. ;Uznał, że wyrok jest niejasny. ;1
+Kobieta anulowała konto karty kredytowej. ;cause;Zdała sobie sprawę, że brakuje karty. ;Zdała sobie sprawę, że karta wygasła. ;0
+Mężczyzna i kobieta zakochali się w sobie. ;effect;Chodzili na studia. ;Poślubiły się. ;1
+Muzyka była zbyt słaba, by ją usłyszeć. ;effect;Podkręciłem głośność. ;Skomponowałem własną piosenkę. ;0
+Włosy chłopca wystały mu na głowę. ;cause;Dziewczyna to rozkręciła. ;Dziewczyna go wyciągnęła. ;0
+- Robię to, co muszę. ;cause;Rozpyliłem się środkiem przeciwinseksualnym. ;Wkopałem się w pluskwę. ;1
+Otworzyłem oczy. ;cause;Obudziłam się. ;Odprężam się. ;0
+Muzyka mojego sąsiada była głośna. ;effect;Poprosiłem go, żeby to wyłączył. ;Poprosiłem go o pożyczenie płyty. ;0
+Jego rodzina żyła w ubóstwie. ;cause;Był oszczędny w zarobkach. ;Zarabiał poniżej minimalnej płacy. ;1
+Student ukończył uniwersytet. ;effect;Szukał pracy. ;Wziął sobie hobby. ;0
+Artysta zmieszał żółtą farbę z niebieską. ;effect;Farba rozrzucona wszędzie. ;Farba zmieniła się na zielono. ;1
+Zmieniłem temat rozmowy. ;cause;Skończyły mi się tematy do rozmowy. ;Rozmowa stała się napięta. ;1
+Mój brat został wypisany ze szpitala. ;effect;Powitałem go w domu. ;Oddałem mu zimne ramię. ;0
+Zasłona na scenie została podniesiona. ;effect;Zaczęła się scena otwierająca sztukę. ;Aktorzy w sztuce opuścili scenę. ;0
+Zakładnik poddał się nakazom porywacza. ;cause;Porywacz groził, że skrzywdzi zakładnika. ;Porywacz zostawił zakładnika samego. ;0
+Na scenie rozbrzmiewał dżum. ;cause;Muzyk uderzył stopą. ;Muzyk uderzył w bęben. ;1
+Rodzice pobiegli do sypialni dziecka. ;cause;Dziecko obudziło się krzycząc z koszmaru. ;Dziecko bało się zajrzeć pod łóżko. ;0
+Kobieta porozumiewała się językiem migowym. ;cause;Urodziła się przedwcześnie. ;Urodziła się głuchą. ;1
+W tym regionie nastąpiła susza. ;effect;Woda została skażona. ;Zniszczyły się plony. ;1
+Kot gonił ptaka. ;effect;Ptak odleciał. ;Ptak złapał robaka. ;0
+Dziewczyna zmieniła szkołę. ;cause;Szkoła wypuściła na lato. ;Przeprowadziła się do nowego miasta. ;1
+Właściciel fabryki odmówił podwyżki płac pracownikom. ;effect;Właściciel mianował nowego kierownika. ;Pracownicy strajkowali. ;1
+Przywódca wprowadził ekstremistów w konflikt ze swoim krajem. ;effect;Ekstremiści na niego wpłynęli. ;Ekstremiści go zamordowali. ;1
+Chodziłem boso po plaży. ;effect;Piasek mi się przyczepił do stóp. ;Fale uderzyły wzdłuż brzegu. ;0
+Obudziłem się w środku nocy, czując zimno. ;effect;Założyłam dres. ;Wypiłem szklankę wody. ;0
+Matka uciszyła syna. ;cause;Jej syn się uśmiechnął. ;Jej syn jęczał. ;1
+Dziura w moich dżinsach. ;cause;Zamknąłem dżinsy. ;Potknąłem się o chodnik. ;1
+Chłopak nosił aparat. ;effect;Ma dziurę. ;Zęby mu się wyprostowały. ;1
+Wczoraj ćwiczyłam na siłowni. ;effect;Obudziłam się dziś z bólem mięśni. ;Obudziłam się dziś z bólem gardła. ;0
+Dziewczyna szepczeła tam i z powrotem do siebie przy stole obiadowym. ;effect;Inni uczniowie usiedli przy stole obiadowym. ;Inni uczniowie przy stole czuli się wyłączeni. ;1
+Dziecko wylądowało na trampolinie. ;effect;Wskoczyła w powietrze. ;Postanowiła spróbować zrobić flip. ;0
+Odłożyłem list do skrzynki pocztowej. ;effect;Poczta dostarczyła list. ;Poczta przyspieszyła list. ;0
+Hazardzista był pewny siebie. ;effect;Założył wszystkie swoje pieniądze. ;Wrócił do domu spłukany. ;0
+Pożar się rozprzestrzenił. ;cause;Wiatr stał się silniejszy. ;Podpalacze zostali zatrzymani. ;0
+Dziecko obdzierało sobie kolano. ;effect;Matka wysłała go do pokoju. ;Jego matka zabandażowała ranę. ;1
+Mężczyzna przeżył śmiertelną chorobę. ;cause;Podpisał testament. ;Dostał przeszczep narządu. ;1
+Wziąłem łyk gorącej kawy. ;effect;Ugryzłem się w język. ;Spaliłem język. ;1
+Redaktor zwolnił pisarza. ;cause;Pisarz unikał uprzedzeń w swoich opowieściach. ;Pisarz przegapił ważny termin. ;1
+Byłem wykończony. ;cause;Spałem cały dzień. ;Uczyłam się cały dzień. ;1
+Lekarz postawił diagnozę pacjentowi. ;cause;Zidentyfikowała objawy pacjenta. ;Przepisała pacjentce pigułki. ;0
+Zarysowałem się. ;cause;Było pociane. ;Świerzyło. ;1
+Mężczyzna przeszedł nagłą operację. ;cause;Stracił panowanie nad sobą. ;Dostał ataku serca. ;1
+Mięśnie ramion wybrzuszone. ;cause;Zgiął ręce. ;Pocierał sobie ręce. ;0
+Mężczyzna podniósł brwi. ;cause;Był zaskoczony. ;Był zniechęcony. ;0
+Wybaczyłem kolegę za jego błąd. ;cause;Wierzyłem, że ma dobre intencje. ;Wierzyłem, że on wie lepiej. ;0
+Facet rzucił palenie. ;effect;Zaczął więcej ćwiczyć. ;Zaczął się budzić wcześniej. ;0
+Kobieta uderzyła napastnika w nos. ;effect;Ciało napastnika zostało pozbawione życia. ;Napastnik zaczął krwawić. ;1
+Strzała nie trafiła w cele. ;cause;Mężczyzna nie celował. ;Facet przegrywał. ;0
+Właściciel domu poprosił o przybycie do niego strażnika. ;cause;Odkrył szczury w piwnicy. ;W swoim pokoju trzymał farmę mrówek. ;0
+Zasugerowałem mojemu gościowi, żebyśmy poszli na kolację. ;cause;Byłam zbyt zmęczona, by cokolwiek przygotować. ;Moja gość została dłużej niż powinna. ;0
+Dziewczyna przyłapała brata na czytaniu jej pamiętnika. ;effect;Zaczęła ukrywać pamiętnik. ;Ma nowy pamiętnik. ;0
+Kobieta miała mało pieniędzy na czynsz. ;effect;Pracowała nadgodziny. ;Zrezygnowała z pracy. ;0
+Ręka dziecka szybko się wycofała. ;cause;Dotknął gorącego pieca. ;Podał szczeniakowi po głowie. ;0
+Firma chciała zmierzyć satysfakcję klientów. ;effect;Zaoferowali zniżki nowym klientom. ;Rozdzierali ankietę klientom. ;1
+Drewniana podłoga została zarysowana. ;cause;Chłopak wyrzucił poduszki z kanapy. ;Chłopiec przeciągnął krzesło po podłodze. ;1
+Ukryłem twarz. ;cause;Mój wróg mnie wyśmiewał. ;Mój wróg podniósł pięść. ;1
+Słynna posąg spłonęła. ;cause;Uderzył ją piorun. ;Ludzie przychodzili, by go czcić. ;0
+Zostawiłem owoce na stole. ;effect;Owoce rzucają nasiona. ;Muchy roiły się od owoców. ;1
+Balerina zryła więzadło. ;cause;Wskazała palcami. ;Skręciła kostkę. ;1
+Dziecko rozwiązało sznurki. ;cause;Nauczył się je wiązać. ;Biegł po placu zabaw. ;1
+Książka mnie zafascynowała. ;effect;Oddałem książkę. ;Straciłem poczucie czasu. ;1
+Mężczyzna ten wyznawał podobne wierzenia jak jego rodzice. ;cause;Jego rodzice wywarli na niego wpływ. ;Jego rodzice go wyrzekli. ;0
+Samochód stopniowo zwolnił i się zatrzymał. ;cause;Skończyło się paliwo. ;Kierowca zasnął. ;0
+Człowiek zjadł lody na słońcu. ;effect;Lody straciły smak. ;Lody spadły z stożka. ;1
+Wisiałem dzieła sztuki w pokoju. ;cause;Dywan wyglądał na brudny. ;Ściany wyglądały na puste. ;1
+Wcześnie wyszłam z pracy. ;cause;Boli mnie głowa. ;Mój szef odbył spotkanie. ;0
+Szczeniak zabrudził dywan. ;effect;Właściciel nakrzyczał szczeniakowi. ;Właściciel dał szczeniakowi przysmaki. ;0
+Przeprosiłem mojego przyjaciela. ;effect;Mój przyjaciel mi wybaczył. ;Mój przyjaciel wpadł w furię. ;0
+Ten mężczyzna wyróżniał się w tłumie. ;cause;Nosił plecak. ;Miał neonową kamizelkę. ;1
+Świadek skłamał pod przysięgą. ;effect;Ukończył zeznania. ;Został oskarżony o krzywoprzysięstwo. ;1
+Kobieta farbowała włosy. ;cause;Chciała nowego wyglądu. ;Chciała się wtopić. ;0
+Imigranci zostali przyłapani na nielegalnym pobycie w kraju. ;effect;Znaleźli pracę. ;Zostali deportowani. ;1
+Mówca publiczny zrobił żart. ;effect;Publiczność się śmiała. ;Publiczność wstała. ;0
+Spojrzałam w słońce. ;effect;Słońce mnie oślepiło. ;Słońce opaleniło moją skórę. ;0
+Nudziło mi się. ;effect;- Snuchnąłem. ;Zażakałem. ;1
+Stek był trudny do pokrojenia. ;cause;Nóż był tępy. ;Stek był surowy. ;0
+Kobieta ogłosiła bankructwo. ;cause;Dostała alimenty. ;Zarobiła ogromny dług. ;1
+Światła w mieszkaniu mojego przyjaciela były włączone. ;effect;Zastanawiałem się, czy go nie ma. ;Postanowiłem go odwiedzić. ;1
+Włożyłam kwiat pod nos. ;effect;Kwitną z kwiatu. ;Wyczułem zapach kwiatu. ;1
+Kobieta czuła nostalgię. ;cause;Spotkała przyjaciela z dzieciństwa. ;Krzyczała na swoje dzieci. ;0
+Uczeń zwlekał z pracą. ;effect;Złożył pracę wcześniej. ;Przesłał niepełny dokument. ;1
+Mój samochód się zepsuł. ;effect;Byłam w centrum handlowym. ;Zadzwoniłem do mechanika. ;1
+Wyrzuciłem list. ;cause;To było anonimowe. ;Było nieczytelne. ;1
+Ptak zaczoł skrzydłami. ;effect;Składała jaja. ;Wzniósł się w górę. ;1
+Zaparkowałem na podjeździe. ;cause;Garaż był otwarty. ;Garaż był pełny. ;1
+Przestępca celował w ofiarę. ;effect;Przestępca odłożył broń. ;Ofiara podniosła ręce. ;1
+Czekałem na weekend. ;cause;Miałem zamiar wziąć udział w pogrzebie mojego wuja. ;Miałem zamiar wziąć udział w ślubie mojego przyjaciela. ;1
+Straciłem poczucie czasu. ;cause;Śniłem. ;Miałam mdłości. ;0
+Dokument wydrukowany nieczytelnie. ;cause;W drukarce skończył się atrament. ;Wydrukowano go z papieru. ;0
+Na stadionie brzmiał hymn narodowy. ;effect;Fani zwrócili się do flagi. ;Fani wpadli na boisko. ;0
+Zalew smakował jak mięso. ;effect;Ja ją podałem. ;Włożyłam do niego sól. ;1
+Położyłem ręcznik na wycieku. ;effect;Ręcznik wchłonął płyn. ;Wyciek pozostawił lepki ślad. ;0
+Kobieta została przerwana w trakcie czytania książki. ;effect;Zatrzymała swoją stronę. ;Przeczytała książkę. ;0
+Samolot wpadł w turbulencje. ;effect;Mężczyzna zacisnął pasy. ;Mężczyzna spojrzał przez okno. ;0
+Chłopak się zatrzęsł. ;cause;Dziewczyna go zignorowała. ;Dziewczyna go pchnąła. ;1
+Lekarze dali pacjentowi sztuczną kończynę. ;cause;Amputacja nogi. ;Monitorują jej funkcje życiowe. ;0
+Chłopak ścisnął łokieć dziewczynki. ;effect;Pochyliła na niego ramionami. ;Odciągnęła od niego rękę. ;1
+Poprosiłem mojego przyjaciela o radę. ;cause;Ceniłem jego opinię. ;Wiedziałem, że mam rację. ;0
+Chłopak wdepnął w błoto. ;effect;Błoto utkwiło mu na butach. ;Błoto uderzyło go w twarz. ;0
+Miasto dostało kilka centymetrów śniegu. ;effect;Zamknięto szkoły. ;Ludzie ukrywali się pod ziemią. ;0
+Zatrudnienie pracownika się skończyło. ;effect;Poszedł do domu na cały dzień. ;Groził, że rzuci pracę. ;0
+Drzewo uszkodziło dom. ;cause;Drzewo spadło na dach. ;Drzewo zacieniło ogród. ;0
+Drzewo rozpadło się na pół. ;cause;Włożyłem drewno do komina. ;Zrzuciłem siekierę w dół do drewna. ;1
+Rodzina pogratulowała małżonkom. ;cause;Para ogłosiła, że się rozstają. ;Para ogłosiła, że mają dziecko. ;1
+Dziewczyna wysłała chłopcu kartkę walentynkową. ;cause;Lubiła go. ;Pocałowała go. ;0
+Zaklinałem głową na zeznanie mojego przyjaciela. ;cause;Byłem zdezorientowany. ;Zgodziłem się z nim. ;1
+Przyjaciele rzucili monetą. ;cause;Chcieli znaleźć kompromis. ;Chcieli podjąć uczciwą decyzję. ;1
+Zgadza się. ;effect;Mężczyzna wyładował zakupy do lodówki. ;Facet wyjął pizzę z piekarnika. ;1
+Kobieta wyznaczyła sobie ambitny cel. ;effect;Ona się wyluzowała. ;Ciężko pracowała. ;1
+Bogaty człowiek zmarł ze starości. ;effect;Jego syn miał kłopoty z prawem. ;Jego syn odziedziczył fortunę. ;1
+Kobieta deptała po płomieniach. ;effect;Płomienie zgasły. ;Z płomieni wyłonił się dym. ;0
+Samochód tej kobiety był w warsztacie. ;cause;Jej prawo jazdy zostało cofnięte. ;Miała wypadek samochodowy. ;1
+Przespałem budzik. ;effect;Zrobiłam śniadanie. ;Przegapiłem śniadanie. ;1
+Postać publiczna wysiadła z limuzyny. ;effect;Kamery wyświetlały w jego kierunku. ;Jego rodzina uczestniczyła w konferencji prasowej. ;0
+Kobieta zatrzymała się w wannie. ;effect;Woda w łazience stała się letnia. ;Woda z wanny wyciekła. ;0
+Student chciał poznać innych studentów na kampusie. ;effect;Dołączył do bractwa. ;Studiował inżynierię. ;0
+Podniosłam poduszki z kanapy. ;cause;Szukałem drobnych. ;Przeorganizowałem salon. ;0
+Osa poleciała w kierunku chłopca. ;effect;Chłopak uciekł. ;Chłopiec zebrał kwiat. ;0
+Kobieta została uznana za winną wykroczenia. ;effect;Została skazana na pracę społeczną. ;Została skazana na śmierć. ;0
+Wmieszałam cukier do gorącej herbaty. ;effect;Herbata parzyła. ;Cukier się rozpuścił. ;1
+Ten weteran chorował. ;cause;Został powołany na wojnę. ;Został ranny w walce. ;1
+Przestępca uciekł przed policją. ;effect;Policja zajęła się ofiarą. ;Policja ścigała przestępcę. ;1
+Laptop się nie włączył. ;cause;Upuściłem go. ;Naładowałem. ;0
+Kobieta nie miała już miejsca w szafie. ;cause;Ma dużą garderobę. ;Złożyła pranie. ;0
+Mężczyzna miał złamane serce. ;cause;Jego żona urodziła. ;Jego żona go zostawiła. ;1
+Mężczyzna uzyskał stopień naukowy. ;effect;Stał się wykwalifikowany do pracy, którą chciał. ;Jego oferta pracy została anulowana. ;0
+Głos tego mężczyzny wyraźnie rozbrzmiewał w całej sali. ;cause;Powitał publiczność. ;Mówił do mikrofonu. ;1
+Wrzuciłem monetę do fontanny. ;effect;Moneta zatonęła na dnie. ;Moneta pękła na pół. ;0
+Gracz uderza piłkę w stronę dołka. ;effect;Piłka wpadła do dziury. ;Piłka wróciła do gracza. ;0
+Wdychałem kurz na strychu. ;effect;Miałem czkawkę. ;Kichałem. ;1
+Kasjerka wzywała ochronę. ;cause;Klient użył fałszywych pieniędzy. ;Klient zostawił zapalone światła. ;0
+Wyniosłam śmieci. ;cause;Od śmieci kuchnia źle pachniała. ;Przypadkowo wyrzuciłam listę zakupów. ;0
+Rodzina poszła do zoo. ;effect;Dzieci podziwiały zwierzęta. ;Dzieci goniły zwierzęta. ;0
+Oddech tego człowieka był głośny. ;cause;Jego nerki zawodzą. ;Płuca były zatkane. ;1
+Miałem dodatkowy bilet na koncert. ;effect;Poprosiłem mojego przyjaciela o wskazówki. ;Zapytałem mojego przyjaciela, czy byłby zainteresowany pójściem. ;1
+Klimatyzator w domu się zepsuł. ;effect;Przyniosłam koce. ;Otworzyłam okna. ;1
+Chłopak ma bóle pleców. ;cause;Jego plecak był otwarty. ;Jego plecak był ciężki. ;1
+Kupiłem mamie prezent. ;cause;Upiekłam jej ciasto. ;To były jej urodziny. ;1
+Narcyzy w ogrodzie zostały zniszczone. ;cause;Pszczoła ukąsiła ogrodnika. ;Wiewiórki wykopały żarówki. ;1
+- Wbiłem zapałkę. ;effect;Płomień wygasł. ;Zapał wywołał płomień. ;1
+Strony sporu osiągnęły porozumienie. ;cause;Nie chcieli debatować w sądzie. ;Chcieli naprawić swoje relacje. ;0
+Dzieci zostały wysłane do sierocińca. ;cause;Ich rodzice nie żyją. ;Ich rodzice je rozpieszczali. ;0
+Meteoryt wylądował w oceanie. ;effect;Wystąpiło tsunami. ;Zaczęło gradzić. ;0
+Wędrowca natknął się na jadowity wąż. ;effect;Odwodniła się. ;Wpadła w panikę. ;1
+Piekarnik się nagrzał. ;cause;Włączyłam piekarnik. ;Włożyłam naczynie do piekarnika. ;0
+Wycisnąłem klina cytrynowego. ;effect;Cytryna się zapchła. ;Cytryna w strumień. ;1
+Kraj odkrył nowe ziemie. ;effect;Kraj porzucił ziemię. ;Kraj zajęł ziemię. ;1
+Szkło spadło ze stołu. ;effect;Rozbiło się na podłodze. ;Wylądował w stercie bielizny. ;0
+Stół się kołysze. ;cause;Podłoga była nierówna. ;Podłoga była śliska. ;0
+Ojciec przyłapał syna na kłamstwie. ;effect;Jego syn wyznał prawdę. ;Ojciec ufał synowi. ;0
+Głowa tego człowieka pulsowała od bólu. ;effect;Wziął syrop na kaszel. ;Wziął aspirynę. ;1
+Pociąg zwolnił. ;cause;Zbliżał się do stacji. ;Spóźniło się to z harmonogramem. ;0
+Mężczyzna przeszedł terapię. ;cause;Choroba psychiczna była w jego rodzinie. ;Zdiagnozowano u niego depresję. ;1
+Kobieta chwyciła za gardło. ;cause;Połknęła jedzenie. ;Udławiła się jedzeniem. ;1
+Kobieta miała ból gardła. ;effect;Jej głos brzmiał szorstko. ;Mówiła z akcentem. ;0
+Pies spojrzał na soczysty stek na stole. ;effect;Spalało się. ;To się stało. ;0
+Biznes tej kobiety się rozwijał. ;effect;Zwolniła swoich pracowników. ;Stała się bogata. ;1
+Uczniowie opuścili klasę. ;cause;Dzwonił dzwonek. ;Nauczyciel dał pracę domową. ;0
+Kobieta twierdziła, że widziała ducha. ;effect;Znajomi wyrazili sceptycyzm. ;Jej znajomi byli z nią spokrewnieni. ;0
+Człowiek stracił słuch. ;cause;Prawie utonął w oceanie. ;Prawie zginął w wybuchu. ;1
+Dziecko puściło sznurek balonu. ;effect;Balon się rozpłukał. ;Balon wzbił się w powietrze. ;1
+Człowiek stracił zdolność mówienia. ;cause;Miał udar. ;Wziął głęboki oddech. ;0
+Kobieta potknęła się na chodniku. ;cause;W cementie była pęknięcie. ;Słyszała, jak ją wołano. ;0
+Facet rzucił kulę armatną w basen. ;effect;Ratownik wskoczył za nim. ;Mężczyzna namoczył ratownika. ;1
+Brałam antybiotyki. ;effect;Moja infekcja ustąpiła. ;Moja infekcja się rozprzestrzeniła. ;0
+Światło na semaforze zmieniło się na żółte. ;effect;Kierowca nacisnął hamulec. ;Kierowca zatruł klaksonem. ;0
+Pojemnik z plastiku się stopił. ;cause;Zamoczyłem pojemnik w ciepłej wodzie. ;Położyłem pojemnik na gorącym piecu. ;1
+Samochód został wgnieciony. ;cause;Kierowca uderzył w słup telefoniczny. ;Kierowca przejechał na czerwonym. ;0
+Chłopak uczył się całą noc. ;effect;Nie zdał egzaminu. ;Zdał egzamin. ;1
+Młody chłopiec przylgnął do krawędzi basenu. ;cause;Bał się nauczyć pływać. ;Ratownik był na służbie. ;0
+Przyłożyłem rękę do klatki piersiowej. ;effect;Czułem bicie serca. ;Moje serce zaczęło bić szybciej. ;0
+Budynek przylegający do mojego biura był w budowie. ;effect;W moim biurze było tłoczno. ;W moim biurze było hałaśliwie. ;1
+Rodzina chciała poznać nowych sąsiadów. ;effect;Rodzina zaprosiła sąsiadów na kolację. ;Rodzina machała do sąsiadów z podwórka. ;0
+Woda wysypiała się z basenu. ;cause;Pływak zanurzył się w basenie. ;Pływak unosił się w basenie. ;0
+Ugryzłem kawałek arbuza. ;effect;Przypadkowo połknąłem nasienie. ;Przypadkowo złamałem sobie ząb. ;0
+Chłopak się potknął. ;cause;Jego kurtka była odzipnięta. ;Jego sznurki były rozwiązane. ;1
+Kobieta włożyła zatyczki do uszu. ;cause;Rozpraszał ją hałas. ;Miała przebite uszy. ;0
+Napełniłem butelkę z wodą. ;cause;Wypiłem całą wodę. ;Trzymałam go w lodówce. ;0
+Program telewizyjny został poddany cenzurze. ;cause;Zawierał wulgarne słowa. ;Miała skomplikowaną fabułę. ;0
+Statek rozbił się. ;effect;Załoga utonęła. ;Załoga spotkała piratów. ;0
+Chłopiec był zdumiony zagadką. ;effect;Rozwiązał zagadkę. ;Poprosił o wskazówkę. ;1
+Dzwonił telefon. ;effect;Ten człowiek odłożył słuchawkę. ;Ten człowiek odebrał telefon. ;1
+Ta kobieta się na mnie gapiła. ;effect;Przytuliłem ją. ;Czułem się niezręcznie. ;1
+Grupa opuściła muzeum. ;cause;Zrobili zdjęcia eksponatów. ;Przejrzeli wszystkie eksponaty. ;1
+Ten człowiek zaczął się ze mną kłócić. ;effect;Mój przyjaciel przedstawił mnie temu człowiekowi. ;Mój przyjaciel mnie bronił. ;1
+Opona mojego roweru była puste. ;effect;Wpompowałem powietrze do opony. ;Przełączyłem biegi na rowerze. ;0
+Dziewczyna wyglądała blado. ;effect;Jej ojciec czytał jej bajkę. ;Jej ojciec dotknął jej czoła. ;1
+W pióro skończył się atrament. ;effect;Użyłem ołówka. ;Podpisałem się. ;0
+Odmówiono mu pożyczki. ;cause;Był zadłużony. ;Założył firmę. ;0
+Dziewczyna nie chodziła do szkoły. ;cause;Miała ospy wietrznej. ;Lubiła naukę matematyki. ;0
+Worek na śmieci był pełny. ;effect;Zabrałem go do śmietnika. ;Wrzuciłem ją do zlewu. ;0
+Odkurzyłem dywan. ;cause;Mój współlokator rozlał puncha. ;Mój pies zrzuca włosy. ;1
+Człowiek stracił panowanie nad sobą. ;effect;Wyłączył komputer. ;Rzucił krzesło przez pokój. ;1
+Dziewczyna wrzuciła gałązkę do ogniska. ;effect;Gałązka spłonęła. ;Ogień się wyłączył. ;0
+Facet wyszedł z prysznica. ;cause;Gorąca woda zniknęła. ;Nie mógł znaleźć ręcznika. ;0
+Rodzice chcieli, żeby ich dzieci poszły na studia. ;effect;Złożyli na koszty czesnego. ;Zachęcali swoje dzieci do zabawy na zewnątrz. ;0
+Mężczyzna rozwiązał sznurki. ;effect;Buty się rozluźniły. ;Buty się zużyły. ;0
+Człowiek zjadł połowę przystawek. ;effect;Zamarzniął resztki. ;Zachował przepis. ;0
+Moja kostka była opuchnięta. ;effect;- Położyłem na nim lód. ;Włóżłam na to balsam. ;0
+Drzwi mojego biura były otwarte. ;effect;Rozmawiałem z kolegą przy biurku. ;Słyszałem rozmowę na korytarzu. ;1
+Musiałem czekać w kolejce. ;effect;Usiadłem. ;Przeglądałem magazyn. ;1
+Mężczyzna przypatrzył się muchzie. ;effect;Mucha odleciała. ;Mucha nie ruszyła się. ;0
+Ten człowiek napisał testament. ;cause;On umierał. ;Był wdowcem. ;0
+Biegacz wyczuł, że jego rywal go dogania. ;effect;Wyrzucił się z wyścigu. ;Przyspieszył swój temp. ;1
+Zastanowiłem się dokładnie nad problemem. ;effect;Poprosiłem o radę. ;Wymyśliłem rozwiązanie. ;1
+Podróżnik szedł po drżącym mostku wiszącym. ;effect;Był przerażony. ;Był w ekstazie. ;0
+Ten człowiek przewidział zwycięstwo drużyny. ;effect;Spotkał się ze swoimi przyjaciółmi, żeby obejrzeć mecz. ;Założył się ze swoimi przyjaciółmi. ;1
+Chłopak nie mógł zasnąć. ;effect;Ustawił budzik. ;Liczył owce. ;1
