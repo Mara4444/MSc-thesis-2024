@@ -1,0 +1,181 @@
+language;mgsm_basic;mgsm_cot
+afr_Latn;"Vraag:  {question} 
+Gebaseer op die vraag, formuleer 'n numeriese antwoord.  Antwoord: ";"Vraag:  {question} 
+Gebaseer op die vraag, formuleer 'n numeriese antwoord.  Antwoord:  Kom ons dink stap vir stap. "
+arb_Arab;"سؤال:  {question} 
+بناء على السؤال، صياغة إجابة رقمية.  الجواب: ";"سؤال:  {question} 
+بناء على السؤال، صياغة إجابة رقمية.  الجواب:  دعونا نفكر خطوة بخطوة "
+ban_Latn;"Pitakén:  {question} 
+Manut pitakén, ngarumusang jawaban numerik.  Bali: Pasaur danene sapuniki: ";"Pitakén:  {question} 
+Manut pitakén, ngarumusang jawaban numerik.  Bali: Pasaur danene sapuniki:  Ngiring iraga mapineh ring pahan-pahan. "
+bel_Cyrl;"Пытанне:  {question} 
+Зыходзячы з запыта, сфармулюйце лічбавы адказ.  Адказ: ";"Пытанне:  {question} 
+Зыходзячы з запыта, сфармулюйце лічбавы адказ.  Адказ:  Давайце падумаем крок за крокам. "
+ben_Beng;"প্রশ্ন:  {question} 
+প্রশ্নের ভিত্তিতে, একটি সংখ্যাসূচক উত্তর তৈরি করুন।  উত্তর: ";"প্রশ্ন:  {question} 
+প্রশ্নের ভিত্তিতে, একটি সংখ্যাসূচক উত্তর তৈরি করুন।  উত্তর:  ধাপে ধাপে চিন্তা করা যাক। "
+bod_Tibt;"དྲི་བ།  {question} 
+དྲི་བའི་གཞི་ནས་གྲངས་ཀྱི་ལན་འདེབས་ཤིག་བཀོད་རོགས།  ལན་སློག ";"དྲི་བ།  {question} 
+དྲི་བའི་གཞི་ནས་གྲངས་ཀྱི་ལན་འདེབས་ཤིག་བཀོད་རོགས།  ལན་སློག  རིམ་བཞིན་བསམ་བློ་གཏོང་དགོས། "
+bos_Latn;"Pitanje:  {question} 
+Na osnovu pitanja, formuliraj numerički odgovor.  Odgovor: ";"Pitanje:  {question} 
+Na osnovu pitanja, formuliraj numerički odgovor.  Odgovor:  Hajde da razmislimo korak po korak. "
+bul_Cyrl;"Въпрос:  {question} 
+Въз основа на въпроса формулирайте числов отговор.  Отговор: ";"Въпрос:  {question} 
+Въз основа на въпроса формулирайте числов отговор.  Отговор:  Нека да мислим стъпка по стъпка. "
+ces_Latn;"Otázka:  {question} 
+Na základě otázky formulujte číselnou odpověď.  Odpověď: ";"Otázka:  {question} 
+Na základě otázky formulujte číselnou odpověď.  Odpověď:  Pojďme to udělat krok za krokem. "
+cat_Latn;"Pregunta:  {question} 
+Basant-te en la pregunta, formula una resposta numèrica.  Resposta: ";"Pregunta:  {question} 
+Basant-te en la pregunta, formula una resposta numèrica.  Resposta:  Pensem pas a pas. "
+dan_Latn;"Spørgsmål:  {question} 
+Ud fra spørgsmålet formulér et talmæssigt svar.  Svar: ";"Spørgsmål:  {question} 
+Ud fra spørgsmålet formulér et talmæssigt svar.  Svar:  Lad os tænke trin for trin. "
+deu_Latn;"Frage:  {question} 
+Auf der Grundlage der Frage eine numerische Antwort formulieren.  Antwort: ";"Frage:  {question} 
+Auf der Grundlage der Frage eine numerische Antwort formulieren.  Antwort:  Denken wir Schritt für Schritt. "
+eng_Latn;"Question:  {question} 
+Based on the question, formulate a numeric answer.  Answer: ";"Question: {question} 
+Based on the question, formulate a numeric answer.  Answer:  Let's think step by step. "
+ell_Grek;"Ερώτηση:  {question} 
+Βάσει της ερώτησης, διατυπώστε μια αριθμητική απάντηση.  Απάντηση: ";"Ερώτηση:  {question} 
+Βάσει της ερώτησης, διατυπώστε μια αριθμητική απάντηση.  Απάντηση:  Ας σκεφτούμε βήμα-βήμα. "
+est_Latn;"Küsimus:  {question} 
+Vastuse põhjal koostada numbriline vastus.  Vastus: ";"Küsimus:  {question} 
+Vastuse põhjal koostada numbriline vastus.  Vastus:  Mõtleme samm-sammult. "
+fin_Latn;"Kysymys:  {question} 
+Laadi kysymyksen perusteella lukuinen vastaus.  Vastaa: ";"Kysymys:  {question} 
+Laadi kysymyksen perusteella lukuinen vastaus.  Vastaa:  Ajatellaan askel askeleelta. "
+fra_Latn;"Question: Vous avez  {question} 
+Sur la base de la question, formulez une réponse numérique.  Réponse: ";"Question: Vous avez  {question} 
+Sur la base de la question, formulez une réponse numérique.  Réponse:  Réfléchissons pas à pas. "
+hat_Latn;"Kesyon:  {question} 
+Ki baze sou kesyon an, fòmile yon repons nimerik.  Repons: ";"Kesyon:  {question} 
+Ki baze sou kesyon an, fòmile yon repons nimerik.  Repons:  Ann panse etap pa etap. "
+heb_Hebr;"שאלה:  {question} 
+בהתבסס על השאלה, תבצע תשובה מספרית.  תשובה: ";"שאלה:  {question} 
+בהתבסס על השאלה, תבצע תשובה מספרית.  תשובה:  בואו נחשוב צעד אחר צעד. "
+hin_Deva;"प्रश्न:  {question} 
+प्रश्न के आधार पर, संख्यात्मक उत्तर तैयार करें।  उत्तर: ";"प्रश्न:  {question} 
+प्रश्न के आधार पर, संख्यात्मक उत्तर तैयार करें।  उत्तर:  चलो कदम से कदम सोचो. "
+hun_Latn;"Kérdés:  {question} 
+A kérdés alapján számszerű válasszal válaszoljon.  Válasz: ";"Kérdés:  {question} 
+A kérdés alapján számszerű válasszal válaszoljon.  Válasz:  Gondolkozzunk lépésről lépésre. "
+hrv_Latn;"Pitanje:  {question} 
+Na temelju pitanja, formulirajte numerički odgovor.  Odgovor: ";"Pitanje:  {question} 
+Na temelju pitanja, formulirajte numerički odgovor.  Odgovor:  Razmislimo korak po korak. "
+hye_Armn;"Հարց.  {question} 
+Հարցի հիման վրա կազմեք թվային պատասխան:  Պատասխան. ";"Հարց.  {question} 
+Հարցի հիման վրա կազմեք թվային պատասխան:  Պատասխան.  Եկեք քայլ առ քայլ մտածենք: "
+ind_Latn;"Pertanyaan:  {question} 
+Berdasarkan pertanyaan, buatlah jawaban numerik.  Jawabannya: ";"Pertanyaan:  {question} 
+Berdasarkan pertanyaan, buatlah jawaban numerik.  Jawabannya:  Mari kita berpikir langkah demi langkah. "
+ita_Latn;"Domanda:  {question} 
+Sulla base della domanda, formulare una risposta numerica.  Risposta: ";"Domanda:  {question} 
+Sulla base della domanda, formulare una risposta numerica.  Risposta:  Pensiamo passo dopo passo. "
+jav_Latn;"Pitakonan:  {question} 
+Adhedhasar pitakonan, formulasi jawaban numerik.  Wangsulan: ";"Pitakonan:  {question} 
+Adhedhasar pitakonan, formulasi jawaban numerik.  Wangsulan:  Ayo dipikir langkah demi langkah. "
+jpn_Jpan;"質問: どこにいる?  {question} 
+質問に基づいて,数値で答えを述べる.  答え: 答えは ";"質問: どこにいる?  {question} 
+質問に基づいて,数値で答えを述べる.  答え: 答えは  段階的に考えましょう "
+khm_Khmr;"សំណួរ:  {question} 
+ផ្អែកលើសំណួរនេះ សូមរៀបចំចម្លើយតាមចំនួន។  ចម្លើយ: ";"សំណួរ:  {question} 
+ផ្អែកលើសំណួរនេះ សូមរៀបចំចម្លើយតាមចំនួន។  ចម្លើយ:  យើងគិតមួយជំហានៗៗ "
+kor_Hang;"질문:  {question} 
+질문 에 근거 하여 숫자 로 답 을 정합 하십시오.  답: ";"질문:  {question} 
+질문 에 근거 하여 숫자 로 답 을 정합 하십시오.  답:  한 단계씩 생각해 봅시다. "
+lao_Laoo;"ຄໍາຖາມ:  {question} 
+ອີງໃສ່ຄໍາຖາມ, ສ້າງຄໍາຕອບເປັນຕົວເລກ.  ຄໍາຕອບ: ";"ຄໍາຖາມ:  {question} 
+ອີງໃສ່ຄໍາຖາມ, ສ້າງຄໍາຕອບເປັນຕົວເລກ.  ຄໍາຕອບ:  ໃຫ້ຄິດເທື່ອລະກ້າວ. "
+mai_Deva;"प्रश्न:  {question} 
+प्रश्नक आधार पर, संख्यात्मक उत्तर तैयार करू।  उत्तर: ";"प्रश्न:  {question} 
+प्रश्नक आधार पर, संख्यात्मक उत्तर तैयार करू।  उत्तर:  चलू, एक-एक कऽ सोचैत छी। "
+mal_Mlym;"ചോദ്യം:  {question} 
+ചോദ്യത്തിന് ഒരു സംഖ്യാ ഉത്തരം ഉണ്ടാക്കുക.  ഉത്തരം: ";"ചോദ്യം:  {question} 
+ചോദ്യത്തിന് ഒരു സംഖ്യാ ഉത്തരം ഉണ്ടാക്കുക.  ഉത്തരം:  നമുക്ക് പടിപടിയായി ചിന്തിക്കാം. "
+mar_Deva;"प्रश्न:  {question} 
+प्रश्नावर आधारित, एक संख्यात्मक उत्तर तयार करा.  उत्तर: ";"प्रश्न:  {question} 
+प्रश्नावर आधारित, एक संख्यात्मक उत्तर तयार करा.  उत्तर:  चला एक एक पाऊल विचार करूया. "
+mya_Mymr;"မေးခွန်းက  {question} 
+မေးခွန်းကို အခြေခံပြီး အဖြေကို ဂဏန်းနဲ့ ရေးပါ။  အဖြေက ";"မေးခွန်းက  {question} 
+မေးခွန်းကို အခြေခံပြီး အဖြေကို ဂဏန်းနဲ့ ရေးပါ။  အဖြေက  တစ်ဆင့်ပြီး တစ်ဆင့် တွေးကြည့်ရအောင်။ "
+nno_Latn;"Spørsmål:  {question} 
+Basert på spørsmålet, formulera eit numerisk svar.  Svar: ";"Spørsmål:  {question} 
+Basert på spørsmålet, formulera eit numerisk svar.  Svar:  Lat oss tenkja skritt for skritt. "
+nld_Latn;"Vraag:  {question} 
+Gebaseerd op de vraag, formuleer een numeriek antwoord.  Antwoord: ";"Vraag:  {question} 
+Gebaseerd op de vraag, formuleer een numeriek antwoord.  Antwoord:  Laten we stap voor stap denken. "
+npi_Deva;"प्रश्न:  {question} 
+प्रश्नको आधारमा, संख्यात्मक उत्तर तयार पार्नुहोस्।  उत्तर: ";"प्रश्न:  {question} 
+प्रश्नको आधारमा, संख्यात्मक उत्तर तयार पार्नुहोस्।  उत्तर:  अब एक-एक गरेर सोचौं। "
+pol_Latn;"Pytanie:  {question} 
+Na podstawie pytania sformułuj odpowiedź numeryczną.  Odpowiedź: ";"Pytanie:  {question} 
+Na podstawie pytania sformułuj odpowiedź numeryczną.  Odpowiedź:  Pomyślmy krok po kroku. "
+por_Latn;"Pergunta:  {question} 
+Com base na pergunta, formule uma resposta numérica.  Resposta: ";"Pergunta:  {question} 
+Com base na pergunta, formule uma resposta numérica.  Resposta:  Vamos pensar passo a passo. "
+slk_Latn;"Otázka:  {question} 
+Na základe otázky formulovať číselnú odpoveď.  Odpoveď: ";"Otázka:  {question} 
+Na základe otázky formulovať číselnú odpoveď.  Odpoveď:  Poďme sa zamyslieť krok za krokom. "
+quy_Latn;"Tapukuy:  {question} 
+Chay tapuymanjina, uj númerowan kutichiy.  Rikun: ";"Tapukuy:  {question} 
+Chay tapuymanjina, uj númerowan kutichiy.  Rikun:  Imatachus ruwasun chayta tʼukurisun. "
+ron_Latn;"Întrebare:  {question} 
+Pe baza întrebării, formulaţi un răspuns numeric.  Răspuns: ";"Întrebare:  {question} 
+Pe baza întrebării, formulaţi un răspuns numeric.  Răspuns:  Să ne gândim pas cu pas. "
+rus_Cyrl;"Вопрос:  {question} 
+На основании вопроса сформулируйте числовой ответ.  Ответ: ";"Вопрос:  {question} 
+На основании вопроса сформулируйте числовой ответ.  Ответ:  Давайте подумаем шаг за шагом. "
+slv_Latn;"Vprašanje:  {question} 
+Na podlagi vprašanja oblikujte numerični odgovor.  Odgovor: ";"Vprašanje:  {question} 
+Na podlagi vprašanja oblikujte numerični odgovor.  Odgovor:  Razmislimo korak za korakom. "
+spa_Latn;"¿ Qué es lo que dice?  {question} 
+Basado en la pregunta, formule una respuesta numérica.  La respuesta es: ";"¿ Qué es lo que dice?  {question} 
+Basado en la pregunta, formule una respuesta numérica.  La respuesta es:  Pensemos paso a paso. "
+srp_Cyrl;"Питање:  {question} 
+На основу питања, формулишите нумерички одговор.  Одговор: ";"Питање:  {question} 
+На основу питања, формулишите нумерички одговор.  Одговор:  Размислимо корак по корак. "
+swe_Latn;"Fråga:  {question} 
+Utgå från frågan och formulera ett numeriskt svar.  Svar: ";"Fråga:  {question} 
+Utgå från frågan och formulera ett numeriskt svar.  Svar:  Vi tänker steg för steg. "
+swh_Latn;"Swali:  {question} 
+Kwa kutegemea swali hilo, andika jibu la namba.  Jibu: ";"Swali:  {question} 
+Kwa kutegemea swali hilo, andika jibu la namba.  Jibu:  Hebu tufikirie hatua kwa hatua. "
+tam_Taml;"கேள்வி:  {question} 
+கேள்விக்குரிய விடையை அடிப்படையாகக் கொண்டு, ஒரு எண் விடையை உருவாக்குங்கள்.  விடை: ";"கேள்வி:  {question} 
+கேள்விக்குரிய விடையை அடிப்படையாகக் கொண்டு, ஒரு எண் விடையை உருவாக்குங்கள்.  விடை:  படிப்படியாக சிந்திப்போம். "
+tel_Telu;"ప్రశ్న:  {question} 
+ప్రశ్న ఆధారంగా, ఒక సంఖ్యా జవాబును రూపొందించండి.  జవాబు: ";"ప్రశ్న:  {question} 
+ప్రశ్న ఆధారంగా, ఒక సంఖ్యా జవాబును రూపొందించండి.  జవాబు:  యొక్క అడుగు ద్వారా అడుగు ఆలోచించండి లెట్. "
+tgl_Latn;"Tanong:  {question} 
+Batay sa tanong, mag-formula ng numerikong sagot.  Sagot: ";"Tanong:  {question} 
+Batay sa tanong, mag-formula ng numerikong sagot.  Sagot:  Mag-isip tayo nang dahan-dahan. "
+tha_Thai;"คําถาม:  {question} 
+จากคําถามนี้ สร้างคําตอบด้วยตัวเลข  ตอบ: ";"คําถาม:  {question} 
+จากคําถามนี้ สร้างคําตอบด้วยตัวเลข  ตอบ:  ลองคิดดูทีละขั้นตอน "
+tur_Latn;"Soru:  {question} 
+Soruya dayanarak, sayısal bir cevap formüle edin.  Cevap: ";"Soru:  {question} 
+Soruya dayanarak, sayısal bir cevap formüle edin.  Cevap:  Adım adım düşünelim. "
+ukr_Cyrl;"Питання:  {question} 
+Визначте число, яке ви можете дати за допомогою числа.  Відповідь: ";"Питання:  {question} 
+Визначте число, яке ви можете дати за допомогою числа.  Відповідь:  Давайте подумаємо крок за кроком. "
+urd_Arab;"سوال:  {question} 
+سوال کی بنیاد پر، ایک عددی جواب تیار کریں.  جواب: ";"سوال:  {question} 
+سوال کی بنیاد پر، ایک عددی جواب تیار کریں.  جواب:  چلو قدم بہ قدم سوچتے ہیں. "
+vie_Latn;"Câu hỏi:  {question} 
+Dựa trên câu hỏi, hãy xây dựng một câu trả lời bằng số.  Trả lời: ";"Câu hỏi:  {question} 
+Dựa trên câu hỏi, hãy xây dựng một câu trả lời bằng số.  Trả lời:  Hãy suy nghĩ từng bước một. "
+yue_Hant;"提問:  {question} 
+根據問題,填出一個數值  答案: ";"提問:  {question} 
+根據問題,填出一個數值  答案:  我哋一步一步諗下 "
+zho_Hant;"問題:  {question} 
+根據問題, 編寫數字上的答案.  答案:沒有 ";"問題:  {question} 
+根據問題, 編寫數字上的答案.  答案:沒有  我們先來一步一步思考. "
+zsm_Latn;"Soalan:  {question} 
+Berdasarkan soalan, formulakan jawapan berangka.  Jawapan: ";"Soalan:  {question} 
+Berdasarkan soalan, formulakan jawapan berangka.  Jawapan:  Mari kita fikirkan langkah demi langkah. "
+zul_Latn;"Umbuzo:  {question} 
+Ngokusekelwe embuzweni, nikeza impendulo enomboro.  Impendulo: ";"Umbuzo:  {question} 
+Ngokusekelwe embuzweni, nikeza impendulo enomboro.  Impendulo:  Ake sicabange ngesinyathelo ngesinyathelo. "

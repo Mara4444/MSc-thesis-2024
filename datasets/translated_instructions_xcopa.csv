@@ -1,0 +1,661 @@
+language;instruction_cause;instruction_effect
+afr_Latn;"Voorbeeld:  {premise} 
+Opsie A:  {choice1} 
+Opsie B: {choice2} 
+Watter oorsaak is na aanleiding van die uitgangspunt meer waarskynlik? 
+Kies tussen opsies A en B. 
+Antwoord:  {cot}";"Voorbeeld:  {premise} 
+Opsie A:  {choice1} 
+Opsie B: {choice2} 
+Watter uitwerking is na aanleiding van die uitgangspunt waarskynliker? 
+Kies tussen opsies A en B. 
+Antwoord:  {cot}"
+arb_Arab;"فرضية:  {premise} 
+الخيار أ:  {choice1} 
+الخيار (ب): {choice2} 
+بناء على الفرضية، أي سبب هو الأكثر احتمالا؟ 
+اختر بين الخيارين أ و ب 
+الجواب:  {cot}";"فرضية:  {premise} 
+الخيار أ:  {choice1} 
+الخيار (ب): {choice2} 
+بناء على الفرضية، أي تأثير هو الأكثر احتمالا؟ 
+اختر بين الخيارين أ و ب 
+الجواب:  {cot}"
+ban_Latn;"Premis:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Manut kawéntenan punika, napi sané ngawinang? 
+Pilih antara pilihan A miwah B. 
+Bali: Pasaur danene sapuniki:  {cot}";"Premis:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Manut kawéntenannyané, napi sané pinih dangan kapanggihin? 
+Pilih antara pilihan A miwah B. 
+Bali: Pasaur danene sapuniki:  {cot}"
+bel_Cyrl;"Перадумовы:  {premise} 
+Варыянт А:  {choice1} 
+Варыянт Б: {choice2} 
+Зыходзячы з папярэдняй высновы, якая прычына больш верагодная? 
+Выберыце паміж варыянтамі А і В. 
+Адказ:  {cot}";"Перадумовы:  {premise} 
+Варыянт А:  {choice1} 
+Варыянт Б: {choice2} 
+Зыходзячы з гэтага, які эфект больш верагодны? 
+Выберыце паміж варыянтамі А і В. 
+Адказ:  {cot}"
+ben_Beng;"মূলধন:  {premise} 
+বিকল্প A:  {choice1} 
+বিকল্প বিঃ {choice2} 
+এই প্রমিশনের উপর ভিত্তি করে, কোন কারণটি বেশি সম্ভাব্য? 
+বিকল্প A এবং B এর মধ্যে বেছে নিন। 
+উত্তর:  {cot}";"মূলধন:  {premise} 
+বিকল্প A:  {choice1} 
+বিকল্প বিঃ {choice2} 
+এই প্রবন্ধের ভিত্তিতে, কোন প্রভাব বেশি প্রাসঙ্গিক? 
+বিকল্প A এবং B এর মধ্যে বেছে নিন। 
+উত্তর:  {cot}"
+bod_Tibt;"ཕྱོགས་སྟོན་:  {premise} 
+གདམ་ཁ་དང་པོ།  {choice1} 
+གདམ་ཁ་ B: {choice2} 
+ཇི་ལྟར་ཡིན་ན་དེ་འདྲ་ཡིན་སྲིད་ཀྱི་རེད་དམ། 
+A དང་ B གཉིས་ནས་གཅིག་འདེམས་དགོས། 
+ལན་སློག  {cot}";"ཕྱོགས་སྟོན་:  {premise} 
+གདམ་ཁ་དང་པོ།  {choice1} 
+གདམ་ཁ་ B: {choice2} 
+ཇི་ལྟར་ཡིན་ན་གང་ཞིག་འབྱུང་སྲིད་དམ། 
+A དང་ B གཉིས་ནས་གཅིག་འདེམས་དགོས། 
+ལན་སློག  {cot}"
+bos_Latn;"Predpostavka:  {premise} 
+Opcija A:  {choice1} 
+Opcija B: {choice2} 
+Na osnovu pretpostavke, koji je uzrok verovatniji? 
+Izaberite između opcija A i B. 
+Odgovor:  {cot}";"Predpostavka:  {premise} 
+Opcija A:  {choice1} 
+Opcija B: {choice2} 
+Na osnovu pretpostavke, koji je efekat verovatniji? 
+Izaberite između opcija A i B. 
+Odgovor:  {cot}"
+bul_Cyrl;"Предположението:  {premise} 
+Опция А:  {choice1} 
+Опция Б: {choice2} 
+Въз основа на предположението, коя причина е по-вероятна? 
+Избирай между варианти А и Б. 
+Отговор:  {cot}";"Предположението:  {premise} 
+Опция А:  {choice1} 
+Опция Б: {choice2} 
+Въз основа на предпоставката, кой ефект е по-вероятен? 
+Избирай между варианти А и Б. 
+Отговор:  {cot}"
+ces_Latn;"Předpoklad:  {premise} 
+Možnost A:  {choice1} 
+Možnost B: {choice2} 
+Na základě předpokladu, která příčina je pravděpodobnější? 
+Vyber si mezi možnostmi A a B. 
+Odpověď:  {cot}";"Předpoklad:  {premise} 
+Možnost A:  {choice1} 
+Možnost B: {choice2} 
+Na základě předpokladu, který efekt je pravděpodobnější? 
+Vyber si mezi možnostmi A a B. 
+Odpověď:  {cot}"
+cat_Latn;"Premissa:  {premise} 
+Opció A:  {choice1} 
+Opció B: {choice2} 
+Basant-nos en la premissa, quina causa és més probable? 
+Escollir entre les opcions A i B. 
+Resposta:  {cot}";"Premissa:  {premise} 
+Opció A:  {choice1} 
+Opció B: {choice2} 
+Basant-se en la premissa, quin efecte és més probable? 
+Escollir entre les opcions A i B. 
+Resposta:  {cot}"
+dan_Latn;"Præmis:  {premise} 
+Alternativ A:  {choice1} 
+Alternativ B: {choice2} 
+Hvilken årsag er mest sandsynlig? 
+Vælg mellem A og B. 
+Svar:  {cot}";"Præmis:  {premise} 
+Alternativ A:  {choice1} 
+Alternativ B: {choice2} 
+Hvilken effekt er mere sandsynlig? 
+Vælg mellem A og B. 
+Svar:  {cot}"
+deu_Latn;"Prämissen:  {premise} 
+Option A:  {choice1} 
+Option B: {choice2} 
+Basierend auf der Prämisse, welche Ursache ist wahrscheinlicher? 
+Wählen Sie zwischen Option A und B. 
+Antwort:  {cot}";"Prämissen:  {premise} 
+Option A:  {choice1} 
+Option B: {choice2} 
+Welcher Effekt ist aufgrund der Prämisse wahrscheinlicher? 
+Wählen Sie zwischen Option A und B. 
+Antwort:  {cot}"
+eng_Latn;"Premise:  {premise} 
+Option A:  {choice1} 
+Option B: {choice2} 
+Based on the premise, which cause is more likely? 
+Pick between options A and B. 
+Answer:  {cot}";"Premise:  {premise} 
+Option A:  {choice1} 
+Option B: {choice2} 
+Based on the premise, which effect is more likely? 
+Pick between options A and B. 
+Answer:  {cot}"
+ell_Grek;"Προκαταθήκη:  {premise} 
+Επιλογή Α:  {choice1} 
+Επιλογή Β: {choice2} 
+Με βάση την υπόθεση, ποια αιτία είναι πιο πιθανή; 
+Διάλεξε ανάμεσα στις επιλογές Α και Β. 
+Απάντηση:  {cot}";"Προκαταθήκη:  {premise} 
+Επιλογή Α:  {choice1} 
+Επιλογή Β: {choice2} 
+Με βάση την υπόθεση, ποιο αποτέλεσμα είναι πιο πιθανό; 
+Διάλεξε ανάμεσα στις επιλογές Α και Β. 
+Απάντηση:  {cot}"
+est_Latn;"Eeldus:  {premise} 
+Valimine A:  {choice1} 
+Valimine B: {choice2} 
+Mis põhjus on tõenäolisem? 
+Vali A ja B variandi vahel. 
+Vastus:  {cot}";"Eeldus:  {premise} 
+Valimine A:  {choice1} 
+Valimine B: {choice2} 
+Milline mõju on eelduste põhjal tõenäolisem? 
+Vali A ja B variandi vahel. 
+Vastus:  {cot}"
+fin_Latn;"- Mitä?  {premise} 
+Vaihtoehto A:  {choice1} 
+Vaihtoehto B: {choice2} 
+Mikä syy on todennäköisempi? 
+Valitse vaihtoehdon A ja B välillä. 
+Vastaa:  {cot}";"- Mitä?  {premise} 
+Vaihtoehto A:  {choice1} 
+Vaihtoehto B: {choice2} 
+Mikä vaikutus on todennäköisempi? 
+Valitse vaihtoehdon A ja B välillä. 
+Vastaa:  {cot}"
+fra_Latn;"Prémisse:  {premise} 
+Option A:  {choice1} 
+Option B: {choice2} 
+D'après la prémisse, quelle cause est la plus probable? 
+Choisissez entre les options A et B. 
+Réponse:  {cot}";"Prémisse:  {premise} 
+Option A:  {choice1} 
+Option B: {choice2} 
+D'après la prémisse, quel effet est le plus probable? 
+Choisissez entre les options A et B. 
+Réponse:  {cot}"
+hat_Latn;"Premis:  {premise} 
+Opsyon A:  {choice1} 
+Opsyon B: {choice2} 
+Ki sa ki pi posib ki te lakòz sa? 
+Chwazi ant opsyon A ak B. 
+Repons:  {cot}";"Premis:  {premise} 
+Opsyon A:  {choice1} 
+Opsyon B: {choice2} 
+Ki efè ki pi posib, dapre sa nou di a? 
+Chwazi ant opsyon A ak B. 
+Repons:  {cot}"
+heb_Hebr;"הנחה:  {premise} 
+אפשרות א':  {choice1} 
+אפשרות ב': {choice2} 
+בהתבסס על הנחת היסוד, איזו סיבה היא סבירה יותר? 
+בחר בין אפשרויות א' ו-ב'. 
+תשובה:  {cot}";"הנחה:  {premise} 
+אפשרות א':  {choice1} 
+אפשרות ב': {choice2} 
+בהתבסס על הנחת היסוד, איזו השפעה היא סבירה יותר? 
+בחר בין אפשרויות א' ו-ב'. 
+תשובה:  {cot}"
+hin_Deva;"आधार:  {premise} 
+विकल्प ए:  {choice1} 
+विकल्प बी: {choice2} 
+इस आधार पर, किस कारण की अधिक संभावना है? 
+विकल्प ए और बी में से चुनें। 
+उत्तर:  {cot}";"आधार:  {premise} 
+विकल्प ए:  {choice1} 
+विकल्प बी: {choice2} 
+इस आधार पर, किस प्रभाव की अधिक संभावना है? 
+विकल्प ए और बी में से चुनें। 
+उत्तर:  {cot}"
+hun_Latn;"Előfeltétele:  {premise} 
+A. opció:  {choice1} 
+B. opció: {choice2} 
+A feltételezés alapján melyik oka valószínűbb? 
+Válasszon az A és B lehetőségek közül. 
+Válasz:  {cot}";"Előfeltétele:  {premise} 
+A. opció:  {choice1} 
+B. opció: {choice2} 
+A feltételezés alapján melyik hatás valószínűbb? 
+Válasszon az A és B lehetőségek közül. 
+Válasz:  {cot}"
+hrv_Latn;"Predpostavka:  {premise} 
+Opcija A:  {choice1} 
+Opcija B: {choice2} 
+Na temelju pretpostavke, koji je uzrok vjerojatniji? 
+Izaberite između opcija A i B. 
+Odgovor:  {cot}";"Predpostavka:  {premise} 
+Opcija A:  {choice1} 
+Opcija B: {choice2} 
+Na temelju pretpostavke, koji je učinak vjerojatniji? 
+Izaberite između opcija A i B. 
+Odgovor:  {cot}"
+hye_Armn;"Նախադրյալ:  {premise} 
+Ընտրություն A:  {choice1} 
+B տարբերակ {choice2} 
+Հիմնվելով այս նախադրյալի վրա, ո՞ր պատճառն է ավելի հավանական: 
+Ընտրեք A եւ B տարբերակների միջեւ: 
+Պատասխան.  {cot}";"Նախադրյալ:  {premise} 
+Ընտրություն A:  {choice1} 
+B տարբերակ {choice2} 
+Հիմնվելով այս նախադրյալի վրա, ո՞ր ազդեցությունն է ավելի հավանական: 
+Ընտրեք A եւ B տարբերակների միջեւ: 
+Պատասխան.  {cot}"
+ind_Latn;"Premis:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Berdasarkan premis, penyebab mana yang lebih mungkin? 
+Pilih antara pilihan A dan B. 
+Jawabannya:  {cot}";"Premis:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Berdasarkan premis, efek mana yang lebih mungkin? 
+Pilih antara pilihan A dan B. 
+Jawabannya:  {cot}"
+ita_Latn;"Primo:  {premise} 
+Opzione A:  {choice1} 
+Opzione B: {choice2} 
+Sulla base della premessa, quale causa e' piu' probabile? 
+Scegli tra le opzioni A e B. 
+Risposta:  {cot}";"Primo:  {premise} 
+Opzione A:  {choice1} 
+Opzione B: {choice2} 
+Sulla base della premessa, quale effetto è più probabile? 
+Scegli tra le opzioni A e B. 
+Risposta:  {cot}"
+jav_Latn;"Premis:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Miturut premis, apa sebabé sing luwih mungkin? 
+Pilih ing antarane opsi A lan B. 
+Wangsulan:  {cot}";"Premis:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Adhedhasar premis kasebut, efek endi sing luwih mungkin? 
+Pilih ing antarane opsi A lan B. 
+Wangsulan:  {cot}"
+jpn_Jpan;"仮説:  {premise} 
+オプションA:  {choice1} 
+オプションB: {choice2} 
+仮説に基づいて,どちらの原因がより可能性が高いですか? 
+選択肢AとBのどちらかを選択する. 
+答え: 答えは  {cot}";"仮説:  {premise} 
+オプションA:  {choice1} 
+オプションB: {choice2} 
+仮定に基づいて,どの効果がより可能性が高いですか? 
+選択肢AとBのどちらかを選択する. 
+答え: 答えは  {cot}"
+khm_Khmr;"ការសន្មត:  {premise} 
+ជម្រើស A:  {choice1} 
+ជម្រើស B: {choice2} 
+ដោយផ្អែកលើការលើកឡើងនេះ តើមូលហេតុអ្វីដែលអាចកើតឡើងបាន? 
+ជ្រើសរើសពីចន្លោះជម្រើស A និង B ។ 
+ចម្លើយ:  {cot}";"ការសន្មត:  {premise} 
+ជម្រើស A:  {choice1} 
+ជម្រើស B: {choice2} 
+ដោយផ្អែកលើការលើកឡើងថា តើផលប៉ះពាល់អ្វីដែលអាចកើតឡើងបាន? 
+ជ្រើសរើសពីចន្លោះជម្រើស A និង B ។ 
+ចម្លើយ:  {cot}"
+kor_Hang;"전제:  {premise} 
+옵션 A:  {choice1} 
+옵션 B: {choice2} 
+그 전제 조건에 따라, 어떤 원인은 더 가능성이 높습니까? 
+선택 A와 B 중에서 선택하세요. 
+답:  {cot}";"전제:  {premise} 
+옵션 A:  {choice1} 
+옵션 B: {choice2} 
+전제대로, 어떤 효과가 더 가능성이 높습니까? 
+선택 A와 B 중에서 선택하세요. 
+답:  {cot}"
+lao_Laoo;"ການຕັ້ງໃຈ:  {premise} 
+ທາງເລືອກ A:  {choice1} 
+ທາງເລືອກ B: {choice2} 
+ອີງຕາມການຄາດຄະເນ, ສາເຫດອັນໃດທີ່ເປັນໄປໄດ້ຫຼາຍ? 
+ເລືອກລະຫວ່າງທາງເລືອກ A ແລະ B. 
+ຄໍາຕອບ:  {cot}";"ການຕັ້ງໃຈ:  {premise} 
+ທາງເລືອກ A:  {choice1} 
+ທາງເລືອກ B: {choice2} 
+ອີງຕາມການຕັ້ງໃຈ, ຜົນກະທົບໃດທີ່ອາດຈະເກີດຂື້ນ? 
+ເລືອກລະຫວ່າງທາງເລືອກ A ແລະ B. 
+ຄໍາຕອບ:  {cot}"
+mai_Deva;"आधार:  {premise} 
+विकल्प ए:  {choice1} 
+विकल्प बीः {choice2} 
+एहि आधार पर, कोन कारण अधिक संभावना अछि? 
+विकल्प ए आ विकल्प बी मे सँ चुनू. 
+उत्तर:  {cot}";"आधार:  {premise} 
+विकल्प ए:  {choice1} 
+विकल्प बीः {choice2} 
+एहि आधार पर, कोन प्रभाव अधिक संभावना अछि? 
+विकल्प ए आ विकल्प बी मे सँ चुनू. 
+उत्तर:  {cot}"
+mal_Mlym;"പ്രമേയം:  {premise} 
+ഓപ്ഷൻ എ:  {choice1} 
+ഓപ്ഷൻ ബി: {choice2} 
+ഈ പ്രമേയത്തിന്റെ അടിസ്ഥാനത്തില്, ഏത് കാരണമാണ് കൂടുതല് സാദ്ധ്യമായത്? 
+ഓപ്ഷനുകള് എ, ബി എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
+ഉത്തരം:  {cot}";"പ്രമേയം:  {premise} 
+ഓപ്ഷൻ എ:  {choice1} 
+ഓപ്ഷൻ ബി: {choice2} 
+ഈ പ്രമേയത്തിന്റെ അടിസ്ഥാനത്തില്, ഏത് പ്രഭാവമാണ് കൂടുതല് സാദ്ധ്യമായത്? 
+ഓപ്ഷനുകള് എ, ബി എന്നിവയില് നിന്ന് തെരഞ്ഞെടുക്കുക. 
+ഉത്തരം:  {cot}"
+mar_Deva;"आधार:  {premise} 
+पर्याय अ:  {choice1} 
+पर्याय ब: {choice2} 
+या प्रमेयानुसार, कोणत्या कारणामुळे अधिक शक्यता आहे? 
+पर्याय अ आणि ब मधून निवडा. 
+उत्तर:  {cot}";"आधार:  {premise} 
+पर्याय अ:  {choice1} 
+पर्याय ब: {choice2} 
+या प्रमेयानुसार, कोणता परिणाम अधिक संभव आहे? 
+पर्याय अ आणि ब मधून निवडा. 
+उत्तर:  {cot}"
+mya_Mymr;"အခြေခံသဘောတရား:  {premise} 
+ရွေးချယ်စရာ A:  {choice1} 
+ရွေးချယ်စရာ B: {choice2} 
+အဆိုကြမ်းကို အခြေခံပြီး ဘယ်အကြောင်းတရားက ဖြစ်နိုင်ခြေ ပိုများလဲ။ 
+ရွေးချယ်စရာ A နဲ့ B အကြားမှာ ရွေးပါ။ 
+အဖြေက  {cot}";"အခြေခံသဘောတရား:  {premise} 
+ရွေးချယ်စရာ A:  {choice1} 
+ရွေးချယ်စရာ B: {choice2} 
+အဆိုပြုချက်ကို အခြေခံပြီး ဘယ်အကျိုးသက်ရောက်မှုက ပိုဖြစ်နိုင်ခြေရှိလဲ။ 
+ရွေးချယ်စရာ A နဲ့ B အကြားမှာ ရွေးပါ။ 
+အဖြေက  {cot}"
+nno_Latn;"Utgangspunktet:  {premise} 
+Alternativ A:  {choice1} 
+Alternativ B: {choice2} 
+Ut frå kva for ein grunnleggjande teori er det meir sannsynleg at dette skjedde? 
+Velg mellom alternativ A og B. 
+Svar:  {cot}";"Utgangspunktet:  {premise} 
+Alternativ A:  {choice1} 
+Alternativ B: {choice2} 
+Ut frå kva for ein effekt er det meir sannsynleg? 
+Velg mellom alternativ A og B. 
+Svar:  {cot}"
+nld_Latn;"Voorwaarde:  {premise} 
+Optie A:  {choice1} 
+Optie B: {choice2} 
+Welke oorzaak is waarschijnlijker? 
+Kies tussen optie A en B. 
+Antwoord:  {cot}";"Voorwaarde:  {premise} 
+Optie A:  {choice1} 
+Optie B: {choice2} 
+Welke van de volgende effecten is waarschijnlijk? 
+Kies tussen optie A en B. 
+Antwoord:  {cot}"
+npi_Deva;"आधार:  {premise} 
+विकल्प ए:  {choice1} 
+विकल्प बी: {choice2} 
+यो आधारमा, कुन कारण बढी सम्भावना छ? 
+विकल्प ए र बी बीचमा छनौट गर्नुहोस्। 
+उत्तर:  {cot}";"आधार:  {premise} 
+विकल्प ए:  {choice1} 
+विकल्प बी: {choice2} 
+यो आधारमा, कुन प्रभाव बढी सम्भावना छ? 
+विकल्प ए र बी बीचमा छनौट गर्नुहोस्। 
+उत्तर:  {cot}"
+pol_Latn;"Wniosek:  {premise} 
+Opcja A:  {choice1} 
+Opcja B: {choice2} 
+W oparciu o te przesłanki, która przyczyna jest bardziej prawdopodobna? 
+Wybierz opcję A lub B. 
+Odpowiedź:  {cot}";"Wniosek:  {premise} 
+Opcja A:  {choice1} 
+Opcja B: {choice2} 
+W oparciu o założenie, który efekt jest bardziej prawdopodobny? 
+Wybierz opcję A lub B. 
+Odpowiedź:  {cot}"
+por_Latn;"A premissa:  {premise} 
+Opção A:  {choice1} 
+Opção B: {choice2} 
+Com base na premissa, qual é a causa mais provável? 
+Escolhe entre as opções A e B. 
+Resposta:  {cot}";"A premissa:  {premise} 
+Opção A:  {choice1} 
+Opção B: {choice2} 
+Com base na premissa, qual o efeito mais provável? 
+Escolhe entre as opções A e B. 
+Resposta:  {cot}"
+slk_Latn;"Predpoklad:  {premise} 
+Možnosť A:  {choice1} 
+Možnosť B: {choice2} 
+Na základe predpokladu, ktorá príčina je pravdepodobnejšia? 
+Vyberte si medzi možnosťami A a B. 
+Odpoveď:  {cot}";"Predpoklad:  {premise} 
+Možnosť A:  {choice1} 
+Možnosť B: {choice2} 
+Na základe predpokladu, ktorý účinok je pravdepodobnejší? 
+Vyberte si medzi možnosťami A a B. 
+Odpoveď:  {cot}"
+quy_Latn;"Imachus kasqanta:  {premise} 
+A:  {choice1} 
+Imachus kanman chayta ajllay: {choice2} 
+¿Imawantaj chay llakiyqa ruwakunman? 
+A, B nisqamanta akllay. 
+Rikun:  {cot}";"Imachus kasqanta:  {premise} 
+A:  {choice1} 
+Imachus kanman chayta ajllay: {choice2} 
+¿Imachus aswan allin kanman? 
+A, B nisqamanta akllay. 
+Rikun:  {cot}"
+ron_Latn;"Prezenta:  {premise} 
+Opțiunea A:  {choice1} 
+Opțiunea B: {choice2} 
+Pe baza premise, care cauza este mai probabil? 
+Alege între opţiunile A şi B. 
+Răspuns:  {cot}";"Prezenta:  {premise} 
+Opțiunea A:  {choice1} 
+Opțiunea B: {choice2} 
+Pe baza premisei, care efect este mai probabil? 
+Alege între opţiunile A şi B. 
+Răspuns:  {cot}"
+rus_Cyrl;"Предмет:  {premise} 
+Вариант А:  {choice1} 
+Вариант Б: {choice2} 
+Исходя из предположения, какая причина более вероятна? 
+Выбирай между вариантами А и В. 
+Ответ:  {cot}";"Предмет:  {premise} 
+Вариант А:  {choice1} 
+Вариант Б: {choice2} 
+Исходя из предпосылки, какой эффект более вероятен? 
+Выбирай между вариантами А и В. 
+Ответ:  {cot}"
+slv_Latn;"Predpostavka:  {premise} 
+Možnost A:  {choice1} 
+Možnost B: {choice2} 
+Kateri vzrok je bolj verjeten? 
+Izbiraj med možnostma A in B. 
+Odgovor:  {cot}";"Predpostavka:  {premise} 
+Možnost A:  {choice1} 
+Možnost B: {choice2} 
+Na podlagi predpostavke, kateri učinek je bolj verjeten? 
+Izbiraj med možnostma A in B. 
+Odgovor:  {cot}"
+spa_Latn;"El argumento:  {premise} 
+Opción A:  {choice1} 
+Opción B: {choice2} 
+Basado en la premisa, ¿cuál es la causa más probable? 
+Elige entre las opciones A y B. 
+La respuesta es:  {cot}";"El argumento:  {premise} 
+Opción A:  {choice1} 
+Opción B: {choice2} 
+Basado en la premisa, ¿cuál es el efecto más probable? 
+Elige entre las opciones A y B. 
+La respuesta es:  {cot}"
+srp_Cyrl;"Предмет:  {premise} 
+Опција А:  {choice1} 
+Опција Б: {choice2} 
+На основу претпоставке, који је разлог вероватнији? 
+Изаберите између опција А и Б. 
+Одговор:  {cot}";"Предмет:  {premise} 
+Опција А:  {choice1} 
+Опција Б: {choice2} 
+На основу претпоставке, који је ефекат вероватнији? 
+Изаберите између опција А и Б. 
+Одговор:  {cot}"
+swe_Latn;"Förutsättning:  {premise} 
+Alternativ A:  {choice1} 
+Alternativ B: {choice2} 
+Vilken orsak är troligare? 
+Välj mellan alternativ A och B. 
+Svar:  {cot}";"Förutsättning:  {premise} 
+Alternativ A:  {choice1} 
+Alternativ B: {choice2} 
+Vilken effekt är troligare? 
+Välj mellan alternativ A och B. 
+Svar:  {cot}"
+swh_Latn;"Msingi:  {premise} 
+Chaguo A:  {choice1} 
+Chaguo B: {choice2} 
+Kwa msingi wa msingi huo, ni sababu gani inayowezekana zaidi? 
+Chagua kati ya chaguo A na B. 
+Jibu:  {cot}";"Msingi:  {premise} 
+Chaguo A:  {choice1} 
+Chaguo B: {choice2} 
+Kulingana na dhana hiyo, ni matokeo gani yanayowezekana zaidi? 
+Chagua kati ya chaguo A na B. 
+Jibu:  {cot}"
+tam_Taml;"முன்நிபந்தனை:  {premise} 
+விருப்பம் A:  {choice1} 
+விருப்பம் B: {choice2} 
+இந்த கருத்தின் அடிப்படையில், எந்த காரணம் மிகவும் சாத்தியம்? 
+A மற்றும் B விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுங்கள். 
+விடை:  {cot}";"முன்நிபந்தனை:  {premise} 
+விருப்பம் A:  {choice1} 
+விருப்பம் B: {choice2} 
+இந்த கருத்தின் அடிப்படையில், எந்த விளைவு அதிகமாக நிகழலாம்? 
+A மற்றும் B விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுங்கள். 
+விடை:  {cot}"
+tel_Telu;"ప్రమేయం:  {premise} 
+ఎంపిక A:  {choice1} 
+ఎంపిక B: {choice2} 
+ప్రాధమిక ఆధారంగా, ఇది కారణం ఎక్కువగా ఉంది? 
+ఎంపికలు A మరియు B మధ్య ఎంచుకోండి. 
+జవాబు:  {cot}";"ప్రమేయం:  {premise} 
+ఎంపిక A:  {choice1} 
+ఎంపిక B: {choice2} 
+ఈ పరికల్పన ఆధారంగా, ఏ ప్రభావం ఎక్కువగా ఉంటుంది? 
+ఎంపికలు A మరియు B మధ్య ఎంచుకోండి. 
+జవాబు:  {cot}"
+tgl_Latn;"Ang premisa:  {premise} 
+Pagpipilian A:  {choice1} 
+Pagpipilian B: {choice2} 
+Batay sa mga paniniwala, alin ang mas malamang na dahilan? 
+Pumili sa pagitan ng mga pagpipilian A at B. 
+Sagot:  {cot}";"Ang premisa:  {premise} 
+Pagpipilian A:  {choice1} 
+Pagpipilian B: {choice2} 
+Batay sa paniniwala, alin ang mas malamang na epekto? 
+Pumili sa pagitan ng mga pagpipilian A at B. 
+Sagot:  {cot}"
+tha_Thai;"ประเด็น:  {premise} 
+ตัวเลือก A:  {choice1} 
+ตัวเลือก B: {choice2} 
+จากการตั้งใจแล้ว สาเหตุอะไรที่น่าจะเป็นมากกว่า 
+เลือกระหว่างตัวเลือก A และ B 
+ตอบ:  {cot}";"ประเด็น:  {premise} 
+ตัวเลือก A:  {choice1} 
+ตัวเลือก B: {choice2} 
+จากการตั้งใจแล้ว ผลอะไรที่น่าจะเป็นมากกว่า 
+เลือกระหว่างตัวเลือก A และ B 
+ตอบ:  {cot}"
+tur_Latn;"Özet:  {premise} 
+Seçenek A:  {choice1} 
+Seçenek B: {choice2} 
+Bu varsayıma dayanarak, hangi sebep daha muhtemel? 
+A ve B seçenekleri arasında seçim yap. 
+Cevap:  {cot}";"Özet:  {premise} 
+Seçenek A:  {choice1} 
+Seçenek B: {choice2} 
+Bu varsayıma dayanarak, hangi etki daha muhtemel? 
+A ve B seçenekleri arasında seçim yap. 
+Cevap:  {cot}"
+ukr_Cyrl;"Попередня:  {premise} 
+Опція А:  {choice1} 
+Вариант В: {choice2} 
+Виходячи з цієї припущення, яка причина є більш імовірною? 
+Вибирай між варіантами А і В. 
+Відповідь:  {cot}";"Попередня:  {premise} 
+Опція А:  {choice1} 
+Вариант В: {choice2} 
+На основі цієї припущення, який ефект більш імовірний? 
+Вибирай між варіантами А і В. 
+Відповідь:  {cot}"
+urd_Arab;"پیش گوئی:  {premise} 
+آپشن A:  {choice1} 
+آپشن بی: {choice2} 
+اس بنیاد پر، جس وجہ سے زیادہ امکان ہے؟ 
+اختیارات A اور B میں سے انتخاب کریں. 
+جواب:  {cot}";"پیش گوئی:  {premise} 
+آپشن A:  {choice1} 
+آپشن بی: {choice2} 
+اس فرض پر مبنی، کون سا اثر زیادہ امکان ہے؟ 
+اختیارات A اور B میں سے انتخاب کریں. 
+جواب:  {cot}"
+vie_Latn;"Tiền đề:  {premise} 
+Tùy chọn A:  {choice1} 
+Tùy chọn B: {choice2} 
+Dựa trên tiền đề, nguyên nhân nào là có khả năng hơn? 
+Chọn giữa lựa chọn A và B. 
+Trả lời:  {cot}";"Tiền đề:  {premise} 
+Tùy chọn A:  {choice1} 
+Tùy chọn B: {choice2} 
+Dựa trên tiền đề, hiệu ứng nào có nhiều khả năng hơn? 
+Chọn giữa lựa chọn A và B. 
+Trả lời:  {cot}"
+yue_Hant;"基本原理:  {premise} 
+選擇A:  {choice1} 
+選擇 B: {choice2} 
+根據呢個假設,邊個原因係最有可能發生嘅呢? 
+喺選項A同B之間做決定 
+答案:  {cot}";"基本原理:  {premise} 
+選擇A:  {choice1} 
+選擇 B: {choice2} 
+根據呢個假設,邊個影響係最有可能發生嘅呢? 
+喺選項A同B之間做決定 
+答案:  {cot}"
+zho_Hant;"預設:  {premise} 
+選擇A:  {choice1} 
+選擇B: {choice2} 
+根據前提, 哪個原因更有可能? 
+選擇A和B的選項. 
+答案:沒有  {cot}";"預設:  {premise} 
+選擇A:  {choice1} 
+選擇B: {choice2} 
+根據前提, 哪一項影響更有可能發生? 
+選擇A和B的選項. 
+答案:沒有  {cot}"
+zsm_Latn;"Asas:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Berdasarkan premis, apa sebab yang lebih mungkin? 
+Pilih antara pilihan A dan B. 
+Jawapan:  {cot}";"Asas:  {premise} 
+Pilihan A:  {choice1} 
+Pilihan B: {choice2} 
+Berdasarkan premis, kesan mana yang lebih mungkin? 
+Pilih antara pilihan A dan B. 
+Jawapan:  {cot}"
+zul_Latn;"Isisekelo:  {premise} 
+Okukhethwa kukho A:  {choice1} 
+Okukhethwa kukho B: {choice2} 
+Ngokusekelwe esimisweni, iyiphi imbangela okungenzeka kakhulu ukuthi yaba khona? 
+Khetha phakathi kwezinketho A no-B. 
+Impendulo:  {cot}";"Isisekelo:  {premise} 
+Okukhethwa kukho A:  {choice1} 
+Okukhethwa kukho B: {choice2} 
+Uma sicabanga ngalokhu, yikuphi okungenzeka? 
+Khetha phakathi kwezinketho A no-B. 
+Impendulo:  {cot}"
