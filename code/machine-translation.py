@@ -51,14 +51,14 @@ model = AutoModelForSeq2SeqLM.from_pretrained(model_name,token=True)
 # for lang in langs_without_mgsm:
 #     translate_dataset(get_dataset("mgsm","en"),"mgsm",lang,model,tokenizer)
 
-langs = ["jpn_Jpan","khm_Khmr","kor_Hang", 
-"lao_Laoo","mai_Deva", "mal_Mlym", "mar_Deva", "mya_Mymr", "nno_Latn",
-"nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","quy_Latn","ron_Latn", "rus_Cyrl", 
-"slv_Latn", "spa_Latn", "srp_Cyrl", "swe_Latn", "swh_Latn", "tam_Taml", "tel_Telu", 
-"tgl_Latn", 'tha_Thai',"tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
+# langs = ["jpn_Jpan","khm_Khmr","kor_Hang", 
+# "lao_Laoo","mai_Deva", "mal_Mlym", "mar_Deva", "mya_Mymr", "nno_Latn",
+# "nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn","quy_Latn","ron_Latn", "rus_Cyrl", 
+# "slv_Latn", "spa_Latn", "srp_Cyrl", "swe_Latn", "swh_Latn", "tam_Taml", "tel_Telu", 
+# "tgl_Latn", 'tha_Thai',"tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
 
-for lang in langs:
-    translate_dataset(get_dataset_df('shuffled_objects','eng_Latn'),"shuffled_objects",lang,model,tokenizer)
+# for lang in langs:
+#     translate_dataset(get_dataset_df('shuffled_objects','eng_Latn'),"shuffled_objects",lang,model,tokenizer)
 
 # langs = ["hye_Armn","mai_Deva", "tel_Telu", "tgl_Latn", 'tha_Thai',"tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zho_Hant", "zsm_Latn","zul_Latn"]
 
@@ -71,9 +71,7 @@ for lang in langs:
 # "quy_Latn","ron_Latn","slv_Latn", "srp_Cyrl", "swe_Latn", "tam_Taml", "tel_Telu", "tgl_Latn",
 # "tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zsm_Latn","zul_Latn"]
 
-# langs_msvamp = ["nld_Latn", "npi_Deva","pol_Latn","por_Latn", "slk_Latn",
-# "quy_Latn","ron_Latn","slv_Latn", "srp_Cyrl", "swe_Latn", "tam_Taml", "tel_Telu", "tgl_Latn",
-# "tur_Latn","ukr_Cyrl", "urd_Arab", "vie_Latn" , 'yue_Hant', "zsm_Latn","zul_Latn"]
+langs = ["mal_Mlym"]
 
-# for lang in langs_msvamp:
-#     translate_dataset(get_dataset_df('msvamp','en'),"msvamp",lang,model,tokenizer)
+for lang in langs:
+    translate_dataset(get_dataset_df('mgsm','en'),"mgsm",lang,model,tokenizer)

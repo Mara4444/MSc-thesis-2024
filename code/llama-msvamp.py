@@ -3,8 +3,8 @@ from src.dataset_utils import *
 
 # Llama-2 model
 
-model_name = "meta-llama/Llama-2-7b-chat-hf"
-# model_name = "meta-llama/Llama-2-13b-chat-hf"
+# model_name = "meta-llama/Llama-2-7b-chat-hf"
+model_name = "meta-llama/Llama-2-13b-chat-hf"
 tokenizer = LlamaTokenizer.from_pretrained(model_name)
 model = LlamaForCausalLM.from_pretrained(model_name)
 
@@ -34,22 +34,34 @@ model = LlamaForCausalLM.from_pretrained(model_name)
 #                               name="llama-2-13b")           # model name for saving to .csv
 
 
-# mt_langs = ['Afrikaans','Arabic','Balinese','Belarusian','Tibetan', 'Bosnian', 'Haitian','Indonesian','Quechua',
+# mt_langs = ['Belarusian','Tibetan', 'Bosnian', 'Haitian','Indonesian','Quechua',
 #                                  'Bulgarian', 'Catalan', 'Czech', 'Danish', 'Estonian','Khmer', 'Korean', 'Lao', 'Maithili', 
 #                                  'Malayalam', 'Marathi', 'Dutch', 'Norwegian', 'Nepali', 'Polish', 'Greek']
 
-# mt_langs = ['Portuguese','Romanian','Finnish','Hebrew','Slovak','Hindi','Vietnamese',
+# mt_langs = ['Hindi','Vietnamese',
 #                                  'Croatian','Hungarian','Swedish','Javanese',"Armenian", "Bulgarian", 'Turkish',
 #                                  "Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Tagalog", 'Tamil',
 #                                  "Ukrainian", "Urdu", "Zulu"]
 
-langs = {'te' : 'Telugu',
-                'de' : 'German',
+langs = {'de' : 'German',
                 'bn' : 'Bengali',
                 'sw' : 'Swahili',
                 'ru' : 'Russian',
                 'th' : 'Thai',
+                'zh' : 'Chinese',
                 'ja' : 'Japanese'}
+
+
+dataset = get_dataset_df("msvamp",'es')
+
+generate_response(df=dataset,
+                        task='msvamp',
+                              task_lang='Spanish',        # source language 
+                              instr_lang="English",       # get instruction prompt in this language
+                              prompt_setting="cot",     # 'basic' or 'cot'
+                              model=model,                
+                              tokenizer=tokenizer,
+                              name="llama-2-13b")           # model name for saving to .csv
 
 for lang in langs:
 
@@ -62,7 +74,7 @@ for lang in langs:
                               prompt_setting="basic",     # 'basic' or 'cot'
                               model=model,                
                               tokenizer=tokenizer,
-                              name="llama-2-7b")           # model name for saving to .csv
+                              name="llama-2-13b")           # model name for saving to .csv
 
       generate_response(df=dataset,
                         task='msvamp',
@@ -71,4 +83,4 @@ for lang in langs:
                               prompt_setting="cot",     # 'basic' or 'cot'
                               model=model,                
                               tokenizer=tokenizer,
-                              name="llama-2-7b")           # model name for saving to .csv
+                              name="llama-2-13b")           # model name for saving to .csv

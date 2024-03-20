@@ -20,22 +20,38 @@ model = LlamaForCausalLM.from_pretrained(model_name)
 #                 'zh' : 'Chinese',
 #                 'ja' : 'Japanese'}
 
+# for lang in mgsm_langs:
 
-# mt_langs = ['Afrikaans','Arabic','Balinese','Belarusian','Tibetan', 'Bosnian', 'Haitian','Indonesian','Quechua',
-#                                  'Bulgarian', 'Catalan', 'Czech', 'Danish', 'Estonian','Khmer', 'Korean', 'Lao', 'Maithili', 
-#                                  'Malayalam', 'Marathi', 'Dutch', 'Norwegian', 'Nepali', 'Polish', 'Greek',
-#                                  'Portuguese','Romanian','Finnish','Hebrew','Slovak','Hindi','Vietnamese',
-#                                  'Croatian','Hungarian','Swedish','Javanese',"Armenian", "Bulgarian", 'Turkish',
-#                                  "Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Tagalog", 'Tamil',
-#                                  "Ukrainian", "Urdu", "Zulu"]
+#       dataset = get_dataset_df("mgsm",lang)
 
-# mt_langs = ['Catalan', 'Czech', 'Danish', 'Estonian','Khmer', 'Korean', 'Lao', 'Maithili', 
-#                                  'Malayalam', 'Marathi', 'Dutch', 'Norwegian', 'Nepali', 'Polish', 'Greek',
-#                                  'Portuguese','Romanian','Finnish','Hebrew','Slovak','Hindi','Vietnamese']
+#       generate_response(df=dataset,
+#                         task='mgsm',
+#                               task_lang=mgsm_langs[lang],        # source language 
+#                               instr_lang=mgsm_langs[lang],       # get instruction prompt in this language
+#                               prompt_setting="basic",     # 'basic' or 'cot'
+#                               model=model,                
+#                               tokenizer=tokenizer,
+#                               name="llama-2-7b")           # model name for saving to .csv
 
-mt_langs = ['Croatian','Hungarian','Swedish','Javanese',"Armenian", "Bulgarian", 'Turkish',
-                                 "Burmese", "Cantonese", "Malay", "Serbian", "Slovenian", "Tagalog", 'Tamil',
-                                 "Ukrainian", "Urdu", "Zulu"]
+
+mt_langs = ['Malayalam', 'Marathi', 'Dutch', 'Norwegian', 'Nepali', 'Polish', 'Greek','Portuguese',
+            'Romanian','Finnish','Hebrew','Slovak','Hindi','Vietnamese',
+            "Tagalog", 'Tamil', "Ukrainian", "Urdu", "Zulu"]
+
+
+
+# dataset = get_dataset_df("mgsm","en")
+
+# mgsm_langs = {'fr' : 'French',
+#                 'es' : 'Spanish',
+#                 'te' : 'Telugu',
+#                 'de' : 'German',
+#                 'bn' : 'Bengali',
+#                 'sw' : 'Swahili',
+#                 'ru' : 'Russian',
+#                 'th' : 'Thai',
+#                 'zh' : 'Chinese',
+#                 'ja' : 'Japanese'}
 
 for lang in mt_langs:
 
@@ -44,7 +60,7 @@ for lang in mt_langs:
       generate_response(df=dataset,
                         task='mgsm',
                               task_lang=lang,        # source language 
-                              instr_lang="English",       # get instruction prompt in this language
+                              instr_lang="English",            # get instruction prompt in this language
                               prompt_setting="basic",     # 'basic' or 'cot'
                               model=model,                
                               tokenizer=tokenizer,
@@ -53,7 +69,7 @@ for lang in mt_langs:
       generate_response(df=dataset,
                         task='mgsm',
                               task_lang=lang,        # source language 
-                              instr_lang="English",       # get instruction prompt in this language
+                              instr_lang="English",            # get instruction prompt in this language
                               prompt_setting="cot",     # 'basic' or 'cot'
                               model=model,                
                               tokenizer=tokenizer,

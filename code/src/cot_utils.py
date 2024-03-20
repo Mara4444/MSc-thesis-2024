@@ -274,36 +274,36 @@ def get_prompt(row,task,prompt_setting,instr_lang):
 
         if prompt_setting == 'cot':
 
-            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: Let's think step by step.",
-                                    question = row['question'])
+            # return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: Let's think step by step.",
+            #                         question = row['question'])
         
-            # return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
-            #                     question = row['question'])
+            return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
+                                question = row['question'])
         
         elif prompt_setting == 'basic':
             
-            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: ",
-                                    question = row['question'])
-            # return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
-            #                     question = row['question'])  
+            # return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: ",
+            #                         question = row['question'])
+            return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
+                                question = row['question'])  
         
     elif task == 'msvamp':
 
         if prompt_setting == 'cot':
 
-            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: Let's think step by step.",
-                                    question = row['m_query'])
+            # return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: Let's think step by step.",
+            #                         question = row['m_query'])
         
-            # return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
-            #                     question = row['question'])
+            return generate_message(instructions.loc[instr_lang]['mgsm_cot'],
+                                question = row['m_query'])
         
         elif prompt_setting == 'basic':
 
-            return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: ",
-                                    question = row['m_query'])
+            # return generate_message("Question: {question} \nBased on the question, formulate a numeric answer. \nAnswer: ",
+            #                         question = row['m_query'])
 
-            # return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
-            #                     question = row['question'])   
+            return generate_message(instructions.loc[instr_lang]['mgsm_basic'],
+                                question = row['m_query'])   
         
     elif task == 'coinflip':
 

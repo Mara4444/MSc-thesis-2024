@@ -65,10 +65,10 @@ def translate_dataset(dataset,name,trg_lang,model,tokenizer):
     """
     if name  == 'mgsm': 
 
-        translated1_list = translate_list(dataset["test"]["question"],trg_lang,model,tokenizer)
+        translated1_list = translate_list(dataset["question"],trg_lang,model,tokenizer)
 
         translated_dataset = pd.DataFrame({'question': translated1_list,
-                                           'answer_number': dataset["test"]["answer_number"]
+                                           'answer_number': dataset["answer_number"]
                                            })
 
         translated_dataset.to_csv('../datasets/mgsm/mgsm_' + trg_lang + '.csv', sep=';', index=False, header=True)
@@ -77,16 +77,16 @@ def translate_dataset(dataset,name,trg_lang,model,tokenizer):
     
     elif name  == 'xcopa': 
 
-        translated1_list = translate_list(dataset["test"]["premise"],trg_lang,model,tokenizer)
-        # translated2_list = translate_list(dataset["test"]["question"],trg_lang,model,tokenizer)
-        translated3_list = translate_list(dataset["test"]["choice1"],trg_lang,model,tokenizer)
-        translated4_list = translate_list(dataset["test"]["choice2"],trg_lang,model,tokenizer)
+        translated1_list = translate_list(dataset["premise"],trg_lang,model,tokenizer)
+        # translated2_list = translate_list(dataset["question"],trg_lang,model,tokenizer)
+        translated3_list = translate_list(dataset["choice1"],trg_lang,model,tokenizer)
+        translated4_list = translate_list(dataset["choice2"],trg_lang,model,tokenizer)
 
         translated_dataset = pd.DataFrame({'premise': translated1_list,
-                                           'question': dataset["test"]["question"],
+                                           'question': dataset["question"],
                                            'choice1': translated3_list,
                                            'choice2': translated4_list, 
-                                           'label': dataset["test"]["label"]
+                                           'label': dataset["label"]
                                            })
 
         translated_dataset.to_csv('../datasets/xcopa/xcopa_' + trg_lang + '.csv', sep=';', index=False, header=True)
